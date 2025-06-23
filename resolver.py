@@ -70,7 +70,12 @@ def resolve_recipes(input_dir, output_file):
         materials_map = defaultdict(list)
         for item in data['craft_material'].get('list', []):
             materials_map[item['recipeId']].append(item)
-        byproduct_drop_map = {item['dropId']: item for item in data['byproduct_drop'].get('list', [])}
+        
+        # --- FIX: Create a map of dropIds to a LIST of byproduct items ---
+        byproduct_drop_map = defaultdict(list)
+        for item in data['byproduct_drop'].get('list', []):
+            byproduct_drop_map[item['dropId']].append(item)
+
         craft_recipe_group_map = {item['craftRecipeId']: item for item in data['craft_recipe_group'].get('list', [])}
         facility_names_map = config.get("facility_names", {})
         cultivation_drop_score_map = defaultdict(list)
@@ -111,8 +116,7 @@ def resolve_recipes(input_dir, output_file):
                 resolved_material['itemName_EN'] = find_item_name(material_item_id, data['text_en'], config) or f"Name not found for item {material_item_id}"
                 resolved_material['itemName_JA'] = find_item_name(material_item_id, data['text_ja'], config) or f"Name not found for item {material_item_id}"
                 
-                # --- New: Resolve Item Category Name ---
-                category_id = material.get('itemCategory')
+                category_id = material.get('itemCategoryId')
                 if category_id:
                     category_key = f"item_category_{category_id}"
                     resolved_material['itemCategoryName_EN'] = data['text_en'].get(category_key, "Unknown Category")
@@ -131,13 +135,19 @@ def resolve_recipes(input_dir, output_file):
             result_id = recipe.get('resultItemId')
             resolved_recipe['resultItemName_EN'] = find_item_name(result_id, data['text_en'], config) or f"Name not found for item {result_id}"
             resolved_recipe['resultItemName_JA'] = find_item_name(result_id, data['text_ja'], config) or f"Name not found for item {result_id}"
-            byproduct_id = recipe.get('byproductDropId')
-            if byproduct_id in byproduct_drop_map:
-                byproduct_info = byproduct_drop_map[byproduct_id].copy()
-                byproduct_item_id = byproduct_info.get('itemId')
-                byproduct_info['itemName_EN'] = find_item_name(byproduct_item_id, data['text_en'], config) or f"Name not found for item {byproduct_item_id}"
-                byproduct_info['itemName_JA'] = find_item_name(byproduct_item_id, data['text_ja'], config) or f"Name not found for item {byproduct_item_id}"
-                resolved_recipe['byproductInfo'] = byproduct_info
+            
+            # --- FIX: Resolve the full list of byproducts ---
+            byproduct_group_id = recipe.get('byproductDropId')
+            if byproduct_group_id in byproduct_drop_map:
+                resolved_byproducts = []
+                for byproduct_item in byproduct_drop_map[byproduct_group_id]:
+                    resolved_item = byproduct_item.copy()
+                    byproduct_item_id = resolved_item.get('itemId')
+                    resolved_item['itemName_EN'] = find_item_name(byproduct_item_id, data['text_en'], config) or f"Name not found for item {byproduct_item_id}"
+                    resolved_item['itemName_JA'] = find_item_name(byproduct_item_id, data['text_ja'], config) or f"Name not found for item {byproduct_item_id}"
+                    resolved_byproducts.append(resolved_item)
+                resolved_recipe['byproductInfo'] = resolved_byproducts
+
             resolved_smelting_list.append(resolved_recipe)
 
         resolved_cultivation_list = []

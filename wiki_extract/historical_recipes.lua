@@ -3099,9 +3099,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -3149,9 +3147,7 @@ return {
                         ["reduceInclusion"] = 100,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -3211,9 +3207,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -3319,9 +3313,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -4857,9 +4849,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -4955,9 +4945,7 @@ return {
                         ["reduceInclusion"] = 2000,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -5077,9 +5065,7 @@ return {
                         ["reduceInclusion"] = 300,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -6015,9 +6001,7 @@ return {
                         ["reduceInclusion"] = 500,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -8729,9 +8713,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -9535,9 +9517,7 @@ return {
                         ["reduceInclusion"] = 2000,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -9657,9 +9637,7 @@ return {
                         ["reduceInclusion"] = 100,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -9731,9 +9709,7 @@ return {
                         ["reduceInclusion"] = 100,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -9805,9 +9781,7 @@ return {
                         ["reduceInclusion"] = 100,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -9879,9 +9853,7 @@ return {
                         ["reduceInclusion"] = 100,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -12473,9 +12445,7 @@ return {
                         ["reduceInclusion"] = 2000,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13133,9 +13103,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13205,9 +13173,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 21705,
@@ -13219,9 +13185,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13303,9 +13267,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13399,9 +13361,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13471,9 +13431,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 21805,
@@ -13485,9 +13443,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13557,9 +13513,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 22305,
@@ -13571,9 +13525,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13667,9 +13619,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13751,9 +13701,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13811,9 +13759,7 @@ return {
                         ["reduceInclusion"] = 500,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 22004,
@@ -13825,9 +13771,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -13897,9 +13841,7 @@ return {
                         ["reduceInclusion"] = 300,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 22105,
@@ -13911,9 +13853,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -14123,9 +14063,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 22702,
@@ -14221,9 +14159,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -14295,9 +14231,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -14369,9 +14303,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -14545,9 +14477,7 @@ return {
                         ["reduceInclusion"] = 500,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19154,9 +19084,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19216,9 +19144,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19278,9 +19204,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19340,9 +19264,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19402,9 +19324,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19464,9 +19384,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19526,9 +19444,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19588,9 +19504,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19650,9 +19564,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -19712,9 +19624,7 @@ return {
                         ["reduceInclusion"] = 100,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -21406,9 +21316,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -22247,9 +22155,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -22619,9 +22525,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 600406,
@@ -22633,9 +22537,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -22693,9 +22595,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -22741,9 +22641,7 @@ return {
                         ["reduceInclusion"] = 300,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 36403,
@@ -22755,9 +22653,7 @@ return {
                         ["reduceInclusion"] = 0,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Crafting Knives",
-                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -22791,9 +22687,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 600502,
@@ -22889,9 +22783,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -22963,9 +22855,7 @@ return {
                         ["reduceInclusion"] = 200,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     }
                 }
             }
@@ -33665,9 +33555,7 @@ return {
                         ["reduceInclusion"] = 5000,
                         ["deleteFlg"] = 0,
                         ["itemName_EN"] = "Name not found for item 0",
-                        ["itemName_JA"] = "Name not found for item 0",
-                        ["itemCategoryName_EN"] = "Water Bottles",
-                        ["itemCategoryName_JA"] = "水筒"
+                        ["itemName_JA"] = "Name not found for item 0"
                     },
                     {
                         ["craftMaterialId"] = 95205,
@@ -34080,15 +33968,28 @@ return {
                 ["resultItemName_EN"] = "Seared Meat",
                 ["resultItemName_JA"] = "こんがり肉",
                 ["byproductInfo"] = {
-                    ["pid"] = "30001_1_30300009",
-                    ["dropId"] = 30001,
-                    ["dropGroup"] = 1,
-                    ["weight"] = 30,
-                    ["itemId"] = 30300009,
-                    ["dropMinAmount"] = 1,
-                    ["dropMaxAmount"] = 1,
-                    ["itemName_EN"] = "Oil",
-                    ["itemName_JA"] = "油"
+                    {
+                        ["pid"] = "30001_1_0",
+                        ["dropId"] = 30001,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 70,
+                        ["itemId"] = 0,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Name not found for item 0",
+                        ["itemName_JA"] = "Name not found for item 0"
+                    },
+                    {
+                        ["pid"] = "30001_1_30300009",
+                        ["dropId"] = 30001,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 30,
+                        ["itemId"] = 30300009,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Oil",
+                        ["itemName_JA"] = "油"
+                    }
                 }
             }
         },
@@ -34167,15 +34068,17 @@ return {
                 ["resultItemName_EN"] = "Oil",
                 ["resultItemName_JA"] = "油",
                 ["byproductInfo"] = {
-                    ["pid"] = "40003_1_30104002",
-                    ["dropId"] = 40003,
-                    ["dropGroup"] = 1,
-                    ["weight"] = 100,
-                    ["itemId"] = 30104002,
-                    ["dropMinAmount"] = 1,
-                    ["dropMaxAmount"] = 3,
-                    ["itemName_EN"] = "Fiber",
-                    ["itemName_JA"] = "繊維"
+                    {
+                        ["pid"] = "40003_1_30104002",
+                        ["dropId"] = 40003,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 100,
+                        ["itemId"] = 30104002,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 3,
+                        ["itemName_EN"] = "Fiber",
+                        ["itemName_JA"] = "繊維"
+                    }
                 }
             }
         },
@@ -34216,15 +34119,72 @@ return {
                 ["resultItemName_EN"] = "Rubble",
                 ["resultItemName_JA"] = "クズ石",
                 ["byproductInfo"] = {
-                    ["pid"] = "40002_1_30102005",
-                    ["dropId"] = 40002,
-                    ["dropGroup"] = 1,
-                    ["weight"] = 0.2,
-                    ["itemId"] = 30102005,
-                    ["dropMinAmount"] = 1,
-                    ["dropMaxAmount"] = 1,
-                    ["itemName_EN"] = "Obsidian",
-                    ["itemName_JA"] = "黒曜石"
+                    {
+                        ["pid"] = "40002_1_0",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 95.2,
+                        ["itemId"] = 0,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Name not found for item 0",
+                        ["itemName_JA"] = "Name not found for item 0"
+                    },
+                    {
+                        ["pid"] = "40002_1_30103002",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.1,
+                        ["itemId"] = 30103002,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Diamond",
+                        ["itemName_JA"] = "ダイヤモンド"
+                    },
+                    {
+                        ["pid"] = "40002_1_30102004",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.5,
+                        ["itemId"] = 30102004,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Gold Ore",
+                        ["itemName_JA"] = "金鉱石"
+                    },
+                    {
+                        ["pid"] = "40002_1_30102001",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 3,
+                        ["itemId"] = 30102001,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Copper Ore",
+                        ["itemName_JA"] = "銅鉱石"
+                    },
+                    {
+                        ["pid"] = "40002_1_30102002",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 1,
+                        ["itemId"] = 30102002,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Iron Ore",
+                        ["itemName_JA"] = "鉄鉱石"
+                    },
+                    {
+                        ["pid"] = "40002_1_30102005",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.2,
+                        ["itemId"] = 30102005,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Obsidian",
+                        ["itemName_JA"] = "黒曜石"
+                    }
                 }
             }
         },
@@ -34265,15 +34225,72 @@ return {
                 ["resultItemName_EN"] = "Rubble",
                 ["resultItemName_JA"] = "クズ石",
                 ["byproductInfo"] = {
-                    ["pid"] = "40002_1_30102005",
-                    ["dropId"] = 40002,
-                    ["dropGroup"] = 1,
-                    ["weight"] = 0.2,
-                    ["itemId"] = 30102005,
-                    ["dropMinAmount"] = 1,
-                    ["dropMaxAmount"] = 1,
-                    ["itemName_EN"] = "Obsidian",
-                    ["itemName_JA"] = "黒曜石"
+                    {
+                        ["pid"] = "40002_1_0",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 95.2,
+                        ["itemId"] = 0,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Name not found for item 0",
+                        ["itemName_JA"] = "Name not found for item 0"
+                    },
+                    {
+                        ["pid"] = "40002_1_30103002",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.1,
+                        ["itemId"] = 30103002,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Diamond",
+                        ["itemName_JA"] = "ダイヤモンド"
+                    },
+                    {
+                        ["pid"] = "40002_1_30102004",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.5,
+                        ["itemId"] = 30102004,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Gold Ore",
+                        ["itemName_JA"] = "金鉱石"
+                    },
+                    {
+                        ["pid"] = "40002_1_30102001",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 3,
+                        ["itemId"] = 30102001,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Copper Ore",
+                        ["itemName_JA"] = "銅鉱石"
+                    },
+                    {
+                        ["pid"] = "40002_1_30102002",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 1,
+                        ["itemId"] = 30102002,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Iron Ore",
+                        ["itemName_JA"] = "鉄鉱石"
+                    },
+                    {
+                        ["pid"] = "40002_1_30102005",
+                        ["dropId"] = 40002,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.2,
+                        ["itemId"] = 30102005,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Obsidian",
+                        ["itemName_JA"] = "黒曜石"
+                    }
                 }
             }
         },
@@ -34333,15 +34350,28 @@ return {
                 ["resultItemName_EN"] = "Fiber",
                 ["resultItemName_JA"] = "繊維",
                 ["byproductInfo"] = {
-                    ["pid"] = "40001_1_30104001",
-                    ["dropId"] = 40001,
-                    ["dropGroup"] = 1,
-                    ["weight"] = 0.5,
-                    ["itemId"] = 30104001,
-                    ["dropMinAmount"] = 1,
-                    ["dropMaxAmount"] = 1,
-                    ["itemName_EN"] = "Resin",
-                    ["itemName_JA"] = "樹脂"
+                    {
+                        ["pid"] = "40001_1_0",
+                        ["dropId"] = 40001,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 99.5,
+                        ["itemId"] = 0,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Name not found for item 0",
+                        ["itemName_JA"] = "Name not found for item 0"
+                    },
+                    {
+                        ["pid"] = "40001_1_30104001",
+                        ["dropId"] = 40001,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.5,
+                        ["itemId"] = 30104001,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Resin",
+                        ["itemName_JA"] = "樹脂"
+                    }
                 }
             }
         },
@@ -34363,15 +34393,28 @@ return {
                 ["resultItemName_EN"] = "Fiber",
                 ["resultItemName_JA"] = "繊維",
                 ["byproductInfo"] = {
-                    ["pid"] = "40001_1_30104001",
-                    ["dropId"] = 40001,
-                    ["dropGroup"] = 1,
-                    ["weight"] = 0.5,
-                    ["itemId"] = 30104001,
-                    ["dropMinAmount"] = 1,
-                    ["dropMaxAmount"] = 1,
-                    ["itemName_EN"] = "Resin",
-                    ["itemName_JA"] = "樹脂"
+                    {
+                        ["pid"] = "40001_1_0",
+                        ["dropId"] = 40001,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 99.5,
+                        ["itemId"] = 0,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Name not found for item 0",
+                        ["itemName_JA"] = "Name not found for item 0"
+                    },
+                    {
+                        ["pid"] = "40001_1_30104001",
+                        ["dropId"] = 40001,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.5,
+                        ["itemId"] = 30104001,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Resin",
+                        ["itemName_JA"] = "樹脂"
+                    }
                 }
             }
         },
@@ -34393,15 +34436,28 @@ return {
                 ["resultItemName_EN"] = "Fiber",
                 ["resultItemName_JA"] = "繊維",
                 ["byproductInfo"] = {
-                    ["pid"] = "40001_1_30104001",
-                    ["dropId"] = 40001,
-                    ["dropGroup"] = 1,
-                    ["weight"] = 0.5,
-                    ["itemId"] = 30104001,
-                    ["dropMinAmount"] = 1,
-                    ["dropMaxAmount"] = 1,
-                    ["itemName_EN"] = "Resin",
-                    ["itemName_JA"] = "樹脂"
+                    {
+                        ["pid"] = "40001_1_0",
+                        ["dropId"] = 40001,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 99.5,
+                        ["itemId"] = 0,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Name not found for item 0",
+                        ["itemName_JA"] = "Name not found for item 0"
+                    },
+                    {
+                        ["pid"] = "40001_1_30104001",
+                        ["dropId"] = 40001,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 0.5,
+                        ["itemId"] = 30104001,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 1,
+                        ["itemName_EN"] = "Resin",
+                        ["itemName_JA"] = "樹脂"
+                    }
                 }
             }
         },
@@ -34461,15 +34517,17 @@ return {
                 ["resultItemName_EN"] = "Thread",
                 ["resultItemName_JA"] = "糸",
                 ["byproductInfo"] = {
-                    ["pid"] = "40003_1_30104002",
-                    ["dropId"] = 40003,
-                    ["dropGroup"] = 1,
-                    ["weight"] = 100,
-                    ["itemId"] = 30104002,
-                    ["dropMinAmount"] = 1,
-                    ["dropMaxAmount"] = 3,
-                    ["itemName_EN"] = "Fiber",
-                    ["itemName_JA"] = "繊維"
+                    {
+                        ["pid"] = "40003_1_30104002",
+                        ["dropId"] = 40003,
+                        ["dropGroup"] = 1,
+                        ["weight"] = 100,
+                        ["itemId"] = 30104002,
+                        ["dropMinAmount"] = 1,
+                        ["dropMaxAmount"] = 3,
+                        ["itemName_EN"] = "Fiber",
+                        ["itemName_JA"] = "繊維"
+                    }
                 }
             }
         },
