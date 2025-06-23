@@ -5,12 +5,12 @@ import os
 from collections import defaultdict
 
 def load_config():
-    """Loads the name resolution config file."""
+    """Loads the name resolution and object config file."""
     config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.json')
     if os.path.exists(config_path):
         with open(config_path, 'r', encoding='utf-8') as f:
             return json.load(f)
-    return {"name_resolution_prefixes": {}}
+    return {"name_resolution_prefixes": {}, "object_names": {}}
 
 def find_item_name(item_id, text_data, config, drop_min=None, drop_max=None):
     """
@@ -25,14 +25,12 @@ def find_item_name(item_id, text_data, config, drop_min=None, drop_max=None):
     item_id_str = str(item_id)
     prefixes = config.get("name_resolution_prefixes", {})
 
-    # Try to find a matching prefix from the config
     for id_prefix, name_prefix in prefixes.items():
         if item_id_str.startswith(id_prefix):
             key = f"{name_prefix}{item_id_str}"
             if key in text_data:
                 return text_data[key]
     
-    # Fallback for material items if no config match
     key = f"item_material_{item_id_str}"
     if key in text_data:
         return text_data[key]
@@ -63,6 +61,8 @@ def resolve_drop_data(input_dir, output_file):
     try:
         print("Loading all necessary master files...")
         config = load_config()
+        object_names_config = config.get("object_names", {})
+        
         file_paths = {
             'text_en': os.path.join(input_dir, 'master_text_EN.json'),
             'text_ja': os.path.join(input_dir, 'master_text_JA.json'),
@@ -81,7 +81,6 @@ def resolve_drop_data(input_dir, output_file):
         for name, path in file_paths.items():
             data[name] = json.load(open(path, 'r', encoding='utf-8')) if os.path.exists(path) else {'list': []}
 
-        # Create maps for fast lookups
         drop_item_maps = { 'breakable': defaultdict(list), 'creature': defaultdict(list), 'harvestable': defaultdict(list), 'nest': defaultdict(list) }
         for item in data['dropitems_breakable']['list']: drop_item_maps['breakable'][item['dropId']].append(item)
         for item in data['dropitems_creature']['list']: drop_item_maps['creature'][item['dropId']].append(item)
@@ -97,6 +96,11 @@ def resolve_drop_data(input_dir, output_file):
         drop_id_fields = ['suitableDropId', 'suitableDropIdEx1', 'suitableDropIdEx2', 'suitableDropIdEx3', 'suitableDropIdEx4over']
         for obj in data['breakable_objects']['list']:
             resolved_obj = obj.copy()
+            name_key = obj.get('nameForTool')
+            name_info = object_names_config.get('breakable', {}).get(name_key, {})
+            resolved_obj['objectName_EN'] = name_info.get('en')
+            resolved_obj['objectName_JA'] = name_info.get('ja')
+            
             for field in drop_id_fields:
                 if obj.get(field):
                     resolved_obj[f"resolved_{field}"] = resolve_drop_items(obj[field], drop_item_maps['breakable'], text_en, text_ja, config)
@@ -105,12 +109,20 @@ def resolve_drop_data(input_dir, output_file):
 
         # 2. Process Harvestable Objects
         print("Resolving Harvestable Objects...")
-        final_output['harvestable_objects'] = [
-            {**item, 
-             'itemName_EN': find_item_name(item.get('itemId'), text_en, config) or f"Name not found for item {item.get('itemId')}",
-             'itemName_JA': find_item_name(item.get('itemId'), text_ja, config) or f"Name not found for item {item.get('itemId')}"}
-            for item in data['harvestable_objects']['list']
-        ]
+        resolved_harvestable_list = []
+        for item in data['harvestable_objects'].get('list', []):
+            resolved_item = item.copy()
+            item_id = item.get('itemId')
+            resolved_item['itemName_EN'] = find_item_name(item_id, text_en, config) or f"Name not found for item {item_id}"
+            resolved_item['itemName_JA'] = find_item_name(item_id, text_ja, config) or f"Name not found for item {item_id}"
+            
+            pid_key = item.get('pid')
+            name_info = object_names_config.get('harvestable', {}).get(pid_key, {})
+            resolved_item['objectName_EN'] = name_info.get('en')
+            resolved_item['objectName_JA'] = name_info.get('ja')
+
+            resolved_harvestable_list.append(resolved_item)
+        final_output['harvestable_objects'] = resolved_harvestable_list
         
         # 3. Process Creature Drops (Consolidated)
         print("Resolving and Consolidating Creature Drops...")
@@ -125,6 +137,10 @@ def resolve_drop_data(input_dir, output_file):
             consolidated_creatures[creature_id]['creatureName_EN'] = text_en.get(name_key, f"Name not found for key {name_key}")
             consolidated_creatures[creature_id]['creatureName_JA'] = text_ja.get(name_key, f"Name not found for key {name_key}")
             
+            name_info = object_names_config.get('creatures', {}).get(str(creature_id), {})
+            consolidated_creatures[creature_id]['configName_EN'] = name_info.get('en')
+            consolidated_creatures[creature_id]['configName_JA'] = name_info.get('ja')
+
             drop_rules = []
             for rule in creature_drops_by_id.get(creature_id, []):
                 resolved_rule = rule.copy()
@@ -138,6 +154,11 @@ def resolve_drop_data(input_dir, output_file):
         resolved_nest_list = []
         for obj in data['nest_objects']['list']:
             resolved_obj = obj.copy()
+            name_key = obj.get('nameForTool')
+            name_info = object_names_config.get('nest', {}).get(name_key, {})
+            resolved_obj['objectName_EN'] = name_info.get('en')
+            resolved_obj['objectName_JA'] = name_info.get('ja')
+
             for field in drop_id_fields:
                 if obj.get(field):
                     resolved_obj[f"resolved_{field}"] = resolve_drop_items(obj[field], drop_item_maps['nest'], text_en, text_ja, config)

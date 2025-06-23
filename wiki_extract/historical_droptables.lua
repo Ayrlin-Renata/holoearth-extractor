@@ -41,6 +41,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Pine Tree A",
+                ["objectName_JA"] = "マツの木a",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -369,6 +371,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Pine Tree B",
+                ["objectName_JA"] = "マツの木b",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -697,6 +701,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Pine Tree A Colored",
+                ["objectName_JA"] = "マツの木a色違い",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -1025,6 +1031,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Pine Tree B Colored",
+                ["objectName_JA"] = "マツの木b色違い",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -1353,6 +1361,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Oak Tree",
+                ["objectName_JA"] = "ナラの木",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -1681,6 +1691,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Oak Tree Colored",
+                ["objectName_JA"] = "ナラの木色違い",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -2009,6 +2021,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Oak Tree Forest A",
+                ["objectName_JA"] = "ナラの木森林a",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -2337,6 +2351,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Oak Tree Forest B",
+                ["objectName_JA"] = "ナラの木森林b",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -2665,6 +2681,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Oak Tree Forest C",
+                ["objectName_JA"] = "ナラの木森林c",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -2993,6 +3011,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Beech Tree A",
+                ["objectName_JA"] = "ブナの木a",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -3321,6 +3341,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Beech Tree B",
+                ["objectName_JA"] = "ブナの木b",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -3649,6 +3671,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Beech Tree A Colored",
+                ["objectName_JA"] = "ブナの木a色違い",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -3977,6 +4001,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Beech Tree B Colored",
+                ["objectName_JA"] = "ブナの木b色違い",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -4305,6 +4331,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Sapling with Poison Mushroom",
+                ["objectName_JA"] = "ドクキノコつきの若木",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -4633,6 +4661,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Tree with Beehive",
+                ["objectName_JA"] = "ハチの巣つきの木",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -4961,6 +4991,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Apple Tree",
+                ["objectName_JA"] = "リンゴの木",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -5289,6 +5321,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Kirito Lemon Tree",
+                ["objectName_JA"] = "キリットレモンの木",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -5617,6 +5651,8 @@ return {
                 ["maxScale"] = 1.5,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Transparent Marks for Fallen Trees (Tentative)",
+                ["objectName_JA"] = "倒木用透明アタリ（仮）",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -5945,6 +5981,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Cracked Rock M",
+                ["objectName_JA"] = "ひび岩M",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -6922,6 +6960,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Cracked Rock L",
+                ["objectName_JA"] = "ひび岩L",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201043_1_30101001",
@@ -7789,6 +7829,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Large Rock in Dungeon",
+                ["objectName_JA"] = "ダンジョンの大岩",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "4033_1_30101001",
@@ -8007,6 +8049,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destroyed Rock M",
+                ["objectName_JA"] = "破壊岩M",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201133_01_30101001",
@@ -8489,6 +8533,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destroyed Rock L",
+                ["objectName_JA"] = "破壊岩L",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -9466,6 +9512,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destroyed Rock S",
+                ["objectName_JA"] = "破壊岩S",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201133_01_30101001",
@@ -9948,6 +9996,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Clay Lump",
+                ["objectName_JA"] = "粘土塊",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10202011_1_30101005",
@@ -10056,6 +10106,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Sandstone",
+                ["objectName_JA"] = "砂岩",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10202021_1_30101004",
@@ -10219,6 +10271,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Copper Ore Rock",
+                ["objectName_JA"] = "銅鉱石岩",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "6531_1_30101001",
@@ -11328,6 +11382,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Iron Ore Rock",
+                ["objectName_JA"] = "鉄鉱石岩",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10205023_1_30101001",
@@ -12525,6 +12581,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Silver Ore Test",
+                ["objectName_JA"] = "銀鉱石テスト",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10205033_1_30102003",
@@ -12633,6 +12691,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Gold Ore Rock",
+                ["objectName_JA"] = "金鉱石岩",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10205043_1_30101001",
@@ -13995,6 +14055,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Blue Ore Test",
+                ["objectName_JA"] = "青鉱石テスト",
                 ["resolved_suitableDropId"] = {
 
                 },
@@ -14053,6 +14115,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Obsidian Test",
+                ["objectName_JA"] = "黒曜石テスト",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10206013_1_30102005",
@@ -14161,6 +14225,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Water Crystal Ore Test",
+                ["objectName_JA"] = "水晶原石テスト",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "6593_1_30101001",
@@ -14269,6 +14335,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Moisturizing Berry Bushes",
+                ["objectName_JA"] = "うるおいベリーの茂み",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99013_1_30104002",
@@ -14400,6 +14468,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "PON Cherry Bushes",
+                ["objectName_JA"] = "PONチェリーの茂み",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99013_1_30104002",
@@ -14673,6 +14743,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Miel Berry Bushes",
+                ["objectName_JA"] = "ミエルベリーの茂み",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99013_1_30104002",
@@ -14946,6 +15018,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Bushes",
+                ["objectName_JA"] = "茂み",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99013_1_30104002",
@@ -15219,6 +15293,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Bushes 404",
+                ["objectName_JA"] = "茂み404",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99013_1_30104002",
@@ -15492,6 +15568,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Wooden Box",
+                ["objectName_JA"] = "木箱",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99013_1_30104002",
@@ -15765,6 +15843,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Transparent Rock (for Treasure Hunting)",
+                ["objectName_JA"] = "透明岩（宝探し用）",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99011_1_30104002",
@@ -15983,6 +16063,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destructible Rock 404-1",
+                ["objectName_JA"] = "破壊可能岩404-1",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201133_01_30101001",
@@ -16465,6 +16547,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destructible Rock 404-2",
+                ["objectName_JA"] = "破壊可能岩404-2",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201133_01_30101001",
@@ -16947,6 +17031,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Beech Tree A_pla",
+                ["objectName_JA"] = "ブナの木A_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -17275,6 +17361,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Beech Tree B_pla",
+                ["objectName_JA"] = "ブナの木B_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -17603,6 +17691,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Oak Tree A_pla",
+                ["objectName_JA"] = "ナラの木A_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -17931,6 +18021,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Oak Tree B_pla",
+                ["objectName_JA"] = "ナラの木B_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -18259,6 +18351,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Pine Tree A_pla",
+                ["objectName_JA"] = "マツの木A_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -18587,6 +18681,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Pine Tree B_pla",
+                ["objectName_JA"] = "マツの木B_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -18915,6 +19011,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Be Tree_pla",
+                ["objectName_JA"] = "beの木_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -19243,6 +19341,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Pi Tree_pla",
+                ["objectName_JA"] = "piの木_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -19571,6 +19671,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Tree with Beehive_pla",
+                ["objectName_JA"] = "ハチの巣つきの木_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -19899,6 +20001,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Apple Tree_pla",
+                ["objectName_JA"] = "リンゴの木_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -20227,6 +20331,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Kiritto Lemon Tree_pla",
+                ["objectName_JA"] = "キリットレモンの木_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99023_1_30105004",
@@ -20555,6 +20661,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destructible Rock S_b",
+                ["objectName_JA"] = "破壊岩S_b",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -21532,6 +21640,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destructible Rock M_b",
+                ["objectName_JA"] = "破壊岩M_b",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -22509,6 +22619,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destructible Rock L_b",
+                ["objectName_JA"] = "破壊岩L_b",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -23486,6 +23598,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Destructible Rock L_c",
+                ["objectName_JA"] = "破壊岩L_c",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -24463,6 +24577,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Bush_pla",
+                ["objectName_JA"] = "ブッシュ_pla",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "99013_1_30104002",
@@ -24736,6 +24852,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_ bonfirebf_a01",
+                ["objectName_JA"] = "pla_dhb_bonfirebf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -25075,6 +25193,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_basebf_b01",
+                ["objectName_JA"] = "pla_dhb_basebf_b01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -25414,6 +25534,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_barricadebf_a01",
+                ["objectName_JA"] = "pla_dhb_barricadebf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -25753,6 +25875,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_barrelbf_a01",
+                ["objectName_JA"] = "pla_dhb_barrelbf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -26092,6 +26216,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_branchbf_a01",
+                ["objectName_JA"] = "pla_dhb_branchbf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -26431,6 +26557,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_cedarbf_a01",
+                ["objectName_JA"] = "pla_dhb_cedarbf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -26770,6 +26898,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_ivybf_a01",
+                ["objectName_JA"] = "pla_dhb_ivybf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -27109,6 +27239,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_objbf_a01",
+                ["objectName_JA"] = "pla_dhb_objbf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -27448,6 +27580,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_roastingstandbf_a01",
+                ["objectName_JA"] = "pla_dhb_roastingstandbf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -27787,6 +27921,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_basebf_a01",
+                ["objectName_JA"] = "pla_dhb_basebf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -28126,6 +28262,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_roastingstandbf_b01",
+                ["objectName_JA"] = "pla_dhb_roastingstandbf_b01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -28465,6 +28603,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_rockbf_a01",
+                ["objectName_JA"] = "pla_dhb_rockbf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -28804,6 +28944,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_strawbf_a01",
+                ["objectName_JA"] = "pla_dhb_strawbf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -29143,6 +29285,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_tarp bf_l_a01",
+                ["objectName_JA"] = "pla_dhb_tarpbf_l_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -29482,6 +29626,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_tarpbf_l_b01",
+                ["objectName_JA"] = "pla_dhb_tarpbf_l_b01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -29821,6 +29967,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_tarpbf_s_a01",
+                ["objectName_JA"] = "pla_dhb_tarpbf_s_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -30160,6 +30308,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_tentbf_l_a01",
+                ["objectName_JA"] = "pla_dhb_tentbf_l_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -30499,6 +30649,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_tentbf_s_a01",
+                ["objectName_JA"] = "pla_dhb_tentbf_s_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -30838,6 +30990,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "pla_dhb_watchtowerbf_a01",
+                ["objectName_JA"] = "pla_dhb_watchtowerbf_a01",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10201033_1_30101001",
@@ -31177,6 +31331,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Copper Ore Rock 404",
+                ["objectName_JA"] = "銅鉱石岩404",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "00006541_01_30101001",
@@ -31461,6 +31617,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Iron Ore Rock 404",
+                ["objectName_JA"] = "鉄鉱石岩404",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10205123_01_30101001",
@@ -31833,6 +31991,8 @@ return {
                 ["maxScale"] = 1.2,
                 ["enlargeAutoAdjust"] = 0,
                 ["reduceAutoAdjust"] = 0,
+                ["objectName_EN"] = "Gold Mine Stone Rock 404",
+                ["objectName_JA"] = "金鉱石岩404",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "10205143_01_30101001",
@@ -32355,7 +32515,9 @@ return {
                 ["expertise"] = 10,
                 ["observationPoint"] = 10,
                 ["itemName_EN"] = "Name not found for item None",
-                ["itemName_JA"] = "Name not found for item None"
+                ["itemName_JA"] = "Name not found for item None",
+                ["objectName_EN"] = nil,
+                ["objectName_JA"] = nil
             }
         }
     },
@@ -32405,6 +32567,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Skeleton",
                 ["creatureName_JA"] = "スケルトン",
+                ["configName_EN"] = "Skeleton",
+                ["configName_JA"] = "スケルトン",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100001,
@@ -32608,6 +32772,8 @@ return {
                 ["bgmAddress"] = "BGM_plain_boss",
                 ["creatureName_EN"] = "Wolf",
                 ["creatureName_JA"] = "オオカミ",
+                ["configName_EN"] = "Wolf",
+                ["configName_JA"] = "オオカミ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100003,
@@ -32877,6 +33043,8 @@ return {
                 ["bgmAddress"] = "",
                 ["creatureName_EN"] = "Deer",
                 ["creatureName_JA"] = "シカ",
+                ["configName_EN"] = "Deer",
+                ["configName_JA"] = "シカ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100005,
@@ -33124,6 +33292,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Slime",
                 ["creatureName_JA"] = "スライム",
+                ["configName_EN"] = "Slime",
+                ["configName_JA"] = "スライム",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100007,
@@ -33294,6 +33464,8 @@ return {
                 ["bgmAddress"] = "",
                 ["creatureName_EN"] = "Sheep",
                 ["creatureName_JA"] = "ヒツジ",
+                ["configName_EN"] = "Sheep",
+                ["configName_JA"] = "ヒツジ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100009,
@@ -33508,6 +33680,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Wild Boar",
                 ["creatureName_JA"] = "ワイルドボア",
+                ["configName_EN"] = "Wild Boar",
+                ["configName_JA"] = "ワイルドボア",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100011,
@@ -33777,6 +33951,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Wild Bear",
                 ["creatureName_JA"] = "creature_7",
+                ["configName_EN"] = "Wild Bear",
+                ["configName_JA"] = "creature_7",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100013,
@@ -33980,6 +34156,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_2",
                 ["creatureName_EN"] = "Chicken",
                 ["creatureName_JA"] = "creature_9",
+                ["configName_EN"] = "Chicken",
+                ["configName_JA"] = "creature_9",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100017,
@@ -34139,6 +34317,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Mandragora",
                 ["creatureName_JA"] = "マンドラゴラ",
+                ["configName_EN"] = "Mandragora",
+                ["configName_JA"] = "マンドラゴラ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100019,
@@ -34276,6 +34456,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Golem",
                 ["creatureName_JA"] = "creature_11",
+                ["configName_EN"] = "Golem",
+                ["configName_JA"] = "creature_11",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100021,
@@ -34435,6 +34617,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Bumble Bee",
                 ["creatureName_JA"] = "バンブルビー",
+                ["configName_EN"] = "Bumble Bee",
+                ["configName_JA"] = "バンブルビー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100023,
@@ -34539,6 +34723,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_2",
                 ["creatureName_EN"] = "Huge Slime",
                 ["creatureName_JA"] = "ヒュージスライム",
+                ["configName_EN"] = "Huge Slime",
+                ["configName_JA"] = "ヒュージスライム",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100025,
@@ -34698,6 +34884,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_2",
                 ["creatureName_EN"] = "Big Boar",
                 ["creatureName_JA"] = "ビッグボア",
+                ["configName_EN"] = "Big Boar",
+                ["configName_JA"] = "ビッグボア",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100026,
@@ -34824,6 +35012,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Horned Bull",
                 ["creatureName_JA"] = "creature_15",
+                ["configName_EN"] = "Horned Bull",
+                ["configName_JA"] = "creature_15",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100027,
@@ -34895,6 +35085,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
+                ["configName_EN"] = "Imp",
+                ["configName_JA"] = "キャンピー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100028,
@@ -35065,6 +35257,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
+                ["configName_EN"] = "Imp",
+                ["configName_JA"] = "キャンピー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100030,
@@ -35235,6 +35429,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Skeleton",
                 ["creatureName_JA"] = "スケルトン",
+                ["configName_EN"] = "Skeleton",
+                ["configName_JA"] = "スケルトン",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100040,
@@ -35405,6 +35601,8 @@ return {
                 ["bgmAddress"] = "BGM_plain_boss",
                 ["creatureName_EN"] = "Big Skeleton",
                 ["creatureName_JA"] = "creature_19",
+                ["configName_EN"] = "Big Skeleton",
+                ["configName_JA"] = "creature_19",
                 ["drop_rules"] = {
 
                 }
@@ -35455,6 +35653,8 @@ return {
                 ["bgmAddress"] = "BGM_plain_boss",
                 ["creatureName_EN"] = "Fox Fiend",
                 ["creatureName_JA"] = "ヨウコ",
+                ["configName_EN"] = "Fox Fiend",
+                ["configName_JA"] = "ヨウコ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100046,
@@ -35570,6 +35770,8 @@ return {
                 ["bgmAddress"] = "BGM_plain_boss",
                 ["creatureName_EN"] = "Large Chicken",
                 ["creatureName_JA"] = "creature_21",
+                ["configName_EN"] = "Large Chicken",
+                ["configName_JA"] = "creature_21",
                 ["drop_rules"] = {
 
                 }
@@ -35620,6 +35822,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Chicken",
                 ["creatureName_JA"] = "ニワトリ",
+                ["configName_EN"] = "Chicken",
+                ["configName_JA"] = "ニワトリ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100080,
@@ -35780,6 +35984,8 @@ return {
                 ["bgmAddress"] = "",
                 ["creatureName_EN"] = "Toxic Slime",
                 ["creatureName_JA"] = "ポイズンスライム",
+                ["configName_EN"] = "Toxic Slime",
+                ["configName_JA"] = "ポイズンスライム",
                 ["drop_rules"] = {
 
                 }
@@ -35830,6 +36036,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_2",
                 ["creatureName_EN"] = "Huge Toxic Slime",
                 ["creatureName_JA"] = "ヒュージポイズンスライム",
+                ["configName_EN"] = "Huge Toxic Slime",
+                ["configName_JA"] = "ヒュージポイズンスライム",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100090,
@@ -35934,6 +36142,8 @@ return {
                 ["bgmAddress"] = "",
                 ["creatureName_EN"] = "Slime",
                 ["creatureName_JA"] = "スライム",
+                ["configName_EN"] = "Slime",
+                ["configName_JA"] = "スライム",
                 ["drop_rules"] = {
 
                 }
@@ -35984,6 +36194,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Mandragora",
                 ["creatureName_JA"] = "マンドラゴラ",
+                ["configName_EN"] = "Mandragora",
+                ["configName_JA"] = "マンドラゴラ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100044,
@@ -36143,6 +36355,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Fire Slime",
                 ["creatureName_JA"] = "ファイアスライム",
+                ["configName_EN"] = "Fire Slime",
+                ["configName_JA"] = "ファイアスライム",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100042,
@@ -36280,6 +36494,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
+                ["configName_EN"] = "Imp",
+                ["configName_JA"] = "キャンピー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100048,
@@ -36472,6 +36688,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
+                ["configName_EN"] = "Imp",
+                ["configName_JA"] = "キャンピー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100050,
@@ -36664,6 +36882,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
+                ["configName_EN"] = "Imp",
+                ["configName_JA"] = "キャンピー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100052,
@@ -36845,6 +37065,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Fence",
+                ["objectName_JA"] = "柵",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000001_1_30101001",
@@ -37054,6 +37276,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 101,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Large Tent",
+                ["objectName_JA"] = "テント大",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000002_1_30105004",
@@ -37208,6 +37432,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Small Tent",
+                ["objectName_JA"] = "テント小",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000003_1_30104002",
@@ -37527,6 +37753,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Demi-human Campfire",
+                ["objectName_JA"] = "亜人焚火",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000004_1_30101003",
@@ -37736,6 +37964,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Branch",
+                ["objectName_JA"] = "ブランチ",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000005_1_30101001",
@@ -37945,6 +38175,8 @@ return {
                 ["destroySfx"] = "BushDestroySfx",
                 ["destroyEffectType"] = 101,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Bush",
+                ["objectName_JA"] = "茂み",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000006_1_30104002",
@@ -38099,6 +38331,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Bone",
+                ["objectName_JA"] = "骨",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000007_1_30105004",
@@ -38308,6 +38542,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Meat Drying Rack",
+                ["objectName_JA"] = "肉干し台",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000008_1_30105004",
@@ -38407,6 +38643,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Large Tent Attachment A",
+                ["objectName_JA"] = "テント大付属a",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000009_1_30101001",
@@ -38616,6 +38854,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Large Tent Attachment B",
+                ["objectName_JA"] = "テント大付属ｂ",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000010_1_30101001",
@@ -38825,6 +39065,8 @@ return {
                 ["destroySfx"] = "NestDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Small Tent Attachment A",
+                ["objectName_JA"] = "テント小付属a",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000011_1_30101001",
@@ -39034,6 +39276,8 @@ return {
                 ["destroySfx"] = "RockDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Lookout Post",
+                ["objectName_JA"] = "見張り台",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000012_1_30101001",
@@ -39243,6 +39487,8 @@ return {
                 ["destroySfx"] = "BushDestroySfx",
                 ["destroyEffectType"] = 101,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Bush A",
+                ["objectName_JA"] = "茂みa",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000013_1_30104002",
@@ -39397,6 +39643,8 @@ return {
                 ["destroySfx"] = "BushDestroySfx",
                 ["destroyEffectType"] = 101,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Bush B",
+                ["objectName_JA"] = "茂みb",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000014_1_30104002",
@@ -39551,6 +39799,8 @@ return {
                 ["destroySfx"] = "BushDestroySfx",
                 ["destroyEffectType"] = 101,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Bush C",
+                ["objectName_JA"] = "茂みc",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000015_1_30104002",
@@ -39705,6 +39955,8 @@ return {
                 ["destroySfx"] = "RockDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Lookout Post A",
+                ["objectName_JA"] = "見張り台a",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000016_1_30101001",
@@ -39914,6 +40166,8 @@ return {
                 ["destroySfx"] = "RockDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Lookout Post B",
+                ["objectName_JA"] = "見張り台b",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000017_1_30101001",
@@ -40123,6 +40377,8 @@ return {
                 ["destroySfx"] = "RockDestroySfx",
                 ["destroyEffectType"] = 301,
                 ["scale"] = 1,
+                ["objectName_EN"] = "Lookout Post C",
+                ["objectName_JA"] = "見張り台c",
                 ["resolved_suitableDropId"] = {
                     {
                         ["pid"] = "9000018_1_30101001",

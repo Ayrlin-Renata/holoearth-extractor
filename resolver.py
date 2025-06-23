@@ -96,7 +96,6 @@ def resolve_recipes(input_dir, output_file):
                 recipe_group_id = group_info.get('recipeGroupId')
                 resolved_recipe['recipeGroupId'] = recipe_group_id
                 resolved_recipe['systemType'] = group_info.get('systemType')
-                # --- FIX: Resolve EN/JA facility names ---
                 facility_info = facility_names_map.get(str(recipe_group_id), {})
                 resolved_recipe['facilityName_EN'] = facility_info.get('en', "Unknown Facility")
                 resolved_recipe['facilityName_JA'] = facility_info.get('ja', "不明な施設")
