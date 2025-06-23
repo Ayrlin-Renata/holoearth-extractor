@@ -10,7 +10,7 @@ def load_config():
     if os.path.exists(config_path):
         with open(config_path, 'r', encoding='utf-8') as f:
             return json.load(f)
-    return {"name_resolution_prefixes": {}, "facility_names": {}}
+    return {"name_resolution_prefixes": {}, "facility_names": {}, "smelting_types": {}}
 
 def find_item_name(item_id, text_data, config):
     """
@@ -71,13 +71,14 @@ def resolve_recipes(input_dir, output_file):
         for item in data['craft_material'].get('list', []):
             materials_map[item['recipeId']].append(item)
         
-        # --- FIX: Create a map of dropIds to a LIST of byproduct items ---
         byproduct_drop_map = defaultdict(list)
         for item in data['byproduct_drop'].get('list', []):
             byproduct_drop_map[item['dropId']].append(item)
 
         craft_recipe_group_map = {item['craftRecipeId']: item for item in data['craft_recipe_group'].get('list', [])}
         facility_names_map = config.get("facility_names", {})
+        smelting_types_map = config.get("smelting_types", {})
+        
         cultivation_drop_score_map = defaultdict(list)
         for item in data['cultivation_drop_score'].get('list', []):
             cultivation_drop_score_map[item['groupId']].append(item)
@@ -95,7 +96,10 @@ def resolve_recipes(input_dir, output_file):
                 recipe_group_id = group_info.get('recipeGroupId')
                 resolved_recipe['recipeGroupId'] = recipe_group_id
                 resolved_recipe['systemType'] = group_info.get('systemType')
-                resolved_recipe['facilityName'] = facility_names_map.get(str(recipe_group_id), "Unknown Facility")
+                # --- FIX: Resolve EN/JA facility names ---
+                facility_info = facility_names_map.get(str(recipe_group_id), {})
+                resolved_recipe['facilityName_EN'] = facility_info.get('en', "Unknown Facility")
+                resolved_recipe['facilityName_JA'] = facility_info.get('ja', "不明な施設")
 
             skill_id = recipe.get('conditionalRecipeSkillId')
             if skill_id in recipe_skills_map:
@@ -129,6 +133,14 @@ def resolve_recipes(input_dir, output_file):
         resolved_smelting_list = []
         for recipe in data['smelting_recipe'].get('list', []):
             resolved_recipe = recipe.copy()
+            
+            pid = recipe.get('pid')
+            if pid and isinstance(pid, str) and '_' in pid:
+                smelting_type_id = pid.split('_')[0]
+                smelting_type_info = smelting_types_map.get(smelting_type_id, {})
+                resolved_recipe['facilityName_EN'] = smelting_type_info.get('en', 'Unknown Type')
+                resolved_recipe['facilityName_JA'] = smelting_type_info.get('ja', '不明なタイプ')
+                
             material_id = recipe.get('materialItemId')
             resolved_recipe['materialItemName_EN'] = find_item_name(material_id, data['text_en'], config) or f"Name not found for item {material_id}"
             resolved_recipe['materialItemName_JA'] = find_item_name(material_id, data['text_ja'], config) or f"Name not found for item {material_id}"
@@ -136,7 +148,6 @@ def resolve_recipes(input_dir, output_file):
             resolved_recipe['resultItemName_EN'] = find_item_name(result_id, data['text_en'], config) or f"Name not found for item {result_id}"
             resolved_recipe['resultItemName_JA'] = find_item_name(result_id, data['text_ja'], config) or f"Name not found for item {result_id}"
             
-            # --- FIX: Resolve the full list of byproducts ---
             byproduct_group_id = recipe.get('byproductDropId')
             if byproduct_group_id in byproduct_drop_map:
                 resolved_byproducts = []
