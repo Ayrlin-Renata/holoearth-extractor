@@ -33952,7 +33952,7 @@ return {
                 ["creatureName_EN"] = "Wild Bear",
                 ["creatureName_JA"] = "creature_7",
                 ["configName_EN"] = "Wild Bear",
-                ["configName_JA"] = "creature_7",
+                ["configName_JA"] = "ワイルドクマ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100013,
@@ -34157,7 +34157,7 @@ return {
                 ["creatureName_EN"] = "Chicken",
                 ["creatureName_JA"] = "creature_9",
                 ["configName_EN"] = "Chicken",
-                ["configName_JA"] = "creature_9",
+                ["configName_JA"] = "ニワトリ",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100017,
@@ -34457,7 +34457,7 @@ return {
                 ["creatureName_EN"] = "Golem",
                 ["creatureName_JA"] = "creature_11",
                 ["configName_EN"] = "Golem",
-                ["configName_JA"] = "creature_11",
+                ["configName_JA"] = "ゴーレム",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100021,
@@ -35013,7 +35013,7 @@ return {
                 ["creatureName_EN"] = "Horned Bull",
                 ["creatureName_JA"] = "creature_15",
                 ["configName_EN"] = "Horned Bull",
-                ["configName_JA"] = "creature_15",
+                ["configName_JA"] = "角のある雄牛",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100027,
@@ -35085,8 +35085,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
-                ["configName_EN"] = "Imp",
-                ["configName_JA"] = "キャンピー",
+                ["configName_EN"] = "Club Imp",
+                ["configName_JA"] = "クラブキャンピー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100028,
@@ -35257,8 +35257,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
-                ["configName_EN"] = "Imp",
-                ["configName_JA"] = "キャンピー",
+                ["configName_EN"] = "Spear Imp",
+                ["configName_JA"] = "槍キャンピー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100030,
@@ -35429,8 +35429,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Skeleton",
                 ["creatureName_JA"] = "スケルトン",
-                ["configName_EN"] = "Skeleton",
-                ["configName_JA"] = "スケルトン",
+                ["configName_EN"] = "Skeleton Ranger",
+                ["configName_JA"] = "スケルトンレンジャー",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100040,
@@ -35602,7 +35602,7 @@ return {
                 ["creatureName_EN"] = "Big Skeleton",
                 ["creatureName_JA"] = "creature_19",
                 ["configName_EN"] = "Big Skeleton",
-                ["configName_JA"] = "creature_19",
+                ["configName_JA"] = "大きなスケルトン",
                 ["drop_rules"] = {
 
                 }
@@ -35771,7 +35771,7 @@ return {
                 ["creatureName_EN"] = "Large Chicken",
                 ["creatureName_JA"] = "creature_21",
                 ["configName_EN"] = "Large Chicken",
-                ["configName_JA"] = "creature_21",
+                ["configName_JA"] = "大きなニワトリ",
                 ["drop_rules"] = {
 
                 }
@@ -35822,8 +35822,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Chicken",
                 ["creatureName_JA"] = "ニワトリ",
-                ["configName_EN"] = "Chicken",
-                ["configName_JA"] = "ニワトリ",
+                ["configName_EN"] = "White Chicken",
+                ["configName_JA"] = "ニワトリ （白）",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100080,
@@ -36494,8 +36494,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
-                ["configName_EN"] = "Imp",
-                ["configName_JA"] = "キャンピー",
+                ["configName_EN"] = "Club Imp (Watch)",
+                ["configName_JA"] = "クラブキャンピー（監視塔）",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100048,
@@ -36688,8 +36688,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
-                ["configName_EN"] = "Imp",
-                ["configName_JA"] = "キャンピー",
+                ["configName_EN"] = "Club Imp (Bomb)",
+                ["configName_JA"] = "クラブキャンピー（爆弾）",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100050,
@@ -36882,8 +36882,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Imp",
                 ["creatureName_JA"] = "キャンピー",
-                ["configName_EN"] = "Imp",
-                ["configName_JA"] = "キャンピー",
+                ["configName_EN"] = "Club Imp (Watch Bomb)",
+                ["configName_JA"] = "クラブキャンピー （監視塔爆弾）",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100052,
