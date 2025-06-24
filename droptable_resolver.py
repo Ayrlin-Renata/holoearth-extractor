@@ -110,18 +110,21 @@ def resolve_drop_data(input_dir, output_file):
         # 2. Process Harvestable Objects
         print("Resolving Harvestable Objects...")
         resolved_harvestable_list = []
-        for item in data['harvestable_objects'].get('list', []):
-            resolved_item = item.copy()
-            item_id = item.get('itemId')
-            resolved_item['itemName_EN'] = find_item_name(item_id, text_en, config) or f"Name not found for item {item_id}"
-            resolved_item['itemName_JA'] = find_item_name(item_id, text_ja, config) or f"Name not found for item {item_id}"
+        for obj in data['harvestable_objects'].get('list', []):
+            resolved_obj = obj.copy()
             
-            pid_key = item.get('pid')
-            name_info = object_names_config.get('harvestable', {}).get(pid_key, {})
-            resolved_item['objectName_EN'] = name_info.get('en')
-            resolved_item['objectName_JA'] = name_info.get('ja')
+            # --- FIX: Use nameForTool as the unique ID and for config lookup ---
+            name_key = obj.get('nameForTool')
+            name_info = object_names_config.get('harvestable', {}).get(name_key, {})
+            resolved_obj['objectName_EN'] = name_info.get('en')
+            resolved_obj['objectName_JA'] = name_info.get('ja')
 
-            resolved_harvestable_list.append(resolved_item)
+            # Resolve the drops associated with this object
+            drop_id = obj.get('dropId')
+            if drop_id:
+                resolved_obj['resolved_drops'] = resolve_drop_items(drop_id, drop_item_maps['harvestable'], text_en, text_ja, config)
+
+            resolved_harvestable_list.append(resolved_obj)
         final_output['harvestable_objects'] = resolved_harvestable_list
         
         # 3. Process Creature Drops (Consolidated)

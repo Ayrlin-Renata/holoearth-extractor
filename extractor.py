@@ -1,5 +1,3 @@
-# orchestrator.py
-
 import argparse
 import os
 import subprocess
@@ -137,7 +135,6 @@ def update_history_file(resolved_data, historical_data, version_string, id_key_m
         for item in resolved_data[data_type]:
             if not (item_id := str(item.get(id_key))): continue
             item_history = historical_data[data_type].get(item_id, {})
-            # --- Updated name resolution order ---
             item_name = (item.get('configName_EN') or item.get('objectName_EN') or 
                          item.get('resultItemName_EN') or item.get('seedItemName_EN') or 
                          item.get('creatureName_EN') or item.get('nameForTool') or 
@@ -196,7 +193,7 @@ def main():
 
     # Process Drop Tables
     print("\n--- Updating Drop Table History ---")
-    droptable_id_map = {"breakable_objects": "objectId", "harvestable_objects": "pid", "creature_drops": "creatureId", "nest_objects": "nestObjectId"}
+    droptable_id_map = {"breakable_objects": "objectId", "harvestable_objects": "nameForTool", "creature_drops": "creatureId", "nest_objects": "nestObjectId"}
     historical_droptables = json.load(open(historical_droptables_file, 'r', encoding='utf-8')) if os.path.exists(historical_droptables_file) else (seed_history(args.initial_droptable_history, droptable_id_map) if args.initial_droptable_history and os.path.exists(args.initial_droptable_history) else {key: {} for key in droptable_id_map.keys()})
     with open(resolved_droptables_file, 'r', encoding='utf-8') as f: resolved_droptables = json.load(f)
     droptable_report_lines = [f"Drop Table Change Report for version: {version_string}\n"]

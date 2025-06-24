@@ -3144,7 +3144,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -3193,7 +3195,9 @@
                         "reduceInclusion": 100,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -3254,7 +3258,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -3362,7 +3368,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -4930,7 +4938,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -5027,7 +5037,9 @@
                         "reduceInclusion": 2000,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -5149,7 +5161,9 @@
                         "reduceInclusion": 300,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -6101,7 +6115,9 @@
                         "reduceInclusion": 500,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -8861,7 +8877,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -9680,7 +9698,9 @@
                         "reduceInclusion": 2000,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -9802,7 +9822,9 @@
                         "reduceInclusion": 100,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -9875,7 +9897,9 @@
                         "reduceInclusion": 100,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -9948,7 +9972,9 @@
                         "reduceInclusion": 100,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -10021,7 +10047,9 @@
                         "reduceInclusion": 100,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -12658,7 +12686,9 @@
                         "reduceInclusion": 2000,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -13327,7 +13357,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -13398,7 +13430,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 21705,
@@ -13410,7 +13444,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -13493,7 +13529,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -13588,7 +13626,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -13659,7 +13699,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 21805,
@@ -13671,7 +13713,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -13742,7 +13786,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 22305,
@@ -13754,7 +13800,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -13849,7 +13897,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -13932,7 +13982,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -13991,7 +14043,9 @@
                         "reduceInclusion": 500,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 22004,
@@ -14003,7 +14057,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -14074,7 +14130,9 @@
                         "reduceInclusion": 300,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 22105,
@@ -14086,7 +14144,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -14299,7 +14359,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 22702,
@@ -14396,7 +14458,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -14469,7 +14533,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -14542,7 +14608,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -14719,7 +14787,9 @@
                         "reduceInclusion": 500,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -19372,7 +19442,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19433,7 +19505,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19494,7 +19568,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19555,7 +19631,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19616,7 +19694,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19677,7 +19757,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19738,7 +19820,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19799,7 +19883,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19860,7 +19946,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -19921,7 +20009,9 @@
                         "reduceInclusion": 100,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -21623,7 +21713,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -22472,7 +22564,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -22847,7 +22941,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 600406,
@@ -22859,7 +22955,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -22918,7 +23016,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -22965,7 +23065,9 @@
                         "reduceInclusion": 300,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 36403,
@@ -22977,7 +23079,9 @@
                         "reduceInclusion": 0,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Crafting Knives",
+                        "itemCategoryName_JA": "クラフト用ナイフ"
                     }
                 ]
             }
@@ -23012,7 +23116,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 600502,
@@ -23109,7 +23215,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -23182,7 +23290,9 @@
                         "reduceInclusion": 200,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     }
                 ]
             }
@@ -34072,7 +34182,9 @@
                         "reduceInclusion": 5000,
                         "deleteFlg": 0,
                         "itemName_EN": "Name not found for item 0",
-                        "itemName_JA": "Name not found for item 0"
+                        "itemName_JA": "Name not found for item 0",
+                        "itemCategoryName_EN": "Water Bottles",
+                        "itemCategoryName_JA": "水筒"
                     },
                     {
                         "craftMaterialId": 95205,
