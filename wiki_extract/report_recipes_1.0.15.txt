@@ -1,0 +1,6 @@
+Recipe Change Report for version: 1.0.15
+
+* Added Crafting: Snap Block (Pr) (ID: 5100)
+* Added Crafting: Snap Block (Pr) (ID: 6075)
+* Added Crafting: Snap Block (PBn) (ID: 5101)
+* Added Crafting: Snap Block (PBn) (ID: 6076)

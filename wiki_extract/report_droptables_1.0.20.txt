@@ -1,0 +1,112 @@
+Drop Table Change Report for version: 1.0.20
+
+
+* Creature Drops Updated: Skeleton (ID: 1)
+  - Field 'maxMagicDefence' changed from '0' to '5'
+  - Field 'minMagicDefence' changed from '0' to '5'
+
+* Creature Drops Updated: Wolf (ID: 2)
+  - Field 'maxMagicDefence' changed from '0' to '14'
+  - Field 'minMagicDefence' changed from '0' to '14'
+
+* Creature Drops Updated: Deer (ID: 3)
+  - Field 'maxMagicDefence' changed from '0' to '3'
+  - Field 'minMagicDefence' changed from '0' to '3'
+
+* Creature Drops Updated: Slime (ID: 4)
+  - Field 'maxMagicDefence' changed from '0' to '24'
+  - Field 'minMagicDefence' changed from '0' to '24'
+
+* Creature Drops Updated: Wild Boar (ID: 6)
+  - Field 'maxMagicDefence' changed from '0' to '10'
+  - Field 'minMagicDefence' changed from '0' to '10'
+
+* Creature Drops Updated: Mandragora (ID: 10)
+  - Field 'maxMagicDefence' changed from '0' to '17'
+  - Field 'minMagicDefence' changed from '0' to '17'
+
+* Creature Drops Updated: Golem (ID: 11)
+  - Field 'creatureName_JA' changed from 'creature_11' to 'ゴーレム'
+  - Drops changed for 'drop_rules'
+  - Field 'hateDistanceLow' changed from '18' to '100'
+  - Field 'hateDistanceMiddle' changed from '5' to '60'
+  - Field 'hateDistanceStrong' changed from '5' to '40'
+  - Field 'maxAttackPower' changed from '200' to '1000'
+  - Field 'maxDefencePower' changed from '0' to '50'
+  - Field 'maxExperience' changed from '0' to '3000'
+  - Field 'maxHealth' changed from '25000' to '40000'
+  - Field 'maxMagicDefence' changed from '0' to '35'
+  - Field 'maxObservationPoint' changed from '55000' to '30000'
+  - Field 'minAttackPower' changed from '200' to '1000'
+  - Field 'minDefencePower' changed from '0' to '50'
+  - Field 'minExperience' changed from '0' to '3000'
+  - Field 'minHealth' changed from '25000' to '40000'
+  - Field 'minMagicDefence' changed from '0' to '35'
+  - Field 'minObservationPoint' changed from '55000' to '30000'
+  - Field 'sightAngle' changed from '120' to '270'
+  - Field 'sightDistance' changed from '18' to '80'
+  - Field 'visibleTime' changed from '5' to '30'
+
+* Creature Drops Updated: Huge Slime (ID: 13)
+  - Field 'maxMagicDefence' changed from '0' to '60'
+  - Field 'minMagicDefence' changed from '0' to '60'
+
+* Creature Drops Updated: Big Boar (ID: 14)
+  - Field 'maxMagicDefence' changed from '20' to '40'
+  - Field 'minMagicDefence' changed from '20' to '40'
+
+* Creature Drops Updated: Club Imp (ID: 16)
+  - Field 'maxMagicDefence' changed from '0' to '6'
+  - Field 'minMagicDefence' changed from '0' to '6'
+
+* Creature Drops Updated: Spear Imp (ID: 17)
+  - Field 'maxMagicDefence' changed from '0' to '8'
+  - Field 'minMagicDefence' changed from '0' to '8'
+
+* Creature Drops Updated: Skeleton Ranger (ID: 18)
+  - Field 'maxMagicDefence' changed from '0' to '5'
+  - Field 'minMagicDefence' changed from '0' to '5'
+
+* Creature Drops Updated: Big Skeleton (ID: 19)
+  - Field 'maxMagicDefence' changed from '0' to '5'
+  - Field 'minMagicDefence' changed from '0' to '5'
+
+* Creature Drops Updated: Fox Fiend (ID: 20)
+  - Field 'maxMagicDefence' changed from '10' to '21'
+  - Field 'minMagicDefence' changed from '10' to '21'
+
+* Creature Drops Updated: Toxic Slime (ID: 23)
+  - Field 'maxMagicDefence' changed from '0' to '24'
+  - Field 'minMagicDefence' changed from '0' to '24'
+
+* Creature Drops Updated: Huge Toxic Slime (ID: 24)
+  - Field 'maxMagicDefence' changed from '0' to '60'
+  - Field 'minMagicDefence' changed from '0' to '60'
+
+* Creature Drops Updated: Slime (ID: 25)
+  - Field 'maxMagicDefence' changed from '0' to '24'
+  - Field 'minMagicDefence' changed from '0' to '24'
+
+* Creature Drops Updated: Mandragora (ID: 26)
+  - Field 'maxMagicDefence' changed from '0' to '17'
+  - Field 'minMagicDefence' changed from '0' to '17'
+
+* Creature Drops Updated: Fire Slime (ID: 27)
+  - Field 'maxMagicDefence' changed from '0' to '24'
+  - Field 'minMagicDefence' changed from '0' to '24'
+
+* Creature Drops Updated: Club Imp (Bomb) (ID: 29)
+  - Field 'maxMagicDefence' changed from '0' to '10'
+  - Field 'minMagicDefence' changed from '0' to '10'
+
+* Creature Drops Updated: Club Imp (Watch Bomb) (ID: 30)
+  - Field 'maxMagicDefence' changed from '0' to '2'
+  - Field 'minMagicDefence' changed from '0' to '2'
+* Creature Drops Added: Ice Slime (ID: 31)
+* Creature Drops Added: Electric Slime (ID: 32)
+* Creature Drops Added: Wind Slime (ID: 33)
+* Creature Drops Added: Rock Slime (ID: 34)
+* Creature Drops Added: Wolf (ID: 102)
+* Creature Drops Added: Sheep (ID: 105)
+* Creature Drops Added: Wild Boar (ID: 106)
+* Creature Drops Added: Fox Fiend (ID: 120)

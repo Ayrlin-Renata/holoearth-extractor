@@ -141,7 +141,7 @@ def update_history_file(resolved_data, historical_data, version_string, id_key_m
                          item.get('itemName_EN', 'Unknown'))
             if is_first_run or not item_history:
                 print(f"  - New {type_name} item found: ID {item_id}")
-                report_lines.append(f"+ NEW {type_name} Added: {item_name} (ID: {item_id})")
+                report_lines.append(f"* {type_name} Added: {item_name} (ID: {item_id})")
                 historical_data[data_type][item_id] = {version_string: item}
                 has_changes = True
             else:

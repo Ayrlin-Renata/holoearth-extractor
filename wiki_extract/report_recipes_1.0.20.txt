@@ -1,0 +1,160 @@
+Recipe Change Report for version: 1.0.20
+
+
+* Crafting Updated: Bumble Bee Plush (ID: 173)
+  - Field 'conditionalRecipeSkillName_EN' changed from 'Killer Bee Plush' to 'Bumble Bee Plush'
+
+* Crafting Updated: Lemon Squash (Sample) (ID: 193)
+  - Field 'conditionalRecipeSkillName_EN' changed from 'Pucker Lemon Squash (Sample)' to 'craft_recipe_skill_148'
+
+* Crafting Updated: Throw Net (ID: 238)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Mixing Cauldron (ID: 239)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: MetaMaterial Fragment (ID: 236)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Observation Beacon (ID: 237)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Ruby Necklace (ID: 946)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Sapphire Necklace (ID: 947)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Topaz Necklace (ID: 948)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Emerald Necklace (ID: 949)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Amethyst Necklace (ID: 950)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Ruby Earrings (ID: 951)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Sapphire Earrings (ID: 952)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Topaz Earrings (ID: 953)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Emerald Earrings (ID: 954)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+
+* Crafting Updated: Amethyst Earrings (ID: 955)
+  - Field 'facilityName_EN' changed from 'Projection (ID 394)' to 'Projection (ID 396)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 394)' to 'プロジェクション (ID 396)'
+  - Field 'recipeGroupId' changed from '394' to '396'
+* Crafting Added: Golem Armor Set (ID: 374)
+* Crafting Added: Enchant Tome: Rolling (ID: 433)
+* Crafting Added: Enchant Tome: Soaring Slash (ID: 434)
+* Crafting Added: Enchant Tome: Heat Slash (ID: 435)
+* Crafting Added: Enchant Tome: Mizuchi (ID: 436)
+* Crafting Added: Enchant Tome: Wind Slash (ID: 438)
+* Crafting Added: Enchant Tome: Frost Edge (ID: 440)
+* Crafting Added: Enchant Tome: Cross Slash (ID: 443)
+* Crafting Added: Enchant Tome: Impact (ID: 444)
+* Crafting Added: Enchant Tome: Terra Shatter (ID: 448)
+* Crafting Added: Enchant Tome: Wind Burst (ID: 449)
+* Crafting Added: Enchant Tome: Inferno Flash (ID: 454)
+* Crafting Added: Enchant Tome: Wavebreaker Surge (ID: 455)
+* Crafting Added: Enchant Tome: Thunder Clap (ID: 458)
+* Crafting Added: Enchant Tome: Frostshard Dance (ID: 459)
+* Crafting Added: Enchant Tome: Scorching Thrust (ID: 462)
+* Crafting Added: Enchant Tome: Hydro Shot (ID: 463)
+* Crafting Added: Enchant Tome: Plasma Ray (ID: 466)
+* Crafting Added: Enchant Tome: Glacial Thrust (ID: 467)
+* Crafting Added: Enchant Tome: Raijin Slash (ID: 474)
+* Crafting Added: Enchant Tome: Dash (ID: 475)
+* Crafting Added: Enchant Tome: Battle Spirit (ID: 481)
+* Crafting Added: Golem Helm (ID: 371)
+* Crafting Added: Golem Armor (ID: 372)
+* Crafting Added: Golem Greaves (ID: 370)
+* Crafting Added: Element (ID: 565)
+* Crafting Added: Element (ID: 566)
+* Crafting Added: Element (ID: 567)
+* Crafting Added: Element (ID: 568)
+* Crafting Added: Element (ID: 569)
+* Crafting Added: Element (ID: 570)
+* Crafting Added: Element (ID: 571)
+* Crafting Added: Element (ID: 572)
+* Crafting Added: Element (ID: 573)
+* Crafting Added: Element (ID: 574)
+* Crafting Added: Element (ID: 575)
+* Crafting Added: Element (ID: 576)
+* Crafting Added: Enchant Tome: Rolling (ID: 376)
+* Crafting Added: Enchant Tome: Soaring Slash (ID: 377)
+* Crafting Added: Enchant Tome: Heat Slash (ID: 378)
+* Crafting Added: Enchant Tome: Mizuchi (ID: 379)
+* Crafting Added: Enchant Tome: Wind Slash (ID: 391)
+* Crafting Added: Enchant Tome: Frost Edge (ID: 393)
+* Crafting Added: Enchant Tome: Cross Slash (ID: 396)
+* Crafting Added: Enchant Tome: Impact (ID: 402)
+* Crafting Added: Enchant Tome: Terra Shatter (ID: 405)
+* Crafting Added: Enchant Tome: Wind Burst (ID: 406)
+* Crafting Added: Enchant Tome: Inferno Flash (ID: 413)
+* Crafting Added: Enchant Tome: Wavebreaker Surge (ID: 414)
+* Crafting Added: Enchant Tome: Thunder Clap (ID: 417)
+* Crafting Added: Enchant Tome: Frostshard Dance (ID: 418)
+* Crafting Added: Enchant Tome: Scorching Thrust (ID: 421)
+* Crafting Added: Enchant Tome: Hydro Shot (ID: 422)
+* Crafting Added: Enchant Tome: Plasma Ray (ID: 425)
+* Crafting Added: Enchant Tome: Glacial Thrust (ID: 426)
+* Crafting Added: Enchant Tome: Raijin Slash (ID: 429)
+* Crafting Added: Enchant Tome: Dash (ID: 430)
+* Crafting Added: Enchant Tome: Battle Spirit (ID: 431)
+* Crafting Added: Enchanting Station (ID: 373)
+* Crafting Added: Obstacle Course Start (ID: 551)
+* Crafting Added: Obstacle Course Goal (ID: 552)
+* Crafting Added: Obstacle Base Platform (ID: 554)
+* Crafting Added: Obstacle Wall (ID: 555)
+* Crafting Added: Obstacle Ceiling/Floor (ID: 556)
+* Crafting Added: Obstacle Pillar (ID: 563)
+* Crafting Added: Obstacle Short Pillar (ID: 564)
+* Crafting Added: Dual Rotating Bars (ID: 557)
+* Crafting Added: Quad Rotating Bars (ID: 558)
+* Crafting Added: 6m Horizontal Sliding Platform (ID: 559)
+* Crafting Added: 9m Horizontal Sliding Platform (ID: 560)
+* Crafting Added: 6m Vertical Moving Platform (ID: 561)
+* Crafting Added: 9m Vertical Moving Platform (ID: 562)
+* Crafting Added: Rotating Arm Platform (ID: 577)
+* Crafting Added: Huge Slime Trampoline (ID: 991)
+* Crafting Added: C2 Spawner (Golem) (ID: 956)
+* Crafting Added: Tokino Sora Default Outfit Acrylic Stand S (ID: 957)
+* Crafting Added: AZKi Default Outfit Acrylic Stand S (ID: 960)
+* Crafting Added: Shirakami Fubuki Default Outfit Acrylic Stand S (ID: 961)
+* Crafting Added: Aki Rosenthal Default Outfit Acrylic Stand S (ID: 959)
+* Crafting Added: Natsuiro Matsuri Default Outfit Acrylic Stand S (ID: 958)
+* Crafting Added: Huge Slime Trampoline (ID: 992)
+* Smelting Added: Stone (ID: 16_30200006)

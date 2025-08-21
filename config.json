@@ -41,6 +41,7 @@
         "393": { "en": "Projection (ID 393)", "ja": "プロジェクション (ID 393)" },
         "394": { "en": "Projection (ID 394)", "ja": "プロジェクション (ID 394)" },
         "395": { "en": "Projection (Simulation Room)", "ja": "プロジェクション (シミュレーションルーム)" },
+        "396": { "en": "Projection (ID 396)", "ja": "プロジェクション (ID 396)" },
         "401": { "en": "Observation Data Exchange", "ja": "観測データ交換所" },
         "5": { "en": "Furnace (All)", "ja": "炉 (すべて)" },
         "501": { "en": "My Room Instance Exchange", "ja": "マイルーム・インスタンス交換所" },
@@ -48,7 +49,8 @@
         "901": { "en": "Observation Data Exchange (ID 901)", "ja": "観測データ交換所 (ID 901)" },
         "902": { "en": "Observation Data Exchange (ID 902)", "ja": "観測データ交換所 (ID 902)" },
         "903": { "en": "Observation Data Exchange (ID 903)", "ja": "観測データ交換所 (ID 903)" },
-        "904": { "en": "Observation Data Exchange (ID 904)", "ja": "観測データ交換所 (ID 904)" }
+        "904": { "en": "Observation Data Exchange (ID 904)", "ja": "観測データ交換所 (ID 904)" },
+        "905": { "en": "Projection (ID 905)", "ja": "プロジェクション (ID 905)" }
       },
       "smelting_types": {
         "05": { "en": "Blast Furnace", "ja": "高火力製錬炉" },
