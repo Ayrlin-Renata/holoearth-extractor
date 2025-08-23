@@ -47,7 +47,8 @@ def find_item_text(item_id, text_data, config, is_description=False):
 def resolve_item_data(input_dir, output_file):
     """
     Resolves item data by combining a base item list with numerous
-    category-specific detail files.
+    category-specific detail files. It also finds items defined only
+    in master_material and adds them to the main list.
     """
     try:
         print("Loading all necessary master files for items...")
@@ -98,10 +99,34 @@ def resolve_item_data(input_dir, output_file):
                 extra_data_maps[filename] = {
                     item[id_key]: item for item in data[file_key]['list']}
 
+        all_items_to_process = data['master_item_common'].get('list', [])
+        existing_item_ids = {item['itemId'] for item in all_items_to_process}
+
+        print("Scanning for material-only items...")
+        material_only_items_found = 0
+        for material in data.get('master_material', {}).get('list', []):
+            material_id = material.get('materialId')
+            if material_id and material_id not in existing_item_ids:
+                material_only_items_found += 1
+
+                synthetic_item = {
+                    "itemId": material.get('materialId'),
+                    "sortId": material.get('sortId'),
+                    "categoryId": material.get('categoryId'),
+                    "iconResourceName": material.get('iconResourceName'),
+                    "modelResourceName": material.get('modelResourceName')
+                }
+                all_items_to_process.append(synthetic_item)
+                existing_item_ids.add(material_id)
+
+        if material_only_items_found > 0:
+            print(
+                f"Found and added {material_only_items_found} items defined only in master_material.json.")
+
         resolved_items_list = []
         print("Resolving item details...")
 
-        for item in data['master_item_common'].get('list', []):
+        for item in all_items_to_process:
             resolved_item = item.copy()
             item_id = item.get('itemId')
 

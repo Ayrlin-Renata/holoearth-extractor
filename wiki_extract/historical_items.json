@@ -31076,6 +31076,3456 @@
                     }
                 ]
             }
+        },
+        "30306801": {
+            "1.0.20": {
+                "itemId": 30306801,
+                "sortId": 5801,
+                "categoryId": 30306,
+                "iconResourceName": "PlasterBuildingMaterial_White_128",
+                "modelResourceName": "Models/Items/Material/PlasterBuildingMaterial_White",
+                "itemName_EN": "Plaster Building Material (Wh)",
+                "itemName_JA": "漆喰の建築資材（白）",
+                "itemDescription_EN": "Plaster stucco building material for modern construction",
+                "itemDescription_JA": "漆喰のモダンな建築を行うための資材",
+                "category": {
+                    "itemCategoryId": 30306,
+                    "sortId": 0,
+                    "nameKey": "item_category_30306",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Building Materials",
+                    "name_JA": "建築資材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30306801_TenantEditArea",
+                            "materialId": 30306801,
+                            "systemType": "TenantEditArea",
+                            "nameKey": "item_material_30306801",
+                            "descriptionKey": "item_material_d_30306801",
+                            "sortId": 5801,
+                            "categoryId": 30306,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.01,
+                            "stack": 9999,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "PlasterBuildingMaterial_White_128",
+                            "modelResourceName": "Models/Items/Material/PlasterBuildingMaterial_White",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30306802": {
+            "1.0.20": {
+                "itemId": 30306802,
+                "sortId": 5802,
+                "categoryId": 30306,
+                "iconResourceName": "PlasterBuildingMaterial_Gray_128",
+                "modelResourceName": "Models/Items/Material/PlasterBuildingMaterial_Gray",
+                "itemName_EN": "Plaster Building Material (Gry)",
+                "itemName_JA": "漆喰の建築資材（グレー）",
+                "itemDescription_EN": "Plaster stucco building material for modern construction",
+                "itemDescription_JA": "漆喰のモダンな建築を行うための資材",
+                "category": {
+                    "itemCategoryId": 30306,
+                    "sortId": 0,
+                    "nameKey": "item_category_30306",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Building Materials",
+                    "name_JA": "建築資材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30306802_TenantEditArea",
+                            "materialId": 30306802,
+                            "systemType": "TenantEditArea",
+                            "nameKey": "item_material_30306802",
+                            "descriptionKey": "item_material_d_30306802",
+                            "sortId": 5802,
+                            "categoryId": 30306,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.01,
+                            "stack": 9999,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "PlasterBuildingMaterial_Gray_128",
+                            "modelResourceName": "Models/Items/Material/PlasterBuildingMaterial_Gray",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30306803": {
+            "1.0.20": {
+                "itemId": 30306803,
+                "sortId": 5803,
+                "categoryId": 30306,
+                "iconResourceName": "PlasterBuildingMaterial_Black_128",
+                "modelResourceName": "Models/Items/Material/PlasterBuildingMaterial_Black",
+                "itemName_EN": "Plaster Building Material (Blk)",
+                "itemName_JA": "漆喰の建築資材（黒）",
+                "itemDescription_EN": "Plaster stucco building material for modern construction",
+                "itemDescription_JA": "漆喰のモダンな建築を行うための資材",
+                "category": {
+                    "itemCategoryId": 30306,
+                    "sortId": 0,
+                    "nameKey": "item_category_30306",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Building Materials",
+                    "name_JA": "建築資材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30306803_TenantEditArea",
+                            "materialId": 30306803,
+                            "systemType": "TenantEditArea",
+                            "nameKey": "item_material_30306803",
+                            "descriptionKey": "item_material_d_30306803",
+                            "sortId": 5803,
+                            "categoryId": 30306,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.01,
+                            "stack": 9999,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "PlasterBuildingMaterial_Black_128",
+                            "modelResourceName": "Models/Items/Material/PlasterBuildingMaterial_Black",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30306804": {
+            "1.0.20": {
+                "itemId": 30306804,
+                "sortId": 5804,
+                "categoryId": 30306,
+                "iconResourceName": "LumberBuildingMaterial_128",
+                "modelResourceName": "Models/Items/Material/LumberBuildingMaterial",
+                "itemName_EN": "Wooden Building Material B",
+                "itemName_JA": "木の建築資材B",
+                "itemDescription_EN": "Wooden building material for modern construction",
+                "itemDescription_JA": "木製のモダンな建築を行うための資材",
+                "category": {
+                    "itemCategoryId": 30306,
+                    "sortId": 0,
+                    "nameKey": "item_category_30306",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Building Materials",
+                    "name_JA": "建築資材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30306804_TenantEditArea",
+                            "materialId": 30306804,
+                            "systemType": "TenantEditArea",
+                            "nameKey": "item_material_30306804",
+                            "descriptionKey": "item_material_d_30306804",
+                            "sortId": 5804,
+                            "categoryId": 30306,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.01,
+                            "stack": 9999,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "LumberBuildingMaterial_128",
+                            "modelResourceName": "Models/Items/Material/LumberBuildingMaterial",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30306805": {
+            "1.0.20": {
+                "itemId": 30306805,
+                "sortId": 5805,
+                "categoryId": 30306,
+                "iconResourceName": "ConcreteBuildingMaterial_128",
+                "modelResourceName": "Models/Items/Material/ConcreteBuildingMaterial",
+                "itemName_EN": "Concrete Building Material",
+                "itemName_JA": "コンクリートの建築資材",
+                "itemDescription_EN": "Concrete building material for modern construction",
+                "itemDescription_JA": "コンクリートのモダンな建築を行うための資材",
+                "category": {
+                    "itemCategoryId": 30306,
+                    "sortId": 0,
+                    "nameKey": "item_category_30306",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Building Materials",
+                    "name_JA": "建築資材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30306805_TenantEditArea",
+                            "materialId": 30306805,
+                            "systemType": "TenantEditArea",
+                            "nameKey": "item_material_30306805",
+                            "descriptionKey": "item_material_d_30306805",
+                            "sortId": 5805,
+                            "categoryId": 30306,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.01,
+                            "stack": 9999,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "ConcreteBuildingMaterial_128",
+                            "modelResourceName": "Models/Items/Material/ConcreteBuildingMaterial",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30306806": {
+            "1.0.20": {
+                "itemId": 30306806,
+                "sortId": 5806,
+                "categoryId": 30306,
+                "iconResourceName": "GlassBuildingMaterial_128",
+                "modelResourceName": "Models/Items/Material/GlassBuildingMaterial",
+                "itemName_EN": "Glass Building Material",
+                "itemName_JA": "ガラスの建築資材",
+                "itemDescription_EN": "Glass building material for modern construction",
+                "itemDescription_JA": "ガラスのモダンな建築を行うための資材",
+                "category": {
+                    "itemCategoryId": 30306,
+                    "sortId": 0,
+                    "nameKey": "item_category_30306",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Building Materials",
+                    "name_JA": "建築資材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30306806_TenantEditArea",
+                            "materialId": 30306806,
+                            "systemType": "TenantEditArea",
+                            "nameKey": "item_material_30306806",
+                            "descriptionKey": "item_material_d_30306806",
+                            "sortId": 5806,
+                            "categoryId": 30306,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.01,
+                            "stack": 9999,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "GlassBuildingMaterial_128",
+                            "modelResourceName": "Models/Items/Material/GlassBuildingMaterial",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103004": {
+            "1.0.20": {
+                "itemId": 30103004,
+                "sortId": 32,
+                "categoryId": 30103,
+                "iconResourceName": "RoughSapphire_128",
+                "modelResourceName": "Models/Items/Material/RoughSapphire",
+                "itemName_EN": "Sapphire Ore",
+                "itemName_JA": "サファイア鉱石",
+                "itemDescription_EN": "An ore containing a brilliant sapphire",
+                "itemDescription_JA": "美しいサファイアを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103004_All",
+                            "materialId": 30103004,
+                            "systemType": "",
+                            "nameKey": "item_material_30103004",
+                            "descriptionKey": "item_material_d_30103004",
+                            "sortId": 32,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughSapphire_128",
+                            "modelResourceName": "Models/Items/Material/RoughSapphire",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103005": {
+            "1.0.20": {
+                "itemId": 30103005,
+                "sortId": 33,
+                "categoryId": 30103,
+                "iconResourceName": "RoughRuby_128",
+                "modelResourceName": "Models/Items/Material/RoughRuby",
+                "itemName_EN": "Ruby Ore",
+                "itemName_JA": "ルビー鉱石",
+                "itemDescription_EN": "An ore containing a brilliant ruby",
+                "itemDescription_JA": "美しいルビーを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103005_All",
+                            "materialId": 30103005,
+                            "systemType": "",
+                            "nameKey": "item_material_30103005",
+                            "descriptionKey": "item_material_d_30103005",
+                            "sortId": 33,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughRuby_128",
+                            "modelResourceName": "Models/Items/Material/RoughRuby",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103007": {
+            "1.0.20": {
+                "itemId": 30103007,
+                "sortId": 35,
+                "categoryId": 30103,
+                "iconResourceName": "RoughTopaz_128",
+                "modelResourceName": "Models/Items/Material/RoughTopaz",
+                "itemName_EN": "Topaz Ore",
+                "itemName_JA": "トパーズ鉱石",
+                "itemDescription_EN": "An ore containing a brilliant topaz",
+                "itemDescription_JA": "美しいトパーズを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103007_All",
+                            "materialId": 30103007,
+                            "systemType": "",
+                            "nameKey": "item_material_30103007",
+                            "descriptionKey": "item_material_d_30103007",
+                            "sortId": 35,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughTopaz_128",
+                            "modelResourceName": "Models/Items/Material/RoughTopaz",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103008": {
+            "1.0.20": {
+                "itemId": 30103008,
+                "sortId": 36,
+                "categoryId": 30103,
+                "iconResourceName": "RoughEmerald_128",
+                "modelResourceName": "Models/Items/Material/RoughEmerald",
+                "itemName_EN": "Emerald Ore",
+                "itemName_JA": "エメラルド鉱石",
+                "itemDescription_EN": "An ore containing a brilliant emerald",
+                "itemDescription_JA": "美しいエメラルドを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103008_All",
+                            "materialId": 30103008,
+                            "systemType": "",
+                            "nameKey": "item_material_30103008",
+                            "descriptionKey": "item_material_d_30103008",
+                            "sortId": 36,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughEmerald_128",
+                            "modelResourceName": "Models/Items/Material/RoughEmerald",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103009": {
+            "1.0.20": {
+                "itemId": 30103009,
+                "sortId": 37,
+                "categoryId": 30103,
+                "iconResourceName": "RoughAmethyst_128",
+                "modelResourceName": "Models/Items/Material/RoughAmethyst",
+                "itemName_EN": "Amethyst Ore",
+                "itemName_JA": "アメジスト鉱石",
+                "itemDescription_EN": "An ore containing a brilliant amethyst",
+                "itemDescription_JA": "美しいアメジストを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103009_All",
+                            "materialId": 30103009,
+                            "systemType": "",
+                            "nameKey": "item_material_30103009",
+                            "descriptionKey": "item_material_d_30103009",
+                            "sortId": 37,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughAmethyst_128",
+                            "modelResourceName": "Models/Items/Material/RoughAmethyst",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103011": {
+            "1.0.20": {
+                "itemId": 30103011,
+                "sortId": 32,
+                "categoryId": 30103,
+                "iconResourceName": "RoughSapphire_R_128",
+                "modelResourceName": "Models/Items/Material/RoughSapphire",
+                "itemName_EN": "Radiant Sapphire Ore",
+                "itemName_JA": "輝くサファイア鉱石",
+                "itemDescription_EN": "An ore containing a precious and lustrous sapphire",
+                "itemDescription_JA": "貴重で特に美しいサファイアを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103011_All",
+                            "materialId": 30103011,
+                            "systemType": "",
+                            "nameKey": "item_material_30103011",
+                            "descriptionKey": "item_material_d_30103011",
+                            "sortId": 32,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.5,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughSapphire_R_128",
+                            "modelResourceName": "Models/Items/Material/RoughSapphire",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103012": {
+            "1.0.20": {
+                "itemId": 30103012,
+                "sortId": 33,
+                "categoryId": 30103,
+                "iconResourceName": "RoughRuby_R_128",
+                "modelResourceName": "Models/Items/Material/RoughRuby",
+                "itemName_EN": "Radiant Ruby Ore",
+                "itemName_JA": "輝くルビー鉱石",
+                "itemDescription_EN": "An ore containing a precious and lustrous ruby",
+                "itemDescription_JA": "貴重で特に美しいルビーを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103012_All",
+                            "materialId": 30103012,
+                            "systemType": "",
+                            "nameKey": "item_material_30103012",
+                            "descriptionKey": "item_material_d_30103012",
+                            "sortId": 33,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.5,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughRuby_R_128",
+                            "modelResourceName": "Models/Items/Material/RoughRuby",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103013": {
+            "1.0.20": {
+                "itemId": 30103013,
+                "sortId": 35,
+                "categoryId": 30103,
+                "iconResourceName": "RoughTopaz_R_128",
+                "modelResourceName": "Models/Items/Material/RoughTopaz",
+                "itemName_EN": "Radiant Topaz Ore",
+                "itemName_JA": "輝くトパーズ鉱石",
+                "itemDescription_EN": "An ore containing a precious and lustrous topaz",
+                "itemDescription_JA": "貴重で特に美しいトパーズを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103013_All",
+                            "materialId": 30103013,
+                            "systemType": "",
+                            "nameKey": "item_material_30103013",
+                            "descriptionKey": "item_material_d_30103013",
+                            "sortId": 35,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.5,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughTopaz_R_128",
+                            "modelResourceName": "Models/Items/Material/RoughTopaz",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103014": {
+            "1.0.20": {
+                "itemId": 30103014,
+                "sortId": 36,
+                "categoryId": 30103,
+                "iconResourceName": "RoughEmerald_R_128",
+                "modelResourceName": "Models/Items/Material/RoughEmerald",
+                "itemName_EN": "Radiant Emerald Ore",
+                "itemName_JA": "輝くエメラルド鉱石",
+                "itemDescription_EN": "An ore containing a precious and lustrous emerald",
+                "itemDescription_JA": "貴重で特に美しいエメラルドを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103014_All",
+                            "materialId": 30103014,
+                            "systemType": "",
+                            "nameKey": "item_material_30103014",
+                            "descriptionKey": "item_material_d_30103014",
+                            "sortId": 36,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.5,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughEmerald_R_128",
+                            "modelResourceName": "Models/Items/Material/RoughEmerald",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30103015": {
+            "1.0.20": {
+                "itemId": 30103015,
+                "sortId": 37,
+                "categoryId": 30103,
+                "iconResourceName": "RoughAmethyst_R_128",
+                "modelResourceName": "Models/Items/Material/RoughAmethyst",
+                "itemName_EN": "Radiant Amethyst Ore",
+                "itemName_JA": "輝くアメジスト鉱石",
+                "itemDescription_EN": "An ore containing a precious and lustrous amethyst",
+                "itemDescription_JA": "貴重で特に美しいアメジストを含有した石",
+                "category": {
+                    "itemCategoryId": 30103,
+                    "sortId": 0,
+                    "nameKey": "item_category_30103",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Gems",
+                    "name_JA": "宝石"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30103015_All",
+                            "materialId": 30103015,
+                            "systemType": "",
+                            "nameKey": "item_material_30103015",
+                            "descriptionKey": "item_material_d_30103015",
+                            "sortId": 37,
+                            "categoryId": 30103,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.5,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "RoughAmethyst_R_128",
+                            "modelResourceName": "Models/Items/Material/RoughAmethyst",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30106099": {
+            "1.0.20": {
+                "itemId": 30106099,
+                "sortId": 9901,
+                "categoryId": 30106,
+                "iconResourceName": "TalentCard_128",
+                "modelResourceName": "Models/Items/Material/TalentCard",
+                "itemName_EN": "HoloIncentive",
+                "itemName_JA": "ホロインセンティブ",
+                "itemDescription_EN": "Obtained by completing quests from talents. Can be exchanged for special items",
+                "itemDescription_JA": "タレントからのクエストをクリアすることで手に入る。このアイテムは特別なアイテムと交換することができる",
+                "category": {
+                    "itemCategoryId": 30106,
+                    "sortId": 0,
+                    "nameKey": "item_category_30106",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 301,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "MetaMaterial",
+                    "name_JA": "メタマテリアル"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30106099_SandBox",
+                            "materialId": 30106099,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30106099",
+                            "descriptionKey": "item_material_d_30106099",
+                            "sortId": 9901,
+                            "categoryId": 30106,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.01,
+                            "stack": 9999,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "TalentCard_128",
+                            "modelResourceName": "Models/Items/Material/TalentCard",
+                            "throwProjectileAddress": "ThrowingIncentive",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200005": {
+            "1.0.20": {
+                "itemId": 30200005,
+                "sortId": 2904,
+                "categoryId": 302,
+                "iconResourceName": "GolemCore_128",
+                "modelResourceName": "Models/Items/Material/GolemCore",
+                "itemName_EN": "Golem Core",
+                "itemName_JA": "ゴーレムコア",
+                "itemDescription_EN": "The core of a golem that holds some unknown power\nMaybe it could power something",
+                "itemDescription_JA": "未知の力を秘めているゴーレムの核。何かの動力になりそうだ",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200005_All",
+                            "materialId": 30200005,
+                            "systemType": "",
+                            "nameKey": "item_material_30200005",
+                            "descriptionKey": "item_material_d_30200005",
+                            "sortId": 2904,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 3,
+                            "weight": 20,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "GolemCore_128",
+                            "modelResourceName": "Models/Items/Material/GolemCore",
+                            "throwProjectileAddress": "ThrowingSlimeCore_Soil",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200006": {
+            "1.0.20": {
+                "itemId": 30200006,
+                "sortId": 2903,
+                "categoryId": 302,
+                "iconResourceName": "GolemStone_128",
+                "modelResourceName": "Models/Items/Material/GolemStone",
+                "itemName_EN": "Golem Stone",
+                "itemName_JA": "ゴーレム石",
+                "itemDescription_EN": "A magically charged stone that makes up a golem's body",
+                "itemDescription_JA": "ゴーレムの身体を構成している魔力を帯びた石",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200006_All",
+                            "materialId": 30200006,
+                            "systemType": "",
+                            "nameKey": "item_material_30200006",
+                            "descriptionKey": "item_material_d_30200006",
+                            "sortId": 2903,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 3,
+                            "weight": 5,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "GolemStone_128",
+                            "modelResourceName": "Models/Items/Material/GolemStone",
+                            "throwProjectileAddress": "ThrowingStone",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200032": {
+            "1.0.20": {
+                "itemId": 30200032,
+                "sortId": 9102,
+                "categoryId": 302,
+                "iconResourceName": "Element_red_128",
+                "modelResourceName": "Models/Items/Material/Element_red",
+                "itemName_EN": "Element",
+                "itemName_JA": "エレメント",
+                "itemDescription_EN": "A substance obtained by defeating creatures that emit aura",
+                "itemDescription_JA": "オーラを放つ生物を倒すと手に入れられる物質",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200032_SandBox",
+                            "materialId": 30200032,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200032",
+                            "descriptionKey": "item_material_d_30200032",
+                            "sortId": 9102,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.5,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "Element_red_128",
+                            "modelResourceName": "Models/Items/Material/Element_red",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200033": {
+            "1.0.20": {
+                "itemId": 30200033,
+                "sortId": 2105,
+                "categoryId": 302,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/SlimeGel_soil",
+                "itemName_EN": "Rock Slime Gel",
+                "itemName_JA": "ロックスライムジェル",
+                "itemDescription_EN": "Gel secreted by rock slimes",
+                "itemDescription_JA": "ロックスライムが分泌するジェル",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200033_SandBox",
+                            "materialId": 30200033,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200033",
+                            "descriptionKey": "item_material_d_30200033",
+                            "sortId": 2105,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/SlimeGel_soil",
+                            "throwProjectileAddress": "ThrowingSlimeGel_Soil",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200034": {
+            "1.0.20": {
+                "itemId": 30200034,
+                "sortId": 2106,
+                "categoryId": 302,
+                "iconResourceName": "SlimeCore_soil_128",
+                "modelResourceName": "Models/Items/Material/SlimeCore_soil",
+                "itemName_EN": "Rock Slime Core",
+                "itemName_JA": "ロックスライムコア",
+                "itemDescription_EN": "The core of a rock slime that holds some unknown power",
+                "itemDescription_JA": "未知の力を秘めているロックスライムの核",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200034_SandBox",
+                            "materialId": 30200034,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200034",
+                            "descriptionKey": "item_material_d_30200034",
+                            "sortId": 2106,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeCore_soil_128",
+                            "modelResourceName": "Models/Items/Material/SlimeCore_soil",
+                            "throwProjectileAddress": "ThrowingSlimeCore_Soil",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200035": {
+            "1.0.20": {
+                "itemId": 30200035,
+                "sortId": 2107,
+                "categoryId": 302,
+                "iconResourceName": "SlimeGel_wind_128",
+                "modelResourceName": "Models/Items/Material/SlimeGel_wind",
+                "itemName_EN": "Wind Slime Gel",
+                "itemName_JA": "ウィンドスライムジェル",
+                "itemDescription_EN": "Gel secreted by wind slimes",
+                "itemDescription_JA": "ウィンドスライムが分泌するジェル",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200035_SandBox",
+                            "materialId": 30200035,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200035",
+                            "descriptionKey": "item_material_d_30200035",
+                            "sortId": 2107,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_wind_128",
+                            "modelResourceName": "Models/Items/Material/SlimeGel_wind",
+                            "throwProjectileAddress": "ThrowingSlimeGel_Wind",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200036": {
+            "1.0.20": {
+                "itemId": 30200036,
+                "sortId": 2108,
+                "categoryId": 302,
+                "iconResourceName": "SlimeCore_wind_128",
+                "modelResourceName": "Models/Items/Material/SlimeCore_wind",
+                "itemName_EN": "Wind Slime Core",
+                "itemName_JA": "ウィンドスライムコア",
+                "itemDescription_EN": "The core of a wind slime that holds some unknown power",
+                "itemDescription_JA": "未知の力を秘めているウィンドスライムの核",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200036_SandBox",
+                            "materialId": 30200036,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200036",
+                            "descriptionKey": "item_material_d_30200036",
+                            "sortId": 2108,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeCore_wind_128",
+                            "modelResourceName": "Models/Items/Material/SlimeCore_wind",
+                            "throwProjectileAddress": "ThrowingSlimeCore_Wind",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200037": {
+            "1.0.20": {
+                "itemId": 30200037,
+                "sortId": 2109,
+                "categoryId": 302,
+                "iconResourceName": "SlimeGel_electric_128",
+                "modelResourceName": "Models/Items/Material/SlimeGel_electric",
+                "itemName_EN": "Electric Slime Gel",
+                "itemName_JA": "エレキスライムジェル",
+                "itemDescription_EN": "Gel secreted by electric slimes",
+                "itemDescription_JA": "エレキスライムが分泌するジェル",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200037_SandBox",
+                            "materialId": 30200037,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200037",
+                            "descriptionKey": "item_material_d_30200037",
+                            "sortId": 2109,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_electric_128",
+                            "modelResourceName": "Models/Items/Material/SlimeGel_electric",
+                            "throwProjectileAddress": "ThrowingSlimeGel_Electric",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200038": {
+            "1.0.20": {
+                "itemId": 30200038,
+                "sortId": 2110,
+                "categoryId": 302,
+                "iconResourceName": "SlimeCore_electric_128",
+                "modelResourceName": "Models/Items/Material/SlimeCore_electric",
+                "itemName_EN": "Electric Slime Core",
+                "itemName_JA": "エレキスライムコア",
+                "itemDescription_EN": "The core of an electric slime that holds some unknown power",
+                "itemDescription_JA": "未知の力を秘めているエレキスライムの核",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200038_SandBox",
+                            "materialId": 30200038,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200038",
+                            "descriptionKey": "item_material_d_30200038",
+                            "sortId": 2110,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeCore_electric_128",
+                            "modelResourceName": "Models/Items/Material/SlimeCore_electric",
+                            "throwProjectileAddress": "ThrowingSlimeCore_Electric",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200039": {
+            "1.0.20": {
+                "itemId": 30200039,
+                "sortId": 2111,
+                "categoryId": 302,
+                "iconResourceName": "SlimeGel_ice_128",
+                "modelResourceName": "Models/Items/Material/SlimeGel_ice",
+                "itemName_EN": "Ice Slime Gel",
+                "itemName_JA": "アイススライムジェル",
+                "itemDescription_EN": "Gel secreted by ice slimes",
+                "itemDescription_JA": "アイススライムが分泌するジェル",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200039_SandBox",
+                            "materialId": 30200039,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200039",
+                            "descriptionKey": "item_material_d_30200039",
+                            "sortId": 2111,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_ice_128",
+                            "modelResourceName": "Models/Items/Material/SlimeGel_ice",
+                            "throwProjectileAddress": "ThrowingSlimeGel_Ice",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200040": {
+            "1.0.20": {
+                "itemId": 30200040,
+                "sortId": 2112,
+                "categoryId": 302,
+                "iconResourceName": "SlimeCore_ice_128",
+                "modelResourceName": "Models/Items/Material/SlimeCore_ice",
+                "itemName_EN": "Ice Slime Core",
+                "itemName_JA": "アイススライムコア",
+                "itemDescription_EN": "The core of an ice slime that holds some unknown power",
+                "itemDescription_JA": "未知の力を秘めているアイススライムの核",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200040_SandBox",
+                            "materialId": 30200040,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200040",
+                            "descriptionKey": "item_material_d_30200040",
+                            "sortId": 2112,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeCore_ice_128",
+                            "modelResourceName": "Models/Items/Material/SlimeCore_ice",
+                            "throwProjectileAddress": "ThrowingSlimeCore_Ice",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30200041": {
+            "1.0.20": {
+                "itemId": 30200041,
+                "sortId": 2004,
+                "categoryId": 302,
+                "iconResourceName": "SheepHorn_128",
+                "modelResourceName": "Models/Items/Material/SheepHorn",
+                "itemName_EN": "Sheep Horn",
+                "itemName_JA": "ヒツジの角",
+                "itemDescription_EN": "A horn taken from a sheep",
+                "itemDescription_JA": "ヒツジから採れる角",
+                "category": {
+                    "itemCategoryId": 302,
+                    "sortId": 302,
+                    "nameKey": "item_category_302",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 302,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Hunting Materials",
+                    "name_JA": "狩猟素材"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30200041_SandBox",
+                            "materialId": 30200041,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30200041",
+                            "descriptionKey": "item_material_d_30200041",
+                            "sortId": 2004,
+                            "categoryId": 302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 2,
+                            "weight": 0.5,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SheepHorn_128",
+                            "modelResourceName": "Models/Items/Material/SheepHorn",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307001": {
+            "1.0.20": {
+                "itemId": 30307001,
+                "sortId": 31001,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Rolling_None_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Rolling",
+                "itemName_JA": "エンチャント本：ローリング",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nRolling:\nRoll forward to dodge attacks and briefly gain invincibility",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nローリング：\n前転して攻撃を回避する。わずかにダメージを受けない時間がある",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307001_SandBox",
+                            "materialId": 30307001,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307001",
+                            "descriptionKey": "item_material_d_30307001",
+                            "sortId": 31001,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Rolling_None_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307002": {
+            "1.0.20": {
+                "itemId": 30307002,
+                "sortId": 31002,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_FlyingSlash_None_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Soaring Slash",
+                "itemName_JA": "エンチャント本：飛翔斬",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nSoaring Slash\nUnleash a flying slash to damage enemies from a distance",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n飛翔斬：\n斬撃を飛ばして敵にダメージを与える",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307002_SandBox",
+                            "materialId": 30307002,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307002",
+                            "descriptionKey": "item_material_d_30307002",
+                            "sortId": 31002,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_FlyingSlash_None_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307003": {
+            "1.0.20": {
+                "itemId": 30307003,
+                "sortId": 31003,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_FlyingSlash_Fire_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Heat Slash",
+                "itemName_JA": "エンチャント本：ヒートスラッシュ",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nHeat Slash:\nUnleash an elemental fire slash that damages enemies and builds up burning",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nヒートスラッシュ：\n火属性の斬撃を飛ばして敵にダメージを与える。燃焼効果を蓄積させることができる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307003_SandBox",
+                            "materialId": 30307003,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307003",
+                            "descriptionKey": "item_material_d_30307003",
+                            "sortId": 31003,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_FlyingSlash_Fire_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307004": {
+            "1.0.20": {
+                "itemId": 30307004,
+                "sortId": 31004,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_FlyingSlash_Water_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Mizuchi",
+                "itemName_JA": "エンチャント本：ミズチ",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nMizuchi:\nUnleash an elemental hydro slash that damages and drenches enemies",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nミズチ：\n水属性の斬撃を飛ばして敵にダメージを与える。相手を濡らすことができる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307004_SandBox",
+                            "materialId": 30307004,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307004",
+                            "descriptionKey": "item_material_d_30307004",
+                            "sortId": 31004,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_FlyingSlash_Water_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307005": {
+            "1.0.20": {
+                "itemId": 30307005,
+                "sortId": 31005,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_FlyingSlash_Ground_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Soaring Slash (Terra)",
+                "itemName_JA": "item_material_30307005",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307005_SandBox",
+                            "materialId": 30307005,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307005",
+                            "descriptionKey": "item_material_d_30307005",
+                            "sortId": 31005,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_FlyingSlash_Ground_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307006": {
+            "1.0.20": {
+                "itemId": 30307006,
+                "sortId": 31006,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_FlyingSlash_Wind_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Wind Slash",
+                "itemName_JA": "エンチャント本：風刃",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nWind Slash:\nUnleash an elemental wind slash with extended range that damages enemies",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n風刃：\n風属性の斬撃を飛ばして敵にダメージを与える。飛距離が長くなっている",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307006_SandBox",
+                            "materialId": 30307006,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307006",
+                            "descriptionKey": "item_material_d_30307006",
+                            "sortId": 31006,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_FlyingSlash_Wind_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307007": {
+            "1.0.20": {
+                "itemId": 30307007,
+                "sortId": 31007,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_FlyingSlash_Thunder_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Soaring Slash (Electric)",
+                "itemName_JA": "item_material_30307007",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307007_SandBox",
+                            "materialId": 30307007,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307007",
+                            "descriptionKey": "item_material_d_30307007",
+                            "sortId": 31007,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_FlyingSlash_Thunder_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307008": {
+            "1.0.20": {
+                "itemId": 30307008,
+                "sortId": 31008,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_FlyingSlash_Ice_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Frost Edge",
+                "itemName_JA": "エンチャント本：フロストエッジ",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nFrost Edge:\nUnleash an elemental ice slash that damages enemies and builds up freezing",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nフロストエッジ：\n氷属性の斬撃を飛ばして敵にダメージを与える。凍結効果を蓄積させることができる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307008_SandBox",
+                            "materialId": 30307008,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307008",
+                            "descriptionKey": "item_material_d_30307008",
+                            "sortId": 31008,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_FlyingSlash_Ice_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307009": {
+            "1.0.20": {
+                "itemId": 30307009,
+                "sortId": 31009,
+                "categoryId": 30307,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Soaring Slash (Light)",
+                "itemName_JA": "item_material_30307009",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307009_SandBox",
+                            "materialId": 30307009,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307009",
+                            "descriptionKey": "item_material_d_30307009",
+                            "sortId": 31009,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307010": {
+            "1.0.20": {
+                "itemId": 30307010,
+                "sortId": 31010,
+                "categoryId": 30307,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Soaring Slash (Dark)",
+                "itemName_JA": "item_material_30307010",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307010_SandBox",
+                            "materialId": 30307010,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307010",
+                            "descriptionKey": "item_material_d_30307010",
+                            "sortId": 31010,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 1,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307011": {
+            "1.0.20": {
+                "itemId": 30307011,
+                "sortId": 31011,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_CrossSlash_None_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Cross Slash",
+                "itemName_JA": "エンチャント本：十字斬り",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material:\nCross Slash:\nSlash an enemy three times in a crisscross pattern",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n十字斬り：\n十字に3度敵を斬りつける",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307011_SandBox",
+                            "materialId": 30307011,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307011",
+                            "descriptionKey": "item_material_d_30307011",
+                            "sortId": 31011,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_CrossSlash_None_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307012": {
+            "1.0.20": {
+                "itemId": 30307012,
+                "sortId": 31014,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Impact_None_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Impact",
+                "itemName_JA": "エンチャント本：インパクト",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nImpact:\nStrike the earth with your sword, knocking enemies back with a shockwave",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nインパクト：\n剣を地面に叩きつけ、衝撃でまわりの敵を弾き飛ばす",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307012_SandBox",
+                            "materialId": 30307012,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307012",
+                            "descriptionKey": "item_material_d_30307012",
+                            "sortId": 31014,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Impact_None_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307013": {
+            "1.0.20": {
+                "itemId": 30307013,
+                "sortId": 31015,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Impact_Fire_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Impact (Fire)",
+                "itemName_JA": "item_material_30307013",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307013_SandBox",
+                            "materialId": 30307013,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307013",
+                            "descriptionKey": "item_material_d_30307013",
+                            "sortId": 31015,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Impact_Fire_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307014": {
+            "1.0.20": {
+                "itemId": 30307014,
+                "sortId": 31016,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Impact_Water_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Impact (Hydroo)",
+                "itemName_JA": "item_material_30307014",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307014_SandBox",
+                            "materialId": 30307014,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307014",
+                            "descriptionKey": "item_material_d_30307014",
+                            "sortId": 31016,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Impact_Water_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307015": {
+            "1.0.20": {
+                "itemId": 30307015,
+                "sortId": 31017,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Impact_Ground_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Terra Shatter",
+                "itemName_JA": "エンチャント本：地砕剣",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nTerra Shatter:\nStrike the earth with your sword, staggering enemies with a earth-element shockwave",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n地砕剣：\n剣を地面に叩きつけ、地属性の衝撃で敵を弾き飛ばす",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307015_SandBox",
+                            "materialId": 30307015,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307015",
+                            "descriptionKey": "item_material_d_30307015",
+                            "sortId": 31017,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Impact_Ground_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307016": {
+            "1.0.20": {
+                "itemId": 30307016,
+                "sortId": 31018,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Impact_Wind_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Wind Burst",
+                "itemName_JA": "エンチャント本：ウィンドバースト",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nWind Burst:\nStrike the earth with your sword, launching enemies with a wind-element shockwave",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nウィンドバースト：\n剣を地面に叩きつけ、風属性の衝撃で敵を弾き飛ばす",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307016_SandBox",
+                            "materialId": 30307016,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307016",
+                            "descriptionKey": "item_material_d_30307016",
+                            "sortId": 31018,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Impact_Wind_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307017": {
+            "1.0.20": {
+                "itemId": 30307017,
+                "sortId": 31019,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Impact_Thunder_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Impact (Electric)",
+                "itemName_JA": "item_material_30307017",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307017_SandBox",
+                            "materialId": 30307017,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307017",
+                            "descriptionKey": "item_material_d_30307017",
+                            "sortId": 31019,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Impact_Thunder_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307018": {
+            "1.0.20": {
+                "itemId": 30307018,
+                "sortId": 31020,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Impact_Ice_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Impact (Ice)",
+                "itemName_JA": "item_material_30307018",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307018_SandBox",
+                            "materialId": 30307018,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307018",
+                            "descriptionKey": "item_material_d_30307018",
+                            "sortId": 31020,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Impact_Ice_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307019": {
+            "1.0.20": {
+                "itemId": 30307019,
+                "sortId": 31021,
+                "categoryId": 30307,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Impact (Light)",
+                "itemName_JA": "item_material_30307019",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307019_SandBox",
+                            "materialId": 30307019,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307019",
+                            "descriptionKey": "item_material_d_30307019",
+                            "sortId": 31021,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307020": {
+            "1.0.20": {
+                "itemId": 30307020,
+                "sortId": 31022,
+                "categoryId": 30307,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Impact (Dark)",
+                "itemName_JA": "item_material_30307020",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307020_SandBox",
+                            "materialId": 30307020,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307020",
+                            "descriptionKey": "item_material_d_30307020",
+                            "sortId": 31022,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307021": {
+            "1.0.20": {
+                "itemId": 30307021,
+                "sortId": 31023,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Wave_Fire_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Inferno Flash",
+                "itemName_JA": "エンチャント本：猛火一閃",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nInferno Flash:\nUnleash a fan-shaped blast of flame, dealing area damage and rapidly building up burning",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n猛火一閃：\n炎を扇形に放つ範囲攻撃。燃焼効果を大きく蓄積させることができる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307021_SandBox",
+                            "materialId": 30307021,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307021",
+                            "descriptionKey": "item_material_d_30307021",
+                            "sortId": 31023,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Wave_Fire_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307022": {
+            "1.0.20": {
+                "itemId": 30307022,
+                "sortId": 31024,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Wave_Water_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Wavebreaker Surge",
+                "itemName_JA": "エンチャント本：波状の太刀",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nWavebreaker Surge:\nUnleash a fan-shaped burst of water, dealing area damage and drenching enemies",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n波状の太刀：\n水を扇形に放つ範囲攻撃。相手を濡らすことができる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307022_SandBox",
+                            "materialId": 30307022,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307022",
+                            "descriptionKey": "item_material_d_30307022",
+                            "sortId": 31024,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Wave_Water_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307023": {
+            "1.0.20": {
+                "itemId": 30307023,
+                "sortId": 31025,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Wave_Ground_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Wave (Terra)",
+                "itemName_JA": "item_material_30307023",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307023_SandBox",
+                            "materialId": 30307023,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307023",
+                            "descriptionKey": "item_material_d_30307023",
+                            "sortId": 31025,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Wave_Ground_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307024": {
+            "1.0.20": {
+                "itemId": 30307024,
+                "sortId": 31026,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Wave_Wind_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Wave (Wind)",
+                "itemName_JA": "item_material_30307024",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307024_SandBox",
+                            "materialId": 30307024,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307024",
+                            "descriptionKey": "item_material_d_30307024",
+                            "sortId": 31026,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Wave_Wind_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307025": {
+            "1.0.20": {
+                "itemId": 30307025,
+                "sortId": 31027,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Wave_Thunder_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Thunder Clap",
+                "itemName_JA": "エンチャント本：サンダークラップ",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nThunder Clap:\nUnleash a fan-shaped burst of lightning, dealing area damage and inflicting minor paralysis",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nサンダークラップ：\n雷を扇形に放つ範囲攻撃。相手を少しだけ麻痺させることができる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307025_SandBox",
+                            "materialId": 30307025,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307025",
+                            "descriptionKey": "item_material_d_30307025",
+                            "sortId": 31027,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Wave_Thunder_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307026": {
+            "1.0.20": {
+                "itemId": 30307026,
+                "sortId": 31028,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Wave_Ice_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Frostshard Dance",
+                "itemName_JA": "エンチャント本：氷塊斬舞",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nFrostshard Dance:\nUnleash a fan-shaped blast of ice, dealing area damage and rapidly building up freezing",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n氷塊斬舞：\n氷を扇形に放つ範囲攻撃。凍結効果を大きく蓄積させることができる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307026_SandBox",
+                            "materialId": 30307026,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307026",
+                            "descriptionKey": "item_material_d_30307026",
+                            "sortId": 31028,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Wave_Ice_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307027": {
+            "1.0.20": {
+                "itemId": 30307027,
+                "sortId": 31029,
+                "categoryId": 30307,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Wave (Light)",
+                "itemName_JA": "item_material_30307027",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307027_SandBox",
+                            "materialId": 30307027,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307027",
+                            "descriptionKey": "item_material_d_30307027",
+                            "sortId": 31029,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307028": {
+            "1.0.20": {
+                "itemId": 30307028,
+                "sortId": 31030,
+                "categoryId": 30307,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Wave (Dark)",
+                "itemName_JA": "item_material_30307028",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307028_SandBox",
+                            "materialId": 30307028,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307028",
+                            "descriptionKey": "item_material_d_30307028",
+                            "sortId": 31030,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307029": {
+            "1.0.20": {
+                "itemId": 30307029,
+                "sortId": 31031,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Beam_Fire_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Scorching Thrust",
+                "itemName_JA": "エンチャント本：灼火穿",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nScorching Thrust:\nFire a focused heat ray straight ahead, dealing massive damage to enemies in its path",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n灼火穿：\n圧縮した熱線を放ち、直線上の敵に大きなダメージを与える",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307029_SandBox",
+                            "materialId": 30307029,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307029",
+                            "descriptionKey": "item_material_d_30307029",
+                            "sortId": 31031,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Beam_Fire_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307030": {
+            "1.0.20": {
+                "itemId": 30307030,
+                "sortId": 31032,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Beam_Water_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Hydro Shot",
+                "itemName_JA": "エンチャント本：ハイドロショット",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nHydro Shot:\nFire a compressed stream of water straight ahead, dealing massive damage to enemies in its path",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nハイドロショット：\n圧縮された水流を放ち、直線上の敵に大きなダメージを与える",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307030_SandBox",
+                            "materialId": 30307030,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307030",
+                            "descriptionKey": "item_material_d_30307030",
+                            "sortId": 31032,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Beam_Water_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307031": {
+            "1.0.20": {
+                "itemId": 30307031,
+                "sortId": 31033,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Beam_Ground_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Beam (Terra)",
+                "itemName_JA": "item_material_30307031",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307031_SandBox",
+                            "materialId": 30307031,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307031",
+                            "descriptionKey": "item_material_d_30307031",
+                            "sortId": 31033,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Beam_Ground_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307032": {
+            "1.0.20": {
+                "itemId": 30307032,
+                "sortId": 31034,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Beam_Wind_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Beam (Wind)",
+                "itemName_JA": "item_material_30307032",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307032_SandBox",
+                            "materialId": 30307032,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307032",
+                            "descriptionKey": "item_material_d_30307032",
+                            "sortId": 31034,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Beam_Wind_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307033": {
+            "1.0.20": {
+                "itemId": 30307033,
+                "sortId": 31035,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Beam_Thunder_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Plasma Ray",
+                "itemName_JA": "エンチャント本：プラズマレイ",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nPlasma Ray:\nFire a focused bolt of electricity straight ahead, dealing massive damage to enemies in its path",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nプラズマレイ：\n圧縮した雷を放ち、直線上の敵に大きなダメージを与える",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307033_SandBox",
+                            "materialId": 30307033,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307033",
+                            "descriptionKey": "item_material_d_30307033",
+                            "sortId": 31035,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Beam_Thunder_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307034": {
+            "1.0.20": {
+                "itemId": 30307034,
+                "sortId": 31036,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Beam_Ice_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Glacial Thrust",
+                "itemName_JA": "エンチャント本：グレイシャルスラスト",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nGlacial Thrust:\nFire a beam of compressed, freezing air straight ahead, dealing massive damage to enemies in its path",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nグレイシャルスラスト：\n圧縮した冷気を放ち、直線上の敵に大きなダメージを与える",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307034_SandBox",
+                            "materialId": 30307034,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307034",
+                            "descriptionKey": "item_material_d_30307034",
+                            "sortId": 31036,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Beam_Ice_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307035": {
+            "1.0.20": {
+                "itemId": 30307035,
+                "sortId": 31037,
+                "categoryId": 30307,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Beam (Light)",
+                "itemName_JA": "item_material_30307035",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307035_SandBox",
+                            "materialId": 30307035,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307035",
+                            "descriptionKey": "item_material_d_30307035",
+                            "sortId": 31037,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307036": {
+            "1.0.20": {
+                "itemId": 30307036,
+                "sortId": 31038,
+                "categoryId": 30307,
+                "iconResourceName": "SlimeGel_soil_128",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Beam (Dark)",
+                "itemName_JA": "item_material_30307036",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307036_SandBox",
+                            "materialId": 30307036,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307036",
+                            "descriptionKey": "item_material_d_30307036",
+                            "sortId": 31038,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "SlimeGel_soil_128",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307037": {
+            "1.0.20": {
+                "itemId": 30307037,
+                "sortId": 31039,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_ThunderSlash_Thunder_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Raijin Slash",
+                "itemName_JA": "エンチャント本：雷神斬り",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nRaijin Slash:\nEnshroud your blade in electricity and strike with a secret art that calls forth lightning",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n雷神斬り：\n剣に雷を纏い、斬撃とともに落雷を叩きつける奥義",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307037_SandBox",
+                            "materialId": 30307037,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307037",
+                            "descriptionKey": "item_material_d_30307037",
+                            "sortId": 31039,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_ThunderSlash_Thunder_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307038": {
+            "1.0.20": {
+                "itemId": 30307038,
+                "sortId": 31013,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Swift_None_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Dash",
+                "itemName_JA": "エンチャント本：スウィフト",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nDash:\nDash forward instantly and briefly gain invincibility",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\nスウィフト：\n瞬時に前進する。わずかにダメージを受けない時間がある",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307038_SandBox",
+                            "materialId": 30307038,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307038",
+                            "descriptionKey": "item_material_d_30307038",
+                            "sortId": 31013,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Swift_None_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307039": {
+            "1.0.20": {
+                "itemId": 30307039,
+                "sortId": 31012,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Buff_None_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Battle Spirit",
+                "itemName_JA": "エンチャント本：戦意高揚",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material.\nBattle Spirit:\nIgnite the fighting spirit in nearby allies, granting a brief increase in attack power",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる。\n戦意高揚：\n剣を掲げ、自分と周囲の味方の攻撃力を短時間上げる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307039_SandBox",
+                            "materialId": 30307039,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307039",
+                            "descriptionKey": "item_material_d_30307039",
+                            "sortId": 31012,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Buff_None_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
+        },
+        "30307040": {
+            "1.0.20": {
+                "itemId": 30307040,
+                "sortId": 31040,
+                "categoryId": 30307,
+                "iconResourceName": "EnchantBook_Buff_None_256",
+                "modelResourceName": "Models/Items/Material/Engram",
+                "itemName_EN": "Enchant Tome: Round Heal",
+                "itemName_JA": "item_material_30307040",
+                "itemDescription_EN": "Imbues weapons with action skills when used as an enchanting material",
+                "itemDescription_JA": "エンチャントの素材に使うと武器にアクションスキルを込められる",
+                "category": {
+                    "itemCategoryId": 30307,
+                    "sortId": 0,
+                    "nameKey": "item_category_30307",
+                    "belongMainCategory": 3,
+                    "belongSubCateory": 303,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Enchant Tomes",
+                    "name_JA": "エンチャント本"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_material.json",
+                        "data": {
+                            "pid": "30307040_SandBox",
+                            "materialId": 30307040,
+                            "systemType": "SandBox",
+                            "nameKey": "item_material_30307040",
+                            "descriptionKey": "item_material_d_30307040",
+                            "sortId": 31040,
+                            "categoryId": 30307,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 1,
+                            "stack": 100,
+                            "freshness": 0,
+                            "changeItemId": 0,
+                            "iconResourceName": "EnchantBook_Buff_None_256",
+                            "modelResourceName": "Models/Items/Material/Engram",
+                            "throwProjectileAddress": "",
+                            "guideId": 1
+                        }
+                    }
+                ]
+            }
         }
     }
 }
