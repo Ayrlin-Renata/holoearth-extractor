@@ -108,6 +108,17 @@ def generate_diff(old_data, new_data, ignored_keys=None):
         if old_value != new_value:
             if key.startswith('resolved_') or key == 'drop_rules':
                 diffs.append(f"  - Drops changed for '{key}'")
+            elif key == 'category' and isinstance(old_value, dict) and isinstance(new_value, dict):
+                if old_value.get('name_EN') != new_value.get('name_EN'):
+                    diffs.append(
+                        f"  - Category changed from '{old_value.get('name_EN')}' to '{new_value.get('name_EN')}'")
+            elif key == 'extra_data' and isinstance(old_value, list) and isinstance(new_value, list):
+                old_extra = {d['source_file']: d['data'] for d in old_value}
+                new_extra = {d['source_file']: d['data'] for d in new_value}
+                for source_file in set(old_extra.keys()) | set(new_extra.keys()):
+                    if old_extra.get(source_file) != new_extra.get(source_file):
+                        diffs.append(
+                            f"  - Extra data from '{source_file}' has changed.")
             elif key == 'materials' and isinstance(old_value, list) and isinstance(new_value, list):
                 old_mats, new_mats = {m['itemId']: m for m in old_value}, {
                     m['itemId']: m for m in new_value}
@@ -262,6 +273,8 @@ def main():
                         help="Path to a droptable_resolver.py output file to seed drop table history.")
     parser.add_argument("--initial_enchant_history",
                         help="Path to an enchant_resolver.py output file to seed all enchant history.")
+    parser.add_argument("--initial_item_history",
+                        help="Path to an item_resolver.py output file to seed item history.")
     args = parser.parse_args()
 
     os.makedirs(args.output_dir, exist_ok=True)
@@ -274,6 +287,8 @@ def main():
         args.working_dir, 'resolved_droptables.json')
     resolved_enchants_file = os.path.join(
         args.working_dir, 'resolved_enchants.json')
+    resolved_items_file = os.path.join(
+        args.working_dir, 'resolved_items.json')
 
     historical_recipes_file = os.path.join(
         args.output_dir, 'historical_recipes.json')
@@ -283,6 +298,8 @@ def main():
         args.output_dir, 'historical_enchant_ingredients.json')
     historical_enchant_skills_file = os.path.join(
         args.output_dir, 'historical_enchant_skills.json')
+    historical_items_file = os.path.join(
+        args.output_dir, 'historical_items.json')
 
     lua_recipes_file = os.path.join(args.output_dir, 'historical_recipes.lua')
     lua_droptables_file = os.path.join(
@@ -291,15 +308,18 @@ def main():
         args.output_dir, 'historical_enchant_ingredients.lua')
     lua_enchant_skills_file = os.path.join(
         args.output_dir, 'historical_enchant_skills.lua')
+    lua_items_file = os.path.join(
+        args.output_dir, 'historical_items.lua')
 
     if not run_decryption(args.input_dir, decrypted_dir) or \
        not run_script('resolver.py', decrypted_dir, resolved_recipes_file) or \
        not run_script('droptable_resolver.py', decrypted_dir, resolved_droptables_file) or \
-       not run_script('enchant_resolver.py', decrypted_dir, resolved_enchants_file):
+       not run_script('enchant_resolver.py', decrypted_dir, resolved_enchants_file) or \
+       not run_script('item_resolver.py', decrypted_dir, resolved_items_file):
         return
 
     version_string = get_version_from_user(
-        [historical_recipes_file, historical_droptables_file, historical_enchant_ingredients_file, historical_enchant_skills_file])
+        [historical_recipes_file, historical_droptables_file, historical_enchant_ingredients_file, historical_enchant_skills_file, historical_items_file])
 
     print("\n--- Updating Recipe History ---")
     recipe_id_map = {"crafting": "craftRecipeId",
@@ -341,7 +361,6 @@ def main():
 
     with open(resolved_enchants_file, 'r', encoding='utf-8') as f:
         resolved_enchants = json.load(f)
-
     print("\n--- Updating Enchant Ingredient History ---")
     enchant_ing_id_map = {"enchant_ingredients": "id"}
     historical_ingredients = json.load(open(historical_enchant_ingredients_file, 'r', encoding='utf-8')) if os.path.exists(historical_enchant_ingredients_file) else (
@@ -373,6 +392,23 @@ def main():
     with open(historical_enchant_skills_file, 'w', encoding='utf-8') as f:
         json.dump(historical_skills, f, indent=4, ensure_ascii=False)
     write_lua_module(lua_enchant_skills_file, historical_skills)
+
+    print("\n--- Updating Item History ---")
+    item_id_map = {"items": "itemId"}
+    historical_items = json.load(open(historical_items_file, 'r', encoding='utf-8')) if os.path.exists(historical_items_file) else (seed_history(
+        args.initial_item_history, item_id_map) if args.initial_item_history and os.path.exists(args.initial_item_history) else {"items": {}})
+    with open(resolved_items_file, 'r', encoding='utf-8') as f:
+        resolved_items = json.load(f)
+    item_report_lines = [f"Item Change Report for version: {version_string}\n"]
+    if update_history_file(resolved_items, historical_items, version_string, item_id_map, item_report_lines):
+        with open(os.path.join(args.output_dir, f'report_items_{version_string}.txt'), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(item_report_lines))
+        print("Item report generated.")
+    else:
+        print("No item changes detected.")
+    with open(historical_items_file, 'w', encoding='utf-8') as f:
+        json.dump(historical_items, f, indent=4, ensure_ascii=False)
+    write_lua_module(lua_items_file, historical_items)
 
     print("\n--- Pipeline finished successfully. ---")
 
