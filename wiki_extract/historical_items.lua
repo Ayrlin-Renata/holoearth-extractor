@@ -35386,6 +35386,2964 @@ return {
                     }
                 }
             }
+        },
+        ["18000213"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000213,
+                ["sortId"] = 5,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccFingerRuby_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Ruby Ring",
+                ["itemName_JA"] = "ルビーの指輪",
+                ["itemDescription_EN"] = "(Recipe learned on use) A ring adorned with a brilliant ruby. Also unlocks a recipe that uses a rarer type of ruby",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいルビーを用いた指輪。より希少性の高いルビーを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000213,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000213",
+                            ["descriptionKey"] = "item_skill_book_d_18000213",
+                            ["sortId"] = 5,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 256,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccFingerRuby_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000214"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000214,
+                ["sortId"] = 6,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccFingerSapphire_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Sapphire Ring",
+                ["itemName_JA"] = "サファイアの指輪",
+                ["itemDescription_EN"] = "(Recipe learned on use) A ring adorned with a brilliant sapphire. Also unlocks a recipe that uses a rarer type of sapphire",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいサファイアを用いた指輪。より希少性の高いサファイアを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000214,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000214",
+                            ["descriptionKey"] = "item_skill_book_d_18000214",
+                            ["sortId"] = 6,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 257,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccFingerSapphire_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000215"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000215,
+                ["sortId"] = 7,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccFingerTopaz_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Topaz Ring",
+                ["itemName_JA"] = "トパーズの指輪",
+                ["itemDescription_EN"] = "(Recipe learned on use) A ring adorned with a brilliant topaz. Also unlocks a recipe that uses a rarer type of topaz",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいトパーズを用いた指輪。より希少性の高いトパーズを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000215,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000215",
+                            ["descriptionKey"] = "item_skill_book_d_18000215",
+                            ["sortId"] = 7,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 258,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccFingerTopaz_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000216"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000216,
+                ["sortId"] = 8,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccFingerEmerald_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Emerald Ring",
+                ["itemName_JA"] = "エメラルドの指輪",
+                ["itemDescription_EN"] = "(Recipe learned on use) A ring adorned with a brilliant emerald. Also unlocks a recipe that uses a rarer type of emerald",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいエメラルドを用いた指輪。より希少性の高いエメラルドを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000216,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000216",
+                            ["descriptionKey"] = "item_skill_book_d_18000216",
+                            ["sortId"] = 8,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 259,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccFingerEmerald_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000217"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000217,
+                ["sortId"] = 9,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccFingerAmethyst_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Amethyst Ring",
+                ["itemName_JA"] = "アメジストの指輪",
+                ["itemDescription_EN"] = "(Recipe learned on use) A ring adorned with a brilliant amethyst. Also unlocks a recipe that uses a rarer type of amethyst",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいアメジストを用いた指輪。より希少性の高いアメジストを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000217,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000217",
+                            ["descriptionKey"] = "item_skill_book_d_18000217",
+                            ["sortId"] = 9,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 260,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccFingerAmethyst_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000218"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000218,
+                ["sortId"] = 10,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccNeckRuby_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Ruby Necklace",
+                ["itemName_JA"] = "ルビーのネックレス",
+                ["itemDescription_EN"] = "(Recipe learned on use) A necklace adorned with a brilliant ruby. Also unlocks a recipe that uses a rarer type of ruby",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいルビーで作られたネックレス。より希少性の高いルビーを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000218,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000218",
+                            ["descriptionKey"] = "item_skill_book_d_18000218",
+                            ["sortId"] = 10,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 261,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccNeckRuby_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000219"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000219,
+                ["sortId"] = 11,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccNeckSapphire_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Sapphire Necklace",
+                ["itemName_JA"] = "サファイアのネックレス",
+                ["itemDescription_EN"] = "(Recipe learned on use) A necklace adorned with a brilliant sapphire. Also unlocks a recipe that uses a rarer type of sapphire",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいサファイアで作られたネックレス。より希少性の高いサファイアを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000219,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000219",
+                            ["descriptionKey"] = "item_skill_book_d_18000219",
+                            ["sortId"] = 11,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 262,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccNeckSapphire_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000220"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000220,
+                ["sortId"] = 12,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccNeckTopaz_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Topaz Necklace",
+                ["itemName_JA"] = "トパーズのネックレス",
+                ["itemDescription_EN"] = "(Recipe learned on use) A necklace adorned with a brilliant topaz. Also unlocks a recipe that uses a rarer type of topaz",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいトパーズで作られたネックレス。より希少性の高いトパーズを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000220,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000220",
+                            ["descriptionKey"] = "item_skill_book_d_18000220",
+                            ["sortId"] = 12,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 263,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccNeckTopaz_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000221"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000221,
+                ["sortId"] = 13,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccNeckEmerald_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Emerald Necklace",
+                ["itemName_JA"] = "エメラルドのネックレス",
+                ["itemDescription_EN"] = "(Recipe learned on use) A necklace adorned with a brilliant emerald. Also unlocks a recipe that uses a rarer type of emerald",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいエメラルドで作られたネックレス。より希少性の高いエメラルドを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000221,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000221",
+                            ["descriptionKey"] = "item_skill_book_d_18000221",
+                            ["sortId"] = 13,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 264,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccNeckEmerald_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000222"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000222,
+                ["sortId"] = 14,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccNeckAmethyst_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Amethyst Necklace",
+                ["itemName_JA"] = "アメジストのネックレス",
+                ["itemDescription_EN"] = "(Recipe learned on use) A necklace adorned with a brilliant amethyst. Also unlocks a recipe that uses a rarer type of amethyst",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいアメジストで作られたネックレス。より希少性の高いアメジストを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000222,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000222",
+                            ["descriptionKey"] = "item_skill_book_d_18000222",
+                            ["sortId"] = 14,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 265,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccNeckAmethyst_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000223"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000223,
+                ["sortId"] = 15,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccEarRuby_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Ruby Earrings",
+                ["itemName_JA"] = "ルビーの耳飾り",
+                ["itemDescription_EN"] = "(Recipe learned on use) Earrings adorned with brilliant rubies. Also unlocks a recipe that uses a rarer type of ruby",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいルビーをあしらった耳飾り。より希少性の高いルビーを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000223,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000223",
+                            ["descriptionKey"] = "item_skill_book_d_18000223",
+                            ["sortId"] = 15,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 266,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccEarRuby_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000224"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000224,
+                ["sortId"] = 16,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccEarSapphire_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Sapphire Earrings",
+                ["itemName_JA"] = "サファイアの耳飾り",
+                ["itemDescription_EN"] = "(Recipe learned on use) Earrings adorned with brilliant sapphires. Also unlocks a recipe that uses a rarer type of sapphire",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいサファイアをあしらった耳飾り。より希少性の高いサファイアを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000224,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000224",
+                            ["descriptionKey"] = "item_skill_book_d_18000224",
+                            ["sortId"] = 16,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 267,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccEarSapphire_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000225"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000225,
+                ["sortId"] = 17,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccEarTopaz_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Topaz Earrings",
+                ["itemName_JA"] = "トパーズの耳飾り",
+                ["itemDescription_EN"] = "(Recipe learned on use) Earrings adorned with brilliant topazes. Also unlocks a recipe that uses a rarer type of topaz",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいトパーズをあしらった耳飾り。より希少性の高いトパーズを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000225,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000225",
+                            ["descriptionKey"] = "item_skill_book_d_18000225",
+                            ["sortId"] = 17,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 268,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccEarTopaz_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000226"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000226,
+                ["sortId"] = 18,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccEarEmerald_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Emerald Earrings",
+                ["itemName_JA"] = "エメラルドの耳飾り",
+                ["itemDescription_EN"] = "(Recipe learned on use) Earrings adorned with brilliant emeralds. Also unlocks a recipe that uses a rarer type of emerald",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいエメラルドをあしらった耳飾り。より希少性の高いエメラルドを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000226,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000226",
+                            ["descriptionKey"] = "item_skill_book_d_18000226",
+                            ["sortId"] = 18,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 269,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccEarEmerald_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000227"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000227,
+                ["sortId"] = 19,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_AccEarAmethyst_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Amethyst Earrings",
+                ["itemName_JA"] = "アメジストの耳飾り",
+                ["itemDescription_EN"] = "(Recipe learned on use) Earrings adorned with brilliant amethysts. Also unlocks a recipe that uses a rarer type of amethyst",
+                ["itemDescription_JA"] = "（使用でレシピ習得）美しいアメジストをあしらった耳飾り。より希少性の高いアメジストを用いたレシピも同時に習得する",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000227,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000227",
+                            ["descriptionKey"] = "item_skill_book_d_18000227",
+                            ["sortId"] = 19,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 270,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_AccEarAmethyst_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000200"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000200,
+                ["sortId"] = 20,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_StoneGolemArmorUpper_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Golem Armor Set",
+                ["itemName_JA"] = "ゴーレム防具セット",
+                ["itemDescription_EN"] = "(Recipe learned on use) A set of armor for the head, upper body, and legs infused with the might of a golem",
+                ["itemDescription_JA"] = "（使用でレシピ習得）ゴーレムの力を持つ兜・鎧・足装備のレシピのセット",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000200,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000200",
+                            ["descriptionKey"] = "item_skill_book_d_18000200",
+                            ["sortId"] = 20,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 272,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_StoneGolemArmorUpper_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000201"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000201,
+                ["sortId"] = 50001,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_Facility_Magic_R_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchanting Station",
+                ["itemName_JA"] = "エンチャント台",
+                ["itemDescription_EN"] = "(Recipe learned on use) A workstation used to enhance weapons by imbuing power from materials.\nCertain materials grant special skills to weapons, which are activated with the E key",
+                ["itemDescription_JA"] = "（使用でレシピ習得）武器に素材の力を込めて強化するための作業台。\n一部の素材は武器に特殊なスキルを与え、Eキーにより発動可能になる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000201,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000201",
+                            ["descriptionKey"] = "item_skill_book_d_18000201",
+                            ["sortId"] = 50001,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 273,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_Facility_Magic_R_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000228"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000228,
+                ["sortId"] = 1001,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Rolling_None_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Rolling",
+                ["itemName_JA"] = "エンチャント本：ローリング",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nRolling:\nRoll forward to dodge attacks and briefly gain invincibility",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nローリング：\n前転して攻撃を回避する。わずかにダメージを受けない時間がある",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000228,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000228",
+                            ["descriptionKey"] = "item_skill_book_d_18000228",
+                            ["sortId"] = 1001,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 274,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Rolling_None_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000229"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000229,
+                ["sortId"] = 1002,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_None_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Soaring Slash",
+                ["itemName_JA"] = "エンチャント本：飛翔斬",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nSoaring Slash:\nUnleash a flying slash to damage enemies from a distance",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n飛翔斬：\n斬撃を飛ばして敵にダメージを与える",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000229,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000229",
+                            ["descriptionKey"] = "item_skill_book_d_18000229",
+                            ["sortId"] = 1002,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 275,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_None_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000230"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000230,
+                ["sortId"] = 1003,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Fire_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Heat Slash",
+                ["itemName_JA"] = "エンチャント本：ヒートスラッシュ",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nHeat Slash:\nUnleash an elemental fire slash that damages enemies and builds up burning",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nヒートスラッシュ：\n火属性の斬撃を飛ばして敵にダメージを与える。燃焼効果を蓄積させることができる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000230,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000230",
+                            ["descriptionKey"] = "item_skill_book_d_18000230",
+                            ["sortId"] = 1003,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 276,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Fire_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000231"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000231,
+                ["sortId"] = 1004,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Water_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Mizuchi",
+                ["itemName_JA"] = "エンチャント本：ミズチ",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nMizuchi:\nUnleash an elemental hydro slash that damages and drenches enemies",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nミズチ：\n水属性の斬撃を飛ばして敵にダメージを与える。相手を濡らすことができる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000231,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000231",
+                            ["descriptionKey"] = "item_skill_book_d_18000231",
+                            ["sortId"] = 1004,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 277,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Water_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000232"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000232,
+                ["sortId"] = 1005,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Ground_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Soaring Slash (Terra)",
+                ["itemName_JA"] = "item_skill_book_18000232",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000232",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000232,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000232",
+                            ["descriptionKey"] = "item_skill_book_d_18000232",
+                            ["sortId"] = 1005,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 278,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Ground_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000233"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000233,
+                ["sortId"] = 1006,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Wind_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Wind Slash",
+                ["itemName_JA"] = "エンチャント本：風刃",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nWind Slash:\nUnleash an elemental wind slash with extended range that damages enemies",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n風刃：\n風属性の斬撃を飛ばして敵にダメージを与える。飛距離が長くなっている",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000233,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000233",
+                            ["descriptionKey"] = "item_skill_book_d_18000233",
+                            ["sortId"] = 1006,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 279,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Wind_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000234"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000234,
+                ["sortId"] = 1007,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Thunder_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Soaring Slash (Electric)",
+                ["itemName_JA"] = "item_skill_book_18000234",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000234",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000234,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000234",
+                            ["descriptionKey"] = "item_skill_book_d_18000234",
+                            ["sortId"] = 1007,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 280,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Thunder_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000235"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000235,
+                ["sortId"] = 1008,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Ice_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Frost Edge",
+                ["itemName_JA"] = "エンチャント本：フロストエッジ",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nFrost Edge:\nUnleash an elemental ice slash that damages enemies and builds up freezing",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nフロストエッジ：\n氷属性の斬撃を飛ばして敵にダメージを与える。凍結効果を蓄積させることができる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000235,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000235",
+                            ["descriptionKey"] = "item_skill_book_d_18000235",
+                            ["sortId"] = 1008,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 281,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_FlyingSlash_Ice_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000236"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000236,
+                ["sortId"] = 1009,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Soaring Slash (Light)",
+                ["itemName_JA"] = "item_skill_book_18000236",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000236",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000236,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000236",
+                            ["descriptionKey"] = "item_skill_book_d_18000236",
+                            ["sortId"] = 1009,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 282,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000237"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000237,
+                ["sortId"] = 1010,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Soaring Slash (Dark)",
+                ["itemName_JA"] = "item_skill_book_18000237",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000237",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000237,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000237",
+                            ["descriptionKey"] = "item_skill_book_d_18000237",
+                            ["sortId"] = 1010,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 283,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000238"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000238,
+                ["sortId"] = 1011,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_CrossSlash_None_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Cross Slash",
+                ["itemName_JA"] = "エンチャント本：十字斬り",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material:\nCross Slash:\nSlash an enemy three times in a crisscross pattern",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n十字斬り：\n十字に3度敵を斬りつける",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000238,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000238",
+                            ["descriptionKey"] = "item_skill_book_d_18000238",
+                            ["sortId"] = 1011,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 284,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_CrossSlash_None_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000239"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000239,
+                ["sortId"] = 1014,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Impact_None_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Impact",
+                ["itemName_JA"] = "エンチャント本：インパクト",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nImpact:\nStrike the earth with your sword, knocking enemies back with a shockwave",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nインパクト：\n剣を地面に叩きつけ、衝撃でまわりの敵を弾き飛ばす",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000239,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000239",
+                            ["descriptionKey"] = "item_skill_book_d_18000239",
+                            ["sortId"] = 1014,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 285,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Impact_None_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000240"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000240,
+                ["sortId"] = 1015,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Impact_Fire_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Impact (Fire)",
+                ["itemName_JA"] = "item_skill_book_18000240",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000240",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000240,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000240",
+                            ["descriptionKey"] = "item_skill_book_d_18000240",
+                            ["sortId"] = 1015,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 286,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Impact_Fire_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000241"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000241,
+                ["sortId"] = 1016,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Impact_Water_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Impact (Hydro)",
+                ["itemName_JA"] = "item_skill_book_18000241",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000241",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000241,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000241",
+                            ["descriptionKey"] = "item_skill_book_d_18000241",
+                            ["sortId"] = 1016,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 287,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Impact_Water_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000242"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000242,
+                ["sortId"] = 1017,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Impact_Ground_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Terra Shatter",
+                ["itemName_JA"] = "エンチャント本：地砕剣",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nTerra Shatter:\nStrike the earth with your sword, staggering enemies with a earth-element shockwave",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n地砕剣：\n剣を地面に叩きつけ、地属性の衝撃で敵を弾き飛ばす",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000242,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000242",
+                            ["descriptionKey"] = "item_skill_book_d_18000242",
+                            ["sortId"] = 1017,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 288,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Impact_Ground_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000243"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000243,
+                ["sortId"] = 1018,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Impact_Wind_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Wind Burst",
+                ["itemName_JA"] = "エンチャント本：ウィンドバースト",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nWind Burst:\nStrike the earth with your sword, launching enemies with a wind-element shockwave",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nウィンドバースト：\n剣を地面に叩きつけ、風属性の衝撃で敵を弾き飛ばす",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000243,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000243",
+                            ["descriptionKey"] = "item_skill_book_d_18000243",
+                            ["sortId"] = 1018,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 289,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Impact_Wind_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000244"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000244,
+                ["sortId"] = 1019,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Impact_Thunder_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Impact (Electric)",
+                ["itemName_JA"] = "item_skill_book_18000244",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000244",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000244,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000244",
+                            ["descriptionKey"] = "item_skill_book_d_18000244",
+                            ["sortId"] = 1019,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 290,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Impact_Thunder_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000245"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000245,
+                ["sortId"] = 1020,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Impact_Ice_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Impact (Ice)",
+                ["itemName_JA"] = "item_skill_book_18000245",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000245",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000245,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000245",
+                            ["descriptionKey"] = "item_skill_book_d_18000245",
+                            ["sortId"] = 1020,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 291,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Impact_Ice_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000246"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000246,
+                ["sortId"] = 1021,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Impact (Light)",
+                ["itemName_JA"] = "item_skill_book_18000246",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000246",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000246,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000246",
+                            ["descriptionKey"] = "item_skill_book_d_18000246",
+                            ["sortId"] = 1021,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 292,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000247"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000247,
+                ["sortId"] = 1022,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Impact (Dark)",
+                ["itemName_JA"] = "item_skill_book_18000247",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000247",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000247,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000247",
+                            ["descriptionKey"] = "item_skill_book_d_18000247",
+                            ["sortId"] = 1022,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 293,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000248"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000248,
+                ["sortId"] = 1023,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Wave_Fire_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Inferno Flash",
+                ["itemName_JA"] = "エンチャント本：猛火一閃",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nInferno Flash:\nUnleash a fan-shaped blast of flame, dealing area damage and rapidly building up burning",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n猛火一閃：\n炎を扇形に放つ範囲攻撃。燃焼効果を大きく蓄積させることができる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000248,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000248",
+                            ["descriptionKey"] = "item_skill_book_d_18000248",
+                            ["sortId"] = 1023,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 294,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Wave_Fire_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000249"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000249,
+                ["sortId"] = 1024,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Wave_Water_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Wavebreaker Surge",
+                ["itemName_JA"] = "エンチャント本：波状の太刀",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nWavebreaker Surge:\nUnleash a fan-shaped burst of water, dealing area damage and drenching enemies",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n波状の太刀：\n水を扇形に放つ範囲攻撃。相手を濡らすことができる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000249,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000249",
+                            ["descriptionKey"] = "item_skill_book_d_18000249",
+                            ["sortId"] = 1024,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 295,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Wave_Water_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000250"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000250,
+                ["sortId"] = 1025,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Wave_Ground_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Wave (Terra)",
+                ["itemName_JA"] = "item_skill_book_18000250",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000250",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000250,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000250",
+                            ["descriptionKey"] = "item_skill_book_d_18000250",
+                            ["sortId"] = 1025,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 296,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Wave_Ground_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000251"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000251,
+                ["sortId"] = 1026,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Wave_Wind_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Wave (Wind)",
+                ["itemName_JA"] = "item_skill_book_18000251",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000251",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000251,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000251",
+                            ["descriptionKey"] = "item_skill_book_d_18000251",
+                            ["sortId"] = 1026,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 297,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Wave_Wind_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000252"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000252,
+                ["sortId"] = 1027,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Wave_Thunder_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Thunder Clap",
+                ["itemName_JA"] = "エンチャント本：サンダークラップ",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nThunder Clap:\nUnleash a fan-shaped burst of lightning, dealing area damage and inflicting minor paralysis",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nサンダークラップ：\n雷を扇形に放つ範囲攻撃。相手を少しだけ麻痺させることができる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000252,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000252",
+                            ["descriptionKey"] = "item_skill_book_d_18000252",
+                            ["sortId"] = 1027,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 298,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Wave_Thunder_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000253"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000253,
+                ["sortId"] = 1028,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Wave_Ice_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Frostshard Dance",
+                ["itemName_JA"] = "エンチャント本：氷塊斬舞",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nFrostshard Dance:\nUnleash a fan-shaped blast of ice, dealing area damage and rapidly building up freezing",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n氷塊斬舞：\n氷を扇形に放つ範囲攻撃。凍結効果を大きく蓄積させることができる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000253,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000253",
+                            ["descriptionKey"] = "item_skill_book_d_18000253",
+                            ["sortId"] = 1028,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 299,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Wave_Ice_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000254"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000254,
+                ["sortId"] = 1029,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Wave (Light)",
+                ["itemName_JA"] = "item_skill_book_18000254",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000254",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000254,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000254",
+                            ["descriptionKey"] = "item_skill_book_d_18000254",
+                            ["sortId"] = 1029,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 300,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000255"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000255,
+                ["sortId"] = 1030,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Wave (Dark)",
+                ["itemName_JA"] = "item_skill_book_18000255",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000255",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000255,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000255",
+                            ["descriptionKey"] = "item_skill_book_d_18000255",
+                            ["sortId"] = 1030,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 301,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000256"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000256,
+                ["sortId"] = 1031,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Beam_Fire_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Scorching Thrust",
+                ["itemName_JA"] = "エンチャント本：灼火穿",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nScorching Thrust:\nFire a focused heat ray straight ahead, dealing massive damage to enemies in its path",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n灼火穿：\n圧縮した熱線を放ち、直線上の敵に大きなダメージを与える",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000256,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000256",
+                            ["descriptionKey"] = "item_skill_book_d_18000256",
+                            ["sortId"] = 1031,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 302,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Beam_Fire_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000257"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000257,
+                ["sortId"] = 1032,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Beam_Water_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Hydro Shot",
+                ["itemName_JA"] = "エンチャント本：ハイドロショット",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nHydro Shot:\nFire a compressed stream of water straight ahead, dealing massive damage to enemies in its path",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nハイドロショット：\n圧縮された水流を放ち、直線上の敵に大きなダメージを与える",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000257,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000257",
+                            ["descriptionKey"] = "item_skill_book_d_18000257",
+                            ["sortId"] = 1032,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 303,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Beam_Water_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000258"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000258,
+                ["sortId"] = 1033,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Beam_Ground_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Beam (Terra)",
+                ["itemName_JA"] = "item_skill_book_18000258",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000258",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000258,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000258",
+                            ["descriptionKey"] = "item_skill_book_d_18000258",
+                            ["sortId"] = 1033,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 304,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Beam_Ground_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000259"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000259,
+                ["sortId"] = 1034,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Beam_Wind_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Beam (Wind)",
+                ["itemName_JA"] = "item_skill_book_18000259",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000259",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000259,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000259",
+                            ["descriptionKey"] = "item_skill_book_d_18000259",
+                            ["sortId"] = 1034,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 305,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Beam_Wind_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000260"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000260,
+                ["sortId"] = 1035,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Beam_Thunder_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Plasma Ray",
+                ["itemName_JA"] = "エンチャント本：プラズマレイ",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nPlasma Ray:\nFire a focused bolt of electricity straight ahead, dealing massive damage to enemies in its path",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nプラズマレイ：\n圧縮した雷を放ち、直線上の敵に大きなダメージを与える",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000260,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000260",
+                            ["descriptionKey"] = "item_skill_book_d_18000260",
+                            ["sortId"] = 1035,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 306,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Beam_Thunder_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000261"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000261,
+                ["sortId"] = 1036,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Beam_Ice_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Glacial Thrust",
+                ["itemName_JA"] = "エンチャント本：グレイシャルスラスト",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nGlacial Thrust:\nFire a beam of compressed, freezing air straight ahead, dealing massive damage to enemies in its path",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nグレイシャルスラスト：\n圧縮した冷気を放ち、直線上の敵に大きなダメージを与える",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000261,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000261",
+                            ["descriptionKey"] = "item_skill_book_d_18000261",
+                            ["sortId"] = 1036,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 307,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Beam_Ice_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000262"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000262,
+                ["sortId"] = 1037,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Beam (Light)",
+                ["itemName_JA"] = "item_skill_book_18000262",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000262",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000262,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000262",
+                            ["descriptionKey"] = "item_skill_book_d_18000262",
+                            ["sortId"] = 1037,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 308,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000263"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000263,
+                ["sortId"] = 1038,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Beam (Dark)",
+                ["itemName_JA"] = "item_skill_book_18000263",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material",
+                ["itemDescription_JA"] = "item_skill_book_d_18000263",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000263,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000263",
+                            ["descriptionKey"] = "item_skill_book_d_18000263",
+                            ["sortId"] = 1038,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 309,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeGel_soil_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000264"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000264,
+                ["sortId"] = 1039,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_ThunderSlash_Thunder_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Raijin Slash",
+                ["itemName_JA"] = "エンチャント本：雷神斬り",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nRaijin Slash:\nEnshroud your blade in electricity and strike with a secret art that calls forth lightning",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n雷神斬り：\n剣に雷を纏い、斬撃とともに落雷を叩きつける奥義",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000264,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000264",
+                            ["descriptionKey"] = "item_skill_book_d_18000264",
+                            ["sortId"] = 1039,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 310,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_ThunderSlash_Thunder_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000265"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000265,
+                ["sortId"] = 1013,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Swift_None_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Dash",
+                ["itemName_JA"] = "エンチャント本：スウィフト",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nDash:\nDash forward instantly and briefly gain invincibility",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\nスウィフト：\n瞬時に前進する。わずかにダメージを受けない時間がある",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000265,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000265",
+                            ["descriptionKey"] = "item_skill_book_d_18000265",
+                            ["sortId"] = 1013,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 311,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Swift_None_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000266"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000266,
+                ["sortId"] = 1012,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Buff_None_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Enchant Tome: Battle Spirit",
+                ["itemName_JA"] = "エンチャント本：戦意高揚",
+                ["itemDescription_EN"] = "(Recipe learned on use) Imbues weapons with action skills when used as an enchanting material.\nBattle Spirit:\nRaise your blade and ignite the fighting spirit in nearby allies, granting a brief increase in attack power",
+                ["itemDescription_JA"] = "（使用でレシピ習得）エンチャントの素材に使うと武器にアクションスキルを込められる。\n戦意高揚：\n剣を掲げ、自分と周囲の味方の攻撃力を短時間上げる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000266,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000266",
+                            ["descriptionKey"] = "item_skill_book_d_18000266",
+                            ["sortId"] = 1012,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 312,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Buff_None_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000267"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000267,
+                ["sortId"] = 1040,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_EnchantBook_Buff_None_256",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "item_skill_book_18000267",
+                ["itemName_JA"] = "item_skill_book_18000267",
+                ["itemDescription_EN"] = "item_skill_book_d_18000267",
+                ["itemDescription_JA"] = "item_skill_book_d_18000267",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000267,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000267",
+                            ["descriptionKey"] = "item_skill_book_d_18000267",
+                            ["sortId"] = 1040,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 313,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_EnchantBook_Buff_None_256",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
+        },
+        ["18000268"] = {
+            ["1.0.20"] = {
+                ["itemId"] = 18000268,
+                ["sortId"] = 2,
+                ["categoryId"] = 108,
+                ["iconResourceName"] = "Engram_SlimeTrampoline_SR_BIG_128",
+                ["modelResourceName"] = "Models/Items/Material/Engram",
+                ["itemName_EN"] = "Huge Slime Trampoline",
+                ["itemName_JA"] = "巨大スライムトランポリン",
+                ["itemDescription_EN"] = "(Recipe learned on use) A rather large slime trampoline that launches people and items. If used just right you can jump far",
+                ["itemDescription_JA"] = "（使用でレシピ習得）かなり大きなスライムトランポリン。\nぶつかった人や物を跳ね飛ばす。うまく使うと大きく跳び上がれる",
+                ["category"] = {
+                    ["itemCategoryId"] = 108,
+                    ["sortId"] = 108,
+                    ["nameKey"] = "item_category_108",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 108,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Engrams",
+                    ["name_JA"] = "エングラム"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_skill_book.json",
+                        ["data"] = {
+                            ["id"] = 18000268,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_skill_book_18000268",
+                            ["descriptionKey"] = "item_skill_book_d_18000268",
+                            ["sortId"] = 2,
+                            ["categoryId"] = 108,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 6,
+                            ["weight"] = 0,
+                            ["stack"] = 1,
+                            ["effectType1"] = 801,
+                            ["effectValue11"] = 314,
+                            ["castingId"] = 200,
+                            ["vfxAddress"] = "UseEngram",
+                            ["iconResourceName"] = "Engram_SlimeTrampoline_SR_BIG_128",
+                            ["modelResourceName"] = "Models/Items/Material/Engram",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 9
+                        }
+                    }
+                }
+            }
         }
     }
 }
