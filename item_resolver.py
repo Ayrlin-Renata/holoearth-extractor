@@ -38,13 +38,17 @@ def find_item_text(item_id, text_data, config, is_description=False):
             if key in text_data:
                 return text_data[key]
     
+    # Fallback for text keys that don't follow the standard pattern (like mood types)
+    if not is_description and item_id_str in text_data:
+        return text_data[item_id_str]
+
     return None
 
 def resolve_item_data(input_dir, output_file):
     """
     Resolves item data by combining a base item list with numerous
     category-specific detail files. It also finds items defined only
-    in master_material and master_skill_book and adds them to the main list.
+    in other master files and adds them to the main list.
     """
     try:
         print("Loading all necessary master files for items...")
@@ -55,7 +59,7 @@ def resolve_item_data(input_dir, output_file):
             'master_accessory', 'master_armor', 'master_bullet', 'master_cultivation_fertilizer',
             'master_element', 'master_food', 'master_implement', 'master_material',
             'master_skill_book', 'master_smelting_fuel', 'master_tool', 'master_trap',
-            'master_vehicle_item', 'master_weapon'
+            'master_vehicle_item', 'master_weapon', 'master_housing_piece', 'master_mood_type'
         ]
         
         data = {}
@@ -83,9 +87,11 @@ def resolve_item_data(input_dir, output_file):
             'master_trap.json': 'trapId',
             'master_vehicle_item.json': 'itemId',
             'master_weapon.json': 'weaponId',
+            'master_housing_piece.json': 'housingPieceId',
         }
 
         item_category_map = {cat['itemCategoryId']: cat for cat in data['master_item_category'].get('list', [])}
+        mood_type_map = {mood['moodTypeId']: mood for mood in data['master_mood_type'].get('list', [])}
         
         extra_data_maps = {}
         for filename, id_key in extra_data_config.items():
@@ -101,41 +107,37 @@ def resolve_item_data(input_dir, output_file):
         print("Scanning for material-only items...")
         material_only_items_found = 0
         for material in data.get('master_material', {}).get('list', []):
-            material_id = material.get('materialId')
-            if material_id and material_id not in existing_item_ids:
+            item_id = material.get('materialId')
+            if item_id and item_id not in existing_item_ids:
                 material_only_items_found += 1
-                synthetic_item = {
-                    "itemId": material.get('materialId'),
-                    "sortId": material.get('sortId'),
-                    "categoryId": material.get('categoryId'),
-                    "iconResourceName": material.get('iconResourceName'),
-                    "modelResourceName": material.get('modelResourceName')
-                }
+                synthetic_item = { "itemId": item_id, "sortId": material.get('sortId'), "categoryId": material.get('categoryId'), "iconResourceName": material.get('iconResourceName'), "modelResourceName": material.get('modelResourceName') }
                 all_items_to_process.append(synthetic_item)
-                existing_item_ids.add(material_id)
-
-        if material_only_items_found > 0:
-            print(f"Found and added {material_only_items_found} items defined only in master_material.json.")
+                existing_item_ids.add(item_id)
+        if material_only_items_found > 0: print(f"Found and added {material_only_items_found} items defined only in master_material.json.")
         
         # Scan master_skill_book for unique items
         print("Scanning for skill-book-only items...")
         skill_book_only_items_found = 0
         for book in data.get('master_skill_book', {}).get('list', []):
-            book_id = book.get('id')
-            if book_id and book_id not in existing_item_ids:
+            item_id = book.get('id')
+            if item_id and item_id not in existing_item_ids:
                 skill_book_only_items_found += 1
-                synthetic_item = {
-                    "itemId": book.get('id'),
-                    "sortId": book.get('sortId'),
-                    "categoryId": book.get('categoryId'),
-                    "iconResourceName": book.get('iconResourceName'),
-                    "modelResourceName": book.get('modelResourceName')
-                }
+                synthetic_item = { "itemId": item_id, "sortId": book.get('sortId'), "categoryId": book.get('categoryId'), "iconResourceName": book.get('iconResourceName'), "modelResourceName": book.get('modelResourceName') }
                 all_items_to_process.append(synthetic_item)
-                existing_item_ids.add(book_id)
+                existing_item_ids.add(item_id)
+        if skill_book_only_items_found > 0: print(f"Found and added {skill_book_only_items_found} items defined only in master_skill_book.json.")
 
-        if skill_book_only_items_found > 0:
-            print(f"Found and added {skill_book_only_items_found} items defined only in master_skill_book.json.")
+        # Scan master_housing_piece for unique items
+        print("Scanning for housing-piece-only items...")
+        housing_only_items_found = 0
+        for piece in data.get('master_housing_piece', {}).get('list', []):
+            item_id = piece.get('housingPieceId')
+            if item_id and item_id not in existing_item_ids:
+                housing_only_items_found += 1
+                synthetic_item = { "itemId": item_id, "sortId": piece.get('sortId'), "categoryId": piece.get('categoryId'), "iconResourceName": piece.get('iconResourceName'), "modelResourceName": piece.get('modelResourceName') }
+                all_items_to_process.append(synthetic_item)
+                existing_item_ids.add(item_id)
+        if housing_only_items_found > 0: print(f"Found and added {housing_only_items_found} items defined only in master_housing_piece.json.")
         
         # --- End of combination logic ---
 
@@ -163,10 +165,19 @@ def resolve_item_data(input_dir, output_file):
             resolved_item['extra_data'] = []
             for filename, data_map in extra_data_maps.items():
                 if item_id in data_map:
-                    extra_info = {
-                        'source_file': filename,
-                        'data': data_map[item_id]
-                    }
+                    extra_data_item = data_map[item_id]
+                    # Resolve moodType for housing pieces
+                    if filename == 'master_housing_piece.json':
+                        mood_type_id = extra_data_item.get('moodType')
+                        if mood_type_id in mood_type_map:
+                            mood_info = mood_type_map[mood_type_id].copy()
+                            mood_name_key = mood_info.get('nameKey')
+                            if mood_name_key:
+                                mood_info['name_EN'] = find_item_text(mood_name_key, data['master_text_EN'], config)
+                                mood_info['name_JA'] = find_item_text(mood_name_key, data['master_text_JA'], config)
+                            extra_data_item['resolved_moodType'] = mood_info
+                    
+                    extra_info = { 'source_file': filename, 'data': extra_data_item }
                     resolved_item['extra_data'].append(extra_info)
             
             resolved_items_list.append(resolved_item)
