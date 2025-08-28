@@ -139,6 +139,18 @@ def resolve_item_data(input_dir, output_file):
                 existing_item_ids.add(item_id)
         if housing_only_items_found > 0: print(f"Found and added {housing_only_items_found} items defined only in master_housing_piece.json.")
         
+        # Scan master_armor for unique items
+        print("Scanning for armor-only items...")
+        armor_only_items_found = 0
+        for armor in data.get('master_armor', {}).get('list', []):
+            item_id = armor.get('armorId')
+            if item_id and item_id not in existing_item_ids:
+                armor_only_items_found += 1
+                synthetic_item = { "itemId": item_id, "sortId": armor.get('sortId'), "categoryId": armor.get('categoryId'), "iconResourceName": armor.get('iconResourceName'), "modelResourceName": armor.get('modelResourceName') }
+                all_items_to_process.append(synthetic_item)
+                existing_item_ids.add(item_id)
+        if armor_only_items_found > 0: print(f"Found and added {armor_only_items_found} items defined only in master_armor.json.")
+
         # --- End of combination logic ---
 
         resolved_items_list = []

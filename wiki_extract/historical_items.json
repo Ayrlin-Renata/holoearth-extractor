@@ -61827,6 +61827,204 @@
                     }
                 ]
             }
+        },
+        "20301016": {
+            "1.0.20": {
+                "itemId": 20301016,
+                "sortId": 9,
+                "categoryId": 20301,
+                "iconResourceName": "StoneGolemHelmet_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Golem Helm",
+                "itemName_JA": "ゴーレムヘルム",
+                "itemDescription_EN": "A helm infused with the might of a golem",
+                "itemDescription_JA": "ゴーレムの力を持つ兜",
+                "category": {
+                    "itemCategoryId": 20301,
+                    "sortId": 0,
+                    "nameKey": "item_category_20301",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 203,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Head",
+                    "name_JA": "頭"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_armor.json",
+                        "data": {
+                            "armorId": 20301016,
+                            "systemType": "",
+                            "nameKey": "item_armor_20301016",
+                            "descriptionKey": "item_armor_d_20301016",
+                            "sortId": 9,
+                            "categoryId": 20301,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 5,
+                            "durableValue": 800,
+                            "loseBrokenItem": 0,
+                            "armorType": 1,
+                            "defensePower": 45,
+                            "magicDefense": 40,
+                            "mainTypeResistance": 0,
+                            "subTypeResistance": 0,
+                            "damageAvoidance": 2,
+                            "qualityDurable": 2,
+                            "qualityDefensePower": 1,
+                            "qualityMagicDefense": 1,
+                            "qualityMainTypeResistance": 10,
+                            "qualitySubTypeResistance": 10,
+                            "qualityDamageAvoidance": 2,
+                            "iconResourceName": "StoneGolemHelmet_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_mask",
+                            "avatarDressMasterId": 198,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10007,
+                                10005
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20302016": {
+            "1.0.20": {
+                "itemId": 20302016,
+                "sortId": 16,
+                "categoryId": 20302,
+                "iconResourceName": "StoneGolemArmorUpper_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Golem Armor",
+                "itemName_JA": "ゴーレムメイル",
+                "itemDescription_EN": "Armor infused with the might of a golem",
+                "itemDescription_JA": "ゴーレムの力を持つ鎧",
+                "category": {
+                    "itemCategoryId": 20302,
+                    "sortId": 0,
+                    "nameKey": "item_category_20302",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 203,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Body",
+                    "name_JA": "胴"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_armor.json",
+                        "data": {
+                            "armorId": 20302016,
+                            "systemType": "",
+                            "nameKey": "item_armor_20302016",
+                            "descriptionKey": "item_armor_d_20302016",
+                            "sortId": 16,
+                            "categoryId": 20302,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 15,
+                            "durableValue": 800,
+                            "loseBrokenItem": 0,
+                            "armorType": 1,
+                            "defensePower": 45,
+                            "magicDefense": 40,
+                            "mainTypeResistance": 0,
+                            "subTypeResistance": 0,
+                            "damageAvoidance": 2,
+                            "qualityDurable": 2,
+                            "qualityDefensePower": 1,
+                            "qualityMagicDefense": 1,
+                            "qualityMainTypeResistance": 10,
+                            "qualitySubTypeResistance": 10,
+                            "qualityDamageAvoidance": 2,
+                            "iconResourceName": "StoneGolemArmorUpper_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "cloth_outer",
+                            "avatarDressMasterId": 198,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10008,
+                                10006
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20303016": {
+            "1.0.20": {
+                "itemId": 20303016,
+                "sortId": 23,
+                "categoryId": 20303,
+                "iconResourceName": "StoneGolemArmorBottom_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Golem Greaves",
+                "itemName_JA": "ゴーレムグリーヴ",
+                "itemDescription_EN": "Leg armor infused with the might of a golem",
+                "itemDescription_JA": "ゴーレムの力を持つ脚装備",
+                "category": {
+                    "itemCategoryId": 20303,
+                    "sortId": 0,
+                    "nameKey": "item_category_20303",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 203,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Legs",
+                    "name_JA": "脚"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_armor.json",
+                        "data": {
+                            "armorId": 20303016,
+                            "systemType": "",
+                            "nameKey": "item_armor_20303016",
+                            "descriptionKey": "item_armor_d_20303016",
+                            "sortId": 23,
+                            "categoryId": 20303,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 4,
+                            "weight": 5,
+                            "durableValue": 800,
+                            "loseBrokenItem": 0,
+                            "armorType": 1,
+                            "defensePower": 45,
+                            "magicDefense": 40,
+                            "mainTypeResistance": 0,
+                            "subTypeResistance": 0,
+                            "damageAvoidance": 2,
+                            "qualityDurable": 2,
+                            "qualityDefensePower": 1,
+                            "qualityMagicDefense": 1,
+                            "qualityMainTypeResistance": 10,
+                            "qualitySubTypeResistance": 10,
+                            "qualityDamageAvoidance": 2,
+                            "iconResourceName": "StoneGolemArmorBottom_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "cloth_bottom",
+                            "avatarDressMasterId": 198,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10007,
+                                10005
+                            ]
+                        }
+                    }
+                ]
+            }
         }
     }
 }
