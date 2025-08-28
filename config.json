@@ -1,203 +1,364 @@
 {
-    "name_resolution_prefixes": {
-        "101": "item_food_",
-        "102": "item_food_",
-        "103": "item_food_",
-        "301": "item_material_",
-        "302": "item_material_",
-        "303": "item_material_",
-        "501": "item_element_",
-        "180": "item_skill_book_",
-        "185": "item_skill_book_",
-        "105": "item_trap_",
-        "104": "item_implement_",
-        "1040100": "item_vehicle_",
-        "112": "item_vehicle_",
-        "106": "item_throwing_",
-        "401": "item_housing_",
-        "402": "item_housing_",
-        "403": "item_housing_",
-        "404": "item_housing_",
-        "405": "item_housing_",
-        "410": "item_housing_",
-        "409": "item_housing_",
-        "202": "item_weapon_",
-        "201": "item_tool_",
-        "203": "item_armor_",
-        "205": "item_accessory_",
-        "204": "item_bullet_"
+  "name_resolution_prefixes": {
+    "101": "item_food_",
+    "102": "item_food_",
+    "103": "item_food_",
+    "301": "item_material_",
+    "302": "item_material_",
+    "303": "item_material_",
+    "501": "item_element_",
+    "180": "item_skill_book_",
+    "185": "item_skill_book_",
+    "105": "item_trap_",
+    "104": "item_implement_",
+    "1040100": "item_vehicle_",
+    "112": "item_vehicle_",
+    "106": "item_throwing_",
+    "401": "item_housing_",
+    "402": "item_housing_",
+    "403": "item_housing_",
+    "404": "item_housing_",
+    "405": "item_housing_",
+    "410": "item_housing_",
+    "409": "item_housing_",
+    "202": "item_weapon_",
+    "201": "item_tool_",
+    "203": "item_armor_",
+    "205": "item_accessory_",
+    "204": "item_bullet_"
+  },
+  "facility_names": {
+    "1": { "en": "Handcraft", "ja": "ハンドクラフト" },
+    "10": { "en": "Workbench", "ja": "作業台" },
+    "22": { "en": "Smelting Furnace", "ja": "製錬炉" },
+    "30": { "en": "Cooking Station", "ja": "調理台" },
+    "31": { "en": "Stone Cooking Pot", "ja": "石の調理鍋" },
+    "33": { "en": "Tanning Rack", "ja": "皮なめし台" },
+    "37": { "en": "Mixing Cauldron", "ja": "調合窯" },
+    "39": { "en": "Projection (All)", "ja": "プロジェクション (すべて)" },
+    "391": {
+      "en": "Projection (All, ID 391)",
+      "ja": "プロジェクション (すべて, ID 391)"
     },
-    "facility_names": {
-        "1": { "en": "Handcraft", "ja": "ハンドクラフト" },
-        "10": { "en": "Workbench", "ja": "作業台" },
-        "22": { "en": "Smelting Furnace", "ja": "製錬炉" },
-        "30": { "en": "Cooking Station", "ja": "調理台" },
-        "31": { "en": "Stone Cooking Pot", "ja": "石の調理鍋" },
-        "33": { "en": "Tanning Rack", "ja": "皮なめし台" },
-        "37": { "en": "Mixing Cauldron", "ja": "調合窯" },
-        "39": { "en": "Projection (All)", "ja": "プロジェクション (すべて)" },
-        "391": { "en": "Projection (All, ID 391)", "ja": "プロジェクション (すべて, ID 391)" },
-        "392": { "en": "Projection (All, ID 392)", "ja": "プロジェクション (すべて, ID 392)" },
-        "393": { "en": "Projection (ID 393)", "ja": "プロジェクション (ID 393)" },
-        "394": { "en": "Projection (ID 394)", "ja": "プロジェクション (ID 394)" },
-        "395": { "en": "Projection (Simulation Room)", "ja": "プロジェクション (シミュレーションルーム)" },
-        "396": { "en": "Projection (ID 396)", "ja": "プロジェクション (ID 396)" },
-        "401": { "en": "Observation Data Exchange", "ja": "観測データ交換所" },
-        "5": { "en": "Furnace (All)", "ja": "炉 (すべて)" },
-        "501": { "en": "My Room Instance Exchange", "ja": "マイルーム・インスタンス交換所" },
-        "6": { "en": "Campfire", "ja": "たき火" },
-        "901": { "en": "Observation Data Exchange (ID 901)", "ja": "観測データ交換所 (ID 901)" },
-        "902": { "en": "Observation Data Exchange (ID 902)", "ja": "観測データ交換所 (ID 902)" },
-        "903": { "en": "Observation Data Exchange (ID 903)", "ja": "観測データ交換所 (ID 903)" },
-        "904": { "en": "Observation Data Exchange (ID 904)", "ja": "観測データ交換所 (ID 904)" },
-        "905": { "en": "Projection (ID 905)", "ja": "プロジェクション (ID 905)" }
+    "392": {
+      "en": "Projection (All, ID 392)",
+      "ja": "プロジェクション (すべて, ID 392)"
+    },
+    "393": { "en": "Projection (ID 393)", "ja": "プロジェクション (ID 393)" },
+    "394": { "en": "Projection (ID 394)", "ja": "プロジェクション (ID 394)" },
+    "395": {
+      "en": "Projection (Simulation Room)",
+      "ja": "プロジェクション (シミュレーションルーム)"
+    },
+    "396": { "en": "Projection (ID 396)", "ja": "プロジェクション (ID 396)" },
+    "401": { "en": "Observation Data Exchange", "ja": "観測データ交換所" },
+    "5": { "en": "Furnace (All)", "ja": "炉 (すべて)" },
+    "501": {
+      "en": "My Room Instance Exchange",
+      "ja": "マイルーム・インスタンス交換所"
+    },
+    "6": { "en": "Campfire", "ja": "たき火" },
+    "901": {
+      "en": "Observation Data Exchange (ID 901)",
+      "ja": "観測データ交換所 (ID 901)"
+    },
+    "902": {
+      "en": "Observation Data Exchange (ID 902)",
+      "ja": "観測データ交換所 (ID 902)"
+    },
+    "903": {
+      "en": "Observation Data Exchange (ID 903)",
+      "ja": "観測データ交換所 (ID 903)"
+    },
+    "904": {
+      "en": "Observation Data Exchange (ID 904)",
+      "ja": "観測データ交換所 (ID 904)"
+    },
+    "905": { "en": "Projection (ID 905)", "ja": "プロジェクション (ID 905)" }
+  },
+  "smelting_types": {
+    "05": { "en": "Blast Furnace", "ja": "高火力製錬炉" },
+    "06": { "en": "Campfire", "ja": "たき火" },
+    "16": { "en": "Mortar", "ja": "すり鉢" },
+    "17": { "en": "Spinning Wheel", "ja": "糸車" },
+    "18": { "en": "Loom", "ja": "機織り機" },
+    "22": { "en": "Smelting Furnace", "ja": "製錬炉" },
+    "31": { "en": "Stone Cooking Pot", "ja": "石の調理鍋" },
+    "40": { "en": "Cooking Pot", "ja": "調理鍋" }
+  },
+  "object_names": {
+    "breakable": {
+      "マツの木a": { "en": "Pine Tree A", "ja": "マツの木a" },
+      "マツの木b": { "en": "Pine Tree B", "ja": "マツの木b" },
+      "マツの木a色違い": {
+        "en": "Pine Tree A Colored",
+        "ja": "マツの木a色違い"
       },
-      "smelting_types": {
-        "05": { "en": "Blast Furnace", "ja": "高火力製錬炉" },
-        "06": { "en": "Campfire", "ja": "たき火" },
-        "16": { "en": "Mortar", "ja": "すり鉢" },
-        "17": { "en": "Spinning Wheel", "ja": "糸車" },
-        "18": { "en": "Loom", "ja": "機織り機" },
-        "22": { "en": "Smelting Furnace", "ja": "製錬炉" },
-        "31": { "en": "Stone Cooking Pot", "ja": "石の調理鍋" },
-        "40": { "en": "Cooking Pot", "ja": "調理鍋" }
+      "マツの木b色違い": {
+        "en": "Pine Tree B Colored",
+        "ja": "マツの木b色違い"
       },
-      "object_names": {
-        "breakable": {
-            "マツの木a": { "en": "Pine Tree A", "ja": "マツの木a" },
-            "マツの木b": { "en": "Pine Tree B", "ja": "マツの木b" },
-            "マツの木a色違い": { "en": "Pine Tree A Colored", "ja": "マツの木a色違い" },
-            "マツの木b色違い": { "en": "Pine Tree B Colored", "ja": "マツの木b色違い" },
-            "ナラの木": { "en": "Oak Tree", "ja": "ナラの木" },
-            "ナラの木色違い": { "en": "Oak Tree Colored", "ja": "ナラの木色違い" },
-            "ナラの木森林a": { "en": "Oak Tree Forest A", "ja": "ナラの木森林a" },
-            "ナラの木森林b": { "en": "Oak Tree Forest B", "ja": "ナラの木森林b" },
-            "ナラの木森林c": { "en": "Oak Tree Forest C", "ja": "ナラの木森林c" },
-            "ブナの木a": { "en": "Beech Tree A", "ja": "ブナの木a" },
-            "ブナの木b": { "en": "Beech Tree B", "ja": "ブナの木b" },
-            "ブナの木a色違い": { "en": "Beech Tree A Colored", "ja": "ブナの木a色違い" },
-            "ブナの木b色違い": { "en": "Beech Tree B Colored", "ja": "ブナの木b色違い" },
-            "ドクキノコつきの若木": { "en": "Sapling with Poison Mushroom", "ja": "ドクキノコつきの若木" },
-            "ハチの巣つきの木": { "en": "Tree with Beehive", "ja": "ハチの巣つきの木" },
-            "リンゴの木": { "en": "Apple Tree", "ja": "リンゴの木" },
-            "キリットレモンの木": { "en": "Kirito Lemon Tree", "ja": "キリットレモンの木" },
-            "倒木用透明アタリ（仮）": { "en": "Transparent Marks for Fallen Trees (Tentative)", "ja": "倒木用透明アタリ（仮）" },
-            "ひび岩M": { "en": "Cracked Rock M", "ja": "ひび岩M" },
-            "ひび岩L": { "en": "Cracked Rock L", "ja": "ひび岩L" },
-            "ダンジョンの大岩": { "en": "Large Rock in Dungeon", "ja": "ダンジョンの大岩" },
-            "破壊岩M": { "en": "Destroyed Rock M", "ja": "破壊岩M" },
-            "破壊岩L": { "en": "Destroyed Rock L", "ja": "破壊岩L" },
-            "破壊岩S": { "en": "Destroyed Rock S", "ja": "破壊岩S" },
-            "粘土塊": { "en": "Clay Lump", "ja": "粘土塊" },
-            "砂岩": { "en": "Sandstone", "ja": "砂岩" },
-            "銅鉱石岩": { "en": "Copper Ore Rock", "ja": "銅鉱石岩" },
-            "鉄鉱石岩": { "en": "Iron Ore Rock", "ja": "鉄鉱石岩" },
-            "銀鉱石テスト": { "en": "Silver Ore Test", "ja": "銀鉱石テスト" },
-            "金鉱石岩": { "en": "Gold Ore Rock", "ja": "金鉱石岩" },
-            "青鉱石テスト": { "en": "Blue Ore Test", "ja": "青鉱石テスト" },
-            "黒曜石テスト": { "en": "Obsidian Test", "ja": "黒曜石テスト" },
-            "水晶原石テスト": { "en": "Water Crystal Ore Test", "ja": "水晶原石テスト" },
-            "うるおいベリーの茂み": { "en": "Moisturizing Berry Bushes", "ja": "うるおいベリーの茂み" },
-            "PONチェリーの茂み": { "en": "PON Cherry Bushes", "ja": "PONチェリーの茂み" },
-            "ミエルベリーの茂み": { "en": "Miel Berry Bushes", "ja": "ミエルベリーの茂み" },
-            "茂み": { "en": "Bushes", "ja": "茂み" },
-            "茂み404": { "en": "Bushes 404", "ja": "茂み404" },
-            "木箱": { "en": "Wooden Box", "ja": "木箱" },
-            "透明岩（宝探し用）": { "en": "Transparent Rock (for Treasure Hunting)", "ja": "透明岩（宝探し用）" },
-            "破壊可能岩404-1": { "en": "Destructible Rock 404-1", "ja": "破壊可能岩404-1" },
-            "破壊可能岩404-2": { "en": "Destructible Rock 404-2", "ja": "破壊可能岩404-2" },
-            "ブナの木A_pla": { "en": "Beech Tree A_pla", "ja": "ブナの木A_pla" },
-            "ブナの木B_pla": { "en": "Beech Tree B_pla", "ja": "ブナの木B_pla" },
-            "ナラの木A_pla": { "en": "Oak Tree A_pla", "ja": "ナラの木A_pla" },
-            "ナラの木B_pla": { "en": "Oak Tree B_pla", "ja": "ナラの木B_pla" },
-            "マツの木A_pla": { "en": "Pine Tree A_pla", "ja": "マツの木A_pla" },
-            "マツの木B_pla": { "en": "Pine Tree B_pla", "ja": "マツの木B_pla" },
-            "beの木_pla": { "en": "Be Tree_pla", "ja": "beの木_pla" },
-            "piの木_pla": { "en": "Pi Tree_pla", "ja": "piの木_pla" },
-            "ハチの巣つきの木_pla": { "en": "Tree with Beehive_pla", "ja": "ハチの巣つきの木_pla" },
-            "リンゴの木_pla": { "en": "Apple Tree_pla", "ja": "リンゴの木_pla" },
-            "キリットレモンの木_pla": { "en": "Kiritto Lemon Tree_pla", "ja": "キリットレモンの木_pla" },
-            "破壊岩S_b": { "en": "Destructible Rock S_b", "ja": "破壊岩S_b" },
-            "破壊岩M_b": { "en": "Destructible Rock M_b", "ja": "破壊岩M_b" },
-            "破壊岩L_b": { "en": "Destructible Rock L_b", "ja": "破壊岩L_b" },
-            "破壊岩L_c": { "en": "Destructible Rock L_c", "ja": "破壊岩L_c" },
-            "ブッシュ_pla": { "en": "Bush_pla", "ja": "ブッシュ_pla" },
-            "pla_dhb_bonfirebf_a01": { "en": "pla_dhb_ bonfirebf_a01", "ja": "pla_dhb_bonfirebf_a01" },
-            "pla_dhb_basebf_b01": { "en": "pla_dhb_basebf_b01", "ja": "pla_dhb_basebf_b01" },
-            "pla_dhb_barricadebf_a01": { "en": "pla_dhb_barricadebf_a01", "ja": "pla_dhb_barricadebf_a01" },
-            "pla_dhb_barrelbf_a01": { "en": "pla_dhb_barrelbf_a01", "ja": "pla_dhb_barrelbf_a01" },
-            "pla_dhb_branchbf_a01": { "en": "pla_dhb_branchbf_a01", "ja": "pla_dhb_branchbf_a01" },
-            "pla_dhb_cedarbf_a01": { "en": "pla_dhb_cedarbf_a01", "ja": "pla_dhb_cedarbf_a01" },
-            "pla_dhb_ivybf_a01": { "en": "pla_dhb_ivybf_a01", "ja": "pla_dhb_ivybf_a01" },
-            "pla_dhb_objbf_a01": { "en": "pla_dhb_objbf_a01", "ja": "pla_dhb_objbf_a01" },
-            "pla_dhb_roastingstandbf_a01": { "en": "pla_dhb_roastingstandbf_a01", "ja": "pla_dhb_roastingstandbf_a01" },
-            "pla_dhb_basebf_a01": { "en": "pla_dhb_basebf_a01", "ja": "pla_dhb_basebf_a01" },
-            "pla_dhb_roastingstandbf_b01": { "en": "pla_dhb_roastingstandbf_b01", "ja": "pla_dhb_roastingstandbf_b01" },
-            "pla_dhb_rockbf_a01": { "en": "pla_dhb_rockbf_a01", "ja": "pla_dhb_rockbf_a01" },
-            "pla_dhb_strawbf_a01": { "en": "pla_dhb_strawbf_a01", "ja": "pla_dhb_strawbf_a01" },
-            "pla_dhb_tarpbf_l_a01": { "en": "pla_dhb_tarp bf_l_a01", "ja": "pla_dhb_tarpbf_l_a01" },
-            "pla_dhb_tarpbf_l_b01": { "en": "pla_dhb_tarpbf_l_b01", "ja": "pla_dhb_tarpbf_l_b01" },
-            "pla_dhb_tarpbf_s_a01": { "en": "pla_dhb_tarpbf_s_a01", "ja": "pla_dhb_tarpbf_s_a01" },
-            "pla_dhb_tentbf_l_a01": { "en": "pla_dhb_tentbf_l_a01", "ja": "pla_dhb_tentbf_l_a01" },
-            "pla_dhb_tentbf_s_a01": { "en": "pla_dhb_tentbf_s_a01", "ja": "pla_dhb_tentbf_s_a01" },
-            "pla_dhb_watchtowerbf_a01": { "en": "pla_dhb_watchtowerbf_a01", "ja": "pla_dhb_watchtowerbf_a01" },
-            "銅鉱石岩404": { "en": "Copper Ore Rock 404", "ja": "銅鉱石岩404" },
-            "鉄鉱石岩404": { "en": "Iron Ore Rock 404", "ja": "鉄鉱石岩404" },
-            "金鉱石岩404": { "en": "Gold Mine Stone Rock 404", "ja": "金鉱石岩404" }
-        },
-        "harvestable": {
-            "爆弾石": { "en": "Bomb Rock", "ja": "爆弾石" }
-        },
-        "nest": {
-            "柵": { "en": "Fence", "ja": "柵" },
-            "テント大": { "en": "Large Tent", "ja": "テント大" },
-            "テント小": { "en": "Small Tent", "ja": "テント小" },
-            "亜人焚火": { "en": "Demi-human Campfire", "ja": "亜人焚火" },
-            "ブランチ": { "en": "Branch", "ja": "ブランチ" },
-            "茂み": { "en": "Bush", "ja": "茂み" },
-            "骨": { "en": "Bone", "ja": "骨" },
-            "肉干し台": { "en": "Meat Drying Rack", "ja": "肉干し台" },
-            "テント大付属a": { "en": "Large Tent Attachment A", "ja": "テント大付属a" },
-            "テント大付属ｂ": { "en": "Large Tent Attachment B", "ja": "テント大付属ｂ" },
-            "テント小付属a": { "en": "Small Tent Attachment A", "ja": "テント小付属a" },
-            "見張り台": { "en": "Lookout Post", "ja": "見張り台" },
-            "茂みa": { "en": "Bush A", "ja": "茂みa" },
-            "茂みb": { "en": "Bush B", "ja": "茂みb" },
-            "茂みc": { "en": "Bush C", "ja": "茂みc" },
-            "見張り台a": { "en": "Lookout Post A", "ja": "見張り台a" },
-            "見張り台b": { "en": "Lookout Post B", "ja": "見張り台b" },
-            "見張り台c": { "en": "Lookout Post C", "ja": "見張り台c" }
-        },
-        "creatures": {
-            "1": { "en": "Skeleton", "ja": "スケルトン" },
-            "2": { "en": "Wolf", "ja": "オオカミ" },
-            "3": { "en": "Deer", "ja": "シカ" },
-            "4": { "en": "Slime", "ja": "スライム" },
-            "5": { "en": "Sheep", "ja": "ヒツジ" },
-            "6": { "en": "Wild Boar", "ja": "ワイルドボア" },
-            "7": { "en": "Wild Bear", "ja": "ワイルドクマ" },
-            "9": { "en": "Chicken", "ja": "ニワトリ" },
-            "10": { "en": "Mandragora", "ja": "マンドラゴラ" },
-            "11": { "en": "Golem", "ja": "ゴーレム" },
-            "12": { "en": "Bumble Bee", "ja": "バンブルビー" },
-            "13": { "en": "Huge Slime", "ja": "ヒュージスライム" },
-            "14": { "en": "Big Boar", "ja": "ビッグボア" },
-            "15": { "en": "Horned Bull", "ja": "角のある雄牛" },
-            "16": { "en": "Club Imp", "ja": "クラブキャンピー" },
-            "17": { "en": "Spear Imp", "ja": "槍キャンピー" },
-            "18": { "en": "Skeleton Ranger", "ja": "スケルトンレンジャー" },
-            "19": { "en": "Big Skeleton", "ja": "大きなスケルトン" },
-            "20": { "en": "Fox Fiend", "ja": "ヨウコ" },
-            "21": { "en": "Large Chicken", "ja": "大きなニワトリ" },
-            "22": { "en": "White Chicken", "ja": "ニワトリ （白）" },
-            "23": { "en": "Toxic Slime", "ja": "ポイズンスライム" },
-            "24": { "en": "Huge Toxic Slime", "ja": "ヒュージポイズンスライム" },
-            "25": { "en": "Slime", "ja": "スライム" },
-            "26": { "en": "Mandragora", "ja": "マンドラゴラ" },
-            "27": { "en": "Fire Slime", "ja": "ファイアスライム" },
-            "28": { "en": "Club Imp (Watch)", "ja": "クラブキャンピー（監視塔）" },
-            "29": { "en": "Club Imp (Bomb)", "ja": "クラブキャンピー（爆弾）" },
-            "30": { "en": "Club Imp (Watch Bomb)", "ja": "クラブキャンピー （監視塔爆弾）" }
-        }
+      "ナラの木": { "en": "Oak Tree", "ja": "ナラの木" },
+      "ナラの木色違い": { "en": "Oak Tree Colored", "ja": "ナラの木色違い" },
+      "ナラの木森林a": { "en": "Oak Tree Forest A", "ja": "ナラの木森林a" },
+      "ナラの木森林b": { "en": "Oak Tree Forest B", "ja": "ナラの木森林b" },
+      "ナラの木森林c": { "en": "Oak Tree Forest C", "ja": "ナラの木森林c" },
+      "ブナの木a": { "en": "Beech Tree A", "ja": "ブナの木a" },
+      "ブナの木b": { "en": "Beech Tree B", "ja": "ブナの木b" },
+      "ブナの木a色違い": {
+        "en": "Beech Tree A Colored",
+        "ja": "ブナの木a色違い"
+      },
+      "ブナの木b色違い": {
+        "en": "Beech Tree B Colored",
+        "ja": "ブナの木b色違い"
+      },
+      "ドクキノコつきの若木": {
+        "en": "Sapling with Poison Mushroom",
+        "ja": "ドクキノコつきの若木"
+      },
+      "ハチの巣つきの木": {
+        "en": "Tree with Beehive",
+        "ja": "ハチの巣つきの木"
+      },
+      "リンゴの木": { "en": "Apple Tree", "ja": "リンゴの木" },
+      "キリットレモンの木": {
+        "en": "Kirito Lemon Tree",
+        "ja": "キリットレモンの木"
+      },
+      "倒木用透明アタリ（仮）": {
+        "en": "Transparent Marks for Fallen Trees (Tentative)",
+        "ja": "倒木用透明アタリ（仮）"
+      },
+      "ひび岩M": { "en": "Cracked Rock M", "ja": "ひび岩M" },
+      "ひび岩L": { "en": "Cracked Rock L", "ja": "ひび岩L" },
+      "ダンジョンの大岩": {
+        "en": "Large Rock in Dungeon",
+        "ja": "ダンジョンの大岩"
+      },
+      "破壊岩M": { "en": "Destroyed Rock M", "ja": "破壊岩M" },
+      "破壊岩L": { "en": "Destroyed Rock L", "ja": "破壊岩L" },
+      "破壊岩S": { "en": "Destroyed Rock S", "ja": "破壊岩S" },
+      "粘土塊": { "en": "Clay Lump", "ja": "粘土塊" },
+      "砂岩": { "en": "Sandstone", "ja": "砂岩" },
+      "銅鉱石岩": { "en": "Copper Ore Rock", "ja": "銅鉱石岩" },
+      "鉄鉱石岩": { "en": "Iron Ore Rock", "ja": "鉄鉱石岩" },
+      "銀鉱石テスト": { "en": "Silver Ore Test", "ja": "銀鉱石テスト" },
+      "金鉱石岩": { "en": "Gold Ore Rock", "ja": "金鉱石岩" },
+      "青鉱石テスト": { "en": "Blue Ore Test", "ja": "青鉱石テスト" },
+      "黒曜石テスト": { "en": "Obsidian Test", "ja": "黒曜石テスト" },
+      "水晶原石テスト": {
+        "en": "Water Crystal Ore Test",
+        "ja": "水晶原石テスト"
+      },
+      "うるおいベリーの茂み": {
+        "en": "Moisturizing Berry Bushes",
+        "ja": "うるおいベリーの茂み"
+      },
+      "PONチェリーの茂み": {
+        "en": "PON Cherry Bushes",
+        "ja": "PONチェリーの茂み"
+      },
+      "ミエルベリーの茂み": {
+        "en": "Miel Berry Bushes",
+        "ja": "ミエルベリーの茂み"
+      },
+      "茂み": { "en": "Bushes", "ja": "茂み" },
+      "茂み404": { "en": "Bushes 404", "ja": "茂み404" },
+      "木箱": { "en": "Wooden Box", "ja": "木箱" },
+      "透明岩（宝探し用）": {
+        "en": "Transparent Rock (for Treasure Hunting)",
+        "ja": "透明岩（宝探し用）"
+      },
+      "破壊可能岩404-1": {
+        "en": "Destructible Rock 404-1",
+        "ja": "破壊可能岩404-1"
+      },
+      "破壊可能岩404-2": {
+        "en": "Destructible Rock 404-2",
+        "ja": "破壊可能岩404-2"
+      },
+      "ブナの木A_pla": { "en": "Beech Tree A_pla", "ja": "ブナの木A_pla" },
+      "ブナの木B_pla": { "en": "Beech Tree B_pla", "ja": "ブナの木B_pla" },
+      "ナラの木A_pla": { "en": "Oak Tree A_pla", "ja": "ナラの木A_pla" },
+      "ナラの木B_pla": { "en": "Oak Tree B_pla", "ja": "ナラの木B_pla" },
+      "マツの木A_pla": { "en": "Pine Tree A_pla", "ja": "マツの木A_pla" },
+      "マツの木B_pla": { "en": "Pine Tree B_pla", "ja": "マツの木B_pla" },
+      "beの木_pla": { "en": "Be Tree_pla", "ja": "beの木_pla" },
+      "piの木_pla": { "en": "Pi Tree_pla", "ja": "piの木_pla" },
+      "ハチの巣つきの木_pla": {
+        "en": "Tree with Beehive_pla",
+        "ja": "ハチの巣つきの木_pla"
+      },
+      "リンゴの木_pla": { "en": "Apple Tree_pla", "ja": "リンゴの木_pla" },
+      "キリットレモンの木_pla": {
+        "en": "Kiritto Lemon Tree_pla",
+        "ja": "キリットレモンの木_pla"
+      },
+      "破壊岩S_b": { "en": "Destructible Rock S_b", "ja": "破壊岩S_b" },
+      "破壊岩M_b": { "en": "Destructible Rock M_b", "ja": "破壊岩M_b" },
+      "破壊岩L_b": { "en": "Destructible Rock L_b", "ja": "破壊岩L_b" },
+      "破壊岩L_c": { "en": "Destructible Rock L_c", "ja": "破壊岩L_c" },
+      "ブッシュ_pla": { "en": "Bush_pla", "ja": "ブッシュ_pla" },
+      "pla_dhb_bonfirebf_a01": {
+        "en": "pla_dhb_ bonfirebf_a01",
+        "ja": "pla_dhb_bonfirebf_a01"
+      },
+      "pla_dhb_basebf_b01": {
+        "en": "pla_dhb_basebf_b01",
+        "ja": "pla_dhb_basebf_b01"
+      },
+      "pla_dhb_barricadebf_a01": {
+        "en": "pla_dhb_barricadebf_a01",
+        "ja": "pla_dhb_barricadebf_a01"
+      },
+      "pla_dhb_barrelbf_a01": {
+        "en": "pla_dhb_barrelbf_a01",
+        "ja": "pla_dhb_barrelbf_a01"
+      },
+      "pla_dhb_branchbf_a01": {
+        "en": "pla_dhb_branchbf_a01",
+        "ja": "pla_dhb_branchbf_a01"
+      },
+      "pla_dhb_cedarbf_a01": {
+        "en": "pla_dhb_cedarbf_a01",
+        "ja": "pla_dhb_cedarbf_a01"
+      },
+      "pla_dhb_ivybf_a01": {
+        "en": "pla_dhb_ivybf_a01",
+        "ja": "pla_dhb_ivybf_a01"
+      },
+      "pla_dhb_objbf_a01": {
+        "en": "pla_dhb_objbf_a01",
+        "ja": "pla_dhb_objbf_a01"
+      },
+      "pla_dhb_roastingstandbf_a01": {
+        "en": "pla_dhb_roastingstandbf_a01",
+        "ja": "pla_dhb_roastingstandbf_a01"
+      },
+      "pla_dhb_basebf_a01": {
+        "en": "pla_dhb_basebf_a01",
+        "ja": "pla_dhb_basebf_a01"
+      },
+      "pla_dhb_roastingstandbf_b01": {
+        "en": "pla_dhb_roastingstandbf_b01",
+        "ja": "pla_dhb_roastingstandbf_b01"
+      },
+      "pla_dhb_rockbf_a01": {
+        "en": "pla_dhb_rockbf_a01",
+        "ja": "pla_dhb_rockbf_a01"
+      },
+      "pla_dhb_strawbf_a01": {
+        "en": "pla_dhb_strawbf_a01",
+        "ja": "pla_dhb_strawbf_a01"
+      },
+      "pla_dhb_tarpbf_l_a01": {
+        "en": "pla_dhb_tarp bf_l_a01",
+        "ja": "pla_dhb_tarpbf_l_a01"
+      },
+      "pla_dhb_tarpbf_l_b01": {
+        "en": "pla_dhb_tarpbf_l_b01",
+        "ja": "pla_dhb_tarpbf_l_b01"
+      },
+      "pla_dhb_tarpbf_s_a01": {
+        "en": "pla_dhb_tarpbf_s_a01",
+        "ja": "pla_dhb_tarpbf_s_a01"
+      },
+      "pla_dhb_tentbf_l_a01": {
+        "en": "pla_dhb_tentbf_l_a01",
+        "ja": "pla_dhb_tentbf_l_a01"
+      },
+      "pla_dhb_tentbf_s_a01": {
+        "en": "pla_dhb_tentbf_s_a01",
+        "ja": "pla_dhb_tentbf_s_a01"
+      },
+      "pla_dhb_watchtowerbf_a01": {
+        "en": "pla_dhb_watchtowerbf_a01",
+        "ja": "pla_dhb_watchtowerbf_a01"
+      },
+      "銅鉱石岩404": { "en": "Copper Ore Rock 404", "ja": "銅鉱石岩404" },
+      "鉄鉱石岩404": { "en": "Iron Ore Rock 404", "ja": "鉄鉱石岩404" },
+      "金鉱石岩404": { "en": "Gold Mine Stone Rock 404", "ja": "金鉱石岩404" }
+    },
+    "harvestable": {
+      "爆弾石": { "en": "Bomb Rock", "ja": "爆弾石" }
+    },
+    "nest": {
+      "柵": { "en": "Fence", "ja": "柵" },
+      "テント大": { "en": "Large Tent", "ja": "テント大" },
+      "テント小": { "en": "Small Tent", "ja": "テント小" },
+      "亜人焚火": { "en": "Demi-human Campfire", "ja": "亜人焚火" },
+      "ブランチ": { "en": "Branch", "ja": "ブランチ" },
+      "茂み": { "en": "Bush", "ja": "茂み" },
+      "骨": { "en": "Bone", "ja": "骨" },
+      "肉干し台": { "en": "Meat Drying Rack", "ja": "肉干し台" },
+      "テント大付属a": {
+        "en": "Large Tent Attachment A",
+        "ja": "テント大付属a"
+      },
+      "テント大付属ｂ": {
+        "en": "Large Tent Attachment B",
+        "ja": "テント大付属ｂ"
+      },
+      "テント小付属a": {
+        "en": "Small Tent Attachment A",
+        "ja": "テント小付属a"
+      },
+      "見張り台": { "en": "Lookout Post", "ja": "見張り台" },
+      "茂みa": { "en": "Bush A", "ja": "茂みa" },
+      "茂みb": { "en": "Bush B", "ja": "茂みb" },
+      "茂みc": { "en": "Bush C", "ja": "茂みc" },
+      "見張り台a": { "en": "Lookout Post A", "ja": "見張り台a" },
+      "見張り台b": { "en": "Lookout Post B", "ja": "見張り台b" },
+      "見張り台c": { "en": "Lookout Post C", "ja": "見張り台c" }
+    },
+    "creatures": {
+      "1": { "en": "Skeleton", "ja": "スケルトン" },
+      "2": { "en": "Wolf", "ja": "オオカミ" },
+      "3": { "en": "Deer", "ja": "シカ" },
+      "4": { "en": "Slime", "ja": "スライム" },
+      "5": { "en": "Sheep", "ja": "ヒツジ" },
+      "6": { "en": "Wild Boar", "ja": "ワイルドボア" },
+      "7": { "en": "Wild Bear", "ja": "ワイルドクマ" },
+      "9": { "en": "Chicken", "ja": "ニワトリ" },
+      "10": { "en": "Mandragora", "ja": "マンドラゴラ" },
+      "11": { "en": "Golem", "ja": "ゴーレム" },
+      "12": { "en": "Bumble Bee", "ja": "バンブルビー" },
+      "13": { "en": "Huge Slime", "ja": "ヒュージスライム" },
+      "14": { "en": "Big Boar", "ja": "ビッグボア" },
+      "15": { "en": "Horned Bull", "ja": "角のある雄牛" },
+      "16": { "en": "Club Imp", "ja": "クラブキャンピー" },
+      "17": { "en": "Spear Imp", "ja": "槍キャンピー" },
+      "18": { "en": "Skeleton Ranger", "ja": "スケルトンレンジャー" },
+      "19": { "en": "Big Skeleton", "ja": "大きなスケルトン" },
+      "20": { "en": "Fox Fiend", "ja": "ヨウコ" },
+      "21": { "en": "Large Chicken", "ja": "大きなニワトリ" },
+      "22": { "en": "White Chicken", "ja": "ニワトリ （白）" },
+      "23": { "en": "Toxic Slime", "ja": "ポイズンスライム" },
+      "24": { "en": "Huge Toxic Slime", "ja": "ヒュージポイズンスライム" },
+      "25": { "en": "Slime", "ja": "スライム" },
+      "26": { "en": "Mandragora", "ja": "マンドラゴラ" },
+      "27": { "en": "Fire Slime", "ja": "ファイアスライム" },
+      "28": { "en": "Club Imp (Watch)", "ja": "クラブキャンピー（監視塔）" },
+      "29": { "en": "Club Imp (Bomb)", "ja": "クラブキャンピー（爆弾）" },
+      "30": {
+        "en": "Club Imp (Watch Bomb)",
+        "ja": "クラブキャンピー （監視塔爆弾）"
       }
+    }
+  },
+  "element_names": {
+    "1": { "en": "Element 1", "ja": "1" },
+    "2": { "en": "Element 2", "ja": "2" },
+    "3": { "en": "Element 3", "ja": "3" },
+    "4": { "en": "Element 4", "ja": "4" },
+    "101": { "en": "Fire", "ja": "火" },
+    "102": { "en": "Water", "ja": "水" },
+    "103": { "en": "Wind", "ja": "風" },
+    "104": { "en": "Electric", "ja": "雷" },
+    "105": { "en": "Terra", "ja": "土" },
+    "106": { "en": "Ice", "ja": "氷" },
+    "107": { "en": "Element 107", "ja": "107" },
+    "201": { "en": "Element 201", "ja": "201" }
+  }
 }
