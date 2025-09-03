@@ -9,7 +9,7 @@ this script is intended to extract Holoearth game data for the holoearth wiki's 
 
 ## update wiki
 0. set up your `.env` with a wiki account using `WIKI_USERNAME` `WIKI_PASSWORD` (if you're an admin, use the bot account)
-1. run `updater.bat`
+1. run `upload.bat`
 
 ## notice
 Holoearth and related IP are property of COVER Corp.
