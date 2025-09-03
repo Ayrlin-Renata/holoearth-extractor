@@ -1,1 +1,5 @@
+#sensitive
+.env
+
+#folders
 working_temp

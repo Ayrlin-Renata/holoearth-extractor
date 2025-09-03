@@ -1,0 +1,23 @@
+{
+    "wiki": {
+        "url": "holoearth.wiki.gg"
+    },
+    "page_mappings": [
+        {
+            "local_file": "wiki_extract/historical_creatures.lua",
+            "wiki_page": "Module:Monster/Data"
+        },
+        {
+            "local_file": "wiki_extract/historical_droptables.lua",
+            "wiki_page": "Module:Drops/Data"
+        },
+        {
+            "local_file": "wiki_extract/historical_enchant_skills.lua",
+            "wiki_page": "Module:Enchant/Data"
+        },
+        {
+            "local_file": "wiki_extract/historical_items.lua",
+            "wiki_page": "Module:Item/Data"
+        }
+    ]
+}
