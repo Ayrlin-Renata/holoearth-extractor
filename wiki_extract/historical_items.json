@@ -62025,6 +62025,1717 @@
                     }
                 ]
             }
+        },
+        "20501006": {
+            "1.0.20": {
+                "itemId": 20501006,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerRuby_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Ruby Ring",
+                "itemName_JA": "ルビーの指輪",
+                "itemDescription_EN": "A ring adorned with a brilliant ruby",
+                "itemDescription_JA": "美しいルビーを用いた指輪。",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501006,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501006",
+                            "descriptionKey": "item_accessory_d_20501006",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerRuby_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 207,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10501
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501007": {
+            "1.0.20": {
+                "itemId": 20501007,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerSapphire_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Sapphire Ring",
+                "itemName_JA": "サファイアの指輪",
+                "itemDescription_EN": "A ring adorned with a brilliant sapphire",
+                "itemDescription_JA": "美しいサファイアを用いた指輪。",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501007,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501007",
+                            "descriptionKey": "item_accessory_d_20501007",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerSapphire_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 208,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10502
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501008": {
+            "1.0.20": {
+                "itemId": 20501008,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerTopaz_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Topaz Ring",
+                "itemName_JA": "トパーズの指輪",
+                "itemDescription_EN": "A ring adorned with a brilliant topaz",
+                "itemDescription_JA": "美しいトパーズを用いた指輪。",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501008,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501008",
+                            "descriptionKey": "item_accessory_d_20501008",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerTopaz_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 209,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10503
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501009": {
+            "1.0.20": {
+                "itemId": 20501009,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerEmerald_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Emerald Ring",
+                "itemName_JA": "エメラルドの指輪",
+                "itemDescription_EN": "A ring adorned with a brilliant emerald",
+                "itemDescription_JA": "美しいエメラルドを用いた指輪。",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501009,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501009",
+                            "descriptionKey": "item_accessory_d_20501009",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerEmerald_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 210,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10504
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501010": {
+            "1.0.20": {
+                "itemId": 20501010,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerAmethyst_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Amethyst Ring",
+                "itemName_JA": "アメジストの指輪",
+                "itemDescription_EN": "A ring adorned with a brilliant amethyst",
+                "itemDescription_JA": "美しいアメジストを用いた指輪。",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501010,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501010",
+                            "descriptionKey": "item_accessory_d_20501010",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerAmethyst_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 211,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10505
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501014": {
+            "1.0.20": {
+                "itemId": 20501014,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckSapphire_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Sapphire Necklace",
+                "itemName_JA": "サファイアのネックレス",
+                "itemDescription_EN": "A necklace adorned with a brilliant sapphire that increases max carrying capacity",
+                "itemDescription_JA": "美しいサファイアで作られたネックレス。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501014,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501014",
+                            "descriptionKey": "item_accessory_d_20501014",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckSapphire_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 208,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10502
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501015": {
+            "1.0.20": {
+                "itemId": 20501015,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckTopaz_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Topaz Necklace",
+                "itemName_JA": "トパーズのネックレス",
+                "itemDescription_EN": "A necklace adorned with a brilliant topaz that increases max carrying capacity",
+                "itemDescription_JA": "美しいトパーズで作られたネックレス。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501015,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501015",
+                            "descriptionKey": "item_accessory_d_20501015",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckTopaz_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 209,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10503
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501016": {
+            "1.0.20": {
+                "itemId": 20501016,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckEmerald_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Emerald Necklace",
+                "itemName_JA": "エメラルドのネックレス",
+                "itemDescription_EN": "A necklace adorned with a brilliant emerald that increases max carrying capacity",
+                "itemDescription_JA": "美しいエメラルドで作られたネックレス。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501016,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501016",
+                            "descriptionKey": "item_accessory_d_20501016",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckEmerald_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 210,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10504
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501017": {
+            "1.0.20": {
+                "itemId": 20501017,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckAmethyst_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Amethyst Necklace",
+                "itemName_JA": "アメジストのネックレス",
+                "itemDescription_EN": "A necklace adorned with a brilliant amethyst that increases max carrying capacity",
+                "itemDescription_JA": "美しいアメジストで作られたネックレス。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501017,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501017",
+                            "descriptionKey": "item_accessory_d_20501017",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckAmethyst_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 211,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10505
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501019": {
+            "1.0.20": {
+                "itemId": 20501019,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarRuby_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Ruby Earrings",
+                "itemName_JA": "ルビーの耳飾り",
+                "itemDescription_EN": "Earrings adorned with brilliant rubies that increase max carrying capacity",
+                "itemDescription_JA": "美しいルビーをあしらった耳飾り。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501019,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501019",
+                            "descriptionKey": "item_accessory_d_20501019",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarRuby_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 207,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10501
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501020": {
+            "1.0.20": {
+                "itemId": 20501020,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarSapphire_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Sapphire Earrings",
+                "itemName_JA": "サファイアの耳飾り",
+                "itemDescription_EN": "Earrings adorned with brilliant sapphires that increase max carrying capacity",
+                "itemDescription_JA": "美しいサファイアをあしらった耳飾り。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501020,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501020",
+                            "descriptionKey": "item_accessory_d_20501020",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarSapphire_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 208,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10502
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501021": {
+            "1.0.20": {
+                "itemId": 20501021,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarTopaz_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Topaz Earrings",
+                "itemName_JA": "トパーズの耳飾り",
+                "itemDescription_EN": "Earrings adorned with brilliant topazes that increase max carrying capacity",
+                "itemDescription_JA": "美しいトパーズをあしらった耳飾り。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501021,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501021",
+                            "descriptionKey": "item_accessory_d_20501021",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarTopaz_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 209,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10503
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501022": {
+            "1.0.20": {
+                "itemId": 20501022,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarEmerald_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Emerald Earrings",
+                "itemName_JA": "エメラルドの耳飾り",
+                "itemDescription_EN": "Earrings adorned with brilliant emeralds that increase max carrying capacity",
+                "itemDescription_JA": "美しいエメラルドをあしらった耳飾り。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501022,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501022",
+                            "descriptionKey": "item_accessory_d_20501022",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarEmerald_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 210,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10504
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501023": {
+            "1.0.20": {
+                "itemId": 20501023,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarAmethyst_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Amethyst Earrings",
+                "itemName_JA": "アメジストの耳飾り",
+                "itemDescription_EN": "Earrings adorned with brilliant amethysts that increase max carrying capacity",
+                "itemDescription_JA": "美しいアメジストをあしらった耳飾り。所持重量の最大値が上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501023,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501023",
+                            "descriptionKey": "item_accessory_d_20501023",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 6,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 5,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarAmethyst_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 211,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10505
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501026": {
+            "1.0.20": {
+                "itemId": 20501026,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerRuby_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Ruby Ring",
+                "itemName_JA": "輝くルビーの指輪",
+                "itemDescription_EN": "Crafted with a precious and lustrous ruby, this ring shimmers brilliantly and increases max carrying capacity when worn ",
+                "itemDescription_JA": "貴重で特に美しいルビーを用いた指輪。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501026,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501026",
+                            "descriptionKey": "item_accessory_d_20501026",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerRuby_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 720,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10506
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501027": {
+            "1.0.20": {
+                "itemId": 20501027,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerSapphire_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Sapphire Ring",
+                "itemName_JA": "輝くサファイアの指輪",
+                "itemDescription_EN": "Crafted with a precious and lustrous sapphire, this ring shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいサファイアを用いた指輪。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501027,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501027",
+                            "descriptionKey": "item_accessory_d_20501027",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerSapphire_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 721,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10507
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501028": {
+            "1.0.20": {
+                "itemId": 20501028,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerTopaz_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Topaz Ring",
+                "itemName_JA": "輝くトパーズの指輪",
+                "itemDescription_EN": "Crafted with a precious and lustrous topaz, this ring shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいトパーズを用いた指輪。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501028,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501028",
+                            "descriptionKey": "item_accessory_d_20501028",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerTopaz_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 722,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10508
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501029": {
+            "1.0.20": {
+                "itemId": 20501029,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerEmerald_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Emerald Ring",
+                "itemName_JA": "輝くエメラルドの指輪",
+                "itemDescription_EN": "Crafted with a precious and lustrous emerald, this ring shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいエメラルドを用いた指輪。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501029,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501029",
+                            "descriptionKey": "item_accessory_d_20501029",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerEmerald_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 723,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10509
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501030": {
+            "1.0.20": {
+                "itemId": 20501030,
+                "sortId": 1,
+                "categoryId": 20501,
+                "iconResourceName": "AccFingerAmethyst_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Amethyst Ring",
+                "itemName_JA": "輝くアメジストの指輪",
+                "itemDescription_EN": "Crafted with a precious and lustrous amethyst, this ring shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいアメジストを用いた指輪。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20501,
+                    "sortId": 0,
+                    "nameKey": "item_category_20501",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Rings",
+                    "name_JA": "指輪"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501030,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501030",
+                            "descriptionKey": "item_accessory_d_20501030",
+                            "sortId": 1,
+                            "categoryId": 20501,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 6,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccFingerAmethyst_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_finger",
+                            "avatarDressMasterId": 724,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10510
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501031": {
+            "1.0.20": {
+                "itemId": 20501031,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckRuby_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Ruby Necklace",
+                "itemName_JA": "輝くルビーのネックレス",
+                "itemDescription_EN": "Crafted with a precious and lustrous ruby, this necklace shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいルビーで作られたネックレス。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501031,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501031",
+                            "descriptionKey": "item_accessory_d_20501031",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckRuby_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 720,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10506
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501032": {
+            "1.0.20": {
+                "itemId": 20501032,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckSapphire_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Sapphire Necklace",
+                "itemName_JA": "輝くサファイアのネックレス",
+                "itemDescription_EN": "Crafted with a precious and lustrous sapphire, this necklace shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいサファイアで作られたネックレス。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501032,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501032",
+                            "descriptionKey": "item_accessory_d_20501032",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckSapphire_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 721,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10507
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501033": {
+            "1.0.20": {
+                "itemId": 20501033,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckTopaz_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Topaz Necklace",
+                "itemName_JA": "輝くトパーズのネックレス",
+                "itemDescription_EN": "Crafted with a precious and lustrous topaz, this necklace shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいトパーズで作られたネックレス。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501033,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501033",
+                            "descriptionKey": "item_accessory_d_20501033",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckTopaz_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 722,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10508
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501034": {
+            "1.0.20": {
+                "itemId": 20501034,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckEmerald_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Emerald Necklace",
+                "itemName_JA": "輝くエメラルドのネックレス",
+                "itemDescription_EN": "Crafted with a precious and lustrous emerald, this necklace shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいエメラルドで作られたネックレス。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501034,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501034",
+                            "descriptionKey": "item_accessory_d_20501034",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckEmerald_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 723,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10509
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501035": {
+            "1.0.20": {
+                "itemId": 20501035,
+                "sortId": 1,
+                "categoryId": 20502,
+                "iconResourceName": "AccNeckAmethyst_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Amethyst Necklace",
+                "itemName_JA": "輝くアメジストのネックレス",
+                "itemDescription_EN": "Crafted with a precious and lustrous amethyst, this necklace shimmers brilliantly and increases max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいアメジストで作られたネックレス。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20502,
+                    "sortId": 0,
+                    "nameKey": "item_category_20502",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Necklaces",
+                    "name_JA": "ネックレス"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501035,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501035",
+                            "descriptionKey": "item_accessory_d_20501035",
+                            "sortId": 1,
+                            "categoryId": 20502,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 4,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccNeckAmethyst_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_neck",
+                            "avatarDressMasterId": 724,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10510
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501036": {
+            "1.0.20": {
+                "itemId": 20501036,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarRuby_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Ruby Earrings",
+                "itemName_JA": "輝くルビーの耳飾り",
+                "itemDescription_EN": "Crafted with precious and lustrous rubies, these earrings shimmer brilliantly and increase max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいルビーをあしらった耳飾り。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501036,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501036",
+                            "descriptionKey": "item_accessory_d_20501036",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarRuby_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 720,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10506
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501037": {
+            "1.0.20": {
+                "itemId": 20501037,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarSapphire_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Sapphire Earrings",
+                "itemName_JA": "輝くサファイアの耳飾り",
+                "itemDescription_EN": "Crafted with precious and lustrous sapphires, these earrings shimmer brilliantly and increase max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいサファイアをあしらった耳飾り。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501037,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501037",
+                            "descriptionKey": "item_accessory_d_20501037",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarSapphire_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 721,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10507
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501038": {
+            "1.0.20": {
+                "itemId": 20501038,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarTopaz_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Topaz Earrings",
+                "itemName_JA": "輝くトパーズの耳飾り",
+                "itemDescription_EN": "Crafted with precious and lustrous topazes, these earrings shimmer brilliantly and increase max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいトパーズをあしらった耳飾り。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501038,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501038",
+                            "descriptionKey": "item_accessory_d_20501038",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarTopaz_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 722,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10508
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501039": {
+            "1.0.20": {
+                "itemId": 20501039,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarEmerald_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Emerald Earrings",
+                "itemName_JA": "輝くエメラルドの耳飾り",
+                "itemDescription_EN": "Crafted with precious and lustrous emeralds, these earrings shimmer brilliantly and increase max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいエメラルドをあしらった耳飾り。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501039,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501039",
+                            "descriptionKey": "item_accessory_d_20501039",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarEmerald_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 723,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10509
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "20501040": {
+            "1.0.20": {
+                "itemId": 20501040,
+                "sortId": 1,
+                "categoryId": 20504,
+                "iconResourceName": "AccEarAmethyst_R_128",
+                "modelResourceName": "Models/Items/Tools/ItemBag",
+                "itemName_EN": "Radiant Amethyst Earrings",
+                "itemName_JA": "輝くアメジストの耳飾り",
+                "itemDescription_EN": "Crafted with precious and lustrous amethysts, these earrings shimmer brilliantly and increase max carrying capacity when worn",
+                "itemDescription_JA": "貴重で特に美しいアメジストをあしらった耳飾り。身に着けると煌びやかに輝き、所持重量の最大値も上がる",
+                "category": {
+                    "itemCategoryId": 20504,
+                    "sortId": 0,
+                    "nameKey": "item_category_20504",
+                    "belongMainCategory": 2,
+                    "belongSubCateory": 205,
+                    "hideFilter": 0,
+                    "iconResourceName": "None",
+                    "name_EN": "Earrings",
+                    "name_JA": "イヤリング"
+                },
+                "extra_data": [
+                    {
+                        "source_file": "master_accessory.json",
+                        "data": {
+                            "accessoryId": 20501040,
+                            "systemType": "",
+                            "nameKey": "item_accessory_20501040",
+                            "descriptionKey": "item_accessory_d_20501040",
+                            "sortId": 1,
+                            "categoryId": 20504,
+                            "optionIdList": [
+                                0
+                            ],
+                            "itemRank": 8,
+                            "weight": 0.01,
+                            "accessoryType": 1,
+                            "defense": 0,
+                            "magicDefense": 8,
+                            "qualityDefense": 0,
+                            "qualityMagicDefense": 0,
+                            "qualityDuarableValue": 0,
+                            "durableValue": 0,
+                            "loseBrokenItem": 0,
+                            "iconResourceName": "AccEarAmethyst_R_128",
+                            "modelResourceName": "Models/Items/Tools/ItemBag",
+                            "throwProjectileAddress": "",
+                            "avatarDressMasterCategory": "acc_ear",
+                            "avatarDressMasterId": 724,
+                            "guideId": 401,
+                            "characteristicIdList": [
+                                10510
+                            ]
+                        }
+                    }
+                ]
+            }
         }
     }
 }

@@ -150,6 +150,18 @@ def resolve_item_data(input_dir, output_file):
                 all_items_to_process.append(synthetic_item)
                 existing_item_ids.add(item_id)
         if armor_only_items_found > 0: print(f"Found and added {armor_only_items_found} items defined only in master_armor.json.")
+        
+        # Scan master_accessory for unique items
+        print("Scanning for accessory-only items...")
+        accessory_only_items_found = 0
+        for accessory in data.get('master_accessory', {}).get('list', []):
+            item_id = accessory.get('accessoryId')
+            if item_id and item_id not in existing_item_ids:
+                accessory_only_items_found += 1
+                synthetic_item = { "itemId": item_id, "sortId": accessory.get('sortId'), "categoryId": accessory.get('categoryId'), "iconResourceName": accessory.get('iconResourceName'), "modelResourceName": accessory.get('modelResourceName') }
+                all_items_to_process.append(synthetic_item)
+                existing_item_ids.add(item_id)
+        if accessory_only_items_found > 0: print(f"Found and added {accessory_only_items_found} items defined only in master_accessory.json.")
 
         # --- End of combination logic ---
 
