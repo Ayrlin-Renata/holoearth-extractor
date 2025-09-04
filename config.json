@@ -361,5 +361,24 @@
     "106": { "en": "Ice", "ja": "氷" },
     "107": { "en": "Element 107", "ja": "107" },
     "201": { "en": "Element 201", "ja": "201" }
+  },
+  "avatar_category_sources": {
+    "2": "avatarAccEyes",
+    "4": "avatarAccCaps",
+    "5": "avatarAccMasks",
+    "10": "avatarClothSocks",
+    "20": "avatarClothOuters",
+    "21": "avatarClothBottoms",
+    "22": "avatarClothShoes",
+    "23": "avatarClothUnderwears",
+    "26": "avatarAccHeads",
+    "27": "avatarAccTails",
+    "28": "avatarAccEars",
+    "29": "avatarAccNecks",
+    "31": "avatarAccFingers",
+    "32": "avatarAccHands"
+  },
+  "avatar_category_abbreviations": {
+    "acc_cap": "avatarAccCaps"
   }
 }
