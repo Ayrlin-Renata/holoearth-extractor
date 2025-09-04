@@ -341,10 +341,11 @@
       "27": { "en": "Fire Slime", "ja": "ファイアスライム" },
       "28": { "en": "Club Imp (Watch)", "ja": "クラブキャンピー（監視塔）" },
       "29": { "en": "Club Imp (Bomb)", "ja": "クラブキャンピー（爆弾）" },
-      "30": {
-        "en": "Club Imp (Watch Bomb)",
-        "ja": "クラブキャンピー （監視塔爆弾）"
-      }
+      "30": { "en": "Club Imp (Watch Bomb)", "ja": "クラブキャンピー （監視塔爆弾）" },
+      "102": { "en": "Wolf (Stronger)", "ja": "オオカミ（強化）" },
+      "105": { "en": "Sheep (Stronger)", "ja": "ヒツジ（強化）" },
+      "106": { "en": "Wild Boar (Stronger)", "ja": "ワイルドボア（強化）" },
+      "120": { "en": "Fox Fiend (Stronger)", "ja": "ヨウコ（強化）" }
     }
   },
   "element_names": {
