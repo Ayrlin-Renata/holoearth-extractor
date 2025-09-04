@@ -44114,8 +44114,8 @@ return {
                 ["bgmAddress"] = "BGM_plain_boss",
                 ["creatureName_EN"] = "Wolf",
                 ["creatureName_JA"] = "オオカミ",
-                ["configName_EN"] = nil,
-                ["configName_JA"] = nil,
+                ["configName_EN"] = "Wolf (Stronger)",
+                ["configName_JA"] = "オオカミ（強化）",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100062,
@@ -44363,8 +44363,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Sheep",
                 ["creatureName_JA"] = "ヒツジ",
-                ["configName_EN"] = nil,
-                ["configName_JA"] = nil,
+                ["configName_EN"] = "Sheep (Stronger)",
+                ["configName_JA"] = "ヒツジ（強化）",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100064,
@@ -44546,8 +44546,8 @@ return {
                 ["bgmAddress"] = "BGM_common_battle_1",
                 ["creatureName_EN"] = "Wild Boar",
                 ["creatureName_JA"] = "ワイルドボア",
-                ["configName_EN"] = nil,
-                ["configName_JA"] = nil,
+                ["configName_EN"] = "Wild Boar (Stronger)",
+                ["configName_JA"] = "ワイルドボア（強化）",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100066,
@@ -44817,8 +44817,8 @@ return {
                 ["bgmAddress"] = "BGM_plain_boss",
                 ["creatureName_EN"] = "Fox Fiend",
                 ["creatureName_JA"] = "ヨウコ",
-                ["configName_EN"] = nil,
-                ["configName_JA"] = nil,
+                ["configName_EN"] = "Fox Fiend (Stronger)",
+                ["configName_JA"] = "ヨウコ（強化）",
                 ["drop_rules"] = {
                     {
                         ["dropId"] = 100068,
