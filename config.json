@@ -380,5 +380,6 @@
   },
   "avatar_category_abbreviations": {
     "acc_cap": "avatarAccCaps"
-  }
+  },
+  "avatar_url": "https://cdn.holoearth.com/avatar/"
 }

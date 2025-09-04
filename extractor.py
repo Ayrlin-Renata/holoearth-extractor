@@ -204,13 +204,20 @@ def get_version_from_user(historical_files):
                 # Handle both flat and nested historical data structures
                 if any(isinstance(v, dict) and any(isinstance(sv, dict) for sv in v.values()) for v in data.values()):  # Nested check
                     for top_level_key in data.values():
-                        for subgroup in top_level_key.values():
-                            for item_history in subgroup.values():
-                                existing_versions.update(item_history.keys())
+                        if isinstance(top_level_key, dict):
+                            for subgroup in top_level_key.values():
+                                if isinstance(subgroup, dict):
+                                    for item_history in subgroup.values():
+                                        if isinstance(item_history, dict):
+                                            existing_versions.update(
+                                                item_history.keys())
                 else:  # Flat check
                     for top_level_key in data.values():
-                        for item_history in top_level_key.values():
-                            existing_versions.update(item_history.keys())
+                        if isinstance(top_level_key, dict):
+                            for item_history in top_level_key.values():
+                                if isinstance(item_history, dict):
+                                    existing_versions.update(
+                                        item_history.keys())
             except (json.JSONDecodeError, AttributeError):
                 print(
                     f"Warning: Could not parse existing versions from {file_path}. Skipping.")
@@ -250,8 +257,8 @@ def update_history_file(resolved_data, historical_data, version_string, id_key_m
             item_name_raw = (item.get('name_EN') or item.get('configName_EN') or
                              item.get('objectName_EN') or item.get('resultItemName_EN') or
                              item.get('seedItemName_EN') or item.get('creatureName_EN') or
-                             item.get('nameForTool') or item.get('itemName_EN') or 
-                             item.get('localize_EN') or item.get('name_EN') or item.get('k') or item.get('key') or item.get('gender') or item.get('localizeKey', 'Unknown'))
+                             item.get('nameForTool') or item.get('itemName_EN') or
+                             item.get('localize_EN') or item.get('name_EN') or item.get('k') or item.get('key') or item.get('caption') or item.get('gender') or item.get('localizeKey', 'Unknown'))
 
             item_name_for_report = item_name_raw.replace(
                 '\n', ' ') if isinstance(item_name_raw, str) else item_name_raw
@@ -345,7 +352,7 @@ def main():
 
     # --- Step 1: Run Decryption and Resolvers ---
     run_all = args.resolver == 'all'
-    if run_all and not run_decryption(args.input_dir, decrypted_dir):
+    if args.resolver != 'avatar' and not run_decryption(args.input_dir, decrypted_dir):
         return
     if args.resolver in ['all', 'recipes'] and not run_script('resolver.py', decrypted_dir, resolved_recipes_file):
         return
@@ -365,162 +372,170 @@ def main():
     # --- Process all data types ---
 
     # Process Recipes
-    print("\n--- Updating Recipe History ---")
-    recipe_id_map = {"crafting": "craftRecipeId",
-                     "smelting": "pid", "cultivation": "id"}
-    historical_recipes = json.load(open(historical_files['recipes'], 'r', encoding='utf-8')) if os.path.exists(historical_files['recipes']) else (seed_history(
-        args.initial_recipe_history, recipe_id_map) if args.initial_recipe_history and os.path.exists(args.initial_recipe_history) else {"crafting": {}, "smelting": {}, "cultivation": {}})
-    with open(resolved_recipes_file, 'r', encoding='utf-8') as f:
-        resolved_recipes = json.load(f)
-    recipe_report_lines = [
-        f"Recipe Change Report for version: {version_string}\n"]
-    if update_history_file(resolved_recipes, historical_recipes, version_string, recipe_id_map, recipe_report_lines):
-        with open(os.path.join(args.output_dir, f'report_recipes_{version_string}.txt'), 'w', encoding='utf-8') as f:
-            f.write('\n'.join(recipe_report_lines))
-        print("Recipe report generated.")
-    else:
-        print("No recipe changes detected.")
-    with open(historical_files['recipes'], 'w', encoding='utf-8') as f:
-        json.dump(historical_recipes, f, indent=4, ensure_ascii=False)
-    write_lua_module(lua_files['recipes'], historical_recipes)
+    if args.resolver in ['all', 'recipes']:
+        print("\n--- Updating Recipe History ---")
+        recipe_id_map = {"crafting": "craftRecipeId",
+                         "smelting": "pid", "cultivation": "id"}
+        historical_recipes = json.load(open(historical_files['recipes'], 'r', encoding='utf-8')) if os.path.exists(historical_files['recipes']) else (seed_history(
+            args.initial_recipe_history, recipe_id_map) if args.initial_recipe_history and os.path.exists(args.initial_recipe_history) else {"crafting": {}, "smelting": {}, "cultivation": {}})
+        with open(resolved_recipes_file, 'r', encoding='utf-8') as f:
+            resolved_recipes = json.load(f)
+        recipe_report_lines = [
+            f"Recipe Change Report for version: {version_string}\n"]
+        if update_history_file(resolved_recipes, historical_recipes, version_string, recipe_id_map, recipe_report_lines):
+            with open(os.path.join(args.output_dir, f'report_recipes_{version_string}.txt'), 'w', encoding='utf-8') as f:
+                f.write('\n'.join(recipe_report_lines))
+            print("Recipe report generated.")
+        else:
+            print("No recipe changes detected.")
+        with open(historical_files['recipes'], 'w', encoding='utf-8') as f:
+            json.dump(historical_recipes, f, indent=4, ensure_ascii=False)
+        write_lua_module(lua_files['recipes'], historical_recipes)
 
     # Process Drop Tables
-    print("\n--- Updating Drop Table History ---")
-    droptable_id_map = {"breakable_objects": "objectId", "harvestable_objects": "nameForTool",
-                        "creature_drops": "creatureId", "nest_objects": "nestObjectId"}
-    historical_droptables = json.load(open(historical_files['droptables'], 'r', encoding='utf-8')) if os.path.exists(historical_files['droptables']) else (seed_history(
-        args.initial_droptable_history, droptable_id_map) if args.initial_droptable_history and os.path.exists(args.initial_droptable_history) else {key: {} for key in droptable_id_map.keys()})
-    with open(resolved_droptables_file, 'r', encoding='utf-8') as f:
-        resolved_droptables = json.load(f)
-    droptable_report_lines = [
-        f"Drop Table Change Report for version: {version_string}\n"]
-    if update_history_file(resolved_droptables, historical_droptables, version_string, droptable_id_map, droptable_report_lines):
-        with open(os.path.join(args.output_dir, f'report_droptables_{version_string}.txt'), 'w', encoding='utf-8') as f:
-            f.write('\n'.join(droptable_report_lines))
-        print("Drop table report generated.")
-    else:
-        print("No drop table changes detected.")
-    with open(historical_files['droptables'], 'w', encoding='utf-8') as f:
-        json.dump(historical_droptables, f, indent=4, ensure_ascii=False)
-    write_lua_module(lua_files['droptables'], historical_droptables)
+    if args.resolver in ['all', 'droptables']:
+        print("\n--- Updating Drop Table History ---")
+        droptable_id_map = {"breakable_objects": "objectId", "harvestable_objects": "nameForTool",
+                            "creature_drops": "creatureId", "nest_objects": "nestObjectId"}
+        historical_droptables = json.load(open(historical_files['droptables'], 'r', encoding='utf-8')) if os.path.exists(historical_files['droptables']) else (seed_history(
+            args.initial_droptable_history, droptable_id_map) if args.initial_droptable_history and os.path.exists(args.initial_droptable_history) else {key: {} for key in droptable_id_map.keys()})
+        with open(resolved_droptables_file, 'r', encoding='utf-8') as f:
+            resolved_droptables = json.load(f)
+        droptable_report_lines = [
+            f"Drop Table Change Report for version: {version_string}\n"]
+        if update_history_file(resolved_droptables, historical_droptables, version_string, droptable_id_map, droptable_report_lines):
+            with open(os.path.join(args.output_dir, f'report_droptables_{version_string}.txt'), 'w', encoding='utf-8') as f:
+                f.write('\n'.join(droptable_report_lines))
+            print("Drop table report generated.")
+        else:
+            print("No drop table changes detected.")
+        with open(historical_files['droptables'], 'w', encoding='utf-8') as f:
+            json.dump(historical_droptables, f, indent=4, ensure_ascii=False)
+        write_lua_module(lua_files['droptables'], historical_droptables)
 
     # Process Enchants
     with open(resolved_enchants_file, 'r', encoding='utf-8') as f:
         resolved_enchants = json.load(f)
-    print("\n--- Updating Enchant Ingredient History ---")
-    enchant_ing_id_map = {"enchant_ingredients": "id"}
-    historical_ingredients = json.load(open(historical_files['enchant_ingredients'], 'r', encoding='utf-8')) if os.path.exists(historical_files['enchant_ingredients']) else (
-        seed_history(args.initial_enchant_history, enchant_ing_id_map) if args.initial_enchant_history and os.path.exists(args.initial_enchant_history) else {"enchant_ingredients": {}})
-    ing_report_lines = [
-        f"Enchant Ingredient Change Report for version: {version_string}\n"]
-    if update_history_file({"enchant_ingredients": resolved_enchants.get("enchant_ingredients", [])}, historical_ingredients, version_string, enchant_ing_id_map, ing_report_lines):
-        with open(os.path.join(args.output_dir, f'report_enchant_ingredients_{version_string}.txt'), 'w', encoding='utf-8') as f:
-            f.write('\n'.join(ing_report_lines))
-        print("Enchant ingredient report generated.")
-    else:
-        print("No enchant ingredient changes detected.")
-    with open(historical_files['enchant_ingredients'], 'w', encoding='utf-8') as f:
-        json.dump(historical_ingredients, f, indent=4, ensure_ascii=False)
-    write_lua_module(lua_files['enchant_ingredients'], historical_ingredients)
+        print("\n--- Updating Enchant Ingredient History ---")
+        enchant_ing_id_map = {"enchant_ingredients": "id"}
+        historical_ingredients = json.load(open(historical_files['enchant_ingredients'], 'r', encoding='utf-8')) if os.path.exists(historical_files['enchant_ingredients']) else (
+            seed_history(args.initial_enchant_history, enchant_ing_id_map) if args.initial_enchant_history and os.path.exists(args.initial_enchant_history) else {"enchant_ingredients": {}})
+        ing_report_lines = [
+            f"Enchant Ingredient Change Report for version: {version_string}\n"]
+        if update_history_file({"enchant_ingredients": resolved_enchants.get("enchant_ingredients", [])}, historical_ingredients, version_string, enchant_ing_id_map, ing_report_lines):
+            with open(os.path.join(args.output_dir, f'report_enchant_ingredients_{version_string}.txt'), 'w', encoding='utf-8') as f:
+                f.write('\n'.join(ing_report_lines))
+            print("Enchant ingredient report generated.")
+        else:
+            print("No enchant ingredient changes detected.")
+        with open(historical_files['enchant_ingredients'], 'w', encoding='utf-8') as f:
+            json.dump(historical_ingredients, f, indent=4, ensure_ascii=False)
+        write_lua_module(
+            lua_files['enchant_ingredients'], historical_ingredients)
 
-    print("\n--- Updating Enchant Skill History ---")
-    enchant_skill_id_map = {"enchant_skills": "id"}
-    historical_skills = json.load(open(historical_files['enchant_skills'], 'r', encoding='utf-8')) if os.path.exists(historical_files['enchant_skills']) else (seed_history(
-        args.initial_enchant_history, enchant_skill_id_map) if args.initial_enchant_history and os.path.exists(args.initial_enchant_history) else {"enchant_skills": {}})
-    skill_report_lines = [
-        f"Enchant Skill Change Report for version: {version_string}\n"]
-    if update_history_file({"enchant_skills": resolved_enchants.get("enchant_skills", [])}, historical_skills, version_string, enchant_skill_id_map, skill_report_lines):
-        with open(os.path.join(args.output_dir, f'report_enchant_skills_{version_string}.txt'), 'w', encoding='utf-8') as f:
-            f.write('\n'.join(skill_report_lines))
-        print("Enchant skill report generated.")
-    else:
-        print("No enchant skill changes detected.")
-    with open(historical_files['enchant_skills'], 'w', encoding='utf-8') as f:
-        json.dump(historical_skills, f, indent=4, ensure_ascii=False)
-    write_lua_module(lua_files['enchant_skills'], historical_skills)
+        print("\n--- Updating Enchant Skill History ---")
+        enchant_skill_id_map = {"enchant_skills": "id"}
+        historical_skills = json.load(open(historical_files['enchant_skills'], 'r', encoding='utf-8')) if os.path.exists(historical_files['enchant_skills']) else (seed_history(
+            args.initial_enchant_history, enchant_skill_id_map) if args.initial_enchant_history and os.path.exists(args.initial_enchant_history) else {"enchant_skills": {}})
+        skill_report_lines = [
+            f"Enchant Skill Change Report for version: {version_string}\n"]
+        if update_history_file({"enchant_skills": resolved_enchants.get("enchant_skills", [])}, historical_skills, version_string, enchant_skill_id_map, skill_report_lines):
+            with open(os.path.join(args.output_dir, f'report_enchant_skills_{version_string}.txt'), 'w', encoding='utf-8') as f:
+                f.write('\n'.join(skill_report_lines))
+            print("Enchant skill report generated.")
+        else:
+            print("No enchant skill changes detected.")
+        with open(historical_files['enchant_skills'], 'w', encoding='utf-8') as f:
+            json.dump(historical_skills, f, indent=4, ensure_ascii=False)
+        write_lua_module(lua_files['enchant_skills'], historical_skills)
 
     # Process Items
-    print("\n--- Updating Item History ---")
-    item_id_map = {"items": "itemId"}
-    historical_items = json.load(open(historical_files['items'], 'r', encoding='utf-8')) if os.path.exists(historical_files['items']) else (seed_history(
-        args.initial_item_history, item_id_map) if args.initial_item_history and os.path.exists(args.initial_item_history) else {"items": {}})
-    with open(resolved_items_file, 'r', encoding='utf-8') as f:
-        resolved_items = json.load(f)
-    item_report_lines = [f"Item Change Report for version: {version_string}\n"]
-    if update_history_file(resolved_items, historical_items, version_string, item_id_map, item_report_lines):
-        with open(os.path.join(args.output_dir, f'report_items_{version_string}.txt'), 'w', encoding='utf-8') as f:
-            f.write('\n'.join(item_report_lines))
-        print("Item report generated.")
-    else:
-        print("No item changes detected.")
-    with open(historical_files['items'], 'w', encoding='utf-8') as f:
-        json.dump(historical_items, f, indent=4, ensure_ascii=False)
-    write_lua_module(lua_files['items'], historical_items)
+    if args.resolver in ['all', 'items']:
+        print("\n--- Updating Item History ---")
+        item_id_map = {"items": "itemId"}
+        historical_items = json.load(open(historical_files['items'], 'r', encoding='utf-8')) if os.path.exists(historical_files['items']) else (seed_history(
+            args.initial_item_history, item_id_map) if args.initial_item_history and os.path.exists(args.initial_item_history) else {"items": {}})
+        with open(resolved_items_file, 'r', encoding='utf-8') as f:
+            resolved_items = json.load(f)
+        item_report_lines = [
+            f"Item Change Report for version: {version_string}\n"]
+        if update_history_file(resolved_items, historical_items, version_string, item_id_map, item_report_lines):
+            with open(os.path.join(args.output_dir, f'report_items_{version_string}.txt'), 'w', encoding='utf-8') as f:
+                f.write('\n'.join(item_report_lines))
+            print("Item report generated.")
+        else:
+            print("No item changes detected.")
+        with open(historical_files['items'], 'w', encoding='utf-8') as f:
+            json.dump(historical_items, f, indent=4, ensure_ascii=False)
+        write_lua_module(lua_files['items'], historical_items)
 
-    # NEW: Process Creatures
-    print("\n--- Updating Creature History ---")
-    creature_id_map = {"creatures": "creatureId"}
-    historical_creatures = json.load(open(historical_files['creatures'], 'r', encoding='utf-8')) if os.path.exists(historical_files['creatures']) else (seed_history(
-        args.initial_creature_history, creature_id_map) if args.initial_creature_history and os.path.exists(args.initial_creature_history) else {"creatures": {}})
-    with open(resolved_creatures_file, 'r', encoding='utf-8') as f:
-        resolved_creatures = json.load(f)
-    creature_report_lines = [
-        f"Creature Change Report for version: {version_string}\n"]
-    if update_history_file(resolved_creatures, historical_creatures, version_string, creature_id_map, creature_report_lines):
-        with open(os.path.join(args.output_dir, f'report_creatures_{version_string}.txt'), 'w', encoding='utf-8') as f:
-            f.write('\n'.join(creature_report_lines))
-        print("Creature report generated.")
-    else:
-        print("No creature changes detected.")
-    with open(historical_files['creatures'], 'w', encoding='utf-8') as f:
-        json.dump(historical_creatures, f, indent=4, ensure_ascii=False)
-    write_lua_module(lua_files['creatures'], historical_creatures)
+    # Process Creatures
+    if args.resolver in ['all', 'creatures']:
+        print("\n--- Updating Creature History ---")
+        creature_id_map = {"creatures": "creatureId"}
+        historical_creatures = json.load(open(historical_files['creatures'], 'r', encoding='utf-8')) if os.path.exists(historical_files['creatures']) else (seed_history(
+            args.initial_creature_history, creature_id_map) if args.initial_creature_history and os.path.exists(args.initial_creature_history) else {"creatures": {}})
+        with open(resolved_creatures_file, 'r', encoding='utf-8') as f:
+            resolved_creatures = json.load(f)
+        creature_report_lines = [
+            f"Creature Change Report for version: {version_string}\n"]
+        if update_history_file(resolved_creatures, historical_creatures, version_string, creature_id_map, creature_report_lines):
+            with open(os.path.join(args.output_dir, f'report_creatures_{version_string}.txt'), 'w', encoding='utf-8') as f:
+                f.write('\n'.join(creature_report_lines))
+            print("Creature report generated.")
+        else:
+            print("No creature changes detected.")
+        with open(historical_files['creatures'], 'w', encoding='utf-8') as f:
+            json.dump(historical_creatures, f, indent=4, ensure_ascii=False)
+        write_lua_module(lua_files['creatures'], historical_creatures)
 
     # --- Process Avatars ---
     if args.resolver in ['all', 'avatar']:
         print("\n--- Updating Avatar History ---")
-        # Load resolved data (nested structure)
         with open(resolved_avatars_file, 'r', encoding='utf-8') as f:
             resolved_avatars = json.load(f)
 
-        # Load historical data or initialize with the correct nested structure
         if os.path.exists(historical_files['avatar']):
             with open(historical_files['avatar'], 'r', encoding='utf-8') as f:
                 historical_avatars = json.load(f)
         else:
-            # Note: Seeding for this complex, nested structure would require a custom seed function.
-            # For now, we initialize an empty structure.
             historical_avatars = {cat: {} for cat in resolved_avatars.keys()}
 
         report_lines = [
             f"Avatar Change Report for version: {version_string}\n"]
         overall_changes = False
 
-        # Iterate through the nested structure and update history for each subgroup
+        # Define which subgroups use a key other than 'id'
+        avatar_id_key_overrides = {
+            'areaTags': 'area',
+            'keyVals': 'k',
+            'avatarCreateMenuCategorys': 'menuCategory',
+            'avatarCreateModeEnvironments': 'caption',
+            'avatarCustomCategorys': 'category',
+            'avatarDressupCategorys': 'categoryNameKey',
+            'avatarPartsThumbnails': 'category',
+            'editCostGroups': 'localizeKey'
+        }
+
         for category, subgroups in resolved_avatars.items():
             if category == "avatarFashionItemSets":
-                # This is a list, not a dict of items. Handle separately if needed.
-                # For now, we'll treat it as one blob.
-                # A more robust solution would version each set by its sortKey.
                 continue
 
             for subgroup_name, items in subgroups.items():
-                id_key = 'id'  # Most avatar items use 'id'
+                # Use the override key if it exists, otherwise default to 'id'
+                id_key = avatar_id_key_overrides.get(subgroup_name, 'id')
 
-                # Prepare single-item dictionaries to pass to the existing update function
                 resolved_subgroup_dict = {subgroup_name: items}
-                historical_subgroup_dict = {subgroup_name: historical_avatars.get(
-                    category, {}).get(subgroup_name, {})}
+                # Ensure the nested historical structure is initialized
+                historical_avatars.setdefault(category, {})
+                historical_subgroup_dict = {
+                    subgroup_name: historical_avatars[category].get(subgroup_name, {})}
                 subgroup_id_map = {subgroup_name: id_key}
 
                 if update_history_file(resolved_subgroup_dict, historical_subgroup_dict, version_string, subgroup_id_map, report_lines):
                     overall_changes = True
-                    # Put the updated history back into the main nested structure
-                    historical_avatars.setdefault(category, {})[
-                        subgroup_name] = historical_subgroup_dict[subgroup_name]
+                    historical_avatars[category][subgroup_name] = historical_subgroup_dict[subgroup_name]
 
-        # Handle avatarFashionItemSets separately (treating it as a single versioned object for simplicity)
-        # This part could be expanded to diff the sets themselves
         historical_avatars.setdefault('avatarFashionItemSets', {})[
             version_string] = resolved_avatars['avatarFashionItemSets']
 
