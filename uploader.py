@@ -100,7 +100,7 @@ def update_wiki_pages():
                 success_count += 1
                 continue
 
-            edit_summary = "Automated update from Python script"
+            edit_summary = "Manually triggered data update"
             page.edit(new_content, summary=edit_summary)
             print(f"  - Successfully updated page '{wiki_page_title}'.")
             success_count += 1
