@@ -100,7 +100,7 @@ def run_script(script_name, decrypted_dir, output_file):
 def generate_diff(old_data, new_data, ignored_keys=None):
     diffs = []
     ignored_keys = (ignored_keys or set()) | {
-        'resolved_enchant1Skill', 'resolved_enchant2Skill'}
+        'resolved_enchant1Skill', 'resolved_enchant2Skill', 'resolver_meta'}
     all_keys = set(old_data.keys()) | set(new_data.keys())
 
     for key in sorted(list(all_keys - ignored_keys)):
@@ -237,7 +237,7 @@ def get_version_from_user(historical_files):
             return version_string
 
 
-def update_history_file(resolved_data, historical_data, version_string, id_key_map, report_lines):
+def update_history_file(resolved_data, historical_data, version_string, id_key_map, report_lines, implement_mode=False):
     has_changes, is_first_run = False, not any(historical_data.values())
     for data_type, id_key in id_key_map.items():
         if data_type not in resolved_data or not resolved_data[data_type]:
@@ -274,6 +274,16 @@ def update_history_file(resolved_data, historical_data, version_string, id_key_m
                     [v for v in item_history.keys() if v != version_string])
                 latest_item = item_history[existing_versions[-1]
                                            ] if existing_versions else {}
+
+                if implement_mode and latest_item:
+                    new_keys = set(item.keys()) - set(latest_item.keys())
+                    if new_keys:
+                        print(f"    - Implementing new fields for item ID {item_id}: {', '.join(sorted(list(new_keys)))}")
+                        meta_field = {
+                            "first_implementation": sorted(list(new_keys))
+                        }
+                        item['resolver_meta'] = meta_field
+                
                 if diffs := generate_diff(latest_item, item):
                     print(
                         f"  - Changes detected for {type_name} item ID {item_id}")
@@ -297,6 +307,8 @@ def main():
                         help="Temporary directory for intermediate files.")
     parser.add_argument("--resolver", default="all", choices=['all', 'recipes', 'droptables', 'enchants', 'items', 'creatures', 'avatar'],
                         help="Specify which resolver pipeline to run.")
+    parser.add_argument("--implement", action="store_true", 
+                        help="Run in implementation mode to tag newly added resolved fields.")
 
     # Arguments for seeding history
     parser.add_argument("--initial_recipe_history",
@@ -382,7 +394,7 @@ def main():
             resolved_recipes = json.load(f)
         recipe_report_lines = [
             f"Recipe Change Report for version: {version_string}\n"]
-        if update_history_file(resolved_recipes, historical_recipes, version_string, recipe_id_map, recipe_report_lines):
+        if update_history_file(resolved_recipes, historical_recipes, version_string, recipe_id_map, recipe_report_lines, args.implement):
             with open(os.path.join(args.output_dir, f'report_recipes_{version_string}.txt'), 'w', encoding='utf-8') as f:
                 f.write('\n'.join(recipe_report_lines))
             print("Recipe report generated.")
@@ -403,7 +415,7 @@ def main():
             resolved_droptables = json.load(f)
         droptable_report_lines = [
             f"Drop Table Change Report for version: {version_string}\n"]
-        if update_history_file(resolved_droptables, historical_droptables, version_string, droptable_id_map, droptable_report_lines):
+        if update_history_file(resolved_droptables, historical_droptables, version_string, droptable_id_map, droptable_report_lines, args.implement):
             with open(os.path.join(args.output_dir, f'report_droptables_{version_string}.txt'), 'w', encoding='utf-8') as f:
                 f.write('\n'.join(droptable_report_lines))
             print("Drop table report generated.")
@@ -414,15 +426,16 @@ def main():
         write_lua_module(lua_files['droptables'], historical_droptables)
 
     # Process Enchants
-    with open(resolved_enchants_file, 'r', encoding='utf-8') as f:
-        resolved_enchants = json.load(f)
+    if args.resolver in ['all', 'enchants']:
+        with open(resolved_enchants_file, 'r', encoding='utf-8') as f:
+            resolved_enchants = json.load(f)
         print("\n--- Updating Enchant Ingredient History ---")
         enchant_ing_id_map = {"enchant_ingredients": "id"}
         historical_ingredients = json.load(open(historical_files['enchant_ingredients'], 'r', encoding='utf-8')) if os.path.exists(historical_files['enchant_ingredients']) else (
             seed_history(args.initial_enchant_history, enchant_ing_id_map) if args.initial_enchant_history and os.path.exists(args.initial_enchant_history) else {"enchant_ingredients": {}})
         ing_report_lines = [
             f"Enchant Ingredient Change Report for version: {version_string}\n"]
-        if update_history_file({"enchant_ingredients": resolved_enchants.get("enchant_ingredients", [])}, historical_ingredients, version_string, enchant_ing_id_map, ing_report_lines):
+        if update_history_file({"enchant_ingredients": resolved_enchants.get("enchant_ingredients", [])}, historical_ingredients, version_string, enchant_ing_id_map, ing_report_lines, args.implement):
             with open(os.path.join(args.output_dir, f'report_enchant_ingredients_{version_string}.txt'), 'w', encoding='utf-8') as f:
                 f.write('\n'.join(ing_report_lines))
             print("Enchant ingredient report generated.")
@@ -439,7 +452,7 @@ def main():
             args.initial_enchant_history, enchant_skill_id_map) if args.initial_enchant_history and os.path.exists(args.initial_enchant_history) else {"enchant_skills": {}})
         skill_report_lines = [
             f"Enchant Skill Change Report for version: {version_string}\n"]
-        if update_history_file({"enchant_skills": resolved_enchants.get("enchant_skills", [])}, historical_skills, version_string, enchant_skill_id_map, skill_report_lines):
+        if update_history_file({"enchant_skills": resolved_enchants.get("enchant_skills", [])}, historical_skills, version_string, enchant_skill_id_map, skill_report_lines, args.implement):
             with open(os.path.join(args.output_dir, f'report_enchant_skills_{version_string}.txt'), 'w', encoding='utf-8') as f:
                 f.write('\n'.join(skill_report_lines))
             print("Enchant skill report generated.")
@@ -459,7 +472,7 @@ def main():
             resolved_items = json.load(f)
         item_report_lines = [
             f"Item Change Report for version: {version_string}\n"]
-        if update_history_file(resolved_items, historical_items, version_string, item_id_map, item_report_lines):
+        if update_history_file(resolved_items, historical_items, version_string, item_id_map, item_report_lines, args.implement):
             with open(os.path.join(args.output_dir, f'report_items_{version_string}.txt'), 'w', encoding='utf-8') as f:
                 f.write('\n'.join(item_report_lines))
             print("Item report generated.")
@@ -479,7 +492,7 @@ def main():
             resolved_creatures = json.load(f)
         creature_report_lines = [
             f"Creature Change Report for version: {version_string}\n"]
-        if update_history_file(resolved_creatures, historical_creatures, version_string, creature_id_map, creature_report_lines):
+        if update_history_file(resolved_creatures, historical_creatures, version_string, creature_id_map, creature_report_lines, args.implement):
             with open(os.path.join(args.output_dir, f'report_creatures_{version_string}.txt'), 'w', encoding='utf-8') as f:
                 f.write('\n'.join(creature_report_lines))
             print("Creature report generated.")
@@ -532,7 +545,7 @@ def main():
                     subgroup_name: historical_avatars[category].get(subgroup_name, {})}
                 subgroup_id_map = {subgroup_name: id_key}
 
-                if update_history_file(resolved_subgroup_dict, historical_subgroup_dict, version_string, subgroup_id_map, report_lines):
+                if update_history_file(resolved_subgroup_dict, historical_subgroup_dict, version_string, subgroup_id_map, report_lines, args.implement):
                     overall_changes = True
                     historical_avatars[category][subgroup_name] = historical_subgroup_dict[subgroup_name]
 
