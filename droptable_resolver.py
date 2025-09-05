@@ -75,7 +75,6 @@ def resolve_drop_data(input_dir, output_file):
             'dropitems_creature': os.path.join(input_dir, 'master_dropitem_for_creature.json'),
             'dropitems_harvestable': os.path.join(input_dir, 'master_dropitem_for_harvestable_object.json'),
             'dropitems_nest': os.path.join(input_dir, 'master_dropitem_for_nest_object.json'),
-            # New files for spawner and collider data
             'breakable_spawners': os.path.join(input_dir, 'master_breakable_object_spawner.json'),
             'breakable_colliders': os.path.join(input_dir, 'master_breakable_object_collider.json'),
             'harvestable_spawners': os.path.join(input_dir, 'master_harvestable_object_spawner.json'),
@@ -89,12 +88,24 @@ def resolve_drop_data(input_dir, output_file):
             data[name] = json.load(open(path, 'r', encoding='utf-8')) if os.path.exists(path) else {'list': []}
 
         # Create lookup maps for efficient access
-        breakable_spawners_by_id = {item['objectId']: item for item in data['breakable_spawners']['list']}
-        breakable_colliders_by_id = {item['objectId']: item for item in data['breakable_colliders']['list']}
-        harvestable_spawners_by_id = {item['objectId']: item for item in data['harvestable_spawners']['list']}
-        harvestable_colliders_by_id = {item['objectId']: item for item in data['harvestable_colliders']['list']}
-        nest_spawners_by_id = {item['nestObjectId']: item for item in data['nest_spawners']['list']}
-        nest_colliders_by_id = {item['objectId']: item for item in data['nest_colliders']['list']}
+        breakable_spawners_by_id = defaultdict(list)
+        for item in data['breakable_spawners']['list']:
+            if 'objectId' in item:
+                breakable_spawners_by_id[item['objectId']].append(item)
+        breakable_colliders_by_id = {item['objectId']: item for item in data['breakable_colliders']['list'] if 'objectId' in item}
+
+        harvestable_spawners_by_id = defaultdict(list)
+        for item in data['harvestable_spawners']['list']:
+            if 'objectId' in item:
+                harvestable_spawners_by_id[item['objectId']].append(item)
+        harvestable_colliders_by_id = {item['objectId']: item for item in data['harvestable_colliders']['list'] if 'objectId' in item}
+
+        nest_spawners_by_id = defaultdict(list)
+        for item in data['nest_spawners']['list']:
+            if 'nestObjectId' in item:
+                nest_spawners_by_id[item['nestObjectId']].append(item)
+        nest_colliders_by_id = {item['nestObjectId']: item for item in data['nest_colliders']['list'] if 'nestObjectId' in item}
+
 
         drop_item_maps = { 'breakable': defaultdict(list), 'creature': defaultdict(list), 'harvestable': defaultdict(list), 'nest': defaultdict(list) }
         for item in data['dropitems_breakable']['list']: drop_item_maps['breakable'][item['dropId']].append(item)
@@ -118,7 +129,7 @@ def resolve_drop_data(input_dir, output_file):
             resolved_obj['objectName_JA'] = name_info.get('ja')
             
             # Resolve spawner and collider data
-            resolved_obj['resolved_spawner'] = breakable_spawners_by_id.get(object_id)
+            resolved_obj['resolved_spawners'] = breakable_spawners_by_id.get(object_id)
             resolved_obj['resolved_collider'] = breakable_colliders_by_id.get(object_id)
 
             for field in drop_id_fields:
@@ -140,7 +151,7 @@ def resolve_drop_data(input_dir, output_file):
             resolved_obj['objectName_JA'] = name_info.get('ja')
             
             # Resolve spawner and collider data
-            resolved_obj['resolved_spawner'] = harvestable_spawners_by_id.get(object_id)
+            resolved_obj['resolved_spawners'] = harvestable_spawners_by_id.get(object_id)
             resolved_obj['resolved_collider'] = harvestable_colliders_by_id.get(object_id)
 
             # Resolve the drops associated with this object
@@ -181,14 +192,14 @@ def resolve_drop_data(input_dir, output_file):
         resolved_nest_list = []
         for obj in data['nest_objects']['list']:
             resolved_obj = obj.copy()
-            object_id = obj.get('objectId')
+            object_id = obj.get('nestObjectId')
             name_key = obj.get('nameForTool')
             name_info = object_names_config.get('nest', {}).get(name_key, {})
             resolved_obj['objectName_EN'] = name_info.get('en')
             resolved_obj['objectName_JA'] = name_info.get('ja')
             
             # Resolve spawner and collider data
-            resolved_obj['resolved_spawner'] = nest_spawners_by_id.get(object_id)
+            resolved_obj['resolved_spawners'] = nest_spawners_by_id.get(object_id)
             resolved_obj['resolved_collider'] = nest_colliders_by_id.get(object_id)
 
             for field in drop_id_fields:
