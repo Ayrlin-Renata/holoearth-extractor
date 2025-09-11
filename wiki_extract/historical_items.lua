@@ -4139,6 +4139,56 @@ return {
                         }
                     }
                 }
+            },
+            ["1.0.23"] = {
+                ["itemId"] = 10404004,
+                ["sortId"] = 4004,
+                ["categoryId"] = 10404,
+                ["iconResourceName"] = "MashimashiGarlic_P_128_dummy",
+                ["modelResourceName"] = "Models/Harvestables/Seeds",
+                ["itemName_EN"] = "Nora Garlic Seed",
+                ["itemName_JA"] = "ノラニンニクの種",
+                ["itemDescription_EN"] = "Grows into nora garlic when planted in a planter",
+                ["itemDescription_JA"] = "プランターに植えるとノラニンニクが育つ種",
+                ["category"] = {
+                    ["itemCategoryId"] = 10404,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_10404",
+                    ["belongMainCategory"] = 1,
+                    ["belongSubCateory"] = 104,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Seeds",
+                    ["name_JA"] = "種"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_implement.json",
+                        ["data"] = {
+                            ["implementId"] = 10404004,
+                            ["systemType"] = "",
+                            ["nameKey"] = "item_implement_10404004",
+                            ["descriptionKey"] = "item_implement_d_10404004",
+                            ["sortId"] = 4004,
+                            ["categoryId"] = 10404,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 1,
+                            ["stack"] = 1,
+                            ["durableValue"] = 20,
+                            ["effectType1"] = 0,
+                            ["effectValue11"] = 0,
+                            ["castingId"] = 0,
+                            ["vfxAddress"] = "",
+                            ["iconResourceName"] = "MashimashiGarlic_P_128_dummy",
+                            ["modelResourceName"] = "Models/Harvestables/Seeds",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 1
+                        }
+                    }
+                }
             }
         },
         ["10404005"] = {
@@ -63774,6 +63824,936 @@ return {
                             ["characteristicIdList"] = {
                                 10510
                             }
+                        }
+                    }
+                }
+            }
+        },
+        ["42002000"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42002000,
+                ["sortId"] = 2000,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0002_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42002000_All",
+                            ["housingPieceId"] = 42002000,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42002000",
+                            ["descriptionKey"] = "item_housing_d_42002000",
+                            ["sortId"] = 2000,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0002_001_S",
+                            ["iconResourceName"] = "AcrylicStand_TN0002_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeS",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42002001"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42002001,
+                ["sortId"] = 2001,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0002_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42002001_All",
+                            ["housingPieceId"] = 42002001,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42002001",
+                            ["descriptionKey"] = "item_housing_d_42002001",
+                            ["sortId"] = 2001,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0002_001_M",
+                            ["iconResourceName"] = "AcrylicStand_TN0002_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeM",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42002002"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42002002,
+                ["sortId"] = 2002,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0002_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42002002_All",
+                            ["housingPieceId"] = 42002002,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42002002",
+                            ["descriptionKey"] = "item_housing_d_42002002",
+                            ["sortId"] = 2002,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0002_001_L",
+                            ["iconResourceName"] = "AcrylicStand_TN0002_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeL",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = " ",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42024000"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42024000,
+                ["sortId"] = 24000,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0030_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42024000_All",
+                            ["housingPieceId"] = 42024000,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42024000",
+                            ["descriptionKey"] = "item_housing_d_42024000",
+                            ["sortId"] = 24000,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0030_001_S",
+                            ["iconResourceName"] = "AcrylicStand_TN0030_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeS",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42024001"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42024001,
+                ["sortId"] = 24001,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0030_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42024001_All",
+                            ["housingPieceId"] = 42024001,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42024001",
+                            ["descriptionKey"] = "item_housing_d_42024001",
+                            ["sortId"] = 24001,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0030_001_M",
+                            ["iconResourceName"] = "AcrylicStand_TN0030_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeM",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42024002"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42024002,
+                ["sortId"] = 24002,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0030_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42024002_All",
+                            ["housingPieceId"] = 42024002,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42024002",
+                            ["descriptionKey"] = "item_housing_d_42024002",
+                            ["sortId"] = 24002,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0030_001_L",
+                            ["iconResourceName"] = "AcrylicStand_TN0030_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeL",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = " ",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42025000"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42025000,
+                ["sortId"] = 25000,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0032_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42025000_All",
+                            ["housingPieceId"] = 42025000,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42025000",
+                            ["descriptionKey"] = "item_housing_d_42025000",
+                            ["sortId"] = 25000,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0032_001_S",
+                            ["iconResourceName"] = "AcrylicStand_TN0032_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeS",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42025001"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42025001,
+                ["sortId"] = 25001,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0032_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42025001_All",
+                            ["housingPieceId"] = 42025001,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42025001",
+                            ["descriptionKey"] = "item_housing_d_42025001",
+                            ["sortId"] = 25001,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0032_001_M",
+                            ["iconResourceName"] = "AcrylicStand_TN0032_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeM",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42025002"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42025002,
+                ["sortId"] = 25002,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0032_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42025002_All",
+                            ["housingPieceId"] = 42025002,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42025002",
+                            ["descriptionKey"] = "item_housing_d_42025002",
+                            ["sortId"] = 25002,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0032_001_L",
+                            ["iconResourceName"] = "AcrylicStand_TN0032_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeL",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = " ",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42026000"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42026000,
+                ["sortId"] = 26000,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0031_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42026000_All",
+                            ["housingPieceId"] = 42026000,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42026000",
+                            ["descriptionKey"] = "item_housing_d_42026000",
+                            ["sortId"] = 26000,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0031_001_S",
+                            ["iconResourceName"] = "AcrylicStand_TN0031_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeS",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42026001"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42026001,
+                ["sortId"] = 26001,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0031_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42026001_All",
+                            ["housingPieceId"] = 42026001,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42026001",
+                            ["descriptionKey"] = "item_housing_d_42026001",
+                            ["sortId"] = 26001,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0031_001_M",
+                            ["iconResourceName"] = "AcrylicStand_TN0031_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeM",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42026002"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42026002,
+                ["sortId"] = 26002,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0031_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42026002_All",
+                            ["housingPieceId"] = 42026002,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42026002",
+                            ["descriptionKey"] = "item_housing_d_42026002",
+                            ["sortId"] = 26002,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0031_001_L",
+                            ["iconResourceName"] = "AcrylicStand_TN0031_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeL",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = " ",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42027000"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42027000,
+                ["sortId"] = 27000,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0034_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42027000_All",
+                            ["housingPieceId"] = 42027000,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42027000",
+                            ["descriptionKey"] = "item_housing_d_42027000",
+                            ["sortId"] = 27000,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0034_001_S",
+                            ["iconResourceName"] = "AcrylicStand_TN0034_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeS",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42027001"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42027001,
+                ["sortId"] = 27001,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0034_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42027001_All",
+                            ["housingPieceId"] = 42027001,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42027001",
+                            ["descriptionKey"] = "item_housing_d_42027001",
+                            ["sortId"] = 27001,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0034_001_M",
+                            ["iconResourceName"] = "AcrylicStand_TN0034_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeM",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = "",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
+                        }
+                    }
+                }
+            }
+        },
+        ["42027002"] = {
+            ["1.0.23"] = {
+                ["itemId"] = 42027002,
+                ["sortId"] = 27002,
+                ["categoryId"] = 40301,
+                ["iconResourceName"] = "AcrylicStand_TN0034_001_128",
+                ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                ["itemName_EN"] = nil,
+                ["itemName_JA"] = nil,
+                ["itemDescription_EN"] = nil,
+                ["itemDescription_JA"] = nil,
+                ["category"] = {
+                    ["itemCategoryId"] = 40301,
+                    ["sortId"] = 0,
+                    ["nameKey"] = "item_category_40301",
+                    ["belongMainCategory"] = 4,
+                    ["belongSubCateory"] = 403,
+                    ["hideFilter"] = 0,
+                    ["iconResourceName"] = "None",
+                    ["name_EN"] = "Direct Placement",
+                    ["name_JA"] = "直置き"
+                },
+                ["extra_data"] = {
+                    {
+                        ["source_file"] = "master_housing_piece.json",
+                        ["data"] = {
+                            ["pid"] = "42027002_All",
+                            ["housingPieceId"] = 42027002,
+                            ["systemType"] = "All",
+                            ["nameKey"] = "item_housing_42027002",
+                            ["descriptionKey"] = "item_housing_d_42027002",
+                            ["sortId"] = 27002,
+                            ["categoryId"] = 40301,
+                            ["optionIdList"] = {
+                                0
+                            },
+                            ["itemRank"] = 1,
+                            ["weight"] = 0,
+                            ["stack"] = 100,
+                            ["hp"] = 500,
+                            ["physicsDefence"] = 250,
+                            ["magicDefence"] = 250,
+                            ["conditionTargetDetail"] = 94010500,
+                            ["pieceType"] = 100,
+                            ["placementConditionName"] = "OnFloorAndOutSideAndDisplay",
+                            ["facilityId"] = 0,
+                            ["housingModelResourceName"] = "SandBox_Models/Housing/Furnitures/FurnitureIndoors/AcrylicStand_TN0034_001_L",
+                            ["iconResourceName"] = "AcrylicStand_TN0034_001_128",
+                            ["subIconResourceName"] = "CommonBadgeSizeL",
+                            ["modelResourceName"] = "Models/Items/Tools/ItemBag",
+                            ["throwProjectileAddress"] = " ",
+                            ["guideId"] = 301,
+                            ["effectAreaPrefabAddress"] = "",
+                            ["mood"] = 0,
+                            ["moodLimitCount"] = 0,
+                            ["moodType"] = 0,
+                            ["isImportant"] = 1
                         }
                     }
                 }

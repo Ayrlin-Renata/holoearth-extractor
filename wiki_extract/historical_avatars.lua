@@ -1566,6 +1566,210 @@ return {
                     ["description_EN"] = "A Mococo Abyssgard Birthday Celebration 2025 hairband",
                     ["description_JA"] = "モココ・アビスガード 誕生日記念2025のヘアバンド"
                 }
+            },
+            ["113"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccCaps/acc_cap_001u_00000113",
+                    ["cost"] = 2,
+                    ["detailType"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 113,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":41.387,\"y\":-49.967,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_CAP_00000113",
+                    ["posXMax"] = "0.1",
+                    ["posXMin"] = "-0.1",
+                    ["posYMax"] = "0.075",
+                    ["posYMin"] = "-0.025",
+                    ["posZMax"] = "0.1",
+                    ["posZMin"] = "-0.1",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-180.0",
+                    ["rotXMin"] = "180.0",
+                    ["rotYMax"] = "-180.0",
+                    ["rotYMin"] = "180.0",
+                    ["rotZMax"] = "180.0",
+                    ["rotZMin"] = "-180.0",
+                    ["scaleMax"] = "1.5",
+                    ["scaleMin"] = "0.3",
+                    ["sortKey"] = 11021113,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Night Town Gothic Doll Hat (Blk)",
+                    ["localize_JA"] = "ナイトタウンゴシックミニハット（ブラック）",
+                    ["description_EN"] = "A mini hat featuring a striped ribbon accent",
+                    ["description_JA"] = "ボーダーリボンの飾りがポイントのミニハット"
+                }
+            },
+            ["114"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccCaps/acc_cap_001u_00000114",
+                    ["cost"] = 2,
+                    ["detailType"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 114,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":41.387,\"y\":-49.967,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_CAP_00000114",
+                    ["posXMax"] = "0.1",
+                    ["posXMin"] = "-0.1",
+                    ["posYMax"] = "0.075",
+                    ["posYMin"] = "-0.025",
+                    ["posZMax"] = "0.1",
+                    ["posZMin"] = "-0.1",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-180.0",
+                    ["rotXMin"] = "180.0",
+                    ["rotYMax"] = "-180.0",
+                    ["rotYMin"] = "180.0",
+                    ["rotZMax"] = "180.0",
+                    ["rotZMin"] = "-180.0",
+                    ["scaleMax"] = "1.5",
+                    ["scaleMin"] = "0.3",
+                    ["sortKey"] = 11021114,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Night Town Gothic Doll Hat (Vlt)",
+                    ["localize_JA"] = "ナイトタウンゴシックミニハット（バイオレット）",
+                    ["description_EN"] = "A mini hat featuring a striped ribbon accent",
+                    ["description_JA"] = "ボーダーリボンの飾りがポイントのミニハット"
+                }
+            },
+            ["115"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccCaps/acc_cap_001u_00000115",
+                    ["cost"] = 2,
+                    ["detailType"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 115,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":41.387,\"y\":-49.967,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_CAP_00000115",
+                    ["posXMax"] = "0.1",
+                    ["posXMin"] = "-0.1",
+                    ["posYMax"] = "0.075",
+                    ["posYMin"] = "-0.025",
+                    ["posZMax"] = "0.1",
+                    ["posZMin"] = "-0.1",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-180.0",
+                    ["rotXMin"] = "180.0",
+                    ["rotYMax"] = "-180.0",
+                    ["rotYMin"] = "180.0",
+                    ["rotZMax"] = "180.0",
+                    ["rotZMin"] = "-180.0",
+                    ["scaleMax"] = "1.5",
+                    ["scaleMin"] = "0.3",
+                    ["sortKey"] = 11021115,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Night Town Gothic Doll Hat (Wh)",
+                    ["localize_JA"] = "ナイトタウンゴシックミニハット（ホワイト）",
+                    ["description_EN"] = "A mini hat featuring a striped ribbon accent",
+                    ["description_JA"] = "ボーダーリボンの飾りがポイントのミニハット"
+                }
+            },
+            ["766"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccCaps/acc_cap_001u_00000766",
+                    ["cost"] = 2,
+                    ["detailType"] = 4,
+                    ["gender"] = "u",
+                    ["id"] = 766,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_CAP_00000766",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021766,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Basic Top Hat (Blk)",
+                    ["localize_JA"] = "ベーシックシルクハット（ブラック）",
+                    ["description_EN"] = "A top hat perfect for formal situations",
+                    ["description_JA"] = "フォーマルシーンにピッタリなシルクハット"
+                }
+            },
+            ["767"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccCaps/acc_cap_001u_00000767",
+                    ["cost"] = 2,
+                    ["detailType"] = 4,
+                    ["gender"] = "u",
+                    ["id"] = 767,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_CAP_00000767",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021767,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Basic Top Hat (Vlt)",
+                    ["localize_JA"] = "ベーシックシルクハット（バイオレット）",
+                    ["description_EN"] = "A top hat perfect for formal situations",
+                    ["description_JA"] = "フォーマルシーンにピッタリなシルクハット"
+                }
+            },
+            ["768"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccCaps/acc_cap_001u_00000768",
+                    ["cost"] = 2,
+                    ["detailType"] = 4,
+                    ["gender"] = "u",
+                    ["id"] = 768,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_CAP_00000768",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021768,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Basic Top Hat (Wh)",
+                    ["localize_JA"] = "ベーシックシルクハット（ライトブルー）",
+                    ["description_EN"] = "A top hat perfect for formal situations",
+                    ["description_JA"] = "フォーマルシーンにピッタリなシルクハット"
+                }
             }
         },
         ["avatarAccEars"] = {
@@ -2653,6 +2857,204 @@ return {
                     ["description_EN"] = "Elegant earrings with oversized hoops",
                     ["description_JA"] = "大きめのフープがエレガントなピアス"
                 }
+            },
+            ["785"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEars/acc_ear_001u_00000785",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 785,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EAR_00000785",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021785,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Heart Earrings (RedGld)",
+                    ["localize_JA"] = "ハートピアス（レッドゴールド）",
+                    ["description_EN"] = "Earrings with a cute heart motif",
+                    ["description_JA"] = "キュートなハート型モチーフのピアス"
+                }
+            },
+            ["786"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEars/acc_ear_001u_00000786",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 786,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EAR_00000786",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021786,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Heart Earrings (Gld)",
+                    ["localize_JA"] = "ハートピアス（ゴールド）",
+                    ["description_EN"] = "Earrings with a cute heart motif",
+                    ["description_JA"] = "キュートなハート型モチーフのピアス"
+                }
+            },
+            ["787"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEars/acc_ear_001u_00000787",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 787,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EAR_00000787",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021787,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Heart Earrings (Slv)",
+                    ["localize_JA"] = "ハートピアス（シルバー）",
+                    ["description_EN"] = "Earrings with a cute heart motif",
+                    ["description_JA"] = "キュートなハート型モチーフのピアス"
+                }
+            },
+            ["788"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEars/acc_ear_001u_00000788",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 788,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EAR_00000788",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021788,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Heart Hoop Earrings (RedGld)",
+                    ["localize_JA"] = "ハートフープピアス（レッドゴールド）",
+                    ["description_EN"] = "Heart-shaped hoop earrings that blend sweetness and elegance",
+                    ["description_JA"] = "甘さとエレガントさを併せ持つハートフープピアス"
+                }
+            },
+            ["789"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEars/acc_ear_001u_00000789",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 789,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EAR_00000789",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021789,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Heart Hoop Earrings (Gld)",
+                    ["localize_JA"] = "ハートフープピアス（ゴールド）",
+                    ["description_EN"] = "Heart-shaped hoop earrings that blend sweetness and elegance",
+                    ["description_JA"] = "甘さとエレガントさを併せ持つハートフープピアス"
+                }
+            },
+            ["790"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEars/acc_ear_001u_00000790",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 790,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EAR_00000790",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021790,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Heart Hoop Earrings (Slv)",
+                    ["localize_JA"] = "ハートフープピアス（シルバー）",
+                    ["description_EN"] = "Heart-shaped hoop earrings that blend sweetness and elegance",
+                    ["description_JA"] = "甘さとエレガントさを併せ持つハートフープピアス"
+                }
             }
         },
         ["avatarAccEyes"] = {
@@ -3302,6 +3704,112 @@ return {
                     ["localize_JA"] = "白上フブキ 活動5周年記念 アイマスク",
                     ["description_EN"] = "A Shirakami Fubuki 5th Anniversary Celebration eye mask",
                     ["description_JA"] = "白上フブキ 活動5周年記念のアイマスク"
+                }
+            },
+            ["72"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEyes/acc_eye_001u_00000072",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["id"] = 72,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":2.5,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EYE_00000072",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-5.0",
+                    ["rotXMin"] = "10.0",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021072,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Oversized Round Rimless Glasses",
+                    ["localize_JA"] = "オーバーサイズラウンドリムレスグラス",
+                    ["description_EN"] = "Rimless glasses with large round lenses",
+                    ["description_JA"] = "大きめのラウンド型のリムレスグラス",
+                    ["resolved_avatarUiBadges"] = {
+                        {
+                            ["category"] = 2,
+                            ["identifier"] = 72,
+                            ["isNewArrivals"] = 1
+                        }
+                    }
+                }
+            },
+            ["75"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEyes/acc_eye_001u_00000075",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["id"] = 75,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EYE_00000075",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-5.0",
+                    ["rotXMin"] = "10.0",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021075,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Square Tinted Sunglasses",
+                    ["localize_JA"] = "スクエアカラーサングラス",
+                    ["description_EN"] = "Cool and sporty square-frame sunglasses with tinted lenses",
+                    ["description_JA"] = "クール＆アクティブな印象のスクエア型のカラーサングラス"
+                }
+            },
+            ["743"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccEyes/acc_eye_001u_00000743",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["id"] = 743,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":4.6,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_EYE_00000743",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-5.0",
+                    ["rotXMin"] = "10.0",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 11021743,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Bold Round Glasses",
+                    ["localize_JA"] = "ボールドラウンドメガネ",
+                    ["description_EN"] = "Round thick-rim glasses for a casual look",
+                    ["description_JA"] = "カジュアルな雰囲気漂う太縁のラウンド型メガネ"
                 }
             }
         },
@@ -4035,6 +4543,293 @@ return {
                     ["description_EN"] = "Ichijou Ririka's fingernails",
                     ["description_JA"] = "一条莉々華のネイル"
                 }
+            },
+            ["60000002"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["handDetail"] = 1,
+                    ["haveBaseMap"] = 1,
+                    ["haveEmissive"] = 0,
+                    ["haveMatcap"] = 0,
+                    ["haveShadeMap"] = 1,
+                    ["haveShrMap"] = 1,
+                    ["id"] = 60000002,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HAND_60000002",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sleeveLength"] = 5,
+                    ["sortKey"] = 60000002,
+                    ["textureBasePath"] = "HoloAvatar/Avatars/AccHands/t_ahd_001u_60000002",
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Arms (Robocosan)",
+                    ["localize_JA"] = "腕（ロボ子さん）",
+                    ["description_EN"] = "Robocosan's arms",
+                    ["description_JA"] = "ロボ子さんの腕"
+                }
+            },
+            ["60000030"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHands/acc_hand_001u_60000030",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["handDetail"] = 2,
+                    ["haveBaseMap"] = 0,
+                    ["haveEmissive"] = 0,
+                    ["haveMatcap"] = 0,
+                    ["haveShadeMap"] = 0,
+                    ["haveShrMap"] = 0,
+                    ["id"] = 60000030,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HAND_60000030",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sleeveLength"] = 4,
+                    ["sortKey"] = 60000030,
+                    ["textureBasePath"] = "HoloAvatar/Avatars/AccHands/t_ahd_001u_60000030",
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Nails (Yukihana Lamy)",
+                    ["localize_JA"] = "ネイル（雪花ラミィ）",
+                    ["description_EN"] = "Yukihana Lamy's fingernails",
+                    ["description_JA"] = "雪花ラミィのネイル"
+                }
+            },
+            ["60000031"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHands/acc_hand_001u_60000031",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["handDetail"] = 2,
+                    ["haveBaseMap"] = 0,
+                    ["haveEmissive"] = 0,
+                    ["haveMatcap"] = 0,
+                    ["haveShadeMap"] = 0,
+                    ["haveShrMap"] = 0,
+                    ["id"] = 60000031,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HAND_60000031",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sleeveLength"] = 4,
+                    ["sortKey"] = 60000031,
+                    ["textureBasePath"] = "HoloAvatar/Avatars/AccHands/t_ahd_001u_60000031",
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Nails (Momosuzu Nene)",
+                    ["localize_JA"] = "ネイル（桃鈴ねね）",
+                    ["description_EN"] = "Momosuzu Nene's fingernails",
+                    ["description_JA"] = "桃鈴ねねのネイル"
+                }
+            },
+            ["60000032"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHands/acc_hand_001u_60000032",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["handDetail"] = 2,
+                    ["haveBaseMap"] = 0,
+                    ["haveEmissive"] = 0,
+                    ["haveMatcap"] = 0,
+                    ["haveShadeMap"] = 0,
+                    ["haveShrMap"] = 0,
+                    ["id"] = 60000032,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HAND_60000032",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sleeveLength"] = 4,
+                    ["sortKey"] = 60000032,
+                    ["textureBasePath"] = "HoloAvatar/Avatars/AccHands/t_ahd_001u_60000032",
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Nails (Shishiro Botan)",
+                    ["localize_JA"] = "ネイル（獅白ぼたん）",
+                    ["description_EN"] = "Shishiro Botan's fingernails",
+                    ["description_JA"] = "獅白ぼたんのネイル"
+                }
+            },
+            ["60000034"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHands/acc_hand_001u_60000034",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["handDetail"] = 2,
+                    ["haveBaseMap"] = 0,
+                    ["haveEmissive"] = 0,
+                    ["haveMatcap"] = 0,
+                    ["haveShadeMap"] = 0,
+                    ["haveShrMap"] = 0,
+                    ["id"] = 60000034,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HAND_60000034",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sleeveLength"] = 4,
+                    ["sortKey"] = 60000034,
+                    ["textureBasePath"] = "HoloAvatar/Avatars/AccHands/t_ahd_001u_60000034",
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Nails (Omaru Polka)",
+                    ["localize_JA"] = "ネイル（尾丸ポルカ）",
+                    ["description_EN"] = "Omaru Polka's fingernails",
+                    ["description_JA"] = "尾丸ポルカのネイル"
+                }
+            },
+            ["60004016"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHands/acc_hand_001u_60004016",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["handDetail"] = 2,
+                    ["haveBaseMap"] = 0,
+                    ["haveEmissive"] = 0,
+                    ["haveMatcap"] = 0,
+                    ["haveShadeMap"] = 0,
+                    ["haveShrMap"] = 0,
+                    ["id"] = 60004016,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HAND_60004016",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sleeveLength"] = 4,
+                    ["sortKey"] = 60004016,
+                    ["textureBasePath"] = "HoloAvatar/Avatars/AccHands/t_ahd_001u_60004016",
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Nails (Fuwawa Abyssgard)",
+                    ["localize_JA"] = "ネイル（フワワ・アビスガード）",
+                    ["description_EN"] = "Fuwawa Abyssgard's fingernails",
+                    ["description_JA"] = "フワワ・アビスガードのネイル"
+                }
+            },
+            ["60004017"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHands/acc_hand_001u_60004017",
+                    ["cost"] = 2,
+                    ["gender"] = "u",
+                    ["handDetail"] = 2,
+                    ["haveBaseMap"] = 0,
+                    ["haveEmissive"] = 0,
+                    ["haveMatcap"] = 0,
+                    ["haveShadeMap"] = 0,
+                    ["haveShrMap"] = 0,
+                    ["id"] = 60004017,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HAND_60004017",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sleeveLength"] = 4,
+                    ["sortKey"] = 60004017,
+                    ["textureBasePath"] = "HoloAvatar/Avatars/AccHands/t_ahd_001u_60004017",
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Nails (Mococo Abyssgard)",
+                    ["localize_JA"] = "ネイル（モココ・アビスガード）",
+                    ["description_EN"] = "Mococo Abyssgard's fingernails",
+                    ["description_JA"] = "モココ・アビスガードのネイル"
+                }
             }
         },
         ["avatarAccHeads"] = {
@@ -4138,6 +4933,142 @@ return {
                     ["localize_JA"] = "パステルスプリングバタフライリボンアクセ（オレンジ）",
                     ["description_EN"] = "A hair accessory featuring a butterfly motif and translucent ribbons that sways softly in the breeze",
                     ["description_JA"] = "バタフライモチーフに、透け感のあるリボンでふんわりと風に揺れるようなヘアアクセ"
+                }
+            },
+            ["824"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHeads/acc_head_001u_00000824",
+                    ["category"] = 0,
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 824,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HEAD_00000824",
+                    ["posXMax"] = "1.0",
+                    ["posXMin"] = "-1.0",
+                    ["posYMax"] = "1.0",
+                    ["posYMin"] = "-1.0",
+                    ["posZMax"] = "0.3",
+                    ["posZMin"] = "-0.2",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-180.0",
+                    ["rotXMin"] = "180.0",
+                    ["rotYMax"] = "-180.0",
+                    ["rotYMin"] = "180.0",
+                    ["rotZMax"] = "180.0",
+                    ["rotZMin"] = "-180.0",
+                    ["scaleMax"] = "1.5",
+                    ["scaleMin"] = "0.3",
+                    ["sortKey"] = 11021799,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Nekko",
+                    ["localize_JA"] = "ねっ子",
+                    ["description_EN"] = "A \"Nekko\" hair accessory",
+                    ["description_JA"] = "ねっ子の髪飾り"
+                }
+            },
+            ["825"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHeads/acc_head_001u_00000825",
+                    ["category"] = 0,
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 825,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HEAD_00000825",
+                    ["posXMax"] = "1.0",
+                    ["posXMin"] = "-1.0",
+                    ["posYMax"] = "1.0",
+                    ["posYMin"] = "-1.0",
+                    ["posZMax"] = "0.3",
+                    ["posZMin"] = "-0.2",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-180.0",
+                    ["rotXMin"] = "180.0",
+                    ["rotYMax"] = "-180.0",
+                    ["rotYMin"] = "180.0",
+                    ["rotZMax"] = "180.0",
+                    ["rotZMin"] = "-180.0",
+                    ["scaleMax"] = "1.5",
+                    ["scaleMin"] = "0.3",
+                    ["sortKey"] = 11021800,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "SSRB",
+                    ["localize_JA"] = "SSRB",
+                    ["description_EN"] = "An \"SSRB\" hair accessory",
+                    ["description_JA"] = "SSRBの髪飾り"
+                }
+            },
+            ["826"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHeads/acc_head_001u_00000826",
+                    ["category"] = 0,
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 826,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HEAD_00000826",
+                    ["posXMax"] = "1.0",
+                    ["posXMin"] = "-1.0",
+                    ["posYMax"] = "1.0",
+                    ["posYMin"] = "-1.0",
+                    ["posZMax"] = "0.3",
+                    ["posZMin"] = "-0.2",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-180.0",
+                    ["rotXMin"] = "180.0",
+                    ["rotYMax"] = "-180.0",
+                    ["rotYMin"] = "180.0",
+                    ["rotZMax"] = "180.0",
+                    ["rotZMin"] = "-180.0",
+                    ["scaleMax"] = "1.5",
+                    ["scaleMin"] = "0.3",
+                    ["sortKey"] = 11021801,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Yukimin",
+                    ["localize_JA"] = "雪民",
+                    ["description_EN"] = "A \"Yukimin\" hair accessory",
+                    ["description_JA"] = "雪民の髪飾り"
+                }
+            },
+            ["827"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccHeads/acc_head_001u_00000827",
+                    ["category"] = 0,
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 827,
+                    ["initPos"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_HEAD_00000827",
+                    ["posXMax"] = "1.0",
+                    ["posXMin"] = "-1.0",
+                    ["posYMax"] = "1.0",
+                    ["posYMin"] = "-1.0",
+                    ["posZMax"] = "0.3",
+                    ["posZMin"] = "-0.2",
+                    ["rarity"] = 2,
+                    ["rotXMax"] = "-180.0",
+                    ["rotXMin"] = "180.0",
+                    ["rotYMax"] = "-180.0",
+                    ["rotYMin"] = "180.0",
+                    ["rotZMax"] = "180.0",
+                    ["rotZMin"] = "-180.0",
+                    ["scaleMax"] = "1.5",
+                    ["scaleMin"] = "0.3",
+                    ["sortKey"] = 11021802,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Omaruza",
+                    ["localize_JA"] = "おまる座",
+                    ["description_EN"] = "An \"Omaruza\" hair accessory",
+                    ["description_JA"] = "おまる座の髪飾り"
                 }
             }
         },
@@ -4862,6 +5793,37 @@ return {
                     ["scaleMin"] = "null",
                     ["sortKey"] = 0,
                     ["tribe"] = 1
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccTails/acc_tail_001u_60000032",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 60000032,
+                    ["initPos"] = "{\"x\":0,\"y\":0.0425,\"z\":-0.01806}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_TAIL_60000032",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 0,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Tail (Shishiro Botan)",
+                    ["localize_JA"] = "尻尾（獅白ぼたん）",
+                    ["description_EN"] = "Shishiro Botan's tail",
+                    ["description_JA"] = "獅白ぼたんの尻尾"
                 }
             },
             ["60000034"] = {
@@ -4891,6 +5853,103 @@ return {
                     ["scaleMin"] = "null",
                     ["sortKey"] = 0,
                     ["tribe"] = 1
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccTails/acc_tail_001u_60000034",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 60000034,
+                    ["initPos"] = "{\"x\":0,\"y\":0.04516,\"z\":0.00203}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_TAIL_60000034",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 0,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Tail (Omaru Polka)",
+                    ["localize_JA"] = "尻尾（尾丸ポルカ）",
+                    ["description_EN"] = "Omaru Polka's tail",
+                    ["description_JA"] = "尾丸ポルカの尻尾"
+                }
+            },
+            ["60004016"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccTails/acc_tail_001u_60004016",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 60004016,
+                    ["initPos"] = "{\"x\":0,\"y\":0.075,\"z\":0.01}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_TAIL_60004016",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 0,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Tail (Fuwawa Abyssgard)",
+                    ["localize_JA"] = "尻尾（フワワ・アビスガード）",
+                    ["description_EN"] = "Fuwawa Abyssgard's tail",
+                    ["description_JA"] = "フワワ・アビスガードの尻尾"
+                }
+            },
+            ["60004017"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/AccTails/acc_tail_001u_60004017",
+                    ["cost"] = 1,
+                    ["gender"] = "u",
+                    ["id"] = 60004017,
+                    ["initPos"] = "{\"x\":0,\"y\":0.075,\"z\":0.0023}",
+                    ["initRot"] = "{\"x\":0,\"y\":0,\"z\":0}",
+                    ["initScale"] = "{\"x\":1,\"y\":1,\"z\":1}",
+                    ["localizeKey"] = "AVATAR_ACC_TAIL_60004017",
+                    ["posXMax"] = "null",
+                    ["posXMin"] = "null",
+                    ["posYMax"] = "null",
+                    ["posYMin"] = "null",
+                    ["posZMax"] = "null",
+                    ["posZMin"] = "null",
+                    ["rarity"] = 1,
+                    ["rotXMax"] = "null",
+                    ["rotXMin"] = "null",
+                    ["rotYMax"] = "null",
+                    ["rotYMin"] = "null",
+                    ["rotZMax"] = "null",
+                    ["rotZMin"] = "null",
+                    ["scaleMax"] = "null",
+                    ["scaleMin"] = "null",
+                    ["sortKey"] = 0,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Tail (Mococo Abyssgard)",
+                    ["localize_JA"] = "尻尾（モココ・アビスガード）",
+                    ["description_EN"] = "Mococo Abyssgard's tail",
+                    ["description_JA"] = "モココ・アビスガードの尻尾"
                 }
             }
         },
@@ -6677,6 +7736,231 @@ return {
                     ["localize_JA"] = "カーゴパンツ（ベージュ）",
                     ["description_EN"] = "Casual, easy wear cargo pants for an active lifestyle",
                     ["description_JA"] = "動きやすくてカジュアルに着こなせるベーシックなデザインのカーゴパンツ"
+                }
+            },
+            ["60"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "14.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_00000060",
+                    ["bootsInDetail"] = 5,
+                    ["bootsInLock"] = 0,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 60,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_00000060",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021060,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Simple Pleated Skirt",
+                    ["localize_JA"] = "ベーシックプリーツスカート",
+                    ["description_EN"] = "A simple pleated skirt",
+                    ["description_JA"] = "ベーシックなプリーツスカート"
+                }
+            },
+            ["61"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_00000061",
+                    ["bootsInDetail"] = 1,
+                    ["bootsInLock"] = 0,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 61,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_00000061",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021061,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Simple Slacks",
+                    ["localize_JA"] = "ベーシックスラックス",
+                    ["description_EN"] = "A simple pair of slacks",
+                    ["description_JA"] = "ベーシックなスラックス"
+                }
+            },
+            ["705"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_00000705",
+                    ["bootsInDetail"] = 1,
+                    ["bootsInLock"] = 1,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 705,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_00000705",
+                    ["rarity"] = 1,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021705,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Skinny Fit Shorts (Wh)",
+                    ["localize_JA"] = "スキニーショートパンツ（ホワイト）",
+                    ["description_EN"] = "Skinny fit shorts with a simple design",
+                    ["description_JA"] = "シンプルなデザインのスキニーなショートパンツ"
+                }
+            },
+            ["706"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_00000706",
+                    ["bootsInDetail"] = 1,
+                    ["bootsInLock"] = 1,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 706,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_00000706",
+                    ["rarity"] = 1,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021706,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Skinny Fit Shorts (Blk)",
+                    ["localize_JA"] = "スキニーショートパンツ（ブラック）",
+                    ["description_EN"] = "Skinny fit shorts with a simple design",
+                    ["description_JA"] = "シンプルなデザインのスキニーなショートパンツ"
+                }
+            },
+            ["707"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_00000707",
+                    ["bootsInDetail"] = 1,
+                    ["bootsInLock"] = 1,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 707,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_00000707",
+                    ["rarity"] = 1,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021707,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Skinny Fit Shorts (Blu)",
+                    ["localize_JA"] = "スキニーショートパンツ（ブルー）",
+                    ["description_EN"] = "Skinny fit shorts with a simple design",
+                    ["description_JA"] = "シンプルなデザインのスキニーなショートパンツ"
+                }
+            },
+            ["711"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "20.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_00000711",
+                    ["bootsInDetail"] = 5,
+                    ["bootsInLock"] = 0,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 711,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_00000711",
+                    ["rarity"] = 1,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 100001013,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Basic Pleated Skirt (Blu)",
+                    ["localize_JA"] = "ノーマルプリーツスカート（ブルー）",
+                    ["description_EN"] = "A template based on a basic pleated skirt",
+                    ["description_JA"] = "ノーマルプリーツスカートをベースにした型紙"
+                }
+            },
+            ["712"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "20.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_00000712",
+                    ["bootsInDetail"] = 5,
+                    ["bootsInLock"] = 0,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 712,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_00000712",
+                    ["rarity"] = 1,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 100001014,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Basic Pleated Skirt (Or)",
+                    ["localize_JA"] = "ノーマルプリーツスカート（オレンジ）",
+                    ["description_EN"] = "A template based on a basic pleated skirt",
+                    ["description_JA"] = "ノーマルプリーツスカートをベースにした型紙"
+                }
+            },
+            ["713"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "20.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_00000713",
+                    ["bootsInDetail"] = 5,
+                    ["bootsInLock"] = 0,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 713,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_00000713",
+                    ["rarity"] = 1,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 100001015,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Basic Pleated Skirt (Bn)",
+                    ["localize_JA"] = "ノーマルプリーツスカート（ブラウン）",
+                    ["description_EN"] = "A template based on a basic pleated skirt",
+                    ["description_JA"] = "ノーマルプリーツスカートをベースにした型紙"
+                }
+            },
+            ["60000002"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothBottoms/cloth_bottom_001u_60000002",
+                    ["bootsInDetail"] = 5,
+                    ["bootsInLock"] = 0,
+                    ["detailType"] = 4,
+                    ["gender"] = "u",
+                    ["hideClothShoe"] = 1,
+                    ["hideClothSock"] = 1,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 60000002,
+                    ["localizeKey"] = "AVATAR_CLOTH_BOTTOM_60000002",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 60000002,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Legs (Robocosan)",
+                    ["localize_JA"] = "脚（ロボ子さん）",
+                    ["description_EN"] = "Robocosan's legs",
+                    ["description_JA"] = "ロボ子さんの脚"
                 }
             }
         },
@@ -16821,6 +18105,32 @@ return {
                     ["underwearId"] = -1,
                     ["description_EN"] = "A Fuwawa Abyssgard-themed T-Shirt",
                     ["description_JA"] = "フワワ・アビスガードモチーフのTシャツ"
+                },
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000484",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 484,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000484",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021484,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Fuwawa Motif T-Shirt",
+                    ["localize_JA"] = "フワワモチーフTシャツ",
+                    ["description_EN"] = "A Fuwawa Abyssgard-themed T-Shirt",
+                    ["description_JA"] = "フワワ・アビスガードモチーフのTシャツ"
                 }
             },
             ["485"] = {
@@ -16873,6 +18183,32 @@ return {
                     ["sortKey"] = 11021486,
                     ["tribe"] = 1,
                     ["underwearId"] = -1,
+                    ["description_EN"] = "A Mococo Abyssgard-themed T-Shirt",
+                    ["description_JA"] = "モココ・アビスガードモチーフのTシャツ"
+                },
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000486",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 486,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000486",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021486,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Mococo Motif T-Shirt",
+                    ["localize_JA"] = "モココモチーフTシャツ",
                     ["description_EN"] = "A Mococo Abyssgard-themed T-Shirt",
                     ["description_JA"] = "モココ・アビスガードモチーフのTシャツ"
                 }
@@ -18340,6 +19676,636 @@ return {
                     ["description_EN"] = "A prize for the Holoearth Aki Rosenthal Arrival Festival commemorative gift campaign. Congratulations!",
                     ["description_JA"] = "「ホロアース アキ・ローゼンタール降臨祭 記念プレゼントキャンペーン！」賞品。おめでとうございます！"
                 }
+            },
+            ["17"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000017",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 17,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000017",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021017,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Oversized Knit Shirt (Wh)",
+                    ["localize_JA"] = "オーバーサイズカットソー（ホワイト）",
+                    ["description_EN"] = "A versatile oversized knit shirt",
+                    ["description_JA"] = "シンプルで使いやすいオーバーサイズカットソー"
+                }
+            },
+            ["18"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000018",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 18,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000018",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021018,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Oversized Knit Shirt (Blk)",
+                    ["localize_JA"] = "オーバーサイズカットソー（ブラック）",
+                    ["description_EN"] = "A versatile oversized knit shirt",
+                    ["description_JA"] = "シンプルで使いやすいオーバーサイズカットソー"
+                }
+            },
+            ["19"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000019",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 19,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000019",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021019,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Oversized Knit Shirt (Gry)",
+                    ["localize_JA"] = "オーバーサイズカットソー（グレー）",
+                    ["description_EN"] = "A versatile oversized knit shirt",
+                    ["description_JA"] = "シンプルで使いやすいオーバーサイズカットソー"
+                }
+            },
+            ["20"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000020",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 20,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000020",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021020,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Cap Sleeve Oversized T (Wh)",
+                    ["localize_JA"] = "フレンチスリーブオーバーサイズTシャツ（ホワイト）",
+                    ["description_EN"] = "A stylish oversized T-shirt with cap sleeves",
+                    ["description_JA"] = "フレンチスリーブがおしゃれなオーバーサイズTシャツ"
+                }
+            },
+            ["60"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "14.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000060",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 60,
+                    ["isTuckedInByDefault"] = 1,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000060",
+                    ["rarity"] = 3,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021060,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Pathfinder Jacket Type A",
+                    ["localize_JA"] = "パスファインダージャケット typeA",
+                    ["description_EN"] = "A jacket for pathfinders",
+                    ["description_JA"] = "パスファインダーズジャケット",
+                    ["resolved_optionalPartsSettings"] = {
+                        {
+                            ["category"] = 20,
+                            ["extraPartsCount"] = 2,
+                            ["hasTuckInSwitchingParts"] = 0,
+                            ["identifier"] = 60,
+                            ["switchingPartsCount"] = 0
+                        }
+                    }
+                }
+            },
+            ["61"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "20.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000061",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 61,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000061",
+                    ["rarity"] = 3,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021061,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Pathfinder Jacket Type B",
+                    ["localize_JA"] = "パスファインダージャケット typeB",
+                    ["description_EN"] = "A jacket for pathfinders type B",
+                    ["description_JA"] = "パスファインダーズジャケット typeB",
+                    ["resolved_optionalPartsSettings"] = {
+                        {
+                            ["category"] = 20,
+                            ["extraPartsCount"] = 2,
+                            ["hasTuckInSwitchingParts"] = 0,
+                            ["identifier"] = 61,
+                            ["switchingPartsCount"] = 0
+                        }
+                    }
+                }
+            },
+            ["397"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000397",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 397,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000397",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021397,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Tokino Sora Starry Bl∞min' Tee",
+                    ["localize_JA"] = "ときのそら 「Starry Bl∞min'」Tシャツ",
+                    ["description_EN"] = "A Tokino Sora 8th Anniversary Party Starry Bl∞min' T-shirt",
+                    ["description_JA"] = "ときのそら 8th Anniversary Party「Starry Bl∞min'」のTシャツ"
+                }
+            },
+            ["703"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000703",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 703,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000703",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021021,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Cap Sleeve Oversized T (Blk)",
+                    ["localize_JA"] = "フレンチスリーブオーバーサイズTシャツ（ブラック）",
+                    ["description_EN"] = "A stylish oversized T-shirt with cap sleeves",
+                    ["description_JA"] = "フレンチスリーブがおしゃれなオーバーサイズTシャツ"
+                }
+            },
+            ["704"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000704",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 704,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000704",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021022,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Cap Sleeve Oversized T (Gry)",
+                    ["localize_JA"] = "フレンチスリーブオーバーサイズTシャツ（グレー）",
+                    ["description_EN"] = "A stylish oversized T-shirt with cap sleeves",
+                    ["description_JA"] = "フレンチスリーブがおしゃれなオーバーサイズTシャツ"
+                }
+            },
+            ["714"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000714",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 714,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000714",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 110001012,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Basic Oversized T (Blk)",
+                    ["localize_JA"] = "ノーマルオーバーサイズTシャツ（ブラック）",
+                    ["description_EN"] = "A template based on a basic oversized T-shirt",
+                    ["description_JA"] = "ノーマルオーバーサイズTシャツをベースにした型紙"
+                }
+            },
+            ["715"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000715",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 715,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000715",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 110001013,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Basic Oversized T (Or)",
+                    ["localize_JA"] = "ノーマルオーバーサイズTシャツ（オレンジ）",
+                    ["description_EN"] = "A template based on a basic oversized T-shirt",
+                    ["description_JA"] = "ノーマルオーバーサイズTシャツをベースにした型紙"
+                }
+            },
+            ["716"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000716",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 716,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000716",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 110001014,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Basic Hoodie (Gry)",
+                    ["localize_JA"] = "ノーマルフーディー（グレー）",
+                    ["description_EN"] = "A template based on a basic hoodie",
+                    ["description_JA"] = "ノーマルフーディをベースにした型紙"
+                }
+            },
+            ["717"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000717",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 717,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000717",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 110001015,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Basic Hoodie (Or)",
+                    ["localize_JA"] = "ノーマルフーディー（オレンジ）",
+                    ["description_EN"] = "A template based on a basic hoodie",
+                    ["description_JA"] = "ノーマルフーディをベースにした型紙"
+                }
+            },
+            ["718"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000718",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 718,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000718",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 110001016,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Basic T-Shirt (Gry)",
+                    ["localize_JA"] = "ノーマルTシャツ（グレー）",
+                    ["description_EN"] = "A template based on a basic T-shirt",
+                    ["description_JA"] = "ノーマルTシャツをベースにした型紙"
+                }
+            },
+            ["719"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000719",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 719,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000719",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 110001017,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Basic T-Shirt (Or)",
+                    ["localize_JA"] = "ノーマルTシャツ（オレンジ）",
+                    ["description_EN"] = "A template based on a basic T-shirt",
+                    ["description_JA"] = "ノーマルTシャツをベースにした型紙"
+                }
+            },
+            ["799"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "14.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000799",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 799,
+                    ["isTuckedInByDefault"] = 1,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000799",
+                    ["rarity"] = 2,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021799,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Pathfinder Jacket SE Momosuzu Nene",
+                    ["localize_JA"] = "パスファインダージャケットSP 桃鈴ねね",
+                    ["description_EN"] = "A Momosuzu Nene-themed special edition pathfinder jacket",
+                    ["description_JA"] = "桃鈴ねねモデルのパスファインダージャケット。桃鈴ねねモチーフがついたスペシャルエディション"
+                }
+            },
+            ["800"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "14.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000800",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 800,
+                    ["isTuckedInByDefault"] = 1,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000800",
+                    ["rarity"] = 2,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021800,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Pathfinder Jacket SE Omaru Polka",
+                    ["localize_JA"] = "パスファインダージャケットSP 尾丸ポルカ",
+                    ["description_EN"] = "An Omaru Polka-themed special edition pathfinder jacket",
+                    ["description_JA"] = "尾丸ポルカモデルのパスファインダージャケット。尾丸ポルカモチーフがついたスペシャルエディション"
+                }
+            },
+            ["801"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "14.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000801",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 801,
+                    ["isTuckedInByDefault"] = 1,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000801",
+                    ["rarity"] = 2,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021801,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Pathfinder Jacket SE Yukihana Lamy",
+                    ["localize_JA"] = "パスファインダージャケットSP 雪花ラミィ",
+                    ["description_EN"] = "A Yukihana Lamy-themed special edition pathfinder jacket",
+                    ["description_JA"] = "雪花ラミィモデルのパスファインダージャケット。雪花ラミィモチーフがついたスペシャルエディション"
+                }
+            },
+            ["802"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "14.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000802",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 802,
+                    ["isTuckedInByDefault"] = 1,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000802",
+                    ["rarity"] = 2,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021802,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Pathfinder Jacket SE Shishiro Botan",
+                    ["localize_JA"] = "パスファインダージャケットSP 獅白ぼたん",
+                    ["description_EN"] = "A Shishiro Botan-themed special edition pathfinder jacket",
+                    ["description_JA"] = "獅白ぼたんモデルのパスファインダージャケット。獅白ぼたんモチーフがついたスペシャルエディション"
+                }
+            },
+            ["831"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000831",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 831,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000831",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021831,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "AZKichi Matching Hoodie (Signed)",
+                    ["localize_JA"] = "あずきちとおそろいパーカー（サイン入り）",
+                    ["description_EN"] = "A prize for the Holoearth AZKi Arrival Festival commemorative gift campaign. Congratulations!",
+                    ["description_JA"] = "「ホロアース AZKi降臨祭 記念プレゼントキャンペーン！」賞品。おめでとうございます！"
+                }
+            },
+            ["850"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000850",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 850,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000850",
+                    ["rarity"] = 1,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11021850,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1,
+                    ["localize_EN"] = "Robocosan Hoodie",
+                    ["localize_JA"] = "ロボ子さんパーカー",
+                    ["description_EN"] = "A hoodie for matching with Robocosan",
+                    ["description_JA"] = "ロボ子さんとおそろいのパーカー"
+                }
+            },
+            ["875"] = {
+                ["1.0.23"] = {
+                    ["apertureStandard"] = "0.0",
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothOuters/cloth_outer_001u_00000875",
+                    ["chestMagicaType"] = 2,
+                    ["detailType"] = 3,
+                    ["gender"] = "u",
+                    ["hideClothBottom"] = 0,
+                    ["hideClothShoe"] = 0,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 875,
+                    ["isTuckedInByDefault"] = 0,
+                    ["localizeKey"] = "AVATAR_CLOTH_OUTER_00000875",
+                    ["rarity"] = 3,
+                    ["sleeveLength"] = 5,
+                    ["sleeveWidth"] = 2,
+                    ["sortKey"] = 11100875,
+                    ["tribe"] = 1,
+                    ["underwearId"] = -1
+                }
             }
         },
         ["avatarClothSets"] = {
@@ -19129,6 +21095,44 @@ return {
                             ["type"] = 1
                         }
                     }
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothShoes/cloth_shoes_001u_00000053",
+                    ["bootsIn"] = 1,
+                    ["gender"] = "u",
+                    ["height"] = 5,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 53,
+                    ["localizeKey"] = "AVATAR_CLOTH_SHOE_00000053",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 10090053,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Active Summer High-Tops (Blu)",
+                    ["localize_JA"] = "アクティブサマーリブニットハイカットスニーカー（ブルー）",
+                    ["description_EN"] = "High-tech sneakers featuring ribbed knitting for perfect ankle fit and mobility",
+                    ["description_JA"] = "足首に適度なフィット感と動きやすさを兼ね備えたリブニットを使用したテックスニーカー",
+                    ["resolved_optionalPartsSettings"] = {
+                        {
+                            ["category"] = 22,
+                            ["extraPartsCount"] = 1,
+                            ["hasTuckInSwitchingParts"] = 0,
+                            ["identifier"] = 53,
+                            ["switchingPartsCount"] = 0
+                        }
+                    },
+                    ["resolved_switchingExtraPartsNames"] = {
+                        {
+                            ["category"] = 22,
+                            ["identifier"] = 53,
+                            ["index"] = 0,
+                            ["name"] = "AVA_COM_EXTRA_bottom_001u_00000053",
+                            ["type"] = 1
+                        }
+                    }
                 }
             },
             ["54"] = {
@@ -19804,6 +21808,138 @@ return {
                     ["description_EN"] = "Stylish dress shoes in a subdued pastel color",
                     ["description_JA"] = "パステルカラーと落ち着いたカラーがオシャレなドレスシューズ"
                 }
+            },
+            ["60"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothShoes/cloth_shoes_001u_00000060",
+                    ["bootsIn"] = 1,
+                    ["gender"] = "u",
+                    ["height"] = 5,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 60,
+                    ["localizeKey"] = "AVATAR_CLOTH_SHOE_00000060",
+                    ["rarity"] = 1,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021060,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pathfinder Sneakers Type A",
+                    ["localize_JA"] = "パスファインダースニーカー typeA",
+                    ["description_EN"] = "A pair of pathfinder sneakers type A",
+                    ["description_JA"] = "パスファインダースニーカー typeA"
+                }
+            },
+            ["61"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothShoes/cloth_shoes_001u_00000061",
+                    ["bootsIn"] = 0,
+                    ["gender"] = "u",
+                    ["height"] = 6,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 61,
+                    ["localizeKey"] = "AVATAR_CLOTH_SHOE_00000061",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021061,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pathfinder Sneakers Type B",
+                    ["localize_JA"] = "パスファインダースニーカー typeB",
+                    ["description_EN"] = "A pair of pathfinder sneakers type B",
+                    ["description_JA"] = "パスファインダースニーカー typeB"
+                }
+            },
+            ["799"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothShoes/cloth_shoes_001u_00000799",
+                    ["bootsIn"] = 0,
+                    ["gender"] = "u",
+                    ["height"] = 6,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 799,
+                    ["localizeKey"] = "AVATAR_CLOTH_SHOE_00000799",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021799,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pathfinder Shoes SE Momosuzu Nene",
+                    ["localize_JA"] = "パスファインダーシューズSP 桃鈴ねね",
+                    ["description_EN"] = "Momosuzu Nene-themed special edition pathfinder sneakers",
+                    ["description_JA"] = "桃鈴ねねモデルのパスファインダースニーカー。桃鈴ねねのモチーフが入ったソックスがセットになったスペシャルエディション"
+                }
+            },
+            ["800"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothShoes/cloth_shoes_001u_00000800",
+                    ["bootsIn"] = 0,
+                    ["gender"] = "u",
+                    ["height"] = 6,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 800,
+                    ["localizeKey"] = "AVATAR_CLOTH_SHOE_00000800",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021800,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pathfinder Shoes SE Omaru Polka",
+                    ["localize_JA"] = "パスファインダーシューズSP 尾丸ポルカ",
+                    ["description_EN"] = "Omaru Polka-themed special edition pathfinder sneakers",
+                    ["description_JA"] = "尾丸ポルカモデルのパスファインダースニーカー。尾丸ポルカのモチーフが入ったソックスがセットになったスペシャルエディション"
+                }
+            },
+            ["801"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothShoes/cloth_shoes_001u_00000801",
+                    ["bootsIn"] = 0,
+                    ["gender"] = "u",
+                    ["height"] = 6,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 801,
+                    ["localizeKey"] = "AVATAR_CLOTH_SHOE_00000801",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021801,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pathfinder Shoes SE Yukihana Lamy",
+                    ["localize_JA"] = "パスファインダーシューズSP 雪花ラミィ",
+                    ["description_EN"] = "Yukihana Lamy-themed special edition pathfinder sneakers",
+                    ["description_JA"] = "雪花ラミィモデルのパスファインダースニーカー。雪花ラミィのモチーフが入ったソックスがセットになったスペシャルエディション"
+                }
+            },
+            ["802"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothShoes/cloth_shoes_001u_00000802",
+                    ["bootsIn"] = 0,
+                    ["gender"] = "u",
+                    ["height"] = 6,
+                    ["hideClothSock"] = 0,
+                    ["hideHairBack"] = 0,
+                    ["hideHairFront"] = 0,
+                    ["hideHairMiddle"] = 0,
+                    ["id"] = 802,
+                    ["localizeKey"] = "AVATAR_CLOTH_SHOE_00000802",
+                    ["rarity"] = 3,
+                    ["soleHeight"] = 1,
+                    ["sortKey"] = 11021802,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pathfinder Shoes SE Shishiro Botan",
+                    ["localize_JA"] = "パスファインダーシューズSP 獅白ぼたん",
+                    ["description_EN"] = "Shishiro Botan-themed special edition pathfinder sneakers",
+                    ["description_JA"] = "獅白ぼたんモデルのパスファインダースニーカー。獅白ぼたんのモチーフが入ったソックスがセットになったスペシャルエディション"
+                }
             }
         },
         ["avatarClothSocks"] = {
@@ -20446,6 +22582,22 @@ return {
                     ["description_EN"] = "Ankle socks featuring a flower motif",
                     ["description_JA"] = "フラワーモチーフが入ったアンクルソックス"
                 }
+            },
+            ["60"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/ClothSocks/t_soc_001u_00000060_c",
+                    ["detailType"] = 2,
+                    ["gender"] = "u",
+                    ["id"] = 60,
+                    ["localizeKey"] = "AVATAR_CLOTH_SOCK_00000060",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 11021061,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Basic Tights",
+                    ["localize_JA"] = "ベーシックタイツ",
+                    ["description_EN"] = "A pair of basic tights",
+                    ["description_JA"] = "ベーシックなタイツ"
+                }
             }
         },
         ["avatarClothUnderwears"] = {
@@ -21046,6 +23198,139 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "",
                     ["localize_JA"] = "バイオレットマット",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000013_c",
+                    ["gender"] = "u",
+                    ["id"] = 13,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000013",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 8,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Violet Matte",
+                    ["localize_JA"] = "バイオレットマット",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                }
+            },
+            ["10"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000010_c",
+                    ["gender"] = "u",
+                    ["id"] = 10,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000010",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 10,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Yellow Sheen",
+                    ["localize_JA"] = "イエローシャイン",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                }
+            },
+            ["14"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000014_c",
+                    ["gender"] = "u",
+                    ["id"] = 14,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000014",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 11,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Sky Moon",
+                    ["localize_JA"] = "スカイムーン",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                }
+            },
+            ["15"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000015_c",
+                    ["gender"] = "u",
+                    ["id"] = 15,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000015",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 12,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Blue shimmer",
+                    ["localize_JA"] = "ブルーシマー",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                }
+            },
+            ["16"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000016_c",
+                    ["gender"] = "u",
+                    ["id"] = 16,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000016",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 13,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Dark Glitter",
+                    ["localize_JA"] = "ダークグリッター",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                }
+            },
+            ["17"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000017_c",
+                    ["gender"] = "u",
+                    ["id"] = 17,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000017",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 14,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Summer's Night Light",
+                    ["localize_JA"] = "サマーナイトライト",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                }
+            },
+            ["18"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000018_c",
+                    ["gender"] = "u",
+                    ["id"] = 18,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000018",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 15,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Circle Heart",
+                    ["localize_JA"] = "サークルハート",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                }
+            },
+            ["19"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000019_c",
+                    ["gender"] = "u",
+                    ["id"] = 19,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000019",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 16,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Sky Sheen",
+                    ["localize_JA"] = "スカイシャイン",
+                    ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
+                    ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
+                }
+            },
+            ["20"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Contacts/t_cnt_001u_00000020_c",
+                    ["gender"] = "u",
+                    ["id"] = 20,
+                    ["localizeKey"] = "AVATAR_CONTACT_00000020",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 17,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Night Dazzle",
+                    ["localize_JA"] = "ナイトダズル",
                     ["description_EN"] = "Captivating colored contact lenses for expressing oneself",
                     ["description_JA"] = "魅力的なカラーリングで自分らしさを演出できるコンタクト"
                 }
@@ -23901,6 +26186,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Delightful Eyebrows",
                     ["localize_JA"] = "ディライトアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000002",
+                    ["gender"] = "f",
+                    ["id"] = 2,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000002",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 21,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Delightful Eyebrows",
+                    ["localize_JA"] = "ディライトアイブロウ"
                 }
             },
             ["3"] = {
@@ -23911,6 +26207,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000003",
                     ["rarity"] = 1,
                     ["sortKey"] = 3,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Cute Eyebrows",
+                    ["localize_JA"] = "キュートアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000003",
+                    ["gender"] = "f",
+                    ["id"] = 3,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000003",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 29,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Cute Eyebrows",
                     ["localize_JA"] = "キュートアイブロウ"
@@ -23927,6 +26234,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Elegant Eyebrows",
                     ["localize_JA"] = "クールアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000004",
+                    ["gender"] = "f",
+                    ["id"] = 4,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000004",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 2,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Elegant Eyebrows",
+                    ["localize_JA"] = "クールアイブロウ"
                 }
             },
             ["5"] = {
@@ -23937,6 +26255,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000005",
                     ["rarity"] = 1,
                     ["sortKey"] = 5,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Prideful Eyebrows",
+                    ["localize_JA"] = "プライドアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000005",
+                    ["gender"] = "f",
+                    ["id"] = 5,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000005",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 13,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Prideful Eyebrows",
                     ["localize_JA"] = "プライドアイブロウ"
@@ -23953,6 +26282,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Passionate Eyebrows",
                     ["localize_JA"] = "パッションアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000006",
+                    ["gender"] = "f",
+                    ["id"] = 6,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000006",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 11,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Passionate Eyebrows",
+                    ["localize_JA"] = "パッションアイブロウ"
                 }
             },
             ["7"] = {
@@ -23963,6 +26303,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000007",
                     ["rarity"] = 1,
                     ["sortKey"] = 7,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Quiet Eyebrows",
+                    ["localize_JA"] = "クワイエットアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000007",
+                    ["gender"] = "f",
+                    ["id"] = 7,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000007",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 14,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Quiet Eyebrows",
                     ["localize_JA"] = "クワイエットアイブロウ"
@@ -23979,6 +26330,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Noble Eyebrows",
                     ["localize_JA"] = "ノーブルアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000008",
+                    ["gender"] = "f",
+                    ["id"] = 8,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000008",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 19,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Noble Eyebrows",
+                    ["localize_JA"] = "ノーブルアイブロウ"
                 }
             },
             ["9"] = {
@@ -23989,6 +26351,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000009",
                     ["rarity"] = 1,
                     ["sortKey"] = 9,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Bashful Eyebrows",
+                    ["localize_JA"] = "バッシュフルアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000009",
+                    ["gender"] = "f",
+                    ["id"] = 9,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000009",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 30,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Bashful Eyebrows",
                     ["localize_JA"] = "バッシュフルアイブロウ"
@@ -24005,6 +26378,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Shy Eyebrows",
                     ["localize_JA"] = "シャイアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000010",
+                    ["gender"] = "f",
+                    ["id"] = 10,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000010",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 27,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Shy Eyebrows",
+                    ["localize_JA"] = "シャイアイブロウ"
                 }
             },
             ["11"] = {
@@ -24015,6 +26399,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000011",
                     ["rarity"] = 1,
                     ["sortKey"] = 11,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Joyful Eyebrows",
+                    ["localize_JA"] = "ジョイフルアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000011",
+                    ["gender"] = "f",
+                    ["id"] = 11,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000011",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 3,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Joyful Eyebrows",
                     ["localize_JA"] = "ジョイフルアイブロウ"
@@ -24031,6 +26426,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Mysterious Eyebrows",
                     ["localize_JA"] = "ミステリアスアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000012",
+                    ["gender"] = "f",
+                    ["id"] = 12,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000012",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 15,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Mysterious Eyebrows",
+                    ["localize_JA"] = "ミステリアスアイブロウ"
                 }
             },
             ["13"] = {
@@ -24041,6 +26447,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000013",
                     ["rarity"] = 1,
                     ["sortKey"] = 13,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Cheerful Eyebrows",
+                    ["localize_JA"] = "チアフルアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000013",
+                    ["gender"] = "f",
+                    ["id"] = 13,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000013",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 4,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Cheerful Eyebrows",
                     ["localize_JA"] = "チアフルアイブロウ"
@@ -24057,6 +26474,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Bold Eyebrows",
                     ["localize_JA"] = "ボールドアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000014",
+                    ["gender"] = "f",
+                    ["id"] = 14,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000014",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 31,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Bold Eyebrows",
+                    ["localize_JA"] = "ボールドアイブロウ"
                 }
             },
             ["15"] = {
@@ -24067,6 +26495,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000015",
                     ["rarity"] = 1,
                     ["sortKey"] = 15,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Hopeful Eyebrows",
+                    ["localize_JA"] = "ホープアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000015",
+                    ["gender"] = "f",
+                    ["id"] = 15,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000015",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 32,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Hopeful Eyebrows",
                     ["localize_JA"] = "ホープアイブロウ"
@@ -24083,6 +26522,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Mellow Eyebrows",
                     ["localize_JA"] = "メロウアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000016",
+                    ["gender"] = "f",
+                    ["id"] = 16,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000016",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 22,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Mellow Eyebrows",
+                    ["localize_JA"] = "メロウアイブロウ"
                 }
             },
             ["17"] = {
@@ -24093,6 +26543,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000017",
                     ["rarity"] = 1,
                     ["sortKey"] = 17,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pure Eyebrows",
+                    ["localize_JA"] = "ピュアアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000017",
+                    ["gender"] = "f",
+                    ["id"] = 17,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000017",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 5,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Pure Eyebrows",
                     ["localize_JA"] = "ピュアアイブロウ"
@@ -24109,6 +26570,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Longing Eyebrows",
                     ["localize_JA"] = "デザイアアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001f_00000018",
+                    ["gender"] = "f",
+                    ["id"] = 18,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000018",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 25,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Longing Eyebrows",
+                    ["localize_JA"] = "デザイアアイブロウ"
                 }
             },
             ["19"] = {
@@ -24119,6 +26591,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000019",
                     ["rarity"] = 1,
                     ["sortKey"] = 19,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Plucky Eyebrows",
+                    ["localize_JA"] = "イージーアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000019",
+                    ["gender"] = "m",
+                    ["id"] = 19,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000019",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 6,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Plucky Eyebrows",
                     ["localize_JA"] = "イージーアイブロウ"
@@ -24135,6 +26618,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Intense Eyebrows",
                     ["localize_JA"] = "ストロングアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000020",
+                    ["gender"] = "m",
+                    ["id"] = 20,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000020",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 12,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Intense Eyebrows",
+                    ["localize_JA"] = "ストロングアイブロウ"
                 }
             },
             ["21"] = {
@@ -24145,6 +26639,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000021",
                     ["rarity"] = 1,
                     ["sortKey"] = 21,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Soulful Eyebrows",
+                    ["localize_JA"] = "ソウルフルアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000021",
+                    ["gender"] = "m",
+                    ["id"] = 21,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000021",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 26,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Soulful Eyebrows",
                     ["localize_JA"] = "ソウルフルアイブロウ"
@@ -24161,6 +26666,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Surprised Eyebrows",
                     ["localize_JA"] = "サプライズアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000022",
+                    ["gender"] = "m",
+                    ["id"] = 22,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000022",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 16,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Surprised Eyebrows",
+                    ["localize_JA"] = "サプライズアイブロウ"
                 }
             },
             ["23"] = {
@@ -24171,6 +26687,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000023",
                     ["rarity"] = 1,
                     ["sortKey"] = 23,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Vigorous Eyebrows",
+                    ["localize_JA"] = "エフォートアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000023",
+                    ["gender"] = "m",
+                    ["id"] = 23,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000023",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 33,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Vigorous Eyebrows",
                     ["localize_JA"] = "エフォートアイブロウ"
@@ -24187,6 +26714,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Tenacious Eyebrows",
                     ["localize_JA"] = "ハードボイルドアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000024",
+                    ["gender"] = "m",
+                    ["id"] = 24,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000024",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 7,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Tenacious Eyebrows",
+                    ["localize_JA"] = "ハードボイルドアイブロウ"
                 }
             },
             ["25"] = {
@@ -24197,6 +26735,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000025",
                     ["rarity"] = 1,
                     ["sortKey"] = 25,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Astute Eyebrows",
+                    ["localize_JA"] = "インテリジェントアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000025",
+                    ["gender"] = "m",
+                    ["id"] = 25,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000025",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 23,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Astute Eyebrows",
                     ["localize_JA"] = "インテリジェントアイブロウ"
@@ -24213,6 +26762,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Earnest Eyebrows",
                     ["localize_JA"] = "アーネストアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000026",
+                    ["gender"] = "m",
+                    ["id"] = 26,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000026",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 24,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Earnest Eyebrows",
+                    ["localize_JA"] = "アーネストアイブロウ"
                 }
             },
             ["27"] = {
@@ -24223,6 +26783,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000027",
                     ["rarity"] = 1,
                     ["sortKey"] = 27,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Sincere Eyebrows",
+                    ["localize_JA"] = "トラストアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000027",
+                    ["gender"] = "m",
+                    ["id"] = 27,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000027",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 8,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Sincere Eyebrows",
                     ["localize_JA"] = "トラストアイブロウ"
@@ -24239,6 +26810,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Kind Eyebrows",
                     ["localize_JA"] = "カインドアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000028",
+                    ["gender"] = "m",
+                    ["id"] = 28,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000028",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 17,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Kind Eyebrows",
+                    ["localize_JA"] = "カインドアイブロウ"
                 }
             },
             ["29"] = {
@@ -24249,6 +26831,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000029",
                     ["rarity"] = 1,
                     ["sortKey"] = 29,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Happy Eyebrows",
+                    ["localize_JA"] = "ハッピーアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000029",
+                    ["gender"] = "m",
+                    ["id"] = 29,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000029",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 18,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Happy Eyebrows",
                     ["localize_JA"] = "ハッピーアイブロウ"
@@ -24265,6 +26858,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Calm Eyebrows",
                     ["localize_JA"] = "カルムアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000030",
+                    ["gender"] = "m",
+                    ["id"] = 30,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000030",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 28,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Calm Eyebrows",
+                    ["localize_JA"] = "カルムアイブロウ"
                 }
             },
             ["31"] = {
@@ -24275,6 +26879,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000031",
                     ["rarity"] = 1,
                     ["sortKey"] = 31,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Serious Eyebrows",
+                    ["localize_JA"] = "シリアスアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000031",
+                    ["gender"] = "m",
+                    ["id"] = 31,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000031",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 20,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Serious Eyebrows",
                     ["localize_JA"] = "シリアスアイブロウ"
@@ -24291,6 +26906,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Friendly Eyebrows",
                     ["localize_JA"] = "フレンドリーアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000032",
+                    ["gender"] = "m",
+                    ["id"] = 32,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000032",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 34,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Friendly Eyebrows",
+                    ["localize_JA"] = "フレンドリーアイブロウ"
                 }
             },
             ["33"] = {
@@ -24301,6 +26927,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000033",
                     ["rarity"] = 1,
                     ["sortKey"] = 33,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Sharp Eyebrows",
+                    ["localize_JA"] = "シャープアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000033",
+                    ["gender"] = "m",
+                    ["id"] = 33,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000033",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 9,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Sharp Eyebrows",
                     ["localize_JA"] = "シャープアイブロウ"
@@ -24317,6 +26954,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Cozy Eyebrows",
                     ["localize_JA"] = "ヒーリングアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000034",
+                    ["gender"] = "m",
+                    ["id"] = 34,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000034",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 35,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Cozy Eyebrows",
+                    ["localize_JA"] = "ヒーリングアイブロウ"
                 }
             },
             ["35"] = {
@@ -24330,6 +26978,17 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Respectful Eyebrows",
                     ["localize_JA"] = "リスペクトアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000035",
+                    ["gender"] = "m",
+                    ["id"] = 35,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000035",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 36,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Respectful Eyebrows",
+                    ["localize_JA"] = "リスペクトアイブロウ"
                 }
             },
             ["36"] = {
@@ -24340,6 +26999,17 @@ return {
                     ["localizeKey"] = "AVATAR_EYEBROW_00000036",
                     ["rarity"] = 1,
                     ["sortKey"] = 36,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Wonderful Eyebrows",
+                    ["localize_JA"] = "ワンダフルアイブロウ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Eyebrows/avatar_eyebrow_001m_00000036",
+                    ["gender"] = "m",
+                    ["id"] = 36,
+                    ["localizeKey"] = "AVATAR_EYEBROW_00000036",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 10,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Wonderful Eyebrows",
                     ["localize_JA"] = "ワンダフルアイブロウ"
@@ -33804,6 +36474,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Pigtails",
                     ["localize_JA"] = "おさげ"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10999999940395355,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10999999940395355,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.765999972820282,\"y\":-0.07699999958276749},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":356.0,\"y\":190.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1208,\"position\":{\"x\":0.7480000257492065,\"y\":-0.11400000005960465},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":5.0,\"y\":345.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1410,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.052000001072883609,\"rotation\":{\"x\":12.0,\"y\":357.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.4429999887943268,\"y\":0.2639999985694885},\"distance\":-0.054999999701976779,\"rotation\":{\"x\":12.0,\"y\":3.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":13.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1410},{\"category\":1,\"defaultID\":1204}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000005",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 1,
+                    ["id"] = 5,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000005",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 8,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pigtails",
+                    ["localize_JA"] = "おさげ"
                 }
             },
             ["7"] = {
@@ -33833,6 +36517,20 @@ return {
                     ["localizeKey"] = "AVATAR_HAIR_BACK_00000008",
                     ["rarity"] = 2,
                     ["sortKey"] = 6,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Twintails",
+                    ["localize_JA"] = "ツインテール"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.03500000014901161,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6110000014305115,\"y\":0.3230000138282776},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":15.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.0,\"rotation\":{\"x\":5.0,\"y\":355.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":-0.007000000216066837,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.0,\"rotation\":{\"x\":5.0,\"y\":5.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6110000014305115,\"y\":0.3230000138282776},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":345.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.013000000268220902,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.8550000190734863,\"y\":0.1550000011920929},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":15.0,\"y\":286.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1208,\"position\":{\"x\":0.9610000252723694,\"y\":0.14300000667572022},\"distance\":-0.11500000208616257,\"rotation\":{\"x\":345.0,\"y\":234.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1415,\"position\":{\"x\":0.0,\"y\":0.6940000057220459},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1813,\"position\":{\"x\":0.7124648094177246,\"y\":0.38190460205078127},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":0.0,\"y\":32.0,\"z\":345.0},\"scale\":1.0,\"enableCategoryFlags\":8},{\"identifier\":1809,\"position\":{\"x\":-0.7147935628890991,\"y\":0.3849385976791382},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":0.0,\"y\":148.0,\"z\":345.0},\"scale\":1.0,\"enableCategoryFlags\":8}],\"categoryData\":[{\"category\":2,\"defaultID\":1415},{\"category\":1,\"defaultID\":1204},{\"category\":3,\"defaultID\":1809}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000008",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 1,
+                    ["id"] = 8,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000008",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 15,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Twintails",
                     ["localize_JA"] = "ツインテール"
@@ -33868,6 +36566,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Short Neat",
                     ["localize_JA"] = "すっきりショート"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.08799999952316284,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.03500000014901161,\"rotation\":{\"x\":14.0,\"y\":0.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.03500000014901161,\"rotation\":{\"x\":14.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.08799999952316284,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.07400000095367432,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":9.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.0560000017285347,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.0,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.8629999756813049,\"y\":-0.25},\"distance\":-0.12999999523162843,\"rotation\":{\"x\":355.0,\"y\":184.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1208,\"position\":{\"x\":0.8920000195503235,\"y\":-0.27399998903274538},\"distance\":-0.13500000536441804,\"rotation\":{\"x\":5.0,\"y\":356.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1410,\"position\":{\"x\":-0.5260000228881836,\"y\":0.23399999737739564},\"distance\":-0.06700000166893006,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.5260000228881836,\"y\":0.23399999737739564},\"distance\":-0.057999998331069949,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":354.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.017999999225139619,\"rotation\":{\"x\":13.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1410},{\"category\":1,\"defaultID\":1204}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000013",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "m",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 13,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000013",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 3,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Short Neat",
+                    ["localize_JA"] = "すっきりショート"
                 }
             },
             ["14"] = {
@@ -33881,6 +36593,20 @@ return {
                     ["localizeKey"] = "AVATAR_HAIR_BACK_00000014",
                     ["rarity"] = 2,
                     ["sortKey"] = 11,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Handsome Short",
+                    ["localize_JA"] = "ハンサムショート"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09099999815225601,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.04399999976158142,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09099999815225601,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09099999815225601,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":355.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.017999999225139619,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.017999999225139619,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.0,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.026000000536441804,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.718999981880188,\"y\":-0.12300000339746475},\"distance\":-0.09300000220537186,\"rotation\":{\"x\":351.0,\"y\":192.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1208,\"position\":{\"x\":0.7210000157356262,\"y\":-0.10999999940395355},\"distance\":-0.08900000154972077,\"rotation\":{\"x\":5.0,\"y\":348.0,\"z\":360.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1410,\"position\":{\"x\":-0.49000000953674319,\"y\":0.3880000114440918},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.49000000953674319,\"y\":0.3880000114440918},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.6690000295639038},\"distance\":-0.03500000014901161,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1410},{\"category\":1,\"defaultID\":1204}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000014",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "m",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 14,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000014",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 4,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Handsome Short",
                     ["localize_JA"] = "ハンサムショート"
@@ -33900,6 +36626,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Half Bob Bun",
                     ["localize_JA"] = "ハーフアップボブ"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":4.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.07999999821186066,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.0,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.07999999821186066,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.0,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.859000027179718,\"y\":-0.013000000268220902},\"distance\":-0.11100000143051148,\"rotation\":{\"x\":0.0,\"y\":215.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1208,\"position\":{\"x\":0.859000027179718,\"y\":-0.013000000268220902},\"distance\":-0.09600000083446503,\"rotation\":{\"x\":0.0,\"y\":315.0,\"z\":9.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1405,\"position\":{\"x\":-0.4449999928474426,\"y\":0.17900000512599946},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1407,\"position\":{\"x\":0.4449999928474426,\"y\":0.17900000512599946},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1405},{\"category\":1,\"defaultID\":1204}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000019",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "m",
+                    ["hasAttachParts"] = 1,
+                    ["id"] = 19,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000019",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 10,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Half Bob Bun",
+                    ["localize_JA"] = "ハーフアップボブ"
                 }
             },
             ["20"] = {
@@ -33913,6 +36653,20 @@ return {
                     ["localizeKey"] = "AVATAR_HAIR_BACK_00000020",
                     ["rarity"] = 2,
                     ["sortKey"] = 13,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Layered Bob",
+                    ["localize_JA"] = "レイヤーボブ"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.07999999821186066,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.02979302406311035,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.024000000208616258,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.028999999165534974,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.07000000029802323,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":348.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.017999999225139619,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.009999999776482582,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.003000000026077032,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":0.009999999776482582,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.029999999329447748,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":0.01600000075995922,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.996999979019165,\"y\":-0.0010000000474974514},\"distance\":-0.10700000077486038,\"rotation\":{\"x\":0.0,\"y\":200.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1410,\"position\":{\"x\":-0.4339999854564667,\"y\":0.3619999885559082},\"distance\":-0.01600000075995922,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.5529999732971191,\"y\":0.2029999941587448},\"distance\":-0.04600000008940697,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":346.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.004999999888241291,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1410},{\"category\":1,\"defaultID\":1204}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000020",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "m",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 20,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000020",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 11,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Layered Bob",
                     ["localize_JA"] = "レイヤーボブ"
@@ -33932,6 +36686,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Sidetail",
                     ["localize_JA"] = "サイドテール"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09099999815225601,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.027000000700354577,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.03200000151991844,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.027000000700354577,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09099999815225601,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.01899999938905239,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":4.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.0,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.01899999938905239,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.0729999989271164,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.008999999612569809,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.7979999780654907,\"y\":-0.21699999272823335},\"distance\":-0.11699999868869782,\"rotation\":{\"x\":350.0,\"y\":193.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1208,\"position\":{\"x\":0.8500000238418579,\"y\":0.008999999612569809},\"distance\":-0.10999999940395355,\"rotation\":{\"x\":350.0,\"y\":228.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1410,\"position\":{\"x\":-0.5099999904632568,\"y\":0.2290000021457672},\"distance\":-0.05900000035762787,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":-0.013000000268220902,\"y\":0.628000020980835},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1812,\"position\":{\"x\":0.5709999799728394,\"y\":0.16899999976158143},\"distance\":-0.039000000804662707,\"rotation\":{\"x\":10.0,\"y\":35.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":8}],\"categoryData\":[{\"category\":2,\"defaultID\":1410},{\"category\":1,\"defaultID\":1204},{\"category\":3,\"defaultID\":1812}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000025",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 1,
+                    ["id"] = 25,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000025",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 12,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Sidetail",
+                    ["localize_JA"] = "サイドテール"
                 }
             },
             ["28"] = {
@@ -33945,6 +36713,20 @@ return {
                     ["localizeKey"] = "AVATAR_HAIR_BACK_00000028",
                     ["rarity"] = 2,
                     ["sortKey"] = 15,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Chignon",
+                    ["localize_JA"] = "シニヨン"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.06199999898672104,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.009999999776482582,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.029999999329447748,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.009999999776482582,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.06199999898672104,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":0.0,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.9049999713897705,\"y\":0.07100000232458115},\"distance\":-0.1080000028014183,\"rotation\":{\"x\":10.0,\"y\":295.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1208,\"position\":{\"x\":0.9049999713897705,\"y\":0.07100000232458115},\"distance\":-0.1080000028014183,\"rotation\":{\"x\":350.0,\"y\":245.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1404,\"position\":{\"x\":-0.671999990940094,\"y\":-0.004999999888241291},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":14.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1408,\"position\":{\"x\":0.671999990940094,\"y\":-0.004999999888241291},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":14.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1814,\"position\":{\"x\":0.0,\"y\":0.4690000116825104},\"distance\":0.009999999776482582,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":8}],\"categoryData\":[{\"category\":2,\"defaultID\":1404},{\"category\":1,\"defaultID\":1204},{\"category\":3,\"defaultID\":1814}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000028",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 1,
+                    ["id"] = 28,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000028",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 16,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Chignon",
                     ["localize_JA"] = "シニヨン"
@@ -33964,6 +36746,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Three-Strand Braids",
                     ["localize_JA"] = "三つ編み"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1410,\"position\":{\"x\":-0.47200000286102297,\"y\":0.4230000078678131},\"distance\":-0.006000000052154064,\"rotation\":{\"x\":6.28000020980835,\"y\":0.0,\"z\":7.570000171661377},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1412,\"position\":{\"x\":0.47200000286102297,\"y\":0.4230000078678131},\"distance\":-0.006000000052154064,\"rotation\":{\"x\":6.28000020980835,\"y\":0.0,\"z\":-1.2400000095367432},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.9399999976158142,\"y\":-0.10199999809265137},\"distance\":-0.13600000739097596,\"rotation\":{\"x\":349.0,\"y\":198.0,\"z\":360.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1208,\"position\":{\"x\":0.9399999976158142,\"y\":-0.10199999809265137},\"distance\":-0.13600000739097596,\"rotation\":{\"x\":11.0,\"y\":342.0,\"z\":360.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1810,\"position\":{\"x\":-0.3569999933242798,\"y\":0.6200000047683716},\"distance\":-0.02500000037252903,\"rotation\":{\"x\":77.0,\"y\":3.0,\"z\":340.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1812,\"position\":{\"x\":0.3569999933242798,\"y\":0.6200000047683716},\"distance\":-0.02500000037252903,\"rotation\":{\"x\":77.0,\"y\":3.0,\"z\":200.0},\"scale\":1.0,\"enableCategoryFlags\":0}],\"categoryData\":[{\"category\":2,\"defaultID\":1410},{\"category\":1,\"defaultID\":1204},{\"category\":3,\"defaultID\":-1}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000029",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 29,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000029",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 17,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Three-Strand Braids",
+                    ["localize_JA"] = "三つ編み"
                 }
             },
             ["35"] = {
@@ -33977,6 +36773,20 @@ return {
                     ["localizeKey"] = "AVATAR_HAIR_BACK_00000035",
                     ["rarity"] = 2,
                     ["sortKey"] = 18,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Long Braid",
+                    ["localize_JA"] = "ロングおさげ"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":9.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":351.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.008999999612569809,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":4.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.019999999552965165,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.008999999612569809,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.017999999225139619,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1410,\"position\":{\"x\":-0.5320000052452087,\"y\":0.2029999941587448},\"distance\":-0.0560000017285347,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":9.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.5320000052452087,\"y\":0.2029999941587448},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.0020000000949949028,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1410}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000035",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 35,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000035",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 6,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Long Braid",
                     ["localize_JA"] = "ロングおさげ"
@@ -33996,6 +36806,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Active Short Bob",
                     ["localize_JA"] = "アクティブショートボブ"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.0820000022649765,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.027000000700354577,\"rotation\":{\"x\":9.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.026000000536441804,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.017999999225139619,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.008999999612569809,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.008999999612569809,\"rotation\":{\"x\":10.0,\"y\":5.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.04800000041723251,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.0,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1404,\"position\":{\"x\":-0.625,\"y\":0.0989999994635582},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1408,\"position\":{\"x\":0.5659999847412109,\"y\":0.05920000001788139},\"distance\":-0.07800000160932541,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.007000000216066837,\"y\":0.6919999718666077},\"distance\":-0.02500000037252903,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1404}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000036",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "m",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 36,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000036",
+                    ["rarity"] = 2,
+                    ["sortKey"] = 7,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Active Short Bob",
+                    ["localize_JA"] = "アクティブショートボブ"
                 }
             },
             ["37"] = {
@@ -34012,6 +36836,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Lush Wavy Ponytail",
                     ["localize_JA"] = "ボリュームカールポニーテール"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.03500000014901161,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":358.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.07999999821186066,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":-0.017999999225139619,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.07999999821186066,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":354.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.0729999989271164,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1204,\"position\":{\"x\":-0.8740000128746033,\"y\":0.15800000727176667},\"distance\":-0.11599999666213989,\"rotation\":{\"x\":0.0,\"y\":259.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1208,\"position\":{\"x\":0.8740000128746033,\"y\":0.15800000727176667},\"distance\":-0.11599999666213989,\"rotation\":{\"x\":0.0,\"y\":284.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1405,\"position\":{\"x\":-0.5410000085830689,\"y\":0.1289999932050705},\"distance\":-0.07999999821186066,\"rotation\":{\"x\":13.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1407,\"position\":{\"x\":0.5410000085830689,\"y\":0.1289999932050705},\"distance\":-0.07999999821186066,\"rotation\":{\"x\":13.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1815,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.03400000184774399,\"rotation\":{\"x\":0.0,\"y\":60.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":8}],\"categoryData\":[{\"category\":2,\"defaultID\":1405},{\"category\":1,\"defaultID\":1204},{\"category\":3,\"defaultID\":1815}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000037",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 1,
+                    ["id"] = 37,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000037",
+                    ["rarity"] = 3,
+                    ["sortKey"] = 13,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Lush Wavy Ponytail",
+                    ["localize_JA"] = "ボリュームカールポニーテール"
                 }
             },
             ["38"] = {
@@ -34025,6 +36863,20 @@ return {
                     ["localizeKey"] = "AVATAR_HAIR_BACK_00000038",
                     ["rarity"] = 3,
                     ["sortKey"] = 21,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Wolf Tail",
+                    ["localize_JA"] = "ウルフテール"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.0949999988079071,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.041999999433755878,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.03200000151991844,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.0430000014603138,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09200000017881394,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":354.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.014000000432133675,\"rotation\":{\"x\":350.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.02500000037252903,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":-0.03200000151991844,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1404,\"position\":{\"x\":-0.6340000033378601,\"y\":-0.017999999225139619},\"distance\":-0.10499999672174454,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1408,\"position\":{\"x\":0.6019999980926514,\"y\":0.003000000026077032},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":354.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1404}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairBacks/avatar_hair_back_001u_00000038",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "m",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 38,
+                    ["localizeKey"] = "AVATAR_HAIR_BACK_00000038",
+                    ["rarity"] = 3,
+                    ["sortKey"] = 14,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Wolf Tail",
                     ["localize_JA"] = "ウルフテール"
@@ -34115,6 +36967,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Tight Side-Parted Bangs",
                     ["localize_JA"] = "タイトサイドパートバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.08699999749660492,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.041999999433755878,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.08699999749660492,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.07500000298023224,\"rotation\":{\"x\":355.0,\"y\":200.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":0.010476469993591309,\"y\":-0.6939032673835754},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":350.0,\"y\":200.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.2556053400039673,\"y\":-0.5807669162750244},\"distance\":-0.03400000184774399,\"rotation\":{\"x\":10.0,\"y\":340.0,\"z\":18.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1207,\"position\":{\"x\":0.48899999260902407,\"y\":-0.48500001430511477},\"distance\":-0.07199999690055847,\"rotation\":{\"x\":5.0,\"y\":345.0,\"z\":17.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.49900001287460329,\"y\":-0.25099998712539675},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":13.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.4449999928474426,\"y\":-0.3230000138282776},\"distance\":-0.07999999821186066,\"rotation\":{\"x\":16.0,\"y\":350.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1201}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000005",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 5,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000005",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 14,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Tight Side-Parted Bangs",
+                    ["localize_JA"] = "タイトサイドパートバング"
                 }
             },
             ["7"] = {
@@ -34129,6 +36996,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 1,
                     ["sortKey"] = 6,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Side-Parted Bangs",
+                    ["localize_JA"] = "サイドパートバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.03799999877810478,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.07000000029802323,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.43264102935791018,\"y\":-0.5147706270217896},\"distance\":-0.0430000014603138,\"rotation\":{\"x\":352.0,\"y\":205.0,\"z\":20.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":0.2290000021457672,\"y\":-0.722000002861023},\"distance\":-0.09700000286102295,\"rotation\":{\"x\":354.0,\"y\":182.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.26899999380111697,\"y\":-0.6729999780654907},\"distance\":-0.07400000095367432,\"rotation\":{\"x\":8.0,\"y\":348.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.5210000276565552,\"y\":-0.30399999022483828},\"distance\":-0.09399999678134918,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":349.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.0,\"y\":-0.5609999895095825},\"distance\":-0.05400000140070915,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.5210000276565552,\"y\":-0.30399999022483828},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":11.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1201}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000007",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 7,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000007",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 10,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Side-Parted Bangs",
                     ["localize_JA"] = "サイドパートバング"
@@ -34149,6 +37031,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Zigzag Bangs",
                     ["localize_JA"] = "ジグザグバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.07000000029802323,\"rotation\":{\"x\":2.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.07000000029802323,\"rotation\":{\"x\":2.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.6779999732971191,\"y\":-0.5619999766349793},\"distance\":-0.09200000017881394,\"rotation\":{\"x\":350.0,\"y\":191.0,\"z\":14.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":0.1979999989271164,\"y\":-0.7390000224113464},\"distance\":-0.07199999690055847,\"rotation\":{\"x\":355.0,\"y\":180.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.6779999732971191,\"y\":-0.550000011920929},\"distance\":-0.08699999749660492,\"rotation\":{\"x\":0.0,\"y\":347.0,\"z\":18.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.4519999921321869,\"y\":-0.4480000138282776},\"distance\":-0.07699999958276749,\"rotation\":{\"x\":12.0,\"y\":3.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.0,\"y\":-0.6119999885559082},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.4519999921321869,\"y\":-0.4480000138282776},\"distance\":-0.07699999958276749,\"rotation\":{\"x\":15.0,\"y\":357.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1201}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000008",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 8,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000008",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 22,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Zigzag Bangs",
+                    ["localize_JA"] = "ジグザグバング"
                 }
             },
             ["11"] = {
@@ -34163,6 +37060,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 1,
                     ["sortKey"] = 10,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Low Hime Cut",
+                    ["localize_JA"] = "前下がり姫カット"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.057999998331069949,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.057999998331069949,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.49863725900650027,\"y\":-0.4676305055618286},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":353.0,\"y\":200.0,\"z\":20.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":-0.12399999797344208,\"y\":-0.6769999861717224},\"distance\":-0.004000000189989805,\"rotation\":{\"x\":0.0,\"y\":356.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.5211515426635742,\"y\":-0.470431923866272},\"distance\":-0.06300000101327896,\"rotation\":{\"x\":6.0,\"y\":338.0,\"z\":20.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.3949289321899414,\"y\":-0.4204903244972229},\"distance\":-0.06300000101327896,\"rotation\":{\"x\":15.0,\"y\":12.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.0,\"y\":-0.5759999752044678},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.41999998688697817,\"y\":-0.38100001215934756},\"distance\":-0.06800000369548798,\"rotation\":{\"x\":14.0,\"y\":348.0,\"z\":15.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1201}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000011",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 11,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000011",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 15,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Low Hime Cut",
                     ["localize_JA"] = "前下がり姫カット"
@@ -34183,6 +37095,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Short Natural",
                     ["localize_JA"] = "ナチュラルショート"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.057999998331069949,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.05900000035762787,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.057999998331069949,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.08900000154972077,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.028999999165534974,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.028999999165534974,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.08900000154972077,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.0949999988079071,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":-0.028999999165534974,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.0949999988079071,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.03500000014901161,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1401,\"position\":{\"x\":-0.4230000078678131,\"y\":-0.3009999990463257},\"distance\":-0.06800000369548798,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.054999999701976779,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.4230000078678131,\"y\":-0.3009999990463257},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":16.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1410,\"position\":{\"x\":-0.5350000262260437,\"y\":0.2199999988079071},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.5350000262260437,\"y\":0.2199999988079071},\"distance\":-0.07000000029802323,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1415,\"position\":{\"x\":0.0,\"y\":0.6290000081062317},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000012",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 12,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000012",
+                    ["rarity"] = 2,
+                    ["setType"] = 4,
+                    ["sortKey"] = 4,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Short Natural",
+                    ["localize_JA"] = "ナチュラルショート"
                 }
             },
             ["13"] = {
@@ -34197,6 +37124,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 1,
                     ["sortKey"] = 12,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Natural Bangs",
+                    ["localize_JA"] = "ナチュラルバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.052000001072883609,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.07500000298023224,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.32899999618530276,\"y\":-0.6690000295639038},\"distance\":-0.04399999976158142,\"rotation\":{\"x\":352.0,\"y\":186.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":-0.2800000011920929,\"y\":-0.6650000214576721},\"distance\":-0.0430000014603138,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.35899999737739565,\"y\":-0.6269999742507935},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":6.0,\"y\":353.0,\"z\":14.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.4729999899864197,\"y\":-0.34200000762939455},\"distance\":-0.06700000166893006,\"rotation\":{\"x\":13.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.4449999928474426,\"y\":-0.35899999737739565},\"distance\":-0.07500000298023224,\"rotation\":{\"x\":13.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1201}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000013",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 13,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000013",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 5,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Natural Bangs",
                     ["localize_JA"] = "ナチュラルバング"
@@ -34217,6 +37159,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Center-Parted Bangs",
                     ["localize_JA"] = "センターパートバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":0.0,\"y\":10.0,\"z\":340.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.0560000017285347,\"rotation\":{\"x\":10.0,\"y\":353.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.4650000035762787,\"y\":-0.5590000152587891},\"distance\":-0.026000000536441804,\"rotation\":{\"x\":350.0,\"y\":190.0,\"z\":28.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.5,\"y\":-0.5400000214576721},\"distance\":-0.04899999871850014,\"rotation\":{\"x\":14.0,\"y\":342.0,\"z\":29.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1204,\"position\":{\"x\":0.5210000276565552,\"y\":-0.4189999997615814},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":9.0,\"y\":338.0,\"z\":9.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.421999990940094,\"y\":-0.38499999046325686},\"distance\":-0.07000000029802323,\"rotation\":{\"x\":8.0,\"y\":15.0,\"z\":345.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.5730000138282776,\"y\":-0.25699999928474429},\"distance\":-0.08299999684095383,\"rotation\":{\"x\":10.0,\"y\":353.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1204}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000014",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 14,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000014",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 6,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Center-Parted Bangs",
+                    ["localize_JA"] = "センターパートバング"
                 }
             },
             ["15"] = {
@@ -34231,6 +37188,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 3,
                     ["sortKey"] = 14,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Bowl Cut",
+                    ["localize_JA"] = "マッシュショート"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.03700000047683716,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":4.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.02199999988079071,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.03700000047683716,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.017000000923871995,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":4.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":0.0,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.017000000923871995,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":356.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.0,\"rotation\":{\"x\":2.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.0,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.0,\"rotation\":{\"x\":2.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":0.03500000014901161,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.3114117980003357,\"y\":-0.6318714618682861},\"distance\":-0.03200000151991844,\"rotation\":{\"x\":0.0,\"y\":184.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":-0.27000001072883608,\"y\":-0.5929999947547913},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":0.0,\"y\":355.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.35477888584136965,\"y\":-0.6285592317581177},\"distance\":-0.03400000184774399,\"rotation\":{\"x\":0.0,\"y\":355.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.4569999873638153,\"y\":-0.4020000100135803},\"distance\":-0.04699999839067459,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.0,\"y\":-0.5720000267028809},\"distance\":-0.039000000804662707,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.5130000114440918,\"y\":-0.2930000126361847},\"distance\":-0.04100000113248825,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1410,\"position\":{\"x\":-0.5099999904632568,\"y\":0.289000004529953},\"distance\":-0.04399999976158142,\"rotation\":{\"x\":10.0,\"y\":353.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.5099999904632568,\"y\":0.289000004529953},\"distance\":-0.04399999976158142,\"rotation\":{\"x\":10.0,\"y\":2.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":-0.012000000104308129,\"y\":0.6000000238418579},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1203}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000015",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 15,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000015",
+                    ["rarity"] = 2,
+                    ["setType"] = 3,
+                    ["sortKey"] = 18,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Bowl Cut",
                     ["localize_JA"] = "マッシュショート"
@@ -34251,6 +37223,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Soft Mohawk",
                     ["localize_JA"] = "ソフトモヒカン"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000016",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 16,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000016",
+                    ["rarity"] = 2,
+                    ["setType"] = 4,
+                    ["sortKey"] = 23,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Soft Mohawk",
+                    ["localize_JA"] = "ソフトモヒカン"
                 }
             },
             ["17"] = {
@@ -34265,6 +37252,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 3,
                     ["sortKey"] = 16,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Side Swept Bangs",
+                    ["localize_JA"] = "かきあげアップバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":0.00800000037997961,\"rotation\":{\"x\":0.0,\"y\":6.0,\"z\":351.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.07800000160932541,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":0.0,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.02500000037252903,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.0860000029206276,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.009999999776482582,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.009999999776482582,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.02199999988079071,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.02199999988079071,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.20881783962249757,\"y\":-0.6609624624252319},\"distance\":0.0560000017285347,\"rotation\":{\"x\":3.0,\"y\":194.0,\"z\":22.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.5738619565963745,\"y\":-0.26640188694000246},\"distance\":-0.06599999964237213,\"rotation\":{\"x\":13.0,\"y\":337.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.4197123050689697,\"y\":-0.37475085258483889},\"distance\":-0.014999999664723874,\"rotation\":{\"x\":14.0,\"y\":10.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1403,\"position\":{\"x\":0.5669999718666077,\"y\":-0.17100000381469727},\"distance\":-0.09200000017881394,\"rotation\":{\"x\":15.0,\"y\":355.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1405,\"position\":{\"x\":-0.5879999995231628,\"y\":0.07100000232458115},\"distance\":-0.05999999865889549,\"rotation\":{\"x\":16.0,\"y\":0.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1405},{\"category\":1,\"defaultID\":1203}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000017",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 17,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000017",
+                    ["rarity"] = 2,
+                    ["setType"] = 3,
+                    ["sortKey"] = 24,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Side Swept Bangs",
                     ["localize_JA"] = "かきあげアップバング"
@@ -34285,6 +37287,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Spiky Short",
                     ["localize_JA"] = "スパイキーショート"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.03549802303314209,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.017752528190612794,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.03549802303314209,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":0.0000045299530029296877,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.0148390531539917,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.07099604606628418,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.03259158134460449,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.017000000923871995,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.03500000014901161,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.06800000369548798,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.671999990940094,\"y\":-0.32100000977516177},\"distance\":-0.0820000022649765,\"rotation\":{\"x\":348.0,\"y\":189.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":0.6990000009536743,\"y\":-0.2709999978542328},\"distance\":-0.08500000089406967,\"rotation\":{\"x\":18.0,\"y\":345.0,\"z\":8.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.0560000017285347,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.5550000071525574,\"y\":0.19099999964237214},\"distance\":-0.03700000047683716,\"rotation\":{\"x\":14.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":-0.49900001287460329,\"y\":0.3930000066757202},\"distance\":-0.03700000047683716,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1404,\"position\":{\"x\":0.0,\"y\":0.6050000190734863},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1402},{\"category\":1,\"defaultID\":1202}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000018",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 18,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000018",
+                    ["rarity"] = 2,
+                    ["setType"] = 3,
+                    ["sortKey"] = 7,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Spiky Short",
+                    ["localize_JA"] = "スパイキーショート"
                 }
             },
             ["19"] = {
@@ -34299,6 +37316,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 1,
                     ["sortKey"] = 18,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Messy Bangs",
+                    ["localize_JA"] = "ラフバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.0430000014603138,\"rotation\":{\"x\":5.0,\"y\":5.0,\"z\":343.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.0430000014603138,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.08699999749660492,\"rotation\":{\"x\":5.0,\"y\":355.0,\"z\":7.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1401,\"position\":{\"x\":-0.6000000238418579,\"y\":-0.37599998712539675},\"distance\":-0.07599999755620957,\"rotation\":{\"x\":8.0,\"y\":10.0,\"z\":345.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":-0.009999999776482582,\"y\":-0.574999988079071},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":11.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.6000000238418579,\"y\":-0.37599998712539675},\"distance\":-0.10499999672174454,\"rotation\":{\"x\":8.0,\"y\":350.0,\"z\":15.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000019",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 19,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000019",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 16,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Messy Bangs",
                     ["localize_JA"] = "ラフバング"
@@ -34319,6 +37351,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Natural Messy Bangs",
                     ["localize_JA"] = "ナチュラルラフバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.057999998331069949,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.057999998331069949,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1202,\"position\":{\"x\":0.25,\"y\":-0.671999990940094},\"distance\":-0.06499999761581421,\"rotation\":{\"x\":7.0,\"y\":350.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.46700000762939455,\"y\":-0.5180000066757202},\"distance\":-0.04800000041723251,\"rotation\":{\"x\":7.0,\"y\":340.0,\"z\":17.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.550000011920929,\"y\":-0.23600000143051148},\"distance\":-0.0820000022649765,\"rotation\":{\"x\":13.0,\"y\":10.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.0,\"y\":-0.5540000200271606},\"distance\":-0.054999999701976779,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.550000011920929,\"y\":-0.23600000143051148},\"distance\":-0.0820000022649765,\"rotation\":{\"x\":13.0,\"y\":350.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1202}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000020",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 20,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000020",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 17,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Natural Messy Bangs",
+                    ["localize_JA"] = "ナチュラルラフバング"
                 }
             },
             ["22"] = {
@@ -34333,6 +37380,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 3,
                     ["sortKey"] = 20,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Flipped Bangs",
+                    ["localize_JA"] = "スウィングアップバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.08900000154972077,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.08900000154972077,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.014000000432133675,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":358.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.0729999989271164,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.014000000432133675,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":0.009999999776482582,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.014000000432133675,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":357.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.0729999989271164,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":0.0,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1401,\"position\":{\"x\":-0.5789999961853027,\"y\":-0.19300000369548798},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":17.0,\"y\":0.0,\"z\":358.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.5609999895095825,\"y\":-0.2750000059604645},\"distance\":-0.07900000363588333,\"rotation\":{\"x\":17.0,\"y\":0.0,\"z\":2.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1410,\"position\":{\"x\":-0.5210000276565552,\"y\":0.19599999487400056},\"distance\":-0.0560000017285347,\"rotation\":{\"x\":14.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.5210000276565552,\"y\":0.19599999487400056},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":18.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":14.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0}],\"categoryData\":[{\"category\":2,\"defaultID\":1401}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000022",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 22,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000022",
+                    ["rarity"] = 2,
+                    ["setType"] = 3,
+                    ["sortKey"] = 11,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Flipped Bangs",
                     ["localize_JA"] = "スウィングアップバング"
@@ -34353,6 +37415,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Cornrows",
                     ["localize_JA"] = "コーンロウ"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.08800005912780762,\"rotation\":{\"x\":0.0,\"y\":10.0,\"z\":340.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.1120000034570694,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.04800000041723251,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.04399999976158142,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.09300000220537186,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.05299999937415123,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":-0.03799999877810478,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.027000000700354577,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":358.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.028999999165534974,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.035999998450279239,\"rotation\":{\"x\":3.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":-0.03200000151991844,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1401,\"position\":{\"x\":-0.49900001287460329,\"y\":-0.37400001287460329},\"distance\":-0.1080000028014183,\"rotation\":{\"x\":16.0,\"y\":15.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.6470000147819519,\"y\":-0.28700000047683718},\"distance\":-0.12999999523162843,\"rotation\":{\"x\":13.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1410,\"position\":{\"x\":-0.6200000047683716,\"y\":0.15800000727176667},\"distance\":-0.10400000214576721,\"rotation\":{\"x\":11.0,\"y\":0.0,\"z\":13.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.5090000033378601,\"y\":0.335999995470047},\"distance\":-0.054999999701976779,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":353.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1414,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.05000000074505806,\"rotation\":{\"x\":9.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1410}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000023",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 23,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000023",
+                    ["rarity"] = 2,
+                    ["setType"] = 3,
+                    ["sortKey"] = 8,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Cornrows",
+                    ["localize_JA"] = "コーンロウ"
                 }
             },
             ["24"] = {
@@ -34367,6 +37444,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 4,
                     ["sortKey"] = 22,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Dreadlocks",
+                    ["localize_JA"] = "ドレッドヘア"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4300000071525574,\"y\":-0.3269999921321869},\"distance\":-0.054999999701976779,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":358.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.0,\"y\":-0.5569999814033508},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":12.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4300000071525574,\"y\":-0.3269999921321869},\"distance\":-0.054999999701976779,\"rotation\":{\"x\":15.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1004,\"position\":{\"x\":-0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.12800000607967378,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1005,\"position\":{\"x\":-0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":11.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1006,\"position\":{\"x\":0.0,\"y\":-0.14499999582767487},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1007,\"position\":{\"x\":0.40799999237060549,\"y\":0.02500000037252903},\"distance\":-0.04699999839067459,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1008,\"position\":{\"x\":0.7620000243186951,\"y\":0.02500000037252903},\"distance\":-0.11999999731779099,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1009,\"position\":{\"x\":-0.5410000085830689,\"y\":0.4390000104904175},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":11.0,\"y\":0.0,\"z\":16.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1010,\"position\":{\"x\":-0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.027000000700354577,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1011,\"position\":{\"x\":0.0,\"y\":0.2879999876022339},\"distance\":-0.008999999612569809,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1012,\"position\":{\"x\":0.3720000088214874,\"y\":0.3709999918937683},\"distance\":-0.03500000014901161,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1013,\"position\":{\"x\":0.6830000281333923,\"y\":0.44699999690055849},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":7.0,\"y\":0.0,\"z\":341.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1014,\"position\":{\"x\":0.0,\"y\":0.5630000233650208},\"distance\":-0.027000000700354577,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1015,\"position\":{\"x\":0.0,\"y\":0.7799999713897705},\"distance\":0.0,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1401,\"position\":{\"x\":-0.5849999785423279,\"y\":-0.15000000596046449},\"distance\":-0.10300000011920929,\"rotation\":{\"x\":18.0,\"y\":5.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.0,\"y\":-0.4959999918937683},\"distance\":-0.07500000298023224,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.5849999785423279,\"y\":-0.15000000596046449},\"distance\":-0.10300000011920929,\"rotation\":{\"x\":18.0,\"y\":355.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":8},{\"identifier\":1410,\"position\":{\"x\":-0.574999988079071,\"y\":0.28200000524520876},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":12.0,\"y\":357.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1412,\"position\":{\"x\":0.574999988079071,\"y\":0.28200000524520876},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":12.0,\"y\":3.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1814,\"position\":{\"x\":0.0,\"y\":0.5220000147819519},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":0.0,\"y\":130.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":8}],\"categoryData\":[{\"category\":2,\"defaultID\":1403},{\"category\":3,\"defaultID\":1814}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000024",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 1,
+                    ["id"] = 24,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000024",
+                    ["rarity"] = 2,
+                    ["setType"] = 4,
+                    ["sortKey"] = 9,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Dreadlocks",
                     ["localize_JA"] = "ドレッドヘア"
@@ -34387,6 +37479,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Messy Side-Parted Bangs",
                     ["localize_JA"] = "ラフサイドパートバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.0560000017285347,\"rotation\":{\"x\":3.0,\"y\":3.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.0729999989271164,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.37700000405311587,\"y\":-0.6230000257492065},\"distance\":-0.04699999839067459,\"rotation\":{\"x\":352.0,\"y\":197.0,\"z\":13.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":-0.3190000057220459,\"y\":-0.656000018119812},\"distance\":-0.04600000008940697,\"rotation\":{\"x\":8.0,\"y\":356.0,\"z\":358.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.42399999499320986,\"y\":-0.5350000262260437},\"distance\":-0.06599999964237213,\"rotation\":{\"x\":5.0,\"y\":342.0,\"z\":12.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.4339999854564667,\"y\":-0.367000013589859},\"distance\":-0.06599999964237213,\"rotation\":{\"x\":12.0,\"y\":11.0,\"z\":350.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.0,\"y\":-0.5720000267028809},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.5130000114440918,\"y\":-0.38600000739097597},\"distance\":-0.09300000220537186,\"rotation\":{\"x\":12.0,\"y\":349.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1201}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000025",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 25,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000025",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 19,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Messy Side-Parted Bangs",
+                    ["localize_JA"] = "ラフサイドパートバング"
                 }
             },
             ["28"] = {
@@ -34401,6 +37508,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 1,
                     ["sortKey"] = 24,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Baby Bangs",
+                    ["localize_JA"] = "ベビーバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.06800000369548798,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":354.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":5.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.06800000369548798,\"rotation\":{\"x\":4.0,\"y\":0.0,\"z\":4.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.2709999978542328,\"y\":-0.6830000281333923},\"distance\":-0.03999999910593033,\"rotation\":{\"x\":351.0,\"y\":175.0,\"z\":18.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":0.22482800483703614,\"y\":-0.6875525116920471},\"distance\":-0.04399999976158142,\"rotation\":{\"x\":356.0,\"y\":185.0,\"z\":9.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.2586376667022705,\"y\":-0.6943148970603943},\"distance\":-0.04899999871850014,\"rotation\":{\"x\":4.0,\"y\":3.0,\"z\":17.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.09000000357627869,\"rotation\":{\"x\":8.0,\"y\":0.0,\"z\":354.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":-0.054999999701976779,\"rotation\":{\"x\":9.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.10000000149011612,\"rotation\":{\"x\":11.0,\"y\":0.0,\"z\":4.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1201}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000028",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 28,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000028",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 25,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Baby Bangs",
                     ["localize_JA"] = "ベビーバング"
@@ -34421,6 +37543,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Natural Zigzag Bangs",
                     ["localize_JA"] = "ナチュラルジグザグバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.019999999552965165,\"rotation\":{\"x\":3.0,\"y\":5.0,\"z\":347.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1002,\"position\":{\"x\":0.003000000026077032,\"y\":-0.6470000147819519},\"distance\":0.0,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.03799999877810478,\"rotation\":{\"x\":5.0,\"y\":355.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.2823410630226135,\"y\":-0.668110728263855},\"distance\":-0.023000000044703485,\"rotation\":{\"x\":0.0,\"y\":190.0,\"z\":3.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":-0.23000000417232514,\"y\":-0.6549999713897705},\"distance\":-0.029999999329447748,\"rotation\":{\"x\":0.0,\"y\":0.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.43299999833106997,\"y\":-0.5879999995231628},\"distance\":-0.03799999877810478,\"rotation\":{\"x\":5.0,\"y\":340.0,\"z\":14.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.4830000102519989,\"y\":-0.35899999737739565},\"distance\":-0.07000000029802323,\"rotation\":{\"x\":10.0,\"y\":15.0,\"z\":340.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1402,\"position\":{\"x\":0.0,\"y\":-0.5540000200271606},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":10.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.4830000102519989,\"y\":-0.35899999737739565},\"distance\":-0.07800000160932541,\"rotation\":{\"x\":10.0,\"y\":345.0,\"z\":6.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1403},{\"category\":1,\"defaultID\":1202}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000035",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 35,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000035",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 12,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Natural Zigzag Bangs",
+                    ["localize_JA"] = "ナチュラルジグザグバング"
                 }
             },
             ["36"] = {
@@ -34435,6 +37572,21 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 1,
                     ["sortKey"] = 28,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Comma Bangs",
+                    ["localize_JA"] = "コンマバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.014999999664723874,\"rotation\":{\"x\":5.0,\"y\":5.0,\"z\":352.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.027000000700354577,\"rotation\":{\"x\":7.0,\"y\":355.0,\"z\":19.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.4169999957084656,\"y\":-0.597000002861023},\"distance\":-0.0010000000474974514,\"rotation\":{\"x\":0.0,\"y\":193.0,\"z\":17.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":-0.010999999940395356,\"y\":-0.6919999718666077},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":0.0,\"y\":356.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1203,\"position\":{\"x\":0.4259999990463257,\"y\":-0.5339999794960022},\"distance\":-0.009999999776482582,\"rotation\":{\"x\":5.0,\"y\":335.0,\"z\":28.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.5122590661048889,\"y\":-0.4373490810394287},\"distance\":-0.04399999976158142,\"rotation\":{\"x\":5.0,\"y\":10.0,\"z\":344.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.35199999809265139,\"y\":-0.5239999890327454},\"distance\":-0.027000000700354577,\"rotation\":{\"x\":5.0,\"y\":355.0,\"z\":5.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1403},{\"category\":1,\"defaultID\":1202}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000036",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 36,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000036",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 13,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Comma Bangs",
                     ["localize_JA"] = "コンマバング"
@@ -34455,6 +37607,21 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Active Side-Swept Bangs",
                     ["localize_JA"] = "アクティブサイドかきあげバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":0.028999999165534974,\"rotation\":{\"x\":4.0,\"y\":5.0,\"z\":341.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.07000000029802323,\"rotation\":{\"x\":10.0,\"y\":355.0,\"z\":16.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1201,\"position\":{\"x\":-0.4919717311859131,\"y\":-0.45763570070266726},\"distance\":0.029999999329447748,\"rotation\":{\"x\":355.0,\"y\":206.0,\"z\":30.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1202,\"position\":{\"x\":-0.09799999743700028,\"y\":-0.7390000224113464},\"distance\":0.04500000178813934,\"rotation\":{\"x\":2.0,\"y\":187.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":2},{\"identifier\":1401,\"position\":{\"x\":-0.410825252532959,\"y\":-0.4711606502532959},\"distance\":0.019999999552965165,\"rotation\":{\"x\":12.0,\"y\":20.0,\"z\":342.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401},{\"category\":1,\"defaultID\":1202}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000037",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 37,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000037",
+                    ["rarity"] = 3,
+                    ["setType"] = 1,
+                    ["sortKey"] = 20,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Active Side-Swept Bangs",
+                    ["localize_JA"] = "アクティブサイドかきあげバング"
                 }
             },
             ["38"] = {
@@ -34469,6 +37636,21 @@ return {
                     ["rarity"] = 3,
                     ["setType"] = 1,
                     ["sortKey"] = 30,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Center-Parted Swept Bangs",
+                    ["localize_JA"] = "センターかきあげバング"
+                },
+                ["1.0.23"] = {
+                    ["accheadParameter"] = "{\"presets\":[{\"identifier\":1001,\"position\":{\"x\":-0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.06800000369548798,\"rotation\":{\"x\":6.0,\"y\":0.0,\"z\":0.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1003,\"position\":{\"x\":0.4950000047683716,\"y\":-0.5049999952316284},\"distance\":-0.052000001072883609,\"rotation\":{\"x\":5.0,\"y\":355.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":0},{\"identifier\":1401,\"position\":{\"x\":-0.4740000069141388,\"y\":-0.45100000500679018},\"distance\":-0.08500000089406967,\"rotation\":{\"x\":11.0,\"y\":0.0,\"z\":355.0},\"scale\":1.0,\"enableCategoryFlags\":4},{\"identifier\":1403,\"position\":{\"x\":0.335999995470047,\"y\":-0.5450000166893005},\"distance\":-0.04500000178813934,\"rotation\":{\"x\":10.0,\"y\":355.0,\"z\":10.0},\"scale\":1.0,\"enableCategoryFlags\":4}],\"categoryData\":[{\"category\":2,\"defaultID\":1401}]}",
+                    ["assetPath"] = "HoloAvatar/Avatars/HairFronts/avatar_hair_front_001u_00000038",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "u",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 38,
+                    ["localizeKey"] = "AVATAR_HAIR_FRONT_00000038",
+                    ["rarity"] = 3,
+                    ["setType"] = 1,
+                    ["sortKey"] = 21,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Center-Parted Swept Bangs",
                     ["localize_JA"] = "センターかきあげバング"
@@ -34522,6 +37704,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Wavy Sidebangs",
                     ["localize_JA"] = "ウェーブサイドバング"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/HairMiddles/avatar_hair_middle_001u_00000007",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 7,
+                    ["localizeKey"] = "AVATAR_HAIR_MIDDLE_00000007",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 3,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Wavy Sidebangs",
+                    ["localize_JA"] = "ウェーブサイドバング"
                 }
             },
             ["8"] = {
@@ -34538,6 +37734,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Natural Sidebangs",
                     ["localize_JA"] = "ナチュラルサイドバング"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/HairMiddles/avatar_hair_middle_001u_00000008",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 8,
+                    ["localizeKey"] = "AVATAR_HAIR_MIDDLE_00000008",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 9,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Natural Sidebangs",
+                    ["localize_JA"] = "ナチュラルサイドバング"
                 }
             },
             ["13"] = {
@@ -34551,6 +37761,20 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 1,
                     ["sortKey"] = 4,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Short Sidebangs",
+                    ["localize_JA"] = "ショートサイドバング"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/HairMiddles/avatar_hair_middle_001u_00000013",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "m",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 13,
+                    ["localizeKey"] = "AVATAR_HAIR_MIDDLE_00000013",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 2,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Short Sidebangs",
                     ["localize_JA"] = "ショートサイドバング"
@@ -34602,6 +37826,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Subtle Wave",
                     ["localize_JA"] = "ニュアンスウェーブ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/HairMiddles/avatar_hair_middle_001u_00000025",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 25,
+                    ["localizeKey"] = "AVATAR_HAIR_MIDDLE_00000025",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 8,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Subtle Wave",
+                    ["localize_JA"] = "ニュアンスウェーブ"
                 }
             },
             ["28"] = {
@@ -34615,6 +37853,20 @@ return {
                     ["rarity"] = 2,
                     ["setType"] = 1,
                     ["sortKey"] = 8,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Medium Wave",
+                    ["localize_JA"] = "ミディアムウェーブ"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/HairMiddles/avatar_hair_middle_001u_00000028",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 28,
+                    ["localizeKey"] = "AVATAR_HAIR_MIDDLE_00000028",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 10,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Medium Wave",
                     ["localize_JA"] = "ミディアムウェーブ"
@@ -34634,6 +37886,20 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Sidebang Braid",
                     ["localize_JA"] = "サイド三つ編み"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/HairMiddles/avatar_hair_middle_001u_00000036",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "f",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 36,
+                    ["localizeKey"] = "AVATAR_HAIR_MIDDLE_00000036",
+                    ["rarity"] = 2,
+                    ["setType"] = 1,
+                    ["sortKey"] = 4,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Sidebang Braid",
+                    ["localize_JA"] = "サイド三つ編み"
                 }
             },
             ["38"] = {
@@ -34647,6 +37913,20 @@ return {
                     ["rarity"] = 3,
                     ["setType"] = 1,
                     ["sortKey"] = 10,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Pointy Sidebang",
+                    ["localize_JA"] = "ポイントサイドバング"
+                },
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/HairMiddles/avatar_hair_middle_001u_00000038",
+                    ["gender"] = "u",
+                    ["genderDefault"] = "m",
+                    ["hasAttachParts"] = 0,
+                    ["id"] = 38,
+                    ["localizeKey"] = "AVATAR_HAIR_MIDDLE_00000038",
+                    ["rarity"] = 3,
+                    ["setType"] = 1,
+                    ["sortKey"] = 7,
                     ["tribe"] = 1,
                     ["localize_EN"] = "Pointy Sidebang",
                     ["localize_JA"] = "ポイントサイドバング"
@@ -37678,6 +40958,84 @@ return {
                     ["tribe"] = 1,
                     ["localize_EN"] = "Bandage",
                     ["localize_JA"] = "絆創膏"
+                }
+            },
+            ["15"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Paints/t_mkt_001u_00000015_c",
+                    ["gender"] = "u",
+                    ["id"] = 15,
+                    ["localizeKey"] = "AVATAR_PAINT_00000015",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 9,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Sparkles",
+                    ["localize_JA"] = "キラキラ"
+                }
+            },
+            ["16"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Paints/t_mkt_001u_00000016_c",
+                    ["gender"] = "u",
+                    ["id"] = 16,
+                    ["localizeKey"] = "AVATAR_PAINT_00000016",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 10,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Star",
+                    ["localize_JA"] = "星"
+                }
+            },
+            ["17"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Paints/t_mkt_001u_00000017_c",
+                    ["gender"] = "u",
+                    ["id"] = 17,
+                    ["localizeKey"] = "AVATAR_PAINT_00000017",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 11,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Double Triangle",
+                    ["localize_JA"] = "ダブルトライアングル"
+                }
+            },
+            ["21"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Paints/t_mkt_001u_00000021_c",
+                    ["gender"] = "u",
+                    ["id"] = 21,
+                    ["localizeKey"] = "AVATAR_PAINT_00000021",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 12,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Barcode",
+                    ["localize_JA"] = "コード"
+                }
+            },
+            ["22"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Paints/t_mkt_001u_00000022_c",
+                    ["gender"] = "u",
+                    ["id"] = 22,
+                    ["localizeKey"] = "AVATAR_PAINT_00000022",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 13,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Paint Splotch",
+                    ["localize_JA"] = "ペンキペイント"
+                }
+            },
+            ["23"] = {
+                ["1.0.23"] = {
+                    ["assetPath"] = "HoloAvatar/Avatars/Paints/t_mkt_001u_00000023_c",
+                    ["gender"] = "u",
+                    ["id"] = 23,
+                    ["localizeKey"] = "AVATAR_PAINT_00000023",
+                    ["rarity"] = 1,
+                    ["sortKey"] = 14,
+                    ["tribe"] = 1,
+                    ["localize_EN"] = "Triangle",
+                    ["localize_JA"] = "トライアングル"
                 }
             }
         },
@@ -44025,6 +47383,83 @@ return {
                     ["red"] = 253,
                     ["sortKey"] = 1
                 }
+            },
+            ["60000002"] = {
+                ["1.0.23"] = {
+                    ["alpha"] = 255,
+                    ["blue"] = 213,
+                    ["green"] = 226,
+                    ["id"] = 60000002,
+                    ["localizeKey"] = "AVATAR_RAMP_SKIN_COLOR_60000002",
+                    ["red"] = 249,
+                    ["sortKey"] = 21
+                }
+            },
+            ["60000030"] = {
+                ["1.0.23"] = {
+                    ["alpha"] = 255,
+                    ["blue"] = 236,
+                    ["green"] = 247,
+                    ["id"] = 60000030,
+                    ["localizeKey"] = "AVATAR_RAMP_SKIN_COLOR_60000030",
+                    ["red"] = 254,
+                    ["sortKey"] = 5
+                }
+            },
+            ["60000031"] = {
+                ["1.0.23"] = {
+                    ["alpha"] = 255,
+                    ["blue"] = 237,
+                    ["green"] = 243,
+                    ["id"] = 60000031,
+                    ["localizeKey"] = "AVATAR_RAMP_SKIN_COLOR_60000031",
+                    ["red"] = 254,
+                    ["sortKey"] = 3
+                }
+            },
+            ["60000032"] = {
+                ["1.0.23"] = {
+                    ["alpha"] = 255,
+                    ["blue"] = 232,
+                    ["green"] = 241,
+                    ["id"] = 60000032,
+                    ["localizeKey"] = "AVATAR_RAMP_SKIN_COLOR_60000032",
+                    ["red"] = 255,
+                    ["sortKey"] = 9
+                }
+            },
+            ["60000034"] = {
+                ["1.0.23"] = {
+                    ["alpha"] = 255,
+                    ["blue"] = 233,
+                    ["green"] = 242,
+                    ["id"] = 60000034,
+                    ["localizeKey"] = "AVATAR_RAMP_SKIN_COLOR_60000034",
+                    ["red"] = 253,
+                    ["sortKey"] = 6
+                }
+            },
+            ["60004016"] = {
+                ["1.0.23"] = {
+                    ["alpha"] = 255,
+                    ["blue"] = 229,
+                    ["green"] = 238,
+                    ["id"] = 60004016,
+                    ["localizeKey"] = "AVATAR_RAMP_SKIN_COLOR_60004016",
+                    ["red"] = 255,
+                    ["sortKey"] = 10
+                }
+            },
+            ["60004017"] = {
+                ["1.0.23"] = {
+                    ["alpha"] = 255,
+                    ["blue"] = 229,
+                    ["green"] = 238,
+                    ["id"] = 60004017,
+                    ["localizeKey"] = "AVATAR_RAMP_SKIN_COLOR_60004017",
+                    ["red"] = 255,
+                    ["sortKey"] = 11
+                }
             }
         },
         ["avatarVoiceTypes"] = {
@@ -46621,6 +50056,86 @@ return {
                         ["localize_EN"] = "Natural Medium Sidebangs",
                         ["localize_JA"] = "ナチュラルミディアムサイドバング"
                     }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1016,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 50,
+                    ["clothOuterId"] = 50,
+                    ["clothShoeId"] = 50,
+                    ["clothSockId"] = 50,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 19,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 19,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 19,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1013,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_sit_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1016,
+                            ["id"] = 11,
+                            ["partsCategory"] = "acc_eye",
+                            ["partsId"] = 50,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Chinos (BgGry)",
+                        ["localize_JA"] = "スマートタウンユースワイドチノパンツ（ベージュグレイ）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Yel",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（イエロー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (BnBg)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（ブラウンベージュ）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Yel)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（イエロー）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Half Bob Bun",
+                        ["localize_JA"] = "ハーフアップボブ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Messy Bangs",
+                        ["localize_JA"] = "ラフバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Natural Medium Sidebangs",
+                        ["localize_JA"] = "ナチュラルミディアムサイドバング"
+                    }
                 }
             },
             ["1014"] = {
@@ -46646,6 +50161,81 @@ return {
                     ["isTuckIn"] = 0,
                     ["motion"] = "UserAvatar_pose_M_cool_001",
                     ["openAt"] = 1723615200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1017,
+                            ["id"] = 12,
+                            ["partsCategory"] = "acc_eye",
+                            ["partsId"] = 51,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Chinos (Cml)",
+                        ["localize_JA"] = "スマートタウンユースワイドチノパンツ（キャラメル）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Blu",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（ブルー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (Gry)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（グレイ）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Blu)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（ブルー）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 14,
+                        ["localize_EN"] = "Handsome Short",
+                        ["localize_JA"] = "ハンサムショート"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 14,
+                        ["localize_EN"] = "Center-Parted Bangs",
+                        ["localize_JA"] = "センターパートバング"
+                    }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1017,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 51,
+                    ["clothOuterId"] = 51,
+                    ["clothShoeId"] = 51,
+                    ["clothSockId"] = 51,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 14,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 14,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1014,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_sit_001",
+                    ["openAt"] = 1708873200,
                     ["skinColorId"] = 1,
                     ["resolved_mannequinAccGroups"] = {
                         {
@@ -46780,6 +50370,86 @@ return {
                         ["localize_EN"] = "Active Sidebangs",
                         ["localize_JA"] = "アクティブサイドバング"
                     }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1018,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 52,
+                    ["clothOuterId"] = 52,
+                    ["clothShoeId"] = 52,
+                    ["clothSockId"] = 52,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 20,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 20,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 20,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1015,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_cute_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1018,
+                            ["id"] = 13,
+                            ["partsCategory"] = "acc_eye",
+                            ["partsId"] = 52,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Chinos (Blu)",
+                        ["localize_JA"] = "スマートタウンユースワイドチノパンツ（ブルー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Gn)",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（グリーン）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (Bn)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（ブラウン）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Wh)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（ホワイト）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Layered Bob",
+                        ["localize_JA"] = "レイヤーボブ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Natural Messy Bangs",
+                        ["localize_JA"] = "ナチュラルラフバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Active Sidebangs",
+                        ["localize_JA"] = "アクティブサイドバング"
+                    }
                 }
             },
             ["1016"] = {
@@ -46805,6 +50475,81 @@ return {
                     ["isTuckIn"] = 1,
                     ["motion"] = "UserAvatar_pose_M_cute_001",
                     ["openAt"] = 1723615200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1013,
+                            ["id"] = 8,
+                            ["partsCategory"] = "acc_ear",
+                            ["partsId"] = 47,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Wrap Skirt (Yel)",
+                        ["localize_JA"] = "スマートタウンユースロング丈ラップスカート（イエロー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Off-Shoulder (Yel",
+                        ["localize_JA"] = "スマートタウンユースコールドショルダーシャツ（イエロー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Trim Boots (DkBn)",
+                        ["localize_JA"] = "スマートタウンユースパイピングショートブーツ（ダークブラウン）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Over-Knees (Or)",
+                        ["localize_JA"] = "スマートタウンユースパイピングオーバーニーソックス（オレンジ）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 5,
+                        ["localize_EN"] = "Pigtails",
+                        ["localize_JA"] = "おさげ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 5,
+                        ["localize_EN"] = "Tight Side-Parted Bangs",
+                        ["localize_JA"] = "タイトサイドパートバング"
+                    }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1013,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 47,
+                    ["clothOuterId"] = 47,
+                    ["clothShoeId"] = 47,
+                    ["clothSockId"] = 47,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 5,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 5,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1016,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 1,
+                    ["motion"] = "UserAvatar_pose_F_elegant_001",
+                    ["openAt"] = 1708873200,
                     ["skinColorId"] = 1,
                     ["resolved_mannequinAccGroups"] = {
                         {
@@ -46939,6 +50684,86 @@ return {
                         ["localize_EN"] = "Medium Sidebangs",
                         ["localize_JA"] = "ミディアムサイドバング"
                     }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1023,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 35,
+                    ["clothOuterId"] = 52,
+                    ["clothShoeId"] = 52,
+                    ["clothSockId"] = 35,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 3,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 3,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 3,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1017,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_cool_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1023,
+                            ["id"] = 14,
+                            ["partsCategory"] = "acc_eye",
+                            ["partsId"] = 38,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 35,
+                        ["localize_EN"] = "Casual Town Use Skirt (Bn)",
+                        ["localize_JA"] = "カジュアルタウンユースダブルラインプリーツスカート（ブラウン）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Gn)",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（グリーン）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (Bn)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（ブラウン）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 35,
+                        ["localize_EN"] = "Casual Town Use Knee-Highs (Crm)",
+                        ["localize_JA"] = "カジュアルタウンユースニーハイソックス（クリーム）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 3,
+                        ["localize_EN"] = "Short Wavy Bob",
+                        ["localize_JA"] = "ショートボブウェーブ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 3,
+                        ["localize_EN"] = "Curly Bangs",
+                        ["localize_JA"] = "カールバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 3,
+                        ["localize_EN"] = "Medium Sidebangs",
+                        ["localize_JA"] = "ミディアムサイドバング"
+                    }
                 }
             },
             ["1018"] = {
@@ -46964,6 +50789,81 @@ return {
                     ["isTuckIn"] = 1,
                     ["motion"] = "UserAvatar_pose_M_passion_001",
                     ["openAt"] = 1723615200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1014,
+                            ["id"] = 9,
+                            ["partsCategory"] = "acc_ear",
+                            ["partsId"] = 48,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Wrap Skirt (Blu)",
+                        ["localize_JA"] = "スマートタウンユースロング丈ラップスカート（ブルー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Off-Shoulder (Blu",
+                        ["localize_JA"] = "スマートタウンユースコールドショルダーシャツ（ブルー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Trim Boots (Bn)",
+                        ["localize_JA"] = "スマートタウンユースパイピングショートブーツ（ブラウン）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Over-Knees (Blu)",
+                        ["localize_JA"] = "スマートタウンユースパイピングオーバーニーソックス（ブルー）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "Short",
+                        ["localize_JA"] = "ショート"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "Natural Side-Parted Bangs",
+                        ["localize_JA"] = "ナチュラルサイドパートバング"
+                    }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1014,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 48,
+                    ["clothOuterId"] = 48,
+                    ["clothShoeId"] = 48,
+                    ["clothSockId"] = 48,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 2,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 2,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1018,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 1,
+                    ["motion"] = "UserAvatar_pose_M_passion_001",
+                    ["openAt"] = 1708873200,
                     ["skinColorId"] = 1,
                     ["resolved_mannequinAccGroups"] = {
                         {
@@ -47075,6 +50975,63 @@ return {
                         ["localize_EN"] = "Spiky Short",
                         ["localize_JA"] = "スパイキーショート"
                     }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 38,
+                    ["clothOuterId"] = 102,
+                    ["clothShoeId"] = 37,
+                    ["clothSockId"] = 38,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = -1,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 18,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1019,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_sit_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Joggers (Gn)",
+                        ["localize_JA"] = "カジュアルタウンユースベルト付きジョガーパンツ（グリーン）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 102,
+                        ["localize_EN"] = "Geometric Oversized Tee (Red)",
+                        ["localize_JA"] = "ジオメトリック柄オーバーサイズTシャツ（レッド）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Sneakers (Wh)",
+                        ["localize_JA"] = "カジュアルタウンユーススニーカー（ホワイト）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Socks (VltStr)",
+                        ["localize_JA"] = "カジュアルタウンユースショート丈ソックス（バイオレットライン）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 18,
+                        ["localize_EN"] = "Spiky Short",
+                        ["localize_JA"] = "スパイキーショート"
+                    }
                 }
             },
             ["1020"] = {
@@ -47100,6 +51057,81 @@ return {
                     ["isTuckIn"] = 1,
                     ["motion"] = "UserAvatar_pose_F_passion_001",
                     ["openAt"] = 1723615200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1015,
+                            ["id"] = 10,
+                            ["partsCategory"] = "acc_ear",
+                            ["partsId"] = 49,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Wrap Skirt (Pk)",
+                        ["localize_JA"] = "スマートタウンユースロング丈ラップスカート（ピンク）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Off-Shoulder (Pk)",
+                        ["localize_JA"] = "スマートタウンユースコールドショルダーシャツ（ピンク）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Trim Boots (Pk)",
+                        ["localize_JA"] = "スマートタウンユースパイピングショートブーツ（ピンク）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Over-Knees (Pk)",
+                        ["localize_JA"] = "スマートタウンユースパイピングオーバーニーソックス（ピンク）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 11,
+                        ["localize_EN"] = "Half Twintails",
+                        ["localize_JA"] = "ツインハーフアップ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 11,
+                        ["localize_EN"] = "Low Hime Cut",
+                        ["localize_JA"] = "前下がり姫カット"
+                    }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1015,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 49,
+                    ["clothOuterId"] = 49,
+                    ["clothShoeId"] = 49,
+                    ["clothSockId"] = 49,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 11,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 11,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1020,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 1,
+                    ["motion"] = "UserAvatar_pose_F_passion_001",
+                    ["openAt"] = 1708873200,
                     ["skinColorId"] = 1,
                     ["resolved_mannequinAccGroups"] = {
                         {
@@ -47221,6 +51253,73 @@ return {
                         ["localize_EN"] = "Wavy Sidebangs",
                         ["localize_JA"] = "ウェーブサイドバング"
                     }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 34,
+                    ["clothOuterId"] = 103,
+                    ["clothShoeId"] = 38,
+                    ["clothSockId"] = 37,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 7,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 7,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 7,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1021,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_cute_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 34,
+                        ["localize_EN"] = "Casual Town Use Skirt (Or)",
+                        ["localize_JA"] = "カジュアルタウンユースダブルラインプリーツスカート（オレンジ）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 103,
+                        ["localize_EN"] = "Geometric Oversized Tee (Yel)",
+                        ["localize_JA"] = "ジオメトリック柄オーバーサイズTシャツ（イエロー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Sneakers (Blk)",
+                        ["localize_JA"] = "カジュアルタウンユーススニーカー（ブラック）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Socks (WhStr)",
+                        ["localize_JA"] = "カジュアルタウンユースショート丈ソックス（ホワイトライン）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Long Wavy",
+                        ["localize_JA"] = "ウェーブロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Side-Parted Bangs",
+                        ["localize_JA"] = "サイドパートバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Wavy Sidebangs",
+                        ["localize_JA"] = "ウェーブサイドバング"
+                    }
                 }
             },
             ["1022"] = {
@@ -47246,6 +51345,63 @@ return {
                     ["isTuckIn"] = 0,
                     ["motion"] = "UserAvatar_pose_F_sit_001",
                     ["openAt"] = 1723615200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 29,
+                        ["localize_EN"] = "ALTERMODE Wide Leg Shorts (Bn)",
+                        ["localize_JA"] = "ALTERMODEワイドレッグショートパンツ（ブラウン）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 99,
+                        ["localize_EN"] = "Geometric Motif Tee (Blu)",
+                        ["localize_JA"] = "ジオメトリック柄Tシャツ（レッド）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 28,
+                        ["localize_EN"] = "ALTERMODE Boots (Wh)",
+                        ["localize_JA"] = "ALTERMODEブーツ（ホワイト）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 28,
+                        ["localize_EN"] = "ALTERMODE Asymmetric Socks (Be)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄アシメソックス（ベージュ）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 23,
+                        ["localize_EN"] = "Cornrows",
+                        ["localize_JA"] = "コーンロウ"
+                    }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 29,
+                    ["clothOuterId"] = 99,
+                    ["clothShoeId"] = 28,
+                    ["clothSockId"] = 28,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = -1,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 23,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1022,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_sit_001",
+                    ["openAt"] = 1708873200,
                     ["skinColorId"] = 1,
                     ["resolved_mannequinAccGroups"] = {
 
@@ -47339,6 +51495,63 @@ return {
                         ["localize_EN"] = "Dreadlocks",
                         ["localize_JA"] = "ドレッドヘア"
                     }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 31,
+                    ["clothOuterId"] = 101,
+                    ["clothShoeId"] = 38,
+                    ["clothSockId"] = 37,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = -1,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 24,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1023,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_sit_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 31,
+                        ["localize_EN"] = "ALTERMODE Tri Joggers (Bn)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄ジョガーパンツ（ブラウン）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 101,
+                        ["localize_EN"] = "Geometric Oversized Tee (Blu)",
+                        ["localize_JA"] = "ジオメトリック柄オーバーサイズTシャツ（ブルー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Sneakers (Blk)",
+                        ["localize_JA"] = "カジュアルタウンユーススニーカー（ブラック）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Socks (WhStr)",
+                        ["localize_JA"] = "カジュアルタウンユースショート丈ソックス（ホワイトライン）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 24,
+                        ["localize_EN"] = "Dreadlocks",
+                        ["localize_JA"] = "ドレッドヘア"
+                    }
                 }
             },
             ["1024"] = {
@@ -47364,6 +51577,76 @@ return {
                     ["isTuckIn"] = 0,
                     ["motion"] = "UserAvatar_pose_F_elegant_001",
                     ["openAt"] = 1723615200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1024,
+                            ["id"] = 15,
+                            ["partsCategory"] = "acc_eye",
+                            ["partsId"] = 37,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Joggers (Bn)",
+                        ["localize_JA"] = "カジュアルタウンユースベルト付きジョガーパンツ（ブラウン）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Yel",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（イエロー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (Bn)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（ブラウン）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Blu)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（ブルー）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 12,
+                        ["localize_EN"] = "Short Natural",
+                        ["localize_JA"] = "ナチュラルショート"
+                    }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1024,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 37,
+                    ["clothOuterId"] = 50,
+                    ["clothShoeId"] = 52,
+                    ["clothSockId"] = 51,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = -1,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 12,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1024,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_elegant_001",
+                    ["openAt"] = 1708873200,
                     ["skinColorId"] = 1,
                     ["resolved_mannequinAccGroups"] = {
                         {
@@ -61701,6 +65984,74 @@ return {
                         ["localize_EN"] = "Happy Day Ribbon Headband (Gn)",
                         ["localize_JA"] = "ハッピーレイニーデイリボンカチューシャ（グリーン）"
                     }
+                },
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 105,
+                    ["clothOuterId"] = 105,
+                    ["clothShoeId"] = 105,
+                    ["clothSockId"] = 105,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 20,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 2,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = 105,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1241,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_passion_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Rain Shorts (LtBlu)",
+                        ["localize_JA"] = "ハッピーレイニーデイショートレインパンツ（ライトブルー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Rain Jacket (YelGn)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインジャケット（イエローグリーン）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Rain Boots (YelGn)",
+                        ["localize_JA"] = "ハッピーレイニーデイサイドベルトレインブーツ（イエローグリーン）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Pattern Socks (LtBlu)",
+                        ["localize_JA"] = "ハッピーレイニーデイラインデザインハイソックス（ライトブルー）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Layered Bob",
+                        ["localize_JA"] = "レイヤーボブ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "Natural Side-Parted Bangs",
+                        ["localize_JA"] = "ナチュラルサイドパートバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 105,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "Happy Day Ribbon Headband (Gn)",
+                        ["localize_JA"] = "ハッピーレイニーデイリボンカチューシャ（グリーン）"
+                    }
                 }
             },
             ["1242"] = {
@@ -62736,6 +67087,1287 @@ return {
                         ["id"] = 20,
                         ["localize_EN"] = "Active Sidebangs",
                         ["localize_JA"] = "アクティブサイドバング"
+                    }
+                }
+            },
+            ["1256"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1256,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 50,
+                    ["clothOuterId"] = 51,
+                    ["clothShoeId"] = 51,
+                    ["clothSockId"] = 51,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 19,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 38,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = 746,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1256,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_sit_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1256,
+                            ["id"] = 60,
+                            ["partsCategory"] = "acc_eye",
+                            ["partsId"] = 72,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Chinos (BgGry)",
+                        ["localize_JA"] = "スマートタウンユースワイドチノパンツ（ベージュグレイ）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Blu",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（ブルー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (Gry)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（グレイ）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Blu)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（ブルー）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Half Bob Bun",
+                        ["localize_JA"] = "ハーフアップボブ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 38,
+                        ["localize_EN"] = "Center-Parted Swept Bangs",
+                        ["localize_JA"] = "センターかきあげバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 746,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "Simple Semi-Wide Headband (Wh)",
+                        ["localize_JA"] = "セミワイドシンプルカチューシャ（ホワイト）"
+                    }
+                }
+            },
+            ["1257"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1257,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 333,
+                    ["clothOuterId"] = 34,
+                    ["clothShoeId"] = 35,
+                    ["clothSockId"] = 52,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = -1,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 1,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = 744,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1257,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 1,
+                    ["motion"] = "UserAvatar_pose_F_cute_002",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1257,
+                            ["id"] = 61,
+                            ["partsCategory"] = "acc_eye",
+                            ["partsId"] = 743,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 333,
+                        ["localize_EN"] = "Pastel Spring Plaid Skirt (Bg)",
+                        ["localize_JA"] = "パステルスプリングチェック柄プリーツスカート（ベージュ）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 34,
+                        ["localize_EN"] = "Casual Town Use Cardigan (Yel)",
+                        ["localize_JA"] = "カジュアルタウンユースブラウス付きカーディガン（イエロー）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 35,
+                        ["localize_EN"] = "Casual Town Use Pumps (Bn)",
+                        ["localize_JA"] = "カジュアルタウンユースパンプス（ブラウン）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Wh)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（ホワイト）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "Medium Bob",
+                        ["localize_JA"] = "ミディアムボブ"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 744,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "Simple Wide Headband (Wh)",
+                        ["localize_JA"] = "ワイドシンプルカチューシャ（ホワイト）"
+                    }
+                }
+            },
+            ["1258"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1258,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 113,
+                    ["clothOuterId"] = 113,
+                    ["clothShoeId"] = 113,
+                    ["clothSockId"] = -1,
+                    ["clothUnderwearId"] = 113,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 7,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 7,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = 113,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1258,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_sit_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1258,
+                            ["id"] = 62,
+                            ["partsCategory"] = "acc_hand",
+                            ["partsId"] = 113,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Shorts (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックフリル付きショートパンツ（ブラック）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Blouse (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックパフスリーブクロップドブラウス（ホワイト）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Heels (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシッククロスストラップヒール（ブラック）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Lingerie (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックガーターベルト付きアンダーウェア（ブラック）"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Long Wavy",
+                        ["localize_JA"] = "ウェーブロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Side-Parted Bangs",
+                        ["localize_JA"] = "サイドパートバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 113,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "Night Town Gothic Doll Hat (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックミニハット（ブラック）"
+                    }
+                }
+            },
+            ["1259"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 110,
+                    ["clothOuterId"] = 110,
+                    ["clothShoeId"] = 110,
+                    ["clothSockId"] = 110,
+                    ["clothUnderwearId"] = 110,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 36,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 20,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = -1,
+                    ["headId"] = 766,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1259,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_sit_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic Pants (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックベルト付きブーツカットパンツ（ブラック）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic Blazer (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックダブルジャケット（ブラック）"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic M. Straps (Blk",
+                        ["localize_JA"] = "ナイトタウンゴシックモンクストラップ（ブラック）"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic Socks (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックパターン柄ソックス（ブラック）"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic Underwear (Blk",
+                        ["localize_JA"] = "ナイトタウンゴシックアンダーウェア（ブラック）"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 36,
+                        ["localize_EN"] = "Active Short Bob",
+                        ["localize_JA"] = "アクティブショートボブ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Natural Messy Bangs",
+                        ["localize_JA"] = "ナチュラルラフバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 766,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "Basic Top Hat (Blk)",
+                        ["localize_JA"] = "ベーシックシルクハット（ブラック）"
+                    }
+                }
+            },
+            ["1260"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 16,
+                    ["clothOuterId"] = 850,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 11,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 7,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 19,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1260,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_cool_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 16,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blu)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブルー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 850,
+                        ["localize_EN"] = "Robocosan Hoodie",
+                        ["localize_JA"] = "ロボ子さんパーカー"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 11,
+                        ["localize_EN"] = "Half Twintails",
+                        ["localize_JA"] = "ツインハーフアップ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Side-Parted Bangs",
+                        ["localize_JA"] = "サイドパートバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Natural Medium Sidebangs",
+                        ["localize_JA"] = "ナチュラルミディアムサイドバング"
+                    }
+                }
+            },
+            ["1261"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 3,
+                    ["clothOuterId"] = 484,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 4,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 8,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 20,
+                    ["headId"] = 804,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1261,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_cool_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 3,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blk)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブラック）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 484,
+                        ["localize_EN"] = "Fuwawa Motif T-Shirt",
+                        ["localize_JA"] = "フワワモチーフTシャツ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 4,
+                        ["localize_EN"] = "Long Straight",
+                        ["localize_JA"] = "ストレートロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 8,
+                        ["localize_EN"] = "Zigzag Bangs",
+                        ["localize_JA"] = "ジグザグバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Active Sidebangs",
+                        ["localize_JA"] = "アクティブサイドバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 804,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "FUWAFUWA Hairband",
+                        ["localize_JA"] = "FUWAFUWAヘアバンド"
+                    }
+                }
+            },
+            ["1262"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 15,
+                    ["clothOuterId"] = 486,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 3,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 8,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 20,
+                    ["headId"] = 805,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1262,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_passion_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 15,
+                        ["localize_EN"] = "Stripe Skinny Fit (Gry)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（グレー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 486,
+                        ["localize_EN"] = "Mococo Motif T-Shirt",
+                        ["localize_JA"] = "モココモチーフTシャツ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 3,
+                        ["localize_EN"] = "Short Wavy Bob",
+                        ["localize_JA"] = "ショートボブウェーブ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 8,
+                        ["localize_EN"] = "Zigzag Bangs",
+                        ["localize_JA"] = "ジグザグバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Active Sidebangs",
+                        ["localize_JA"] = "アクティブサイドバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 805,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "MOCOMOCO Hairband",
+                        ["localize_JA"] = "MOCOMOCOヘアバンド"
+                    }
+                }
+            },
+            ["1263"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1248,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 16,
+                    ["clothOuterId"] = 814,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 4,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 7,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 8,
+                    ["headId"] = 803,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1263,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_passion_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1248,
+                            ["id"] = 59,
+                            ["partsCategory"] = "acc_eye",
+                            ["partsId"] = 803,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 16,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blu)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブルー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 814,
+                        ["localize_EN"] = "Shirakami Fubuki Anniversary Tee",
+                        ["localize_JA"] = "白上フブキ一周年記念Tシャツ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 4,
+                        ["localize_EN"] = "Long Straight",
+                        ["localize_JA"] = "ストレートロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Side-Parted Bangs",
+                        ["localize_JA"] = "サイドパートバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 8,
+                        ["localize_EN"] = "Natural Sidebangs",
+                        ["localize_JA"] = "ナチュラルサイドバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 803,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "Sukonbu Ears Headband",
+                        ["localize_JA"] = "すこん部耳カチューシャ"
+                    }
+                }
+            },
+            ["1264"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 3,
+                    ["clothOuterId"] = 247,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 7,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 35,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 20,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1264,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_cute_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 3,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blk)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブラック）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 247,
+                        ["localize_EN"] = "Ookami Mio 'Our Sparkle' Tee",
+                        ["localize_JA"] = "大神ミオ 1st Live.「Our Sparkle」 Tシャツ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Long Wavy",
+                        ["localize_JA"] = "ウェーブロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 35,
+                        ["localize_EN"] = "Natural Zigzag Bangs",
+                        ["localize_JA"] = "ナチュラルジグザグバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Active Sidebangs",
+                        ["localize_JA"] = "アクティブサイドバング"
+                    }
+                }
+            },
+            ["1265"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 16,
+                    ["clothOuterId"] = 850,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 11,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 7,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 19,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1265,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_passion_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 16,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blu)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブルー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 850,
+                        ["localize_EN"] = "Robocosan Hoodie",
+                        ["localize_JA"] = "ロボ子さんパーカー"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 11,
+                        ["localize_EN"] = "Half Twintails",
+                        ["localize_JA"] = "ツインハーフアップ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Side-Parted Bangs",
+                        ["localize_JA"] = "サイドパートバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Natural Medium Sidebangs",
+                        ["localize_JA"] = "ナチュラルミディアムサイドバング"
+                    }
+                }
+            },
+            ["1266"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 16,
+                    ["clothOuterId"] = 484,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 4,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 8,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 20,
+                    ["headId"] = 804,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1266,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_cool_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 16,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blu)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブルー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 484,
+                        ["localize_EN"] = "Fuwawa Motif T-Shirt",
+                        ["localize_JA"] = "フワワモチーフTシャツ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 4,
+                        ["localize_EN"] = "Long Straight",
+                        ["localize_JA"] = "ストレートロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 8,
+                        ["localize_EN"] = "Zigzag Bangs",
+                        ["localize_JA"] = "ジグザグバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Active Sidebangs",
+                        ["localize_JA"] = "アクティブサイドバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 804,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "FUWAFUWA Hairband",
+                        ["localize_JA"] = "FUWAFUWAヘアバンド"
+                    }
+                }
+            },
+            ["1267"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1267,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 60,
+                    ["clothOuterId"] = 799,
+                    ["clothShoeId"] = 799,
+                    ["clothSockId"] = -1,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 7,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 20,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 7,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1267,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_cool_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1267,
+                            ["id"] = 63,
+                            ["partsCategory"] = "acc_head",
+                            ["partsId"] = 824,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 60,
+                        ["localize_EN"] = "Simple Pleated Skirt",
+                        ["localize_JA"] = "ベーシックプリーツスカート"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 799,
+                        ["localize_EN"] = "Pathfinder Jacket SE Momosuzu Nene",
+                        ["localize_JA"] = "パスファインダージャケットSP 桃鈴ねね"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 799,
+                        ["localize_EN"] = "Pathfinder Shoes SE Momosuzu Nene",
+                        ["localize_JA"] = "パスファインダーシューズSP 桃鈴ねね"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Long Wavy",
+                        ["localize_JA"] = "ウェーブロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Natural Messy Bangs",
+                        ["localize_JA"] = "ナチュラルラフバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Wavy Sidebangs",
+                        ["localize_JA"] = "ウェーブサイドバング"
+                    }
+                }
+            },
+            ["1268"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1268,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 60,
+                    ["clothOuterId"] = 800,
+                    ["clothShoeId"] = 800,
+                    ["clothSockId"] = -1,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 7,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 35,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 20,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1268,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_passion_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1268,
+                            ["id"] = 64,
+                            ["partsCategory"] = "acc_head",
+                            ["partsId"] = 827,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 60,
+                        ["localize_EN"] = "Simple Pleated Skirt",
+                        ["localize_JA"] = "ベーシックプリーツスカート"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 800,
+                        ["localize_EN"] = "Pathfinder Jacket SE Omaru Polka",
+                        ["localize_JA"] = "パスファインダージャケットSP 尾丸ポルカ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 800,
+                        ["localize_EN"] = "Pathfinder Shoes SE Omaru Polka",
+                        ["localize_JA"] = "パスファインダーシューズSP 尾丸ポルカ"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Long Wavy",
+                        ["localize_JA"] = "ウェーブロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 35,
+                        ["localize_EN"] = "Natural Zigzag Bangs",
+                        ["localize_JA"] = "ナチュラルジグザグバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Active Sidebangs",
+                        ["localize_JA"] = "アクティブサイドバング"
+                    }
+                }
+            },
+            ["1269"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1269,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 60,
+                    ["clothOuterId"] = 801,
+                    ["clothShoeId"] = 801,
+                    ["clothSockId"] = -1,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 7,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 19,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 7,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1269,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_passion_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1269,
+                            ["id"] = 65,
+                            ["partsCategory"] = "acc_head",
+                            ["partsId"] = 826,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 60,
+                        ["localize_EN"] = "Simple Pleated Skirt",
+                        ["localize_JA"] = "ベーシックプリーツスカート"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 801,
+                        ["localize_EN"] = "Pathfinder Jacket SE Yukihana Lamy",
+                        ["localize_JA"] = "パスファインダージャケットSP 雪花ラミィ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 801,
+                        ["localize_EN"] = "Pathfinder Shoes SE Yukihana Lamy",
+                        ["localize_JA"] = "パスファインダーシューズSP 雪花ラミィ"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Long Wavy",
+                        ["localize_JA"] = "ウェーブロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Messy Bangs",
+                        ["localize_JA"] = "ラフバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 7,
+                        ["localize_EN"] = "Wavy Sidebangs",
+                        ["localize_JA"] = "ウェーブサイドバング"
+                    }
+                }
+            },
+            ["1270"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = 1270,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 60,
+                    ["clothOuterId"] = 802,
+                    ["clothShoeId"] = 802,
+                    ["clothSockId"] = -1,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 11,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 19,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 28,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1270,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_cute_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+                        {
+                            ["groupId"] = 1270,
+                            ["id"] = 66,
+                            ["partsCategory"] = "acc_head",
+                            ["partsId"] = 825,
+                            ["posX"] = "0.0",
+                            ["posY"] = "0.0",
+                            ["posZ"] = "0.0",
+                            ["rotX"] = "0.0",
+                            ["rotY"] = "0.0",
+                            ["rotZ"] = "0.0",
+                            ["scale"] = "1.0",
+                            ["slot"] = 0
+                        }
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 60,
+                        ["localize_EN"] = "Simple Pleated Skirt",
+                        ["localize_JA"] = "ベーシックプリーツスカート"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 802,
+                        ["localize_EN"] = "Pathfinder Jacket SE Shishiro Botan",
+                        ["localize_JA"] = "パスファインダージャケットSP 獅白ぼたん"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 802,
+                        ["localize_EN"] = "Pathfinder Shoes SE Shishiro Botan",
+                        ["localize_JA"] = "パスファインダーシューズSP 獅白ぼたん"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 11,
+                        ["localize_EN"] = "Half Twintails",
+                        ["localize_JA"] = "ツインハーフアップ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Messy Bangs",
+                        ["localize_JA"] = "ラフバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 28,
+                        ["localize_EN"] = "Medium Wave",
+                        ["localize_JA"] = "ミディアムウェーブ"
+                    }
+                }
+            },
+            ["1271"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 15,
+                    ["clothOuterId"] = 486,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 2,
+                    ["gender"] = "m",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 3,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 8,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 20,
+                    ["headId"] = 805,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1271,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_M_elegant_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 15,
+                        ["localize_EN"] = "Stripe Skinny Fit (Gry)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（グレー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 486,
+                        ["localize_EN"] = "Mococo Motif T-Shirt",
+                        ["localize_JA"] = "モココモチーフTシャツ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 3,
+                        ["localize_EN"] = "Short Wavy Bob",
+                        ["localize_JA"] = "ショートボブウェーブ"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 8,
+                        ["localize_EN"] = "Zigzag Bangs",
+                        ["localize_JA"] = "ジグザグバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 20,
+                        ["localize_EN"] = "Active Sidebangs",
+                        ["localize_JA"] = "アクティブサイドバング"
+                    },
+                    ["resolved_head"] = {
+                        ["id"] = 805,
+                        ["source"] = "avatarAccCaps",
+                        ["localize_EN"] = "MOCOMOCO Hairband",
+                        ["localize_JA"] = "MOCOMOCOヘアバンド"
+                    }
+                }
+            },
+            ["1272"] = {
+                ["1.0.23"] = {
+                    ["accGroupId"] = -1,
+                    ["closeAt"] = 4133862000,
+                    ["clothBottomId"] = 16,
+                    ["clothOuterId"] = 397,
+                    ["clothShoeId"] = 9,
+                    ["clothSockId"] = 9,
+                    ["clothUnderwearId"] = 1,
+                    ["gender"] = "f",
+                    ["hairBackAttached"] = 1,
+                    ["hairBackId"] = 4,
+                    ["hairFrontAttached"] = 1,
+                    ["hairFrontId"] = 19,
+                    ["hairMiddleAttached"] = 1,
+                    ["hairMiddleId"] = 8,
+                    ["headId"] = -1,
+                    ["headPart"] = "acc_cap",
+                    ["id"] = 1272,
+                    ["isBootsIn"] = 0,
+                    ["isTuckIn"] = 0,
+                    ["motion"] = "UserAvatar_pose_F_cool_001",
+                    ["openAt"] = 1708873200,
+                    ["skinColorId"] = 1,
+                    ["resolved_mannequinAccGroups"] = {
+
+                    },
+                    ["resolved_clothBottom"] = {
+                        ["id"] = 16,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blu)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブルー）"
+                    },
+                    ["resolved_clothOuter"] = {
+                        ["id"] = 397,
+                        ["localize_EN"] = "Tokino Sora Starry Bl∞min' Tee",
+                        ["localize_JA"] = "ときのそら 「Starry Bl∞min'」Tシャツ"
+                    },
+                    ["resolved_clothShoe"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    ["resolved_clothSock"] = {
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    },
+                    ["resolved_clothUnderwear"] = {
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    ["resolved_hairBack"] = {
+                        ["id"] = 4,
+                        ["localize_EN"] = "Long Straight",
+                        ["localize_JA"] = "ストレートロング"
+                    },
+                    ["resolved_hairFront"] = {
+                        ["id"] = 19,
+                        ["localize_EN"] = "Messy Bangs",
+                        ["localize_JA"] = "ラフバング"
+                    },
+                    ["resolved_hairMiddle"] = {
+                        ["id"] = 8,
+                        ["localize_EN"] = "Natural Sidebangs",
+                        ["localize_JA"] = "ナチュラルサイドバング"
                     }
                 }
             }
@@ -64457,48 +70089,80 @@ return {
                 ["1.0.22"] = {
                     ["menuCategory"] = 3,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 3,
+                    ["mode"] = 4
                 }
             },
             ["5"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 5,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 5,
+                    ["mode"] = 4
                 }
             },
             ["6"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 6,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 6,
+                    ["mode"] = 4
                 }
             },
             ["7"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 7,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 7,
+                    ["mode"] = 3
                 }
             },
             ["8"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 8,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 8,
+                    ["mode"] = 3
                 }
             },
             ["9"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 9,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 9,
+                    ["mode"] = 3
                 }
             },
             ["10"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 10,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 10,
+                    ["mode"] = 3
                 }
             },
             ["11"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 11,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 11,
+                    ["mode"] = 3
                 }
             },
             ["12"] = {
@@ -64517,6 +70181,10 @@ return {
                 ["1.0.22"] = {
                     ["menuCategory"] = 14,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 14,
+                    ["mode"] = 2
                 }
             },
             ["21"] = {
@@ -64529,18 +70197,30 @@ return {
                 ["1.0.22"] = {
                     ["menuCategory"] = 38,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 38,
+                    ["mode"] = 3
                 }
             },
             ["39"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 39,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 39,
+                    ["mode"] = 3
                 }
             },
             ["40"] = {
                 ["1.0.22"] = {
                     ["menuCategory"] = 40,
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["menuCategory"] = 40,
+                    ["mode"] = 3
                 }
             }
         },
@@ -64551,6 +70231,12 @@ return {
                     ["bgm"] = "BGM_avatar_create",
                     ["caption"] = "AVA_CREATE_MODESUBTITLE",
                     ["mode"] = 5
+                },
+                ["1.0.23"] = {
+                    ["backgroundId"] = 1001,
+                    ["bgm"] = "BGM_avatar_create",
+                    ["caption"] = "AVA_CREATE_MODESUBTITLE",
+                    ["mode"] = 1
                 }
             },
             ["AVA_CUSTOM_TO_AVATAR_RECREATE"] = {
@@ -64694,6 +70380,11 @@ return {
                     ["category"] = "cloth_shoe",
                     ["id"] = 0,
                     ["k"] = "CLOTH_SHOE_00000000"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_bottom",
+                    ["id"] = 0,
+                    ["k"] = "CLOTH_BOTTOM_00000000"
                 }
             },
             ["1"] = {
@@ -64701,6 +70392,11 @@ return {
                     ["category"] = "cloth_underwear",
                     ["id"] = 1,
                     ["k"] = "CLOTH_UNDERWEAR_00000001"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_shoe",
+                    ["id"] = 1,
+                    ["k"] = "CLOTH_SHOE_00000001"
                 }
             },
             ["2"] = {
@@ -64708,6 +70404,11 @@ return {
                     ["category"] = "cloth_underwear",
                     ["id"] = 2,
                     ["k"] = "CLOTH_UNDERWEAR_00000002"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "hair_back",
+                    ["id"] = 2,
+                    ["k"] = "HAIR_BACK_00000002"
                 }
             },
             ["3"] = {
@@ -64715,6 +70416,11 @@ return {
                     ["category"] = "cloth_bottom",
                     ["id"] = 3,
                     ["k"] = "CLOTH_BOTTOM_00000003"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_outer",
+                    ["id"] = 3,
+                    ["k"] = "CLOTH_OUTER_00000003"
                 }
             },
             ["4"] = {
@@ -64722,6 +70428,11 @@ return {
                     ["category"] = "hair_back",
                     ["id"] = 4,
                     ["k"] = "HAIR_BACK_00000004"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "hair_middle",
+                    ["id"] = 4,
+                    ["k"] = "HAIR_MIDDLE_00000004"
                 }
             },
             ["5"] = {
@@ -64729,6 +70440,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 5,
                     ["k"] = "LIP_00000005"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 5,
+                    ["k"] = "CHEEK_00000005"
                 }
             },
             ["6"] = {
@@ -64736,6 +70452,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 6,
                     ["k"] = "LIP_00000006"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 6,
+                    ["k"] = "CHEEK_00000006"
                 }
             },
             ["7"] = {
@@ -64743,6 +70464,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 7,
                     ["k"] = "LIP_00000007"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 7,
+                    ["k"] = "CHEEK_00000007"
                 }
             },
             ["8"] = {
@@ -64750,6 +70476,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 8,
                     ["k"] = "LIP_00000008"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 8,
+                    ["k"] = "CHEEK_00000008"
                 }
             },
             ["9"] = {
@@ -64757,6 +70488,11 @@ return {
                     ["category"] = "cloth_shoe",
                     ["id"] = 9,
                     ["k"] = "CLOTH_SHOE_00000009"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_sock",
+                    ["id"] = 9,
+                    ["k"] = "CLOTH_SOCK_00000009"
                 }
             },
             ["10"] = {
@@ -64764,6 +70500,11 @@ return {
                     ["category"] = "cloth_bottom",
                     ["id"] = 10,
                     ["k"] = "CLOTH_BOTTOM_00000010"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_outer",
+                    ["id"] = 10,
+                    ["k"] = "CLOTH_OUTER_00000010"
                 }
             },
             ["11"] = {
@@ -64771,6 +70512,11 @@ return {
                     ["category"] = "cloth_bottom",
                     ["id"] = 11,
                     ["k"] = "CLOTH_BOTTOM_00000011"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_outer",
+                    ["id"] = 11,
+                    ["k"] = "CLOTH_OUTER_00000011"
                 }
             },
             ["12"] = {
@@ -64778,6 +70524,11 @@ return {
                     ["category"] = "cloth_bottom",
                     ["id"] = 12,
                     ["k"] = "CLOTH_BOTTOM_00000012"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_outer",
+                    ["id"] = 12,
+                    ["k"] = "CLOTH_OUTER_00000012"
                 }
             },
             ["13"] = {
@@ -64785,6 +70536,11 @@ return {
                     ["category"] = "cloth_bottom",
                     ["id"] = 13,
                     ["k"] = "CLOTH_BOTTOM_00000013"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_outer",
+                    ["id"] = 13,
+                    ["k"] = "CLOTH_OUTER_00000013"
                 }
             },
             ["14"] = {
@@ -64792,6 +70548,11 @@ return {
                     ["category"] = "cloth_bottom",
                     ["id"] = 14,
                     ["k"] = "CLOTH_BOTTOM_00000014"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_outer",
+                    ["id"] = 14,
+                    ["k"] = "CLOTH_OUTER_00000014"
                 }
             },
             ["15"] = {
@@ -64799,6 +70560,11 @@ return {
                     ["category"] = "cloth_bottom",
                     ["id"] = 15,
                     ["k"] = "CLOTH_BOTTOM_00000015"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_outer",
+                    ["id"] = 15,
+                    ["k"] = "CLOTH_OUTER_00000015"
                 }
             },
             ["16"] = {
@@ -64806,6 +70572,11 @@ return {
                     ["category"] = "cloth_bottom",
                     ["id"] = 16,
                     ["k"] = "CLOTH_BOTTOM_00000016"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cloth_outer",
+                    ["id"] = 16,
+                    ["k"] = "CLOTH_OUTER_00000016"
                 }
             },
             ["17"] = {
@@ -64813,6 +70584,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 17,
                     ["k"] = "LIP_00000017"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 17,
+                    ["k"] = "CHEEK_00000017"
                 }
             },
             ["18"] = {
@@ -64820,6 +70596,11 @@ return {
                     ["category"] = "hair_front",
                     ["id"] = 18,
                     ["k"] = "HAIR_FRONT_00000018"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "lip",
+                    ["id"] = 18,
+                    ["k"] = "LIP_00000018"
                 }
             },
             ["19"] = {
@@ -64827,6 +70608,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 19,
                     ["k"] = "LIP_00000019"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 19,
+                    ["k"] = "CHEEK_00000019"
                 }
             },
             ["20"] = {
@@ -64834,6 +70620,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 20,
                     ["k"] = "LIP_00000020"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 20,
+                    ["k"] = "CHEEK_00000020"
                 }
             },
             ["21"] = {
@@ -64841,6 +70632,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 21,
                     ["k"] = "LIP_00000021"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 21,
+                    ["k"] = "CHEEK_00000021"
                 }
             },
             ["22"] = {
@@ -64848,6 +70644,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 22,
                     ["k"] = "LIP_00000022"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 22,
+                    ["k"] = "CHEEK_00000022"
                 }
             },
             ["23"] = {
@@ -64855,6 +70656,11 @@ return {
                     ["category"] = "hair_front",
                     ["id"] = 23,
                     ["k"] = "HAIR_FRONT_00000023"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "lip",
+                    ["id"] = 23,
+                    ["k"] = "LIP_00000023"
                 }
             },
             ["24"] = {
@@ -64862,6 +70668,11 @@ return {
                     ["category"] = "hair_front",
                     ["id"] = 24,
                     ["k"] = "HAIR_FRONT_00000024"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "lip",
+                    ["id"] = 24,
+                    ["k"] = "LIP_00000024"
                 }
             },
             ["25"] = {
@@ -64869,6 +70680,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 25,
                     ["k"] = "LIP_00000025"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 25,
+                    ["k"] = "CHEEK_00000025"
                 }
             },
             ["26"] = {
@@ -64876,6 +70692,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 26,
                     ["k"] = "LIP_00000026"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 26,
+                    ["k"] = "CHEEK_00000026"
                 }
             },
             ["27"] = {
@@ -64883,6 +70704,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 27,
                     ["k"] = "LIP_00000027"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 27,
+                    ["k"] = "CHEEK_00000027"
                 }
             },
             ["28"] = {
@@ -64890,6 +70716,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 28,
                     ["k"] = "LIP_00000028"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 28,
+                    ["k"] = "CHEEK_00000028"
                 }
             },
             ["29"] = {
@@ -64897,6 +70728,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 29,
                     ["k"] = "LIP_00000029"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 29,
+                    ["k"] = "CHEEK_00000029"
                 }
             },
             ["30"] = {
@@ -64904,6 +70740,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 30,
                     ["k"] = "LIP_00000030"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 30,
+                    ["k"] = "CHEEK_00000030"
                 }
             },
             ["31"] = {
@@ -64911,6 +70752,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 31,
                     ["k"] = "LIP_00000031"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 31,
+                    ["k"] = "CHEEK_00000031"
                 }
             },
             ["32"] = {
@@ -64918,6 +70764,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 32,
                     ["k"] = "LIP_00000032"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 32,
+                    ["k"] = "CHEEK_00000032"
                 }
             },
             ["33"] = {
@@ -64925,6 +70776,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 33,
                     ["k"] = "LIP_00000033"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 33,
+                    ["k"] = "CHEEK_00000033"
                 }
             },
             ["34"] = {
@@ -64932,6 +70788,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 34,
                     ["k"] = "LIP_00000034"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 34,
+                    ["k"] = "CHEEK_00000034"
                 }
             },
             ["35"] = {
@@ -64939,6 +70800,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 35,
                     ["k"] = "LIP_00000035"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 35,
+                    ["k"] = "CHEEK_00000035"
                 }
             },
             ["36"] = {
@@ -64946,6 +70812,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 36,
                     ["k"] = "LIP_00000036"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 36,
+                    ["k"] = "CHEEK_00000036"
                 }
             },
             ["37"] = {
@@ -64953,6 +70824,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 37,
                     ["k"] = "LIP_00000037"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 37,
+                    ["k"] = "CHEEK_00000037"
                 }
             },
             ["38"] = {
@@ -64960,6 +70836,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 38,
                     ["k"] = "LIP_00000038"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 38,
+                    ["k"] = "CHEEK_00000038"
                 }
             },
             ["39"] = {
@@ -64967,6 +70848,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 39,
                     ["k"] = "LIP_00000039"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 39,
+                    ["k"] = "CHEEK_00000039"
                 }
             },
             ["40"] = {
@@ -64974,6 +70860,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 40,
                     ["k"] = "LIP_00000040"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 40,
+                    ["k"] = "CHEEK_00000040"
                 }
             },
             ["41"] = {
@@ -64981,6 +70872,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 41,
                     ["k"] = "LIP_00000041"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 41,
+                    ["k"] = "CHEEK_00000041"
                 }
             },
             ["42"] = {
@@ -64988,6 +70884,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 42,
                     ["k"] = "LIP_00000042"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 42,
+                    ["k"] = "CHEEK_00000042"
                 }
             },
             ["43"] = {
@@ -64995,6 +70896,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 43,
                     ["k"] = "LIP_00000043"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 43,
+                    ["k"] = "CHEEK_00000043"
                 }
             },
             ["44"] = {
@@ -65002,6 +70908,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 44,
                     ["k"] = "LIP_00000044"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 44,
+                    ["k"] = "CHEEK_00000044"
                 }
             },
             ["45"] = {
@@ -65009,6 +70920,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 45,
                     ["k"] = "LIP_00000045"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 45,
+                    ["k"] = "CHEEK_00000045"
                 }
             },
             ["46"] = {
@@ -65016,6 +70932,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 46,
                     ["k"] = "LIP_00000046"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 46,
+                    ["k"] = "CHEEK_00000046"
                 }
             },
             ["47"] = {
@@ -65023,6 +70944,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 47,
                     ["k"] = "LIP_00000047"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 47,
+                    ["k"] = "CHEEK_00000047"
                 }
             },
             ["48"] = {
@@ -65030,6 +70956,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 48,
                     ["k"] = "LIP_00000048"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 48,
+                    ["k"] = "CHEEK_00000048"
                 }
             },
             ["49"] = {
@@ -65037,6 +70968,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 49,
                     ["k"] = "LIP_00000049"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 49,
+                    ["k"] = "CHEEK_00000049"
                 }
             },
             ["50"] = {
@@ -65044,6 +70980,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 50,
                     ["k"] = "LIP_00000050"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 50,
+                    ["k"] = "CHEEK_00000050"
                 }
             },
             ["51"] = {
@@ -65051,6 +70992,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 51,
                     ["k"] = "LIP_00000051"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 51,
+                    ["k"] = "CHEEK_00000051"
                 }
             },
             ["52"] = {
@@ -65058,6 +71004,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 52,
                     ["k"] = "LIP_00000052"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 52,
+                    ["k"] = "CHEEK_00000052"
                 }
             },
             ["53"] = {
@@ -65065,6 +71016,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 53,
                     ["k"] = "LIP_00000053"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 53,
+                    ["k"] = "CHEEK_00000053"
                 }
             },
             ["54"] = {
@@ -65072,6 +71028,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 54,
                     ["k"] = "LIP_00000054"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 54,
+                    ["k"] = "CHEEK_00000054"
                 }
             },
             ["55"] = {
@@ -65079,6 +71040,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 55,
                     ["k"] = "LIP_00000055"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 55,
+                    ["k"] = "CHEEK_00000055"
                 }
             },
             ["56"] = {
@@ -65086,6 +71052,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 56,
                     ["k"] = "LIP_00000056"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 56,
+                    ["k"] = "CHEEK_00000056"
                 }
             },
             ["57"] = {
@@ -65093,6 +71064,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 57,
                     ["k"] = "LIP_00000057"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 57,
+                    ["k"] = "CHEEK_00000057"
                 }
             },
             ["58"] = {
@@ -65100,6 +71076,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 58,
                     ["k"] = "LIP_00000058"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 58,
+                    ["k"] = "CHEEK_00000058"
                 }
             },
             ["59"] = {
@@ -65107,6 +71088,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 59,
                     ["k"] = "LIP_00000059"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 59,
+                    ["k"] = "CHEEK_00000059"
                 }
             },
             ["60"] = {
@@ -65114,6 +71100,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 60,
                     ["k"] = "LIP_00000060"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 60,
+                    ["k"] = "CHEEK_00000060"
                 }
             },
             ["61"] = {
@@ -65121,6 +71112,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 61,
                     ["k"] = "LIP_00000061"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 61,
+                    ["k"] = "CHEEK_00000061"
                 }
             },
             ["62"] = {
@@ -65128,6 +71124,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 62,
                     ["k"] = "LIP_00000062"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 62,
+                    ["k"] = "CHEEK_00000062"
                 }
             },
             ["63"] = {
@@ -65135,6 +71136,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 63,
                     ["k"] = "LIP_00000063"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 63,
+                    ["k"] = "CHEEK_00000063"
                 }
             },
             ["64"] = {
@@ -65142,6 +71148,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 64,
                     ["k"] = "LIP_00000064"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 64,
+                    ["k"] = "CHEEK_00000064"
                 }
             },
             ["65"] = {
@@ -65149,6 +71160,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 65,
                     ["k"] = "LIP_00000065"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 65,
+                    ["k"] = "CHEEK_00000065"
                 }
             },
             ["66"] = {
@@ -65156,6 +71172,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 66,
                     ["k"] = "LIP_00000066"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 66,
+                    ["k"] = "CHEEK_00000066"
                 }
             },
             ["67"] = {
@@ -65163,6 +71184,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 67,
                     ["k"] = "LIP_00000067"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 67,
+                    ["k"] = "CHEEK_00000067"
                 }
             },
             ["68"] = {
@@ -65170,6 +71196,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 68,
                     ["k"] = "LIP_00000068"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 68,
+                    ["k"] = "CHEEK_00000068"
                 }
             },
             ["69"] = {
@@ -65177,6 +71208,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 69,
                     ["k"] = "LIP_00000069"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 69,
+                    ["k"] = "CHEEK_00000069"
                 }
             },
             ["70"] = {
@@ -65184,6 +71220,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 70,
                     ["k"] = "LIP_00000070"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 70,
+                    ["k"] = "CHEEK_00000070"
                 }
             },
             ["71"] = {
@@ -65191,6 +71232,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 71,
                     ["k"] = "LIP_00000071"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 71,
+                    ["k"] = "CHEEK_00000071"
                 }
             },
             ["72"] = {
@@ -65198,6 +71244,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 72,
                     ["k"] = "LIP_00000072"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 72,
+                    ["k"] = "CHEEK_00000072"
                 }
             },
             ["73"] = {
@@ -65205,6 +71256,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 73,
                     ["k"] = "LIP_00000073"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 73,
+                    ["k"] = "CHEEK_00000073"
                 }
             },
             ["74"] = {
@@ -65212,6 +71268,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 74,
                     ["k"] = "LIP_00000074"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 74,
+                    ["k"] = "CHEEK_00000074"
                 }
             },
             ["75"] = {
@@ -65219,6 +71280,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 75,
                     ["k"] = "LIP_00000075"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 75,
+                    ["k"] = "CHEEK_00000075"
                 }
             },
             ["76"] = {
@@ -65226,6 +71292,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 76,
                     ["k"] = "LIP_00000076"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 76,
+                    ["k"] = "CHEEK_00000076"
                 }
             },
             ["77"] = {
@@ -65233,6 +71304,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 77,
                     ["k"] = "LIP_00000077"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 77,
+                    ["k"] = "CHEEK_00000077"
                 }
             },
             ["78"] = {
@@ -65240,6 +71316,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 78,
                     ["k"] = "LIP_00000078"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 78,
+                    ["k"] = "CHEEK_00000078"
                 }
             },
             ["79"] = {
@@ -65247,6 +71328,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 79,
                     ["k"] = "LIP_00000079"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 79,
+                    ["k"] = "CHEEK_00000079"
                 }
             },
             ["80"] = {
@@ -65254,6 +71340,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 80,
                     ["k"] = "LIP_00000080"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 80,
+                    ["k"] = "CHEEK_00000080"
                 }
             },
             ["81"] = {
@@ -65261,6 +71352,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 81,
                     ["k"] = "LIP_00000081"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 81,
+                    ["k"] = "CHEEK_00000081"
                 }
             },
             ["82"] = {
@@ -65268,6 +71364,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 82,
                     ["k"] = "LIP_00000082"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 82,
+                    ["k"] = "CHEEK_00000082"
                 }
             },
             ["83"] = {
@@ -65275,6 +71376,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 83,
                     ["k"] = "LIP_00000083"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 83,
+                    ["k"] = "CHEEK_00000083"
                 }
             },
             ["84"] = {
@@ -65282,6 +71388,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 84,
                     ["k"] = "LIP_00000084"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 84,
+                    ["k"] = "CHEEK_00000084"
                 }
             },
             ["85"] = {
@@ -65289,6 +71400,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 85,
                     ["k"] = "LIP_00000085"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 85,
+                    ["k"] = "CHEEK_00000085"
                 }
             },
             ["86"] = {
@@ -65296,6 +71412,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 86,
                     ["k"] = "LIP_00000086"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 86,
+                    ["k"] = "CHEEK_00000086"
                 }
             },
             ["87"] = {
@@ -65303,6 +71424,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 87,
                     ["k"] = "LIP_00000087"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 87,
+                    ["k"] = "CHEEK_00000087"
                 }
             },
             ["88"] = {
@@ -65310,6 +71436,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 88,
                     ["k"] = "LIP_00000088"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 88,
+                    ["k"] = "CHEEK_00000088"
                 }
             },
             ["89"] = {
@@ -65317,6 +71448,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 89,
                     ["k"] = "LIP_00000089"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 89,
+                    ["k"] = "CHEEK_00000089"
                 }
             },
             ["90"] = {
@@ -65324,6 +71460,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 90,
                     ["k"] = "LIP_00000090"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 90,
+                    ["k"] = "CHEEK_00000090"
                 }
             },
             ["91"] = {
@@ -65331,6 +71472,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 91,
                     ["k"] = "LIP_00000091"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 91,
+                    ["k"] = "CHEEK_00000091"
                 }
             },
             ["92"] = {
@@ -65338,6 +71484,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 92,
                     ["k"] = "LIP_00000092"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 92,
+                    ["k"] = "CHEEK_00000092"
                 }
             },
             ["93"] = {
@@ -65345,6 +71496,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 93,
                     ["k"] = "LIP_00000093"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 93,
+                    ["k"] = "CHEEK_00000093"
                 }
             },
             ["94"] = {
@@ -65352,6 +71508,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 94,
                     ["k"] = "LIP_00000094"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 94,
+                    ["k"] = "CHEEK_00000094"
                 }
             },
             ["95"] = {
@@ -65359,6 +71520,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 95,
                     ["k"] = "LIP_00000095"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 95,
+                    ["k"] = "CHEEK_00000095"
                 }
             },
             ["96"] = {
@@ -65366,6 +71532,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 96,
                     ["k"] = "LIP_00000096"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 96,
+                    ["k"] = "CHEEK_00000096"
                 }
             },
             ["97"] = {
@@ -65373,6 +71544,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 97,
                     ["k"] = "LIP_00000097"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 97,
+                    ["k"] = "CHEEK_00000097"
                 }
             },
             ["98"] = {
@@ -65380,6 +71556,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 98,
                     ["k"] = "LIP_00000098"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 98,
+                    ["k"] = "CHEEK_00000098"
                 }
             },
             ["99"] = {
@@ -65387,6 +71568,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 99,
                     ["k"] = "LIP_00000099"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 99,
+                    ["k"] = "CHEEK_00000099"
                 }
             },
             ["100"] = {
@@ -65394,6 +71580,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 100,
                     ["k"] = "LIP_00000100"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 100,
+                    ["k"] = "CHEEK_00000100"
                 }
             },
             ["101"] = {
@@ -65401,6 +71592,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 101,
                     ["k"] = "LIP_00000101"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 101,
+                    ["k"] = "CHEEK_00000101"
                 }
             },
             ["102"] = {
@@ -65408,6 +71604,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 102,
                     ["k"] = "LIP_00000102"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 102,
+                    ["k"] = "CHEEK_00000102"
                 }
             },
             ["103"] = {
@@ -65415,6 +71616,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 103,
                     ["k"] = "LIP_00000103"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 103,
+                    ["k"] = "CHEEK_00000103"
                 }
             },
             ["104"] = {
@@ -65422,6 +71628,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 104,
                     ["k"] = "LIP_00000104"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 104,
+                    ["k"] = "CHEEK_00000104"
                 }
             },
             ["105"] = {
@@ -65429,6 +71640,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 105,
                     ["k"] = "LIP_00000105"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 105,
+                    ["k"] = "CHEEK_00000105"
                 }
             },
             ["106"] = {
@@ -65436,6 +71652,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 106,
                     ["k"] = "LIP_00000106"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 106,
+                    ["k"] = "CHEEK_00000106"
                 }
             },
             ["107"] = {
@@ -65443,6 +71664,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 107,
                     ["k"] = "LIP_00000107"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 107,
+                    ["k"] = "CHEEK_00000107"
                 }
             },
             ["108"] = {
@@ -65450,6 +71676,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 108,
                     ["k"] = "LIP_00000108"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 108,
+                    ["k"] = "CHEEK_00000108"
                 }
             },
             ["109"] = {
@@ -65457,6 +71688,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 109,
                     ["k"] = "LIP_00000109"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 109,
+                    ["k"] = "CHEEK_00000109"
                 }
             },
             ["110"] = {
@@ -65464,6 +71700,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 110,
                     ["k"] = "LIP_00000110"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 110,
+                    ["k"] = "CHEEK_00000110"
                 }
             },
             ["111"] = {
@@ -65471,6 +71712,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 111,
                     ["k"] = "LIP_00000111"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 111,
+                    ["k"] = "CHEEK_00000111"
                 }
             },
             ["112"] = {
@@ -65478,6 +71724,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 112,
                     ["k"] = "LIP_00000112"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 112,
+                    ["k"] = "CHEEK_00000112"
                 }
             },
             ["113"] = {
@@ -65485,6 +71736,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 113,
                     ["k"] = "LIP_00000113"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 113,
+                    ["k"] = "CHEEK_00000113"
                 }
             },
             ["114"] = {
@@ -65492,6 +71748,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 114,
                     ["k"] = "LIP_00000114"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 114,
+                    ["k"] = "CHEEK_00000114"
                 }
             },
             ["115"] = {
@@ -65499,6 +71760,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 115,
                     ["k"] = "LIP_00000115"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 115,
+                    ["k"] = "CHEEK_00000115"
                 }
             },
             ["116"] = {
@@ -65506,6 +71772,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 116,
                     ["k"] = "LIP_00000116"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 116,
+                    ["k"] = "CHEEK_00000116"
                 }
             },
             ["117"] = {
@@ -65513,6 +71784,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 117,
                     ["k"] = "LIP_00000117"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 117,
+                    ["k"] = "CHEEK_00000117"
                 }
             },
             ["118"] = {
@@ -65520,6 +71796,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 118,
                     ["k"] = "LIP_00000118"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 118,
+                    ["k"] = "CHEEK_00000118"
                 }
             },
             ["119"] = {
@@ -65527,6 +71808,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 119,
                     ["k"] = "LIP_00000119"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 119,
+                    ["k"] = "CHEEK_00000119"
                 }
             },
             ["120"] = {
@@ -65534,6 +71820,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 120,
                     ["k"] = "LIP_00000120"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 120,
+                    ["k"] = "CHEEK_00000120"
                 }
             },
             ["121"] = {
@@ -65541,6 +71832,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 121,
                     ["k"] = "LIP_00000121"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 121,
+                    ["k"] = "CHEEK_00000121"
                 }
             },
             ["122"] = {
@@ -65548,6 +71844,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 122,
                     ["k"] = "LIP_00000122"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 122,
+                    ["k"] = "CHEEK_00000122"
                 }
             },
             ["123"] = {
@@ -65555,6 +71856,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 123,
                     ["k"] = "LIP_00000123"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 123,
+                    ["k"] = "CHEEK_00000123"
                 }
             },
             ["124"] = {
@@ -65562,6 +71868,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 124,
                     ["k"] = "LIP_00000124"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 124,
+                    ["k"] = "CHEEK_00000124"
                 }
             },
             ["125"] = {
@@ -65569,6 +71880,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 125,
                     ["k"] = "LIP_00000125"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 125,
+                    ["k"] = "CHEEK_00000125"
                 }
             },
             ["126"] = {
@@ -65576,6 +71892,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 126,
                     ["k"] = "LIP_00000126"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 126,
+                    ["k"] = "CHEEK_00000126"
                 }
             },
             ["127"] = {
@@ -65583,6 +71904,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 127,
                     ["k"] = "LIP_00000127"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 127,
+                    ["k"] = "CHEEK_00000127"
                 }
             },
             ["128"] = {
@@ -65590,6 +71916,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 128,
                     ["k"] = "LIP_00000128"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 128,
+                    ["k"] = "CHEEK_00000128"
                 }
             },
             ["129"] = {
@@ -65597,6 +71928,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 129,
                     ["k"] = "LIP_00000129"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 129,
+                    ["k"] = "CHEEK_00000129"
                 }
             },
             ["130"] = {
@@ -65604,6 +71940,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 130,
                     ["k"] = "LIP_00000130"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 130,
+                    ["k"] = "CHEEK_00000130"
                 }
             },
             ["131"] = {
@@ -65611,6 +71952,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 131,
                     ["k"] = "LIP_00000131"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 131,
+                    ["k"] = "CHEEK_00000131"
                 }
             },
             ["132"] = {
@@ -65618,6 +71964,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 132,
                     ["k"] = "LIP_00000132"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 132,
+                    ["k"] = "CHEEK_00000132"
                 }
             },
             ["133"] = {
@@ -65625,6 +71976,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 133,
                     ["k"] = "LIP_00000133"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 133,
+                    ["k"] = "CHEEK_00000133"
                 }
             },
             ["134"] = {
@@ -65632,6 +71988,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 134,
                     ["k"] = "LIP_00000134"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 134,
+                    ["k"] = "CHEEK_00000134"
                 }
             },
             ["135"] = {
@@ -65639,6 +72000,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 135,
                     ["k"] = "LIP_00000135"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 135,
+                    ["k"] = "CHEEK_00000135"
                 }
             },
             ["136"] = {
@@ -65646,6 +72012,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 136,
                     ["k"] = "LIP_00000136"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 136,
+                    ["k"] = "CHEEK_00000136"
                 }
             },
             ["137"] = {
@@ -65653,6 +72024,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 137,
                     ["k"] = "LIP_00000137"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 137,
+                    ["k"] = "CHEEK_00000137"
                 }
             },
             ["138"] = {
@@ -65660,6 +72036,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 138,
                     ["k"] = "LIP_00000138"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 138,
+                    ["k"] = "CHEEK_00000138"
                 }
             },
             ["139"] = {
@@ -65667,6 +72048,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 139,
                     ["k"] = "LIP_00000139"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 139,
+                    ["k"] = "CHEEK_00000139"
                 }
             },
             ["140"] = {
@@ -65674,6 +72060,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 140,
                     ["k"] = "LIP_00000140"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 140,
+                    ["k"] = "CHEEK_00000140"
                 }
             },
             ["141"] = {
@@ -65681,6 +72072,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 141,
                     ["k"] = "LIP_00000141"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 141,
+                    ["k"] = "CHEEK_00000141"
                 }
             },
             ["142"] = {
@@ -65688,6 +72084,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 142,
                     ["k"] = "LIP_00000142"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 142,
+                    ["k"] = "CHEEK_00000142"
                 }
             },
             ["143"] = {
@@ -65695,6 +72096,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 143,
                     ["k"] = "LIP_00000143"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 143,
+                    ["k"] = "CHEEK_00000143"
                 }
             },
             ["144"] = {
@@ -65702,6 +72108,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 144,
                     ["k"] = "LIP_00000144"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 144,
+                    ["k"] = "CHEEK_00000144"
                 }
             },
             ["145"] = {
@@ -65709,6 +72120,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 145,
                     ["k"] = "LIP_00000145"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 145,
+                    ["k"] = "CHEEK_00000145"
                 }
             },
             ["146"] = {
@@ -65716,6 +72132,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 146,
                     ["k"] = "LIP_00000146"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 146,
+                    ["k"] = "CHEEK_00000146"
                 }
             },
             ["147"] = {
@@ -65723,6 +72144,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 147,
                     ["k"] = "LIP_00000147"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 147,
+                    ["k"] = "CHEEK_00000147"
                 }
             },
             ["148"] = {
@@ -65730,6 +72156,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 148,
                     ["k"] = "LIP_00000148"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 148,
+                    ["k"] = "CHEEK_00000148"
                 }
             },
             ["149"] = {
@@ -65737,6 +72168,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 149,
                     ["k"] = "LIP_00000149"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 149,
+                    ["k"] = "CHEEK_00000149"
                 }
             },
             ["150"] = {
@@ -65744,6 +72180,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 150,
                     ["k"] = "LIP_00000150"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 150,
+                    ["k"] = "CHEEK_00000150"
                 }
             },
             ["151"] = {
@@ -65751,6 +72192,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 151,
                     ["k"] = "LIP_00000151"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 151,
+                    ["k"] = "CHEEK_00000151"
                 }
             },
             ["152"] = {
@@ -65758,6 +72204,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 152,
                     ["k"] = "LIP_00000152"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 152,
+                    ["k"] = "CHEEK_00000152"
                 }
             },
             ["153"] = {
@@ -65765,6 +72216,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 153,
                     ["k"] = "LIP_00000153"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 153,
+                    ["k"] = "CHEEK_00000153"
                 }
             },
             ["154"] = {
@@ -65772,6 +72228,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 154,
                     ["k"] = "LIP_00000154"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 154,
+                    ["k"] = "CHEEK_00000154"
                 }
             },
             ["155"] = {
@@ -65779,6 +72240,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 155,
                     ["k"] = "LIP_00000155"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 155,
+                    ["k"] = "CHEEK_00000155"
                 }
             },
             ["156"] = {
@@ -65786,6 +72252,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 156,
                     ["k"] = "LIP_00000156"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 156,
+                    ["k"] = "CHEEK_00000156"
                 }
             },
             ["157"] = {
@@ -65793,6 +72264,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 157,
                     ["k"] = "LIP_00000157"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 157,
+                    ["k"] = "CHEEK_00000157"
                 }
             },
             ["158"] = {
@@ -65800,6 +72276,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 158,
                     ["k"] = "LIP_00000158"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 158,
+                    ["k"] = "CHEEK_00000158"
                 }
             },
             ["159"] = {
@@ -65807,6 +72288,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 159,
                     ["k"] = "LIP_00000159"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 159,
+                    ["k"] = "CHEEK_00000159"
                 }
             },
             ["160"] = {
@@ -65814,6 +72300,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 160,
                     ["k"] = "LIP_00000160"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 160,
+                    ["k"] = "CHEEK_00000160"
                 }
             },
             ["161"] = {
@@ -65821,6 +72312,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 161,
                     ["k"] = "LIP_00000161"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 161,
+                    ["k"] = "CHEEK_00000161"
                 }
             },
             ["162"] = {
@@ -65828,6 +72324,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 162,
                     ["k"] = "LIP_00000162"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 162,
+                    ["k"] = "CHEEK_00000162"
                 }
             },
             ["163"] = {
@@ -65835,6 +72336,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 163,
                     ["k"] = "LIP_00000163"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 163,
+                    ["k"] = "CHEEK_00000163"
                 }
             },
             ["164"] = {
@@ -65842,6 +72348,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 164,
                     ["k"] = "LIP_00000164"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 164,
+                    ["k"] = "CHEEK_00000164"
                 }
             },
             ["165"] = {
@@ -65849,6 +72360,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 165,
                     ["k"] = "LIP_00000165"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 165,
+                    ["k"] = "CHEEK_00000165"
                 }
             },
             ["166"] = {
@@ -65856,6 +72372,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 166,
                     ["k"] = "LIP_00000166"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 166,
+                    ["k"] = "CHEEK_00000166"
                 }
             },
             ["167"] = {
@@ -65863,6 +72384,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 167,
                     ["k"] = "LIP_00000167"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 167,
+                    ["k"] = "CHEEK_00000167"
                 }
             },
             ["168"] = {
@@ -65870,6 +72396,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 168,
                     ["k"] = "LIP_00000168"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 168,
+                    ["k"] = "CHEEK_00000168"
                 }
             },
             ["169"] = {
@@ -65877,6 +72408,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 169,
                     ["k"] = "LIP_00000169"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 169,
+                    ["k"] = "CHEEK_00000169"
                 }
             },
             ["170"] = {
@@ -65884,6 +72420,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 170,
                     ["k"] = "LIP_00000170"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 170,
+                    ["k"] = "CHEEK_00000170"
                 }
             },
             ["171"] = {
@@ -65891,6 +72432,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 171,
                     ["k"] = "LIP_00000171"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 171,
+                    ["k"] = "CHEEK_00000171"
                 }
             },
             ["172"] = {
@@ -65898,6 +72444,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 172,
                     ["k"] = "LIP_00000172"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 172,
+                    ["k"] = "CHEEK_00000172"
                 }
             },
             ["173"] = {
@@ -65905,6 +72456,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 173,
                     ["k"] = "LIP_00000173"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 173,
+                    ["k"] = "CHEEK_00000173"
                 }
             },
             ["174"] = {
@@ -65912,6 +72468,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 174,
                     ["k"] = "LIP_00000174"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 174,
+                    ["k"] = "CHEEK_00000174"
                 }
             },
             ["175"] = {
@@ -65919,6 +72480,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 175,
                     ["k"] = "LIP_00000175"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 175,
+                    ["k"] = "CHEEK_00000175"
                 }
             },
             ["176"] = {
@@ -65926,6 +72492,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 176,
                     ["k"] = "LIP_00000176"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 176,
+                    ["k"] = "CHEEK_00000176"
                 }
             },
             ["177"] = {
@@ -65933,6 +72504,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 177,
                     ["k"] = "LIP_00000177"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 177,
+                    ["k"] = "CHEEK_00000177"
                 }
             },
             ["178"] = {
@@ -65940,6 +72516,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 178,
                     ["k"] = "LIP_00000178"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 178,
+                    ["k"] = "CHEEK_00000178"
                 }
             },
             ["179"] = {
@@ -65947,6 +72528,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 179,
                     ["k"] = "LIP_00000179"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 179,
+                    ["k"] = "CHEEK_00000179"
                 }
             },
             ["180"] = {
@@ -65954,6 +72540,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 180,
                     ["k"] = "LIP_00000180"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 180,
+                    ["k"] = "CHEEK_00000180"
                 }
             },
             ["181"] = {
@@ -65961,6 +72552,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 181,
                     ["k"] = "LIP_00000181"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 181,
+                    ["k"] = "CHEEK_00000181"
                 }
             },
             ["182"] = {
@@ -65968,6 +72564,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 182,
                     ["k"] = "LIP_00000182"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 182,
+                    ["k"] = "CHEEK_00000182"
                 }
             },
             ["183"] = {
@@ -65975,6 +72576,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 183,
                     ["k"] = "LIP_00000183"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 183,
+                    ["k"] = "CHEEK_00000183"
                 }
             },
             ["184"] = {
@@ -65982,6 +72588,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 184,
                     ["k"] = "LIP_00000184"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 184,
+                    ["k"] = "CHEEK_00000184"
                 }
             },
             ["185"] = {
@@ -65989,6 +72600,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 185,
                     ["k"] = "LIP_00000185"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 185,
+                    ["k"] = "CHEEK_00000185"
                 }
             },
             ["186"] = {
@@ -65996,6 +72612,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 186,
                     ["k"] = "LIP_00000186"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 186,
+                    ["k"] = "CHEEK_00000186"
                 }
             },
             ["187"] = {
@@ -66003,6 +72624,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 187,
                     ["k"] = "LIP_00000187"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 187,
+                    ["k"] = "CHEEK_00000187"
                 }
             },
             ["188"] = {
@@ -66010,6 +72636,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 188,
                     ["k"] = "LIP_00000188"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 188,
+                    ["k"] = "CHEEK_00000188"
                 }
             },
             ["189"] = {
@@ -66017,6 +72648,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 189,
                     ["k"] = "LIP_00000189"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 189,
+                    ["k"] = "CHEEK_00000189"
                 }
             },
             ["190"] = {
@@ -66024,6 +72660,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 190,
                     ["k"] = "LIP_00000190"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 190,
+                    ["k"] = "CHEEK_00000190"
                 }
             },
             ["191"] = {
@@ -66031,6 +72672,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 191,
                     ["k"] = "LIP_00000191"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 191,
+                    ["k"] = "CHEEK_00000191"
                 }
             },
             ["192"] = {
@@ -66038,6 +72684,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 192,
                     ["k"] = "LIP_00000192"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 192,
+                    ["k"] = "CHEEK_00000192"
                 }
             },
             ["193"] = {
@@ -66045,6 +72696,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 193,
                     ["k"] = "LIP_00000193"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 193,
+                    ["k"] = "CHEEK_00000193"
                 }
             },
             ["194"] = {
@@ -66052,6 +72708,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 194,
                     ["k"] = "LIP_00000194"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 194,
+                    ["k"] = "CHEEK_00000194"
                 }
             },
             ["195"] = {
@@ -66059,6 +72720,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 195,
                     ["k"] = "LIP_00000195"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 195,
+                    ["k"] = "CHEEK_00000195"
                 }
             },
             ["196"] = {
@@ -66066,6 +72732,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 196,
                     ["k"] = "LIP_00000196"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 196,
+                    ["k"] = "CHEEK_00000196"
                 }
             },
             ["197"] = {
@@ -66073,6 +72744,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 197,
                     ["k"] = "LIP_00000197"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 197,
+                    ["k"] = "CHEEK_00000197"
                 }
             },
             ["198"] = {
@@ -66080,6 +72756,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 198,
                     ["k"] = "LIP_00000198"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 198,
+                    ["k"] = "CHEEK_00000198"
                 }
             },
             ["199"] = {
@@ -66087,6 +72768,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 199,
                     ["k"] = "LIP_00000199"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 199,
+                    ["k"] = "CHEEK_00000199"
                 }
             },
             ["200"] = {
@@ -66094,6 +72780,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 200,
                     ["k"] = "LIP_00000200"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 200,
+                    ["k"] = "CHEEK_00000200"
                 }
             },
             ["201"] = {
@@ -66101,6 +72792,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 201,
                     ["k"] = "LIP_00000201"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 201,
+                    ["k"] = "CHEEK_00000201"
                 }
             },
             ["202"] = {
@@ -66108,6 +72804,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 202,
                     ["k"] = "LIP_00000202"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 202,
+                    ["k"] = "CHEEK_00000202"
                 }
             },
             ["203"] = {
@@ -66115,6 +72816,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 203,
                     ["k"] = "LIP_00000203"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 203,
+                    ["k"] = "CHEEK_00000203"
                 }
             },
             ["204"] = {
@@ -66122,6 +72828,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 204,
                     ["k"] = "LIP_00000204"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 204,
+                    ["k"] = "CHEEK_00000204"
                 }
             },
             ["205"] = {
@@ -66129,6 +72840,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 205,
                     ["k"] = "LIP_00000205"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 205,
+                    ["k"] = "CHEEK_00000205"
                 }
             },
             ["206"] = {
@@ -66136,6 +72852,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 206,
                     ["k"] = "LIP_00000206"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 206,
+                    ["k"] = "CHEEK_00000206"
                 }
             },
             ["207"] = {
@@ -66143,6 +72864,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 207,
                     ["k"] = "LIP_00000207"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 207,
+                    ["k"] = "CHEEK_00000207"
                 }
             },
             ["208"] = {
@@ -66150,6 +72876,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 208,
                     ["k"] = "LIP_00000208"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 208,
+                    ["k"] = "CHEEK_00000208"
                 }
             },
             ["209"] = {
@@ -66157,6 +72888,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 209,
                     ["k"] = "LIP_00000209"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 209,
+                    ["k"] = "CHEEK_00000209"
                 }
             },
             ["210"] = {
@@ -66164,6 +72900,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 210,
                     ["k"] = "LIP_00000210"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 210,
+                    ["k"] = "CHEEK_00000210"
                 }
             },
             ["211"] = {
@@ -66171,6 +72912,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 211,
                     ["k"] = "LIP_00000211"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 211,
+                    ["k"] = "CHEEK_00000211"
                 }
             },
             ["212"] = {
@@ -66178,6 +72924,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 212,
                     ["k"] = "LIP_00000212"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 212,
+                    ["k"] = "CHEEK_00000212"
                 }
             },
             ["213"] = {
@@ -66185,6 +72936,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 213,
                     ["k"] = "LIP_00000213"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 213,
+                    ["k"] = "CHEEK_00000213"
                 }
             },
             ["214"] = {
@@ -66192,6 +72948,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 214,
                     ["k"] = "LIP_00000214"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 214,
+                    ["k"] = "CHEEK_00000214"
                 }
             },
             ["215"] = {
@@ -66199,6 +72960,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 215,
                     ["k"] = "LIP_00000215"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 215,
+                    ["k"] = "CHEEK_00000215"
                 }
             },
             ["216"] = {
@@ -66206,6 +72972,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 216,
                     ["k"] = "LIP_00000216"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 216,
+                    ["k"] = "CHEEK_00000216"
                 }
             },
             ["217"] = {
@@ -66213,6 +72984,11 @@ return {
                     ["category"] = "lip",
                     ["id"] = 217,
                     ["k"] = "LIP_00000217"
+                },
+                ["1.0.23"] = {
+                    ["category"] = "cheek",
+                    ["id"] = 217,
+                    ["k"] = "CHEEK_00000217"
                 }
             },
             ["218"] = {
@@ -73702,6 +80478,8017 @@ return {
                         ["id"] = 608,
                         ["localize_EN"] = "",
                         ["localize_JA"] = "ノーマル半袖シャツ（ライラック）"
+                    }
+                }
+            }
+        },
+        ["1.0.23"] = {
+            {
+                ["sortKey"] = 0,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccTails",
+                        ["id"] = 60000006,
+                        ["localize_EN"] = "Tail (Shirakami Fubuki)",
+                        ["localize_JA"] = "尻尾（白上フブキ）"
+                    },
+                    {
+                        ["source"] = "avatarAccTails",
+                        ["id"] = 60000014,
+                        ["localize_EN"] = "Tail (Ookami Mio)",
+                        ["localize_JA"] = "尻尾（大神ミオ）"
+                    },
+                    {
+                        ["source"] = "avatarAccTails",
+                        ["id"] = 60000032,
+                        ["localize_EN"] = "Tail (Shishiro Botan)",
+                        ["localize_JA"] = "尻尾（獅白ぼたん）"
+                    },
+                    {
+                        ["source"] = "avatarAccTails",
+                        ["id"] = 60000034,
+                        ["localize_EN"] = "Tail (Omaru Polka)",
+                        ["localize_JA"] = "尻尾（尾丸ポルカ）"
+                    },
+                    {
+                        ["source"] = "avatarAccTails",
+                        ["id"] = 60004016,
+                        ["localize_EN"] = "Tail (Fuwawa Abyssgard)",
+                        ["localize_JA"] = "尻尾（フワワ・アビスガード）"
+                    },
+                    {
+                        ["source"] = "avatarAccTails",
+                        ["id"] = 60004017,
+                        ["localize_EN"] = "Tail (Mococo Abyssgard)",
+                        ["localize_JA"] = "尻尾（モココ・アビスガード）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 0,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "素体上半身女性"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 0,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "素体上半身女性"
+                    },
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10100001,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 0,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "素体脚女性"
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 1,
+                        ["localize_EN"] = "Lavender Sheen",
+                        ["localize_JA"] = "ラベンダーグロス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 1,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "素体上半身男性"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "素体上半身男性"
+                    },
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10100002,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "素体脚男性"
+                    },
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 1,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア女性"
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 7,
+                        ["localize_EN"] = "Lavender",
+                        ["localize_JA"] = "ラベンダー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 2,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10100003,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 2,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "ホロアースアンダーウェア男性"
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 3,
+                        ["localize_EN"] = "Brown Radiance",
+                        ["localize_JA"] = "ブラウンラディアント"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 3,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10100004,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 4,
+                        ["localize_EN"] = "Pink Purple Sheen",
+                        ["localize_JA"] = "ピンクパープルシャイン"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 4,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10100005,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 5,
+                        ["localize_EN"] = "Deep Blue Shimmer",
+                        ["localize_JA"] = "ディープブルーシマー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10100006,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 6,
+                        ["localize_EN"] = "Peony Purple Sheen",
+                        ["localize_JA"] = "ピオニーパープルシャイン"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 6,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10200001,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 8,
+                        ["localize_EN"] = "Glass Shimmer",
+                        ["localize_JA"] = "グラスシャイン"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 7,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10200002,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 9,
+                        ["localize_EN"] = "Evening Sheen",
+                        ["localize_JA"] = "イブニングシャイン"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 8,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10200003,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 13,
+                        ["localize_EN"] = "Violet Matte",
+                        ["localize_JA"] = "バイオレットマット"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 9,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10200004,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10200005,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 10,
+                        ["localize_EN"] = "Yellow Sheen",
+                        ["localize_JA"] = "イエローシャイン"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSets",
+                        ["id"] = 10200006,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    },
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 14,
+                        ["localize_EN"] = "Sky Moon",
+                        ["localize_JA"] = "スカイムーン"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 12,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 15,
+                        ["localize_EN"] = "Blue shimmer",
+                        ["localize_JA"] = "ブルーシマー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 13,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 16,
+                        ["localize_EN"] = "Dark Glitter",
+                        ["localize_JA"] = "ダークグリッター"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 14,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 17,
+                        ["localize_EN"] = "Summer's Night Light",
+                        ["localize_JA"] = "サマーナイトライト"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 15,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 18,
+                        ["localize_EN"] = "Circle Heart",
+                        ["localize_JA"] = "サークルハート"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 16,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 19,
+                        ["localize_EN"] = "Sky Sheen",
+                        ["localize_JA"] = "スカイシャイン"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 17,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarContacts",
+                        ["id"] = 20,
+                        ["localize_EN"] = "Night Dazzle",
+                        ["localize_JA"] = "ナイトダズル"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 72,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 135,
+                        ["localize_EN"] = "Iron Greaves",
+                        ["localize_JA"] = "鉄のブーツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 101,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 3,
+                        ["localize_EN"] = "HOLOEARTH Hoodie (Lm)",
+                        ["localize_JA"] = "HOLOEARTH フーディー（ライム）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 102,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 15,
+                        ["localize_EN"] = "HOLOEARTH Hoodie (LtBlu)",
+                        ["localize_JA"] = "HOLOEARTH フーディー（ライトブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 103,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 16,
+                        ["localize_EN"] = "HOLOEARTH Hoodie (Blk)",
+                        ["localize_JA"] = "HOLOEARTH フーディー（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 111,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH T-Shirt (Wh)",
+                        ["localize_JA"] = "HOLOEARTH Tシャツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 112,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 12,
+                        ["localize_EN"] = "HOLOEARTH T-Shirt (Pk)",
+                        ["localize_JA"] = "HOLOEARTH Tシャツ（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 113,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 11,
+                        ["localize_EN"] = "HOLOEARTH T-Shirt (Blk)",
+                        ["localize_JA"] = "HOLOEARTH Tシャツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 121,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 13,
+                        ["localize_EN"] = "HOLOEARTH Oversized T (Wh)",
+                        ["localize_JA"] = "HOLOEARTHオーバーサイズTシャツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 122,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 14,
+                        ["localize_EN"] = "HOLOEARTH Oversized T (Emld)",
+                        ["localize_JA"] = "HOLOEARTHオーバーサイズTシャツ（エメラルド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 123,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 10,
+                        ["localize_EN"] = "HOLOEARTH Oversized T (Gry)",
+                        ["localize_JA"] = "HOLOEARTHオーバーサイズTシャツ（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 9,
+                        ["localize_EN"] = "Cargo Mini Skirt (Olv)",
+                        ["localize_JA"] = "カーゴミニスカート（カーキ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 11,
+                        ["localize_EN"] = "Cargo Mini Skirt (Wh)",
+                        ["localize_JA"] = "カーゴミニスカート（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 12,
+                        ["localize_EN"] = "Cargo Mini Skirt (Blk)",
+                        ["localize_JA"] = "カーゴミニスカート（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 10,
+                        ["localize_EN"] = "Cargo Pants (Olive)",
+                        ["localize_JA"] = "カーゴパンツ（カーキ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 13,
+                        ["localize_EN"] = "Cargo Pants (White)",
+                        ["localize_JA"] = "カーゴパンツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5006,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 14,
+                        ["localize_EN"] = "Cargo Pants (Black)",
+                        ["localize_JA"] = "カーゴパンツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5007,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 15,
+                        ["localize_EN"] = "Stripe Skinny Fit (Gry)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 5008,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 16,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blu)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 1000331,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 331,
+                        ["localize_EN"] = "Pastel Spring Stockings (Pk)",
+                        ["localize_JA"] = "パステルスプリングフラワーストッキング（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 1000332,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 332,
+                        ["localize_EN"] = "Pastel Spring Stockings (Blu)",
+                        ["localize_JA"] = "パステルスプリングフラワーストッキング（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 1000333,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 333,
+                        ["localize_EN"] = "Pastel Spring Stockings (Yel)",
+                        ["localize_JA"] = "パステルスプリングフラワーストッキング（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 1000334,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 334,
+                        ["localize_EN"] = "Pastel Spring Socks (Pr)",
+                        ["localize_JA"] = "パステルスプリングフラワーソックス（パープル）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 1000335,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 335,
+                        ["localize_EN"] = "Pastel Spring Socks (Blu)",
+                        ["localize_JA"] = "パステルスプリングフラワーソックス（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 1000336,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 336,
+                        ["localize_EN"] = "Pastel Spring Socks (Or)",
+                        ["localize_JA"] = "パステルスプリングフラワーソックス（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10050003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 3,
+                        ["localize_EN"] = "Stripe Skinny Fit (Blk)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10050009,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Shoes",
+                        ["localize_JA"] = "HOLOEARTH シューズ"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 9,
+                        ["localize_EN"] = "HOLOEARTH Socks",
+                        ["localize_JA"] = "HOLOEARTH ソックス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070027,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 27,
+                        ["localize_EN"] = "ALTERMODE Newsboy (Blk)",
+                        ["localize_JA"] = "ALTERMODEキャスケット（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 27,
+                        ["localize_EN"] = "ALTERMODE Tri Shades (Blu)",
+                        ["localize_JA"] = "ALTERMODEトライアングルサングラス（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 27,
+                        ["localize_EN"] = "ALTERMODE Wide Leg Shorts (Vlt)",
+                        ["localize_JA"] = "ALTERMODEワイドレッグショートパンツ（バイオレット）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 27,
+                        ["localize_EN"] = "ALTERMODE Coat (Nvy)",
+                        ["localize_JA"] = "ALTERMODEコート（ネイビー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 27,
+                        ["localize_EN"] = "ALTERMODE Boots (Blk/Or)",
+                        ["localize_JA"] = "ALTERMODEブーツ（ブラック×オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 27,
+                        ["localize_EN"] = "ALTERMODE Asymmetric Socks (Yel)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄アシメソックス（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070028,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 28,
+                        ["localize_EN"] = "ALTERMODE Newsboy (Bn)",
+                        ["localize_JA"] = "ALTERMODEキャスケット（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 28,
+                        ["localize_EN"] = "ALTERMODE Tri Shades (Or)",
+                        ["localize_JA"] = "ALTERMODEトライアングルサングラス（オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 28,
+                        ["localize_EN"] = "ALTERMODE Wide Leg Shorts (Blk)",
+                        ["localize_JA"] = "ALTERMODEワイドレッグショートパンツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 28,
+                        ["localize_EN"] = "ALTERMODE Coat (Blk)",
+                        ["localize_JA"] = "ALTERMODEコート（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 28,
+                        ["localize_EN"] = "ALTERMODE Boots (Wh)",
+                        ["localize_JA"] = "ALTERMODEブーツ（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 28,
+                        ["localize_EN"] = "ALTERMODE Asymmetric Socks (Be)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄アシメソックス（ベージュ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070029,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 29,
+                        ["localize_EN"] = "ALTERMODE Newsboy (Bg)",
+                        ["localize_JA"] = "ALTERMODEキャスケット（ベージュ）"
+                    },
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 29,
+                        ["localize_EN"] = "ALTERMODE Tri Shades (Pk)",
+                        ["localize_JA"] = "ALTERMODEトライアングルサングラス（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 29,
+                        ["localize_EN"] = "ALTERMODE Wide Leg Shorts (Bn)",
+                        ["localize_JA"] = "ALTERMODEワイドレッグショートパンツ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 29,
+                        ["localize_EN"] = "ALTERMODE Coat (Bg)",
+                        ["localize_JA"] = "ALTERMODEコート（ベージュ）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 29,
+                        ["localize_EN"] = "ALTERMODE Boots (Blk)",
+                        ["localize_JA"] = "ALTERMODEブーツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 29,
+                        ["localize_EN"] = "ALTERMODE Asymmetric Socks (Pk)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄アシメソックス（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070030,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 30,
+                        ["localize_EN"] = "ALTERMODE Tri Joggers (Blk)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄ジョガーパンツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 30,
+                        ["localize_EN"] = "ALTERMODE Jacket (Nvy)",
+                        ["localize_JA"] = "ALTERMODEジャケット（ネイビー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 30,
+                        ["localize_EN"] = "ALTERMODE High Tops (Blk/Or)",
+                        ["localize_JA"] = "ALTERMODEハイカットスニーカー（ブラック×オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 30,
+                        ["localize_EN"] = "ALTERMODE Triangle Socks (Yel)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄ソックス（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070031,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 31,
+                        ["localize_EN"] = "ALTERMODE Tri Joggers (Bn)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄ジョガーパンツ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 31,
+                        ["localize_EN"] = "ALTERMODE Jacket (Blk)",
+                        ["localize_JA"] = "ALTERMODEジャケット（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 31,
+                        ["localize_EN"] = "ALTERMODE High Tops (Wh)",
+                        ["localize_JA"] = "ALTERMODEハイカットスニーカー（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 31,
+                        ["localize_EN"] = "ALTERMODE Triangle Socks (Blk)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄ソックス（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070032,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 32,
+                        ["localize_EN"] = "ALTERMODE Tri Joggers (Bg)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄ジョガーパンツ（ベージュ）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 32,
+                        ["localize_EN"] = "ALTERMODE Jacket (Bg)",
+                        ["localize_JA"] = "ALTERMODEジャケット（ベージュ）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 32,
+                        ["localize_EN"] = "ALTERMODE High Tops (Blk)",
+                        ["localize_JA"] = "ALTERMODEハイカットスニーカー（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 32,
+                        ["localize_EN"] = "ALTERMODE Triangle Socks (Bn)",
+                        ["localize_JA"] = "ALTERMODEトライアングル柄ソックス（ブラウン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070033,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 33,
+                        ["localize_EN"] = "Casual Town Use Worker Cap (Blu)",
+                        ["localize_JA"] = "カジュアルタウンユースワークキャップ（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 33,
+                        ["localize_EN"] = "Casual Town Use Skirt (Blu)",
+                        ["localize_JA"] = "カジュアルタウンユースダブルラインプリーツスカート（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 33,
+                        ["localize_EN"] = "Casual Town Use Cardigan (Blu)",
+                        ["localize_JA"] = "カジュアルタウンユースブラウス付きカーディガン（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 33,
+                        ["localize_EN"] = "Casual Town Use Pumps (Blu)",
+                        ["localize_JA"] = "カジュアルタウンユースパンプス（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 33,
+                        ["localize_EN"] = "Casual Town Use Knee-Highs (Blu)",
+                        ["localize_JA"] = "カジュアルタウンユースニーハイソックス（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070034,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 34,
+                        ["localize_EN"] = "Casual Town Use Worker Cap (Gry)",
+                        ["localize_JA"] = "カジュアルタウンユースワークキャップ（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 34,
+                        ["localize_EN"] = "Casual Town Use Skirt (Or)",
+                        ["localize_JA"] = "カジュアルタウンユースダブルラインプリーツスカート（オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 34,
+                        ["localize_EN"] = "Casual Town Use Cardigan (Yel)",
+                        ["localize_JA"] = "カジュアルタウンユースブラウス付きカーディガン（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 34,
+                        ["localize_EN"] = "Casual Town Use Pumps (Gry)",
+                        ["localize_JA"] = "カジュアルタウンユースパンプス（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 34,
+                        ["localize_EN"] = "Casual Town Use Knee-Highs (Gry)",
+                        ["localize_JA"] = "カジュアルタウンユースニーハイソックス（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070035,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 35,
+                        ["localize_EN"] = "Casual Town Use Worker Cap (Bn)",
+                        ["localize_JA"] = "カジュアルタウンユースワークキャップ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 35,
+                        ["localize_EN"] = "Casual Town Use Skirt (Bn)",
+                        ["localize_JA"] = "カジュアルタウンユースダブルラインプリーツスカート（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 35,
+                        ["localize_EN"] = "Casual Town Use Cardigan (Or)",
+                        ["localize_JA"] = "カジュアルタウンユースブラウス付きカーディガン（オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 35,
+                        ["localize_EN"] = "Casual Town Use Pumps (Bn)",
+                        ["localize_JA"] = "カジュアルタウンユースパンプス（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 35,
+                        ["localize_EN"] = "Casual Town Use Knee-Highs (Crm)",
+                        ["localize_JA"] = "カジュアルタウンユースニーハイソックス（クリーム）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070036,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 36,
+                        ["localize_EN"] = "Casual Town Use Glasses (Blk)",
+                        ["localize_JA"] = "カジュアルタウンユースボストングラス（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 36,
+                        ["localize_EN"] = "Casual Town Use Joggers (Gry)",
+                        ["localize_JA"] = "カジュアルタウンユースベルト付きジョガーパンツ（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 36,
+                        ["localize_EN"] = "Casual Town Use Hoodie Set (Blu)",
+                        ["localize_JA"] = "カジュアルタウンユースインナー付きフーディ（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 36,
+                        ["localize_EN"] = "Casual Town Use Sneakers (Gry)",
+                        ["localize_JA"] = "カジュアルタウンユーススニーカー（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 36,
+                        ["localize_EN"] = "Casual Town Use Socks (BluStr)",
+                        ["localize_JA"] = "カジュアルタウンユースショート丈ソックス（ブルーライン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070037,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Glasses (Gry)",
+                        ["localize_JA"] = "カジュアルタウンユースボストングラス（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Joggers (Bn)",
+                        ["localize_JA"] = "カジュアルタウンユースベルト付きジョガーパンツ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Hoodie Set (Vlt)",
+                        ["localize_JA"] = "カジュアルタウンユースインナー付きフーディ（バイオレット）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Sneakers (Wh)",
+                        ["localize_JA"] = "カジュアルタウンユーススニーカー（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 37,
+                        ["localize_EN"] = "Casual Town Use Socks (WhStr)",
+                        ["localize_JA"] = "カジュアルタウンユースショート丈ソックス（ホワイトライン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070038,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Glasses (Bn)",
+                        ["localize_JA"] = "カジュアルタウンユースボストングラス（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Joggers (Gn)",
+                        ["localize_JA"] = "カジュアルタウンユースベルト付きジョガーパンツ（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Hoodie Set (Pk)",
+                        ["localize_JA"] = "カジュアルタウンユースインナー付きフーディ（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Sneakers (Blk)",
+                        ["localize_JA"] = "カジュアルタウンユーススニーカー（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 38,
+                        ["localize_EN"] = "Casual Town Use Socks (VltStr)",
+                        ["localize_JA"] = "カジュアルタウンユースショート丈ソックス（バイオレットライン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070086,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 86,
+                        ["localize_EN"] = "Triangle Motif Tee (Blu)",
+                        ["localize_JA"] = "トライアングル柄Tシャツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070087,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 87,
+                        ["localize_EN"] = "Triangle Motif Tee (Pk)",
+                        ["localize_JA"] = "トライアングル柄Tシャツ（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070088,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 88,
+                        ["localize_EN"] = "Triangle Motif Tee (Or)",
+                        ["localize_JA"] = "トライアングル柄Tシャツ（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070089,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 89,
+                        ["localize_EN"] = "Triangle Oversize Tee (Blu)",
+                        ["localize_JA"] = "トライアングル柄オーバーサイズTシャツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070090,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 90,
+                        ["localize_EN"] = "Triangle Oversize Tee (Pk)",
+                        ["localize_JA"] = "トライアングル柄オーバーサイズTシャツ（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070091,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 91,
+                        ["localize_EN"] = "Triangle Oversize Tee (Or)",
+                        ["localize_JA"] = "トライアングル柄オーバーサイズTシャツ（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070092,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 92,
+                        ["localize_EN"] = "Diamond Motif Tee (Bn)",
+                        ["localize_JA"] = "ダイヤ柄Tシャツ（ブラウン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070093,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 93,
+                        ["localize_EN"] = "Diamond Motif Tee (Blk)",
+                        ["localize_JA"] = "ダイヤ柄Tシャツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070094,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 94,
+                        ["localize_EN"] = "Diamond Motif Tee (Yel)",
+                        ["localize_JA"] = "ダイヤ柄Tシャツ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070095,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 95,
+                        ["localize_EN"] = "Diamond Motif Oversize Tee (Bn)",
+                        ["localize_JA"] = "ダイヤ柄オーバーサイズTシャツ（ブラウン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070096,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 96,
+                        ["localize_EN"] = "Diamond Motif Oversize Tee (Blk)",
+                        ["localize_JA"] = "ダイヤ柄オーバーサイズTシャツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10070097,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 97,
+                        ["localize_EN"] = "Diamond Motif Oversize Tee (Yel)",
+                        ["localize_JA"] = "ダイヤ柄オーバーサイズTシャツ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080047,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Earrings (RdGld)",
+                        ["localize_JA"] = "スマートタウンユーストライアングル＆バーピアス（レッドゴールド）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Wrap Skirt (Yel)",
+                        ["localize_JA"] = "スマートタウンユースロング丈ラップスカート（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Off-Shoulder (Yel",
+                        ["localize_JA"] = "スマートタウンユースコールドショルダーシャツ（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Trim Boots (DkBn)",
+                        ["localize_JA"] = "スマートタウンユースパイピングショートブーツ（ダークブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 47,
+                        ["localize_EN"] = "Smart Town Use Over-Knees (Or)",
+                        ["localize_JA"] = "スマートタウンユースパイピングオーバーニーソックス（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080048,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Earrings (Slv)",
+                        ["localize_JA"] = "スマートタウンユーストライアングル＆バーピアス（シルバー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Wrap Skirt (Blu)",
+                        ["localize_JA"] = "スマートタウンユースロング丈ラップスカート（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Off-Shoulder (Blu",
+                        ["localize_JA"] = "スマートタウンユースコールドショルダーシャツ（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Trim Boots (Bn)",
+                        ["localize_JA"] = "スマートタウンユースパイピングショートブーツ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 48,
+                        ["localize_EN"] = "Smart Town Use Over-Knees (Blu)",
+                        ["localize_JA"] = "スマートタウンユースパイピングオーバーニーソックス（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080049,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Earrings (Gld)",
+                        ["localize_JA"] = "スマートタウンユーストライアングル＆バーピアス（ゴールド）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Wrap Skirt (Pk)",
+                        ["localize_JA"] = "スマートタウンユースロング丈ラップスカート（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Off-Shoulder (Pk)",
+                        ["localize_JA"] = "スマートタウンユースコールドショルダーシャツ（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Trim Boots (Pk)",
+                        ["localize_JA"] = "スマートタウンユースパイピングショートブーツ（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 49,
+                        ["localize_EN"] = "Smart Town Use Over-Knees (Pk)",
+                        ["localize_JA"] = "スマートタウンユースパイピングオーバーニーソックス（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080050,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Wellingtons (Bn)",
+                        ["localize_JA"] = "スマートタウンユースブローウェリントンサングラス（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Chinos (BgGry)",
+                        ["localize_JA"] = "スマートタウンユースワイドチノパンツ（ベージュグレイ）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Yel",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (BnBg)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（ブラウンベージュ）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 50,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Yel)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080051,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Wellingtons (Clr)",
+                        ["localize_JA"] = "スマートタウンユースブローウェリントンサングラス（クリア）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Chinos (Cml)",
+                        ["localize_JA"] = "スマートタウンユースワイドチノパンツ（キャラメル）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Blu",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (Gry)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（グレイ）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 51,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Blu)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080052,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Wellingtons (Blu)",
+                        ["localize_JA"] = "スマートタウンユースブローウェリントンサングラス（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Chinos (Blu)",
+                        ["localize_JA"] = "スマートタウンユースワイドチノパンツ（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Sweater Vest (Gn)",
+                        ["localize_JA"] = "スマートタウンユースニットベスト付きシャツ（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Cap-Toes (Bn)",
+                        ["localize_JA"] = "スマートタウンユースストレートチップ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 52,
+                        ["localize_EN"] = "Smart Town Use Crew Socks (Wh)",
+                        ["localize_JA"] = "スマートタウンユースライン入りクルーソックス（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080098,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 98,
+                        ["localize_EN"] = "Geometric Motif Tee (Yel)",
+                        ["localize_JA"] = "ジオメトリック柄Tシャツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080099,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 99,
+                        ["localize_EN"] = "Geometric Motif Tee (Blu)",
+                        ["localize_JA"] = "ジオメトリック柄Tシャツ（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080100,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 100,
+                        ["localize_EN"] = "Geometric Motif Tee (Red)",
+                        ["localize_JA"] = "ジオメトリック柄Tシャツ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080101,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 101,
+                        ["localize_EN"] = "Geometric Oversized Tee (Blu)",
+                        ["localize_JA"] = "ジオメトリック柄オーバーサイズTシャツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080102,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 102,
+                        ["localize_EN"] = "Geometric Oversized Tee (Red)",
+                        ["localize_JA"] = "ジオメトリック柄オーバーサイズTシャツ（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10080103,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 103,
+                        ["localize_EN"] = "Geometric Oversized Tee (Yel)",
+                        ["localize_JA"] = "ジオメトリック柄オーバーサイズTシャツ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090007,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 7,
+                        ["localize_EN"] = "Active Summer Long Underwear (Or",
+                        ["localize_JA"] = "アクティブサマーライン入りロングアンダーウェア（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090008,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 8,
+                        ["localize_EN"] = "Active Summer Long Underwear (Gn",
+                        ["localize_JA"] = "アクティブサマーライン入りロングアンダーウェア（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090009,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 9,
+                        ["localize_EN"] = "Active Summer Long Underwear (Pr",
+                        ["localize_JA"] = "アクティブサマーライン入りロングアンダーウェア（パープル）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090010,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 10,
+                        ["localize_EN"] = "Active Summer Underwear (Blk)",
+                        ["localize_JA"] = "アクティブサマースポーティメッシュアンダーウェア（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090011,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 11,
+                        ["localize_EN"] = "Active Summer Underwear (Gry)",
+                        ["localize_JA"] = "アクティブサマースポーティメッシュアンダーウェア（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090012,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 12,
+                        ["localize_EN"] = "Active Summer Underwear (Wh)",
+                        ["localize_JA"] = "アクティブサマースポーティメッシュアンダーウェア（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090013,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 13,
+                        ["localize_EN"] = "Two-Tone Underwear (Blu)",
+                        ["localize_JA"] = "バイカラーアンダーウェア（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090014,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 14,
+                        ["localize_EN"] = "Two-Tone Underwear (Pr)",
+                        ["localize_JA"] = "バイカラーアンダーウェア（パープル）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090015,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 15,
+                        ["localize_EN"] = "Two-Tone Underwear (Pk)",
+                        ["localize_JA"] = "バイカラーアンダーウェア（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090016,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 16,
+                        ["localize_EN"] = "Two-Tone Underwear (Red)",
+                        ["localize_JA"] = "バイカラーアンダーウェア（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090017,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 17,
+                        ["localize_EN"] = "Two-Tone Underwear (Gn)",
+                        ["localize_JA"] = "バイカラーアンダーウェア（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090018,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 18,
+                        ["localize_EN"] = "Two-Tone Underwear (Blu)",
+                        ["localize_JA"] = "バイカラーアンダーウェア（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090053,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 53,
+                        ["localize_EN"] = "Active Summer Headphone Set (Blu",
+                        ["localize_JA"] = "アクティブサマーヘッドフォン付きキャップ（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 53,
+                        ["localize_EN"] = "Active Summer Leggings (Blk)",
+                        ["localize_JA"] = "アクティブサマースポーツパンツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 53,
+                        ["localize_EN"] = "Active Summer Short Jacket (Blu)",
+                        ["localize_JA"] = "アクティブサマークロップドジャケット（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 53,
+                        ["localize_EN"] = "Active Summer High-Tops (Blu)",
+                        ["localize_JA"] = "アクティブサマーリブニットハイカットスニーカー（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090054,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 54,
+                        ["localize_EN"] = "Active Summer Headphone Set (Gn)",
+                        ["localize_JA"] = "アクティブサマーヘッドフォン付きキャップ（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 54,
+                        ["localize_EN"] = "Active Summer Leggings (Gry)",
+                        ["localize_JA"] = "アクティブサマーススポーツパンツ（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 54,
+                        ["localize_EN"] = "Active Summer Short Jacket (Gn)",
+                        ["localize_JA"] = "アクティブサマークロップドジャケット（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 54,
+                        ["localize_EN"] = "Active Summer High-Tops (Yel)",
+                        ["localize_JA"] = "アクティブサマーリブニットハイカットスニーカー（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090055,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 55,
+                        ["localize_EN"] = "Active Summer Headphone Set (Pk)",
+                        ["localize_JA"] = "アクティブサマーヘッドフォン付きキャップ（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 55,
+                        ["localize_EN"] = "Active Summer Leggings (Wh)",
+                        ["localize_JA"] = "アクティブサマースポーツパンツ（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 55,
+                        ["localize_EN"] = "Active Summer Short Jacket (Pk)",
+                        ["localize_JA"] = "アクティブサマークロップドジャケット（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 55,
+                        ["localize_EN"] = "Active Summer High-Tops (Pk)",
+                        ["localize_JA"] = "アクティブサマーリブニットハイカットスニーカー（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090056,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 56,
+                        ["localize_EN"] = "Active Summer Goggles Set (Blu)",
+                        ["localize_JA"] = "アクティブサマーゴーグル付きキャップ（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 56,
+                        ["localize_EN"] = "Active Summer Cargo Shorts (Wh)",
+                        ["localize_JA"] = "アクティブサマーアウトドアハーフカーゴパンツ（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 56,
+                        ["localize_EN"] = "Active Summer Half Jacket (Blu)",
+                        ["localize_JA"] = "アクティブサマーアウトドアハーフジャケット（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 56,
+                        ["localize_EN"] = "Active Summer Mid-Tops (Blu)",
+                        ["localize_JA"] = "アクティブサマーミドルカットテックスニーカー（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090057,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 57,
+                        ["localize_EN"] = "Active Summer Goggles Set (Pk)",
+                        ["localize_JA"] = "アクティブサマーゴーグル付きキャップ（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 57,
+                        ["localize_EN"] = "Active Summer Cargo Shorts (Gry)",
+                        ["localize_JA"] = "アクティブサマーアウトドアハーフカーゴパンツ（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 57,
+                        ["localize_EN"] = "Active Summer Half Jacket (Pk)",
+                        ["localize_JA"] = "アクティブサマーアウトドアハーフジャケット（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 57,
+                        ["localize_EN"] = "Active Summer Mid-Tops (Pk)",
+                        ["localize_JA"] = "アクティブサマーミドルカットテックスニーカー（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090058,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 58,
+                        ["localize_EN"] = "Active Summer Goggles Set (Yel)",
+                        ["localize_JA"] = "アクティブサマーゴーグル付きキャップ（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 58,
+                        ["localize_EN"] = "Active Summer Cargo Shorts (Blk)",
+                        ["localize_JA"] = "アクティブサマーアウトドアハーフカーゴパンツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 58,
+                        ["localize_EN"] = "Active Summer Half Jacket (Yel)",
+                        ["localize_JA"] = "アクティブサマーアウトドアハーフジャケット（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 58,
+                        ["localize_EN"] = "Active Summer Mid-Tops (Yel)",
+                        ["localize_JA"] = "アクティブサマーミドルカットテックスニーカー（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090148,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 148,
+                        ["localize_EN"] = "Cropped Sleeve Stripe T (Or)",
+                        ["localize_JA"] = "アームラインクロップドTシャツ（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090149,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 149,
+                        ["localize_EN"] = "Cropped Sleeve Stripe T (Yel)",
+                        ["localize_JA"] = "アームラインクロップドTシャツ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090150,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 150,
+                        ["localize_EN"] = "Cropped Sleeve Stripe T (Blu)",
+                        ["localize_JA"] = "アームラインクロップドTシャツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090151,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 151,
+                        ["localize_EN"] = "Oversized Stripe T (Or)",
+                        ["localize_JA"] = "アームラインオーバーサイズTシャツ（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090152,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 152,
+                        ["localize_EN"] = "Oversized Stripe T (Pk)",
+                        ["localize_JA"] = "アームラインオーバーサイズTシャツ（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10090153,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 153,
+                        ["localize_EN"] = "Oversized Stripe T (Gn)",
+                        ["localize_JA"] = "アームラインオーバーサイズTシャツ（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10100331,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 331,
+                        ["localize_EN"] = "Pastel Spring Underwear (Pk)",
+                        ["localize_JA"] = "パステルスプリングリブニットアンダーウェア（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10100332,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 332,
+                        ["localize_EN"] = "Pastel Spring Underwear (Blu)",
+                        ["localize_JA"] = "パステルスプリングリブニットアンダーウェア（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10100333,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 333,
+                        ["localize_EN"] = "Pastel Spring Underwear (Yel)",
+                        ["localize_JA"] = "パステルスプリングリブニットアンダーウェア（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10100334,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 334,
+                        ["localize_EN"] = "Pastel Spring Boxers (Pk)",
+                        ["localize_JA"] = "パステルスプリングリブニットボクサーパンツ（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10100335,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 335,
+                        ["localize_EN"] = "Pastel Spring Boxers (Gry)",
+                        ["localize_JA"] = "パステルスプリングリブニットボクサーパンツ（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10100336,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 336,
+                        ["localize_EN"] = "Pastel Spring Boxers (Gn)",
+                        ["localize_JA"] = "パステルスプリングリブニットボクサーパンツ（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110309,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 309,
+                        ["localize_EN"] = "Smart Town Use Dual Bars (RedGld",
+                        ["localize_JA"] = "スマートタウンユースダブルバーピアス（レッドゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110310,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 310,
+                        ["localize_EN"] = "Smart Town Use Dual Bars (Slv)",
+                        ["localize_JA"] = "スマートタウンユースダブルバーピアス（シルバー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110311,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 311,
+                        ["localize_EN"] = "Smart Town Use Dual Bars (Gld)",
+                        ["localize_JA"] = "スマートタウンユースダブルバーピアス（ゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110312,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 312,
+                        ["localize_EN"] = "Smart Town Use Triangles (RedGld",
+                        ["localize_JA"] = "スマートタウンユースダブルトライアングルピアス（レッドゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110313,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 313,
+                        ["localize_EN"] = "Smart Town Use Triangles (Slv)",
+                        ["localize_JA"] = "スマートタウンユースダブルトライアングルピアス（シルバー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110314,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 314,
+                        ["localize_EN"] = "Smart Town Use Triangles (Gld)",
+                        ["localize_JA"] = "スマートタウンユースダブルトライアングルピアス（ゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110315,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 315,
+                        ["localize_EN"] = "Active Summer Sunglasses (Blu)",
+                        ["localize_JA"] = "アクティブサマーブロースポーティサングラス（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110316,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 316,
+                        ["localize_EN"] = "Active Summer Sunglasses (Red)",
+                        ["localize_JA"] = "アクティブサマーブロースポーティサングラス（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10110317,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 317,
+                        ["localize_EN"] = "Active Summer Sunglasses (Pk)",
+                        ["localize_JA"] = "アクティブサマーブロースポーティサングラス（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120110,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic Pants (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックベルト付きブーツカットパンツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic Blazer (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックダブルジャケット（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic M. Straps (Blk",
+                        ["localize_JA"] = "ナイトタウンゴシックモンクストラップ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic Socks (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックパターン柄ソックス（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 110,
+                        ["localize_EN"] = "Night Town Gothic Underwear (Blk",
+                        ["localize_JA"] = "ナイトタウンゴシックアンダーウェア（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120111,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 111,
+                        ["localize_EN"] = "Night Town Gothic Pants (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックベルト付きブーツカットパンツ（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 111,
+                        ["localize_EN"] = "Night Town Gothic Blazer (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックダブルジャケット（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 111,
+                        ["localize_EN"] = "Night Town Gothic M. Straps (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックモンクストラップ（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 111,
+                        ["localize_EN"] = "Night Town Gothic Socks (Gry)",
+                        ["localize_JA"] = "ナイトタウンゴシックパターン柄ソックス（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 111,
+                        ["localize_EN"] = "Night Town Gothic Underwear (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックアンダーウェア（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120112,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 112,
+                        ["localize_EN"] = "Night Town Gothic Pants (DkGn)",
+                        ["localize_JA"] = "ナイトタウンゴシックベルト付きブーツカットパンツ（ダークグリーン"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 112,
+                        ["localize_EN"] = "Night Town Gothic Blazer (DkGn)",
+                        ["localize_JA"] = "ナイトタウンゴシックダブルジャケット（ダークグリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 112,
+                        ["localize_EN"] = "Night Town Gothic M. Straps (Bn)",
+                        ["localize_JA"] = "ナイトタウンゴシックモンクストラップ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 112,
+                        ["localize_EN"] = "Night Town Gothic Socks (DkGn)",
+                        ["localize_JA"] = "ナイトタウンゴシックパターン柄ソックス（ダークグリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 112,
+                        ["localize_EN"] = "Night Town Gothic Underwear (Bn)",
+                        ["localize_JA"] = "ナイトタウンゴシックアンダーウェア（ブラウン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120113,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Earrings (Red)",
+                        ["localize_JA"] = "ナイトタウンゴシックバット＆ハートイヤリング（レッド）"
+                    },
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Gloves (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックリボン付きレース手袋（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Shorts (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックフリル付きショートパンツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Blouse (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックパフスリーブクロップドブラウス（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Heels (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシッククロスストラップヒール（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Lingerie (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックガーターベルト付きアンダーウェア（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120114,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 114,
+                        ["localize_EN"] = "Night Town Gothic Earrings (Vlt)",
+                        ["localize_JA"] = "ナイトタウンゴシックバット＆ハートイヤリング（バイオレット）"
+                    },
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 114,
+                        ["localize_EN"] = "Night Town Gothic Gloves (Vlt)",
+                        ["localize_JA"] = "ナイトタウンゴシックリボン付きレース手袋（バイオレット）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 114,
+                        ["localize_EN"] = "Night Town Gothic Shorts (Vlt)",
+                        ["localize_JA"] = "ナイトタウンゴシックフリル付きショートパンツ（バイオレット）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 114,
+                        ["localize_EN"] = "Night Town Gothic Blouse (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックパフスリーブクロップドブラウス（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 114,
+                        ["localize_EN"] = "Night Town Gothic Heels (Vlt)",
+                        ["localize_JA"] = "ナイトタウンゴシッククロスストラップヒール（バイオレット）"
+                    },
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 114,
+                        ["localize_EN"] = "Night Town Gothic Lingerie (Vlt)",
+                        ["localize_JA"] = "ナイトタウンゴシックガーターベルト付アンダーウェア（バイオレット"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120115,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 115,
+                        ["localize_EN"] = "Night Town Gothic Earrings (Blu)",
+                        ["localize_JA"] = "ナイトタウンゴシックバット＆ハートイヤリング（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 115,
+                        ["localize_EN"] = "Night Town Gothic Gloves (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックリボン付きレース手袋（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 115,
+                        ["localize_EN"] = "Night Town Gothic Shorts (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックフリル付きショートパンツ（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 115,
+                        ["localize_EN"] = "Night Town Gothic Blouse (Blu)",
+                        ["localize_JA"] = "ナイトタウンゴシックパフスリーブクロップドブラウス（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 115,
+                        ["localize_EN"] = "Night Town Gothic Heels (Blu)",
+                        ["localize_JA"] = "ナイトタウンゴシッククロスストラップヒール（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothUnderwears",
+                        ["id"] = 115,
+                        ["localize_EN"] = "Night Town Gothic Lingerie (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックガーターベルト付きアンダーウェア（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120116,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 116,
+                        ["localize_EN"] = "Prem. Winter '24 Glasses (Bg)",
+                        ["localize_JA"] = "プレミアムウィンター2024 オクタアンダーリム（ベージュ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120117,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 117,
+                        ["localize_EN"] = "Prem. Winter '24 Glasses (Wh)",
+                        ["localize_JA"] = "プレミアムウィンター2024 オクタアンダーリム（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120118,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 118,
+                        ["localize_EN"] = "Prem. Winter '24 Glasses (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 オクタアンダーリム（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120119,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 119,
+                        ["localize_EN"] = "Prem. Winter '24 Beret (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンベレー（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120120,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 120,
+                        ["localize_EN"] = "Prem. Winter '24 Beret (Wh)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンベレー（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10120121,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 121,
+                        ["localize_EN"] = "Prem. Winter '24 Beret (Blk)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンベレー（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10121116,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 116,
+                        ["localize_EN"] = "Prem. Winter '24 Pants (Bn)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ロールアップパンツ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 116,
+                        ["localize_EN"] = "Prem. Winter '24 Cardigan (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ダブルチェック&セーター（レッド）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 116,
+                        ["localize_EN"] = "Prem. Winter '24 Shoes (Gn)",
+                        ["localize_JA"] = "プレミアムウィンター2024 カラーソールシューズ（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 116,
+                        ["localize_EN"] = "Prem. Winter '24 Socks (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ワイドチェックソックス（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10121117,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 117,
+                        ["localize_EN"] = "Prem. Winter '24 Pants (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ロールアップパンツ（レッド）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 117,
+                        ["localize_EN"] = "Prem. Winter '24 Cardigan (Wh)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ダブルチェック&セーター（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 117,
+                        ["localize_EN"] = "Prem. Winter '24 Shoes (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 カラーソールシューズ（レッド）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 117,
+                        ["localize_EN"] = "Prem. Winter '24 Socks (Wh)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ワイドチェックソックス（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10121118,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 118,
+                        ["localize_EN"] = "Prem. Winter '24 Pants (Gn)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ロールアップパンツ（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 118,
+                        ["localize_EN"] = "Prem. Winter '24 Cardigan (Blk)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ダブルチェック&セーター（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 118,
+                        ["localize_EN"] = "Prem. Winter '24 Shoes (Vrd)",
+                        ["localize_JA"] = "プレミアムウィンター2024 カラーソールシューズ（ビリジアン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 118,
+                        ["localize_EN"] = "Prem. Winter '24 Socks (Blk)",
+                        ["localize_JA"] = "プレミアムウィンター2024 ワイドチェックソックス（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10121119,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 119,
+                        ["localize_EN"] = "Prem. Winter '24 Skirt (Nvy)",
+                        ["localize_JA"] = "プレミアムウィンター2024 チェックスカート（ネイビー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 119,
+                        ["localize_EN"] = "Prem. Winter '24 Bow Cardi (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンカーディガン（レッド）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 119,
+                        ["localize_EN"] = "Prem. Winter '24 Loafers (Bn)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンローファー（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 119,
+                        ["localize_EN"] = "Prem. Winter '24 T. Socks (Nvy)",
+                        ["localize_JA"] = "プレミアムウィンター2024 レッグリング＆ソックス（ネイビー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10121120,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 120,
+                        ["localize_EN"] = "Prem. Winter '24 Skirt (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 チェックスカート（レッド）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 120,
+                        ["localize_EN"] = "Prem. Winter '24 Bow Cardi (Wh)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンカーディガン（ホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 120,
+                        ["localize_EN"] = "Prem. Winter '24 Loafers (LtBn)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンローファー（ライトブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 120,
+                        ["localize_EN"] = "Prem. Winter '24 T. Socks (Wh)",
+                        ["localize_JA"] = "プレミアムウィンター2024 レッグリング＆ソックス（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10121121,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 121,
+                        ["localize_EN"] = "Prem. Winter '24 Skirt (Gn)",
+                        ["localize_JA"] = "プレミアムウィンター2024 チェックスカート（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 121,
+                        ["localize_EN"] = "Prem. Winter '24 Bow Cardi (Blk)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンカーディガン（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 121,
+                        ["localize_EN"] = "Prem. Winter '24 Loafers (Blk)",
+                        ["localize_JA"] = "プレミアムウィンター2024 リボンローファー（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 121,
+                        ["localize_EN"] = "Prem. Winter '24 T. Socks (Red)",
+                        ["localize_JA"] = "プレミアムウィンター2024 レッグリング＆ソックス（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140457,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 457,
+                        ["localize_EN"] = "Stripe Skinny Fit (Nvy)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ネイビー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 457,
+                        ["localize_EN"] = "HOLOEARTH Hoodie (Red)",
+                        ["localize_JA"] = "HOLOEARTH フーディー（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140458,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 458,
+                        ["localize_EN"] = "Stripe Skinny Fit (LtBlu)",
+                        ["localize_JA"] = "ラインデザインスキニーパンツ（ライトブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 458,
+                        ["localize_EN"] = "HOLOEARTH Hoodie (Yel)",
+                        ["localize_JA"] = "HOLOEARTH フーディー（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140459,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 462,
+                        ["localize_EN"] = "Cargo Mini Skirt (Yel)",
+                        ["localize_JA"] = "カーゴミニスカート（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 459,
+                        ["localize_EN"] = "HOLOEARTH Hoodie (Wh)",
+                        ["localize_JA"] = "HOLOEARTH フーディー（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140460,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 463,
+                        ["localize_EN"] = "Cargo Mini Skirt (Bg)",
+                        ["localize_JA"] = "カーゴミニスカート（ベージュ）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 460,
+                        ["localize_EN"] = "HOLOEARTH Hoodie (Blu)",
+                        ["localize_JA"] = "HOLOEARTH フーディー（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140461,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 467,
+                        ["localize_EN"] = "Cargo Pants (Yel)",
+                        ["localize_JA"] = "カーゴパンツ（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 461,
+                        ["localize_EN"] = "HOLOEARTH Hoodie (Bn)",
+                        ["localize_JA"] = "HOLOEARTH フーディー（ブラウン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140462,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 468,
+                        ["localize_EN"] = "Cargo Pants (Bg)",
+                        ["localize_JA"] = "カーゴパンツ（ベージュ）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 462,
+                        ["localize_EN"] = "HOLOEARTH T-Shirt (Blu)",
+                        ["localize_JA"] = "HOLOEARTH Tシャツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140463,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 463,
+                        ["localize_EN"] = "HOLOEARTH T-Shirt (Yel)",
+                        ["localize_JA"] = "HOLOEARTH Tシャツ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140464,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 464,
+                        ["localize_EN"] = "HOLOEARTH T-Shirt (Red)",
+                        ["localize_JA"] = "HOLOEARTH Tシャツ（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140465,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 465,
+                        ["localize_EN"] = "HOLOEARTH T-Shirt (Bn)",
+                        ["localize_JA"] = "HOLOEARTH Tシャツ（ブラウン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140466,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 466,
+                        ["localize_EN"] = "HOLOEARTH T-Shirt (Gn)",
+                        ["localize_JA"] = "HOLOEARTH Tシャツ（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140467,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 467,
+                        ["localize_EN"] = "HOLOEARTH Oversized T (Blu)",
+                        ["localize_JA"] = "HOLOEARTHオーバーサイズTシャツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140468,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 468,
+                        ["localize_EN"] = "HOLOEARTH Oversized T (Yel)",
+                        ["localize_JA"] = "HOLOEARTHオーバーサイズTシャツ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140469,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 469,
+                        ["localize_EN"] = "HOLOEARTH Oversized T (Red)",
+                        ["localize_JA"] = "HOLOEARTHオーバーサイズTシャツ（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140470,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 470,
+                        ["localize_EN"] = "HOLOEARTH Oversized T (Bn)",
+                        ["localize_JA"] = "HOLOEARTHオーバーサイズTシャツ（ブラウン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140471,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 471,
+                        ["localize_EN"] = "HOLOEARTH Oversized T (Gn)",
+                        ["localize_JA"] = "HOLOEARTHオーバーサイズTシャツ（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140472,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 472,
+                        ["localize_EN"] = "Cropped Sleeve Stripe T (Sky)",
+                        ["localize_JA"] = "アームラインクロップドTシャツ（スカイブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140473,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 473,
+                        ["localize_EN"] = "Cropped Sleeve Stripe T (Gn)",
+                        ["localize_JA"] = "アームラインクロップドTシャツ（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140474,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 474,
+                        ["localize_EN"] = "Cropped Sleeve Stripe T (Mand)",
+                        ["localize_JA"] = "アームラインクロップドTシャツ（マンダリン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140475,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 475,
+                        ["localize_EN"] = "Cropped Sleeve Stripe T (Gry)",
+                        ["localize_JA"] = "アームラインクロップドTシャツ（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 10140476,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 476,
+                        ["localize_EN"] = "Cropped Sleeve Stripe T (BluGry)",
+                        ["localize_JA"] = "アームラインクロップドTシャツ（ブルーグレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11000331,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHeads",
+                        ["id"] = 331,
+                        ["localize_EN"] = "Pastel Spring Butterfly (Gn)",
+                        ["localize_JA"] = "パステルスプリングバタフライリボンアクセ（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 331,
+                        ["localize_EN"] = "Pastel Spring Plaid Skirt (Gn)",
+                        ["localize_JA"] = "パステルスプリングチェック柄プリーツスカート（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 331,
+                        ["localize_EN"] = "Pastel Spring Trench Coat (Pk)",
+                        ["localize_JA"] = "パステルスプリングオフショルダートレンチコート（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 331,
+                        ["localize_EN"] = "Pastel Spring Strap Pumps (Gn)",
+                        ["localize_JA"] = "パステルスプリングアンクルストラップパンプス（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11000332,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHeads",
+                        ["id"] = 332,
+                        ["localize_EN"] = "Pastel Spring Butterfly (Blu)",
+                        ["localize_JA"] = "パステルスプリングバタフライリボンアクセ（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 332,
+                        ["localize_EN"] = "Pastel Spring Plaid Skirt (Pk)",
+                        ["localize_JA"] = "パステルスプリングチェック柄プリーツスカート（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 332,
+                        ["localize_EN"] = "Pastel Spring Trench Coat (Blu)",
+                        ["localize_JA"] = "パステルスプリングオフショルダートレンチコート（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 332,
+                        ["localize_EN"] = "Pastel Spring Strap Pumps (Pk)",
+                        ["localize_JA"] = "パステルスプリングアンクルストラップパンプス（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11000333,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHeads",
+                        ["id"] = 333,
+                        ["localize_EN"] = "Pastel Spring Butterfly (Or)",
+                        ["localize_JA"] = "パステルスプリングバタフライリボンアクセ（オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 333,
+                        ["localize_EN"] = "Pastel Spring Plaid Skirt (Bg)",
+                        ["localize_JA"] = "パステルスプリングチェック柄プリーツスカート（ベージュ）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 333,
+                        ["localize_EN"] = "Pastel Spring Trench Coat (Gn)",
+                        ["localize_JA"] = "パステルスプリングオフショルダートレンチコート（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 333,
+                        ["localize_EN"] = "Pastel Spring Strap Pumps (Bg)",
+                        ["localize_JA"] = "パステルスプリングアンクルストラップパンプス（ベージュ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11000334,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 334,
+                        ["localize_EN"] = "Pastel Spring Stripe Stole (Red)",
+                        ["localize_JA"] = "パステルスプリングストライプストール（レッド）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 334,
+                        ["localize_EN"] = "Pastel Spring Cuffed Pants (Pk)",
+                        ["localize_JA"] = "パステルスプリングチェックロールアップパンツ（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 334,
+                        ["localize_EN"] = "Pastel Spring 3/4 Trench (Pk)",
+                        ["localize_JA"] = "パステルスプリング七分袖トレンチコート（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 334,
+                        ["localize_EN"] = "Pastel Spring 2-Tone Shoes (Bg)",
+                        ["localize_JA"] = "パステルスプリングダブルカラードレスシューズ（ベージュ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11000335,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 335,
+                        ["localize_EN"] = "Pastel Spring Stripe Stole (Or)",
+                        ["localize_JA"] = "パステルスプリングストライプストール（オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 335,
+                        ["localize_EN"] = "Pastel Spring Cuffed Pants (OWh)",
+                        ["localize_JA"] = "パステルスプリングチェックロールアップパンツ（オフホワイト）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 335,
+                        ["localize_EN"] = "Pastel Spring 3/4 Trench (Blu)",
+                        ["localize_JA"] = "パステルスプリング七分袖トレンチコート（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 335,
+                        ["localize_EN"] = "Pastel Spring 2-Tone Shoes (Wh)",
+                        ["localize_JA"] = "パステルスプリングダブルカラードレスシューズ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11000336,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 336,
+                        ["localize_EN"] = "Pastel Spring Stripe Stole (Blu)",
+                        ["localize_JA"] = "パステルスプリングストライプストール（ブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 336,
+                        ["localize_EN"] = "Pastel Spring Cuffed Pants (Bn)",
+                        ["localize_JA"] = "パステルスプリングチェックロールアップパンツ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 336,
+                        ["localize_EN"] = "Pastel Spring 3/4 Trench (Gn)",
+                        ["localize_JA"] = "パステルスプリング七分袖トレンチコート（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 336,
+                        ["localize_EN"] = "Pastel Spring 2-Tone Shoes (Gn)",
+                        ["localize_JA"] = "パステルスプリングダブルカラードレスシューズ（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11001104,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 104,
+                        ["localize_EN"] = "Happy Day Rain Shorts (Blk)",
+                        ["localize_JA"] = "ハッピーレイニーデイショートレインパンツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 104,
+                        ["localize_EN"] = "Happy Day Rain Jacket (Yel)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインジャケット（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 104,
+                        ["localize_EN"] = "Happy Day Rain Boots (Yel)",
+                        ["localize_JA"] = "ハッピーレイニーデイサイドベルトレインブーツ（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 104,
+                        ["localize_EN"] = "Happy Day Pattern Socks (Blk)",
+                        ["localize_JA"] = "ハッピーレイニーデイラインデザインハイソックス（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11001105,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Rain Shorts (LtBlu)",
+                        ["localize_JA"] = "ハッピーレイニーデイショートレインパンツ（ライトブルー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Rain Jacket (YelGn)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインジャケット（イエローグリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Rain Boots (YelGn)",
+                        ["localize_JA"] = "ハッピーレイニーデイサイドベルトレインブーツ（イエローグリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Pattern Socks (LtBlu)",
+                        ["localize_JA"] = "ハッピーレイニーデイラインデザインハイソックス（ライトブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11001106,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 106,
+                        ["localize_EN"] = "Happy Day Rain Shorts (Lav)",
+                        ["localize_JA"] = "ハッピーレイニーデイショートレインパンツ（ラベンダー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 106,
+                        ["localize_EN"] = "Happy Day Rain Jacket (Cyn)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインジャケット（シアン）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 106,
+                        ["localize_EN"] = "Happy Day Rain Boots (Cyn)",
+                        ["localize_JA"] = "ハッピーレイニーデイサイドベルトレインブーツ（シアン）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 106,
+                        ["localize_EN"] = "Happy Day Pattern Socks (Lav)",
+                        ["localize_JA"] = "ハッピーレイニーデイラインデザインハイソックス（ラベンダー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11001107,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 107,
+                        ["localize_EN"] = "Happy Day Rain Hat (Yel)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインバケットハット（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 107,
+                        ["localize_EN"] = "Happy Day Rain Trousers (Blk)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインパンツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 107,
+                        ["localize_EN"] = "Happy Day Rain Poncho (Yel)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインポンチョ（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 107,
+                        ["localize_EN"] = "Happy Day Lug Rain Boots (Yel)",
+                        ["localize_JA"] = "ハッピーレイニーデイトラックソールレインブーツ（イエロー）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 107,
+                        ["localize_EN"] = "Happy Day Crew Socks (Blk)",
+                        ["localize_JA"] = "ハッピーレイニーデイラインデザインクルーソックス（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11001108,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 108,
+                        ["localize_EN"] = "Happy Day Rain Hat (Or)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインバケットハット（オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 108,
+                        ["localize_EN"] = "Happy Day Rain Trousers (Ivry)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインパンツ（アイボリー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 108,
+                        ["localize_EN"] = "Happy Day Rain Poncho (Or)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインポンチョ（オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 108,
+                        ["localize_EN"] = "Happy Day Lug Rain Boots (Or)",
+                        ["localize_JA"] = "ハッピーレイニーデイトラックソールレインブーツ（オレンジ）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 108,
+                        ["localize_EN"] = "Happy Day Crew Socks (Ivry)",
+                        ["localize_JA"] = "ハッピーレイニーデイラインデザインクルーソックス（アイボリー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11001109,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 109,
+                        ["localize_EN"] = "Happy Day Rain Hat (Lav)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインバケットハット（ラベンダー）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 109,
+                        ["localize_EN"] = "Happy Day Rain Trousers (Lav)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインパンツ（ラベンダー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 109,
+                        ["localize_EN"] = "Happy Day Rain Poncho (Lav)",
+                        ["localize_JA"] = "ハッピーレイニーデイレインポンチョ（ラベンダー）"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 109,
+                        ["localize_EN"] = "Happy Day Lug Rain Boots (Lav)",
+                        ["localize_JA"] = "ハッピーレイニーデイトラックソールレインブーツ（ラベンダー）"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 109,
+                        ["localize_EN"] = "Happy Day Crew Socks (Lav)",
+                        ["localize_JA"] = "ハッピーレイニーデイラインデザインクルーソックス（ラベンダー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11010699,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 699,
+                        ["localize_EN"] = "Sora Sync Cap (Blk)",
+                        ["localize_JA"] = "そらとおそろいキャップ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 699,
+                        ["localize_EN"] = "Tokino Sora Sync Hoodie (Blk)",
+                        ["localize_JA"] = "ときのそら おそろいパーカー（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11010700,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 702,
+                        ["localize_EN"] = "Tokino Sora Sync Hoodie (Pk)",
+                        ["localize_JA"] = "ときのそら おそろいパーカー（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11010701,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 700,
+                        ["localize_EN"] = "Natsuiro Matsuri Gaming Hoodie",
+                        ["localize_JA"] = "夏色まつり おそろいゲーミング衣装パーカー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11010702,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 702,
+                        ["localize_EN"] = "Sora Sync Cap (Pk)",
+                        ["localize_JA"] = "そらとおそろいキャップ（ピンク）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 701,
+                        ["localize_EN"] = "Natsuiro Matsuri Big Face T",
+                        ["localize_JA"] = "夏色まつり 顔デカTシャツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11015597,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 597,
+                        ["localize_EN"] = "Amane Kanata 1st Solo Live Tee",
+                        ["localize_JA"] = "Amane Kanata 1st Solo Live Tシャツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11015725,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 725,
+                        ["localize_EN"] = "Office Lanyard - Harusaki Nodoka",
+                        ["localize_JA"] = "IDカードホルダー 春先のどかver."
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11015732,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 732,
+                        ["localize_EN"] = "AkiRose Full Graphic Tee",
+                        ["localize_JA"] = "アキロゼとおそろいフルグラフィックTシャツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11015733,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 733,
+                        ["localize_EN"] = "AkiRose Gaming Hoodie",
+                        ["localize_JA"] = "アキロゼとおそろいゲーミングパーカー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11015734,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 734,
+                        ["localize_EN"] = "AZKichi Matching Hoodie",
+                        ["localize_JA"] = "あずきちとおそろいパーカー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11015735,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 735,
+                        ["localize_EN"] = "AZKichi Matching Cap",
+                        ["localize_JA"] = "あずきちとおそろいキャップ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020071,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 71,
+                        ["localize_EN"] = "Small Round Rimless Glasses",
+                        ["localize_JA"] = "スモールラウンドリムレスグラス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020078,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 78,
+                        ["localize_EN"] = "Chunky Square Glasses",
+                        ["localize_JA"] = "チャンキースクエアグラス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020083,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 83,
+                        ["localize_EN"] = "Oval Round Rimless Glasses",
+                        ["localize_JA"] = "オーバルラウンドリムレスグラス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020104,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 104,
+                        ["localize_EN"] = "Happy Day Ribbon Headband (Yel)",
+                        ["localize_JA"] = "ハッピーレイニーデイリボンカチューシャ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020105,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 105,
+                        ["localize_EN"] = "Happy Day Ribbon Headband (Gn)",
+                        ["localize_JA"] = "ハッピーレイニーデイリボンカチューシャ（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020106,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 106,
+                        ["localize_EN"] = "Happy Day Ribbon Headband (Blu)",
+                        ["localize_JA"] = "ハッピーレイニーデイリボンカチューシャ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020247,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 247,
+                        ["localize_EN"] = "Ookami Mio 'Our Sparkle' Tee",
+                        ["localize_JA"] = "大神ミオ 1st Live.「Our Sparkle」 Tシャツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020737,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 737,
+                        ["localize_EN"] = "Straw Hat with Ribbon (Wh)",
+                        ["localize_JA"] = "リボン付き麦わら帽（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020738,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 738,
+                        ["localize_EN"] = "Straw Hat with Ribbon (Blk)",
+                        ["localize_JA"] = "リボン付き麦わら帽（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020739,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 739,
+                        ["localize_EN"] = "Straw Hat with Ribbon (Gry)",
+                        ["localize_JA"] = "リボン付き麦わら帽（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020740,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 740,
+                        ["localize_EN"] = "Basic Bucket Hat (Wh)",
+                        ["localize_JA"] = "ノーマルバケットハット（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020741,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 741,
+                        ["localize_EN"] = "Basic Bucket Hat (Blk)",
+                        ["localize_JA"] = "ノーマルバケットハット（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020742,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 742,
+                        ["localize_EN"] = "Basic Bucket Hat (Gry)",
+                        ["localize_JA"] = "ノーマルバケットハット（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020744,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 744,
+                        ["localize_EN"] = "Simple Wide Headband (Wh)",
+                        ["localize_JA"] = "ワイドシンプルカチューシャ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020745,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 745,
+                        ["localize_EN"] = "Simple Wide Headband (Blk)",
+                        ["localize_JA"] = "ワイドシンプルカチューシャ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020746,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 746,
+                        ["localize_EN"] = "Simple Semi-Wide Headband (Wh)",
+                        ["localize_JA"] = "セミワイドシンプルカチューシャ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020747,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 747,
+                        ["localize_EN"] = "Simple Semi-Wide Headband (Blk)",
+                        ["localize_JA"] = "セミワイドシンプルカチューシャ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020748,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 748,
+                        ["localize_EN"] = "Triangle Earrings (RedGld)",
+                        ["localize_JA"] = "トライアングルピアス（レッドゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020749,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 749,
+                        ["localize_EN"] = "Triangle Earrings (Gld)",
+                        ["localize_JA"] = "トライアングルピアス（ゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020750,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 750,
+                        ["localize_EN"] = "Triangle Earrings (Slv)",
+                        ["localize_JA"] = "トライアングルピアス（シルバー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020751,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 751,
+                        ["localize_EN"] = "Small Hoop Earrings (RedGld)",
+                        ["localize_JA"] = "スモールフープピアス（レッドゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020752,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 752,
+                        ["localize_EN"] = "Small Hoop Earrings (Gld)",
+                        ["localize_JA"] = "スモールフープピアス（ゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020753,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 753,
+                        ["localize_EN"] = "Small Hoop Earrings (Slv)",
+                        ["localize_JA"] = "スモールフープピアス（シルバー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020754,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 754,
+                        ["localize_EN"] = "Hoop Earrings (RedGld)",
+                        ["localize_JA"] = "フープピアス（レッドゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020755,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 755,
+                        ["localize_EN"] = "Hoop Earrings (Gld)",
+                        ["localize_JA"] = "フープピアス（ゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020756,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 756,
+                        ["localize_EN"] = "Hoop Earrings (Slv)",
+                        ["localize_JA"] = "フープピアス（シルバー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020797,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 797,
+                        ["localize_EN"] = "Simple Headband (Wh)",
+                        ["localize_JA"] = "シンプルカチューシャ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020798,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 798,
+                        ["localize_EN"] = "Simple Headband (Blk)",
+                        ["localize_JA"] = "シンプルカチューシャ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020803,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 803,
+                        ["localize_EN"] = "Sukonbu Ears Headband",
+                        ["localize_JA"] = "すこん部耳カチューシャ"
+                    },
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 803,
+                        ["localize_EN"] = "Shirakami Fubuki Eye Mask",
+                        ["localize_JA"] = "白上フブキ 活動5周年記念 アイマスク"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020804,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 804,
+                        ["localize_EN"] = "FUWAFUWA Hairband",
+                        ["localize_JA"] = "FUWAFUWAヘアバンド"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020805,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 805,
+                        ["localize_EN"] = "MOCOMOCO Hairband",
+                        ["localize_JA"] = "MOCOMOCOヘアバンド"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020814,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 814,
+                        ["localize_EN"] = "Shirakami Fubuki Anniversary Tee",
+                        ["localize_JA"] = "白上フブキ一周年記念Tシャツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11020870,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 870,
+                        ["localize_EN"] = "Staff Badge Holder",
+                        ["localize_JA"] = "STAFF用カードホルダー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021017,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 17,
+                        ["localize_EN"] = "Oversized Knit Shirt (Wh)",
+                        ["localize_JA"] = "オーバーサイズカットソー（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021018,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 18,
+                        ["localize_EN"] = "Oversized Knit Shirt (Blk)",
+                        ["localize_JA"] = "オーバーサイズカットソー（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021019,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 19,
+                        ["localize_EN"] = "Oversized Knit Shirt (Gry)",
+                        ["localize_JA"] = "オーバーサイズカットソー（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021020,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 20,
+                        ["localize_EN"] = "Cap Sleeve Oversized T (Wh)",
+                        ["localize_JA"] = "フレンチスリーブオーバーサイズTシャツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021021,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 703,
+                        ["localize_EN"] = "Cap Sleeve Oversized T (Blk)",
+                        ["localize_JA"] = "フレンチスリーブオーバーサイズTシャツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021022,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 704,
+                        ["localize_EN"] = "Cap Sleeve Oversized T (Gry)",
+                        ["localize_JA"] = "フレンチスリーブオーバーサイズTシャツ（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021060,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 60,
+                        ["localize_EN"] = "Simple Pleated Skirt",
+                        ["localize_JA"] = "ベーシックプリーツスカート"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 60,
+                        ["localize_EN"] = "Pathfinder Jacket Type A",
+                        ["localize_JA"] = "パスファインダージャケット typeA"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 60,
+                        ["localize_EN"] = "Pathfinder Sneakers Type A",
+                        ["localize_JA"] = "パスファインダースニーカー typeA"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021061,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 61,
+                        ["localize_EN"] = "Simple Slacks",
+                        ["localize_JA"] = "ベーシックスラックス"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 61,
+                        ["localize_EN"] = "Pathfinder Jacket Type B",
+                        ["localize_JA"] = "パスファインダージャケット typeB"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 61,
+                        ["localize_EN"] = "Pathfinder Sneakers Type B",
+                        ["localize_JA"] = "パスファインダースニーカー typeB"
+                    },
+                    {
+                        ["source"] = "avatarClothSocks",
+                        ["id"] = 60,
+                        ["localize_EN"] = "Basic Tights",
+                        ["localize_JA"] = "ベーシックタイツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021072,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 72,
+                        ["localize_EN"] = "Oversized Round Rimless Glasses",
+                        ["localize_JA"] = "オーバーサイズラウンドリムレスグラス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021075,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 75,
+                        ["localize_EN"] = "Square Tinted Sunglasses",
+                        ["localize_JA"] = "スクエアカラーサングラス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021113,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 113,
+                        ["localize_EN"] = "Night Town Gothic Doll Hat (Blk)",
+                        ["localize_JA"] = "ナイトタウンゴシックミニハット（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021114,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 114,
+                        ["localize_EN"] = "Night Town Gothic Doll Hat (Vlt)",
+                        ["localize_JA"] = "ナイトタウンゴシックミニハット（バイオレット）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021115,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 115,
+                        ["localize_EN"] = "Night Town Gothic Doll Hat (Wh)",
+                        ["localize_JA"] = "ナイトタウンゴシックミニハット（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021397,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 397,
+                        ["localize_EN"] = "Tokino Sora Starry Bl∞min' Tee",
+                        ["localize_JA"] = "ときのそら 「Starry Bl∞min'」Tシャツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021484,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 484,
+                        ["localize_EN"] = "Fuwawa Motif T-Shirt",
+                        ["localize_JA"] = "フワワモチーフTシャツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021486,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 486,
+                        ["localize_EN"] = "Mococo Motif T-Shirt",
+                        ["localize_JA"] = "モココモチーフTシャツ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021705,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 705,
+                        ["localize_EN"] = "Skinny Fit Shorts (Wh)",
+                        ["localize_JA"] = "スキニーショートパンツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021706,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 706,
+                        ["localize_EN"] = "Skinny Fit Shorts (Blk)",
+                        ["localize_JA"] = "スキニーショートパンツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021707,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 707,
+                        ["localize_EN"] = "Skinny Fit Shorts (Blu)",
+                        ["localize_JA"] = "スキニーショートパンツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021743,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEyes",
+                        ["id"] = 743,
+                        ["localize_EN"] = "Bold Round Glasses",
+                        ["localize_JA"] = "ボールドラウンドメガネ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021766,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 766,
+                        ["localize_EN"] = "Basic Top Hat (Blk)",
+                        ["localize_JA"] = "ベーシックシルクハット（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021767,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 767,
+                        ["localize_EN"] = "Basic Top Hat (Vlt)",
+                        ["localize_JA"] = "ベーシックシルクハット（バイオレット）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021768,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 768,
+                        ["localize_EN"] = "Basic Top Hat (Wh)",
+                        ["localize_JA"] = "ベーシックシルクハット（ライトブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021785,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 785,
+                        ["localize_EN"] = "Heart Earrings (RedGld)",
+                        ["localize_JA"] = "ハートピアス（レッドゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021786,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 786,
+                        ["localize_EN"] = "Heart Earrings (Gld)",
+                        ["localize_JA"] = "ハートピアス（ゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021787,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 787,
+                        ["localize_EN"] = "Heart Earrings (Slv)",
+                        ["localize_JA"] = "ハートピアス（シルバー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021788,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 788,
+                        ["localize_EN"] = "Heart Hoop Earrings (RedGld)",
+                        ["localize_JA"] = "ハートフープピアス（レッドゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021789,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 789,
+                        ["localize_EN"] = "Heart Hoop Earrings (Gld)",
+                        ["localize_JA"] = "ハートフープピアス（ゴールド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021790,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 790,
+                        ["localize_EN"] = "Heart Hoop Earrings (Slv)",
+                        ["localize_JA"] = "ハートフープピアス（シルバー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021799,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHeads",
+                        ["id"] = 824,
+                        ["localize_EN"] = "Nekko",
+                        ["localize_JA"] = "ねっ子"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 799,
+                        ["localize_EN"] = "Pathfinder Jacket SE Momosuzu Nene",
+                        ["localize_JA"] = "パスファインダージャケットSP 桃鈴ねね"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 799,
+                        ["localize_EN"] = "Pathfinder Shoes SE Momosuzu Nene",
+                        ["localize_JA"] = "パスファインダーシューズSP 桃鈴ねね"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021800,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHeads",
+                        ["id"] = 825,
+                        ["localize_EN"] = "SSRB",
+                        ["localize_JA"] = "SSRB"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 800,
+                        ["localize_EN"] = "Pathfinder Jacket SE Omaru Polka",
+                        ["localize_JA"] = "パスファインダージャケットSP 尾丸ポルカ"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 800,
+                        ["localize_EN"] = "Pathfinder Shoes SE Omaru Polka",
+                        ["localize_JA"] = "パスファインダーシューズSP 尾丸ポルカ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021801,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHeads",
+                        ["id"] = 826,
+                        ["localize_EN"] = "Yukimin",
+                        ["localize_JA"] = "雪民"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 801,
+                        ["localize_EN"] = "Pathfinder Jacket SE Yukihana Lamy",
+                        ["localize_JA"] = "パスファインダージャケットSP 雪花ラミィ"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 801,
+                        ["localize_EN"] = "Pathfinder Shoes SE Yukihana Lamy",
+                        ["localize_JA"] = "パスファインダーシューズSP 雪花ラミィ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021802,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHeads",
+                        ["id"] = 827,
+                        ["localize_EN"] = "Omaruza",
+                        ["localize_JA"] = "おまる座"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 802,
+                        ["localize_EN"] = "Pathfinder Jacket SE Shishiro Botan",
+                        ["localize_JA"] = "パスファインダージャケットSP 獅白ぼたん"
+                    },
+                    {
+                        ["source"] = "avatarClothShoes",
+                        ["id"] = 802,
+                        ["localize_EN"] = "Pathfinder Shoes SE Shishiro Botan",
+                        ["localize_JA"] = "パスファインダーシューズSP 獅白ぼたん"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021831,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 831,
+                        ["localize_EN"] = "AZKichi Matching Hoodie (Signed)",
+                        ["localize_JA"] = "あずきちとおそろいパーカー（サイン入り）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021850,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 850,
+                        ["localize_EN"] = "Robocosan Hoodie",
+                        ["localize_JA"] = "ロボ子さんパーカー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11021863,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 863,
+                        ["localize_EN"] = "AkiRose Gaming Hoodie (Signed)",
+                        ["localize_JA"] = "アキロゼとおそろいゲーミングパーカー（サイン入り）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 11100875,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 875,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21100001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 163,
+                        ["localize_EN"] = "Balloon T Tokino Sora (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツときのそら（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21100002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 181,
+                        ["localize_EN"] = "Balloon T Robocosan (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツロボ子さん（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21100003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 189,
+                        ["localize_EN"] = "Balloon T AZKi (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツAZKi（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21100004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 191,
+                        ["localize_EN"] = "Balloon T Sakura Miko (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツさくらみこ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21100005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 194,
+                        ["localize_EN"] = "Balloon T Hoshimachi Suisei (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ星街すいせい（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21101001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 182,
+                        ["localize_EN"] = "Balloon T Aki Rosenthal (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツアキ・ローゼンタール（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21101002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 183,
+                        ["localize_EN"] = "Balloon T Akai Haato (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ赤井はあと（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21101003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 160,
+                        ["localize_EN"] = "Balloon T Shirakami Fubuki (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ白上フブキ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21101004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 184,
+                        ["localize_EN"] = "Balloon T Natsuiro Matsuri (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ夏色まつり（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21102003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 186,
+                        ["localize_EN"] = "Balloon T Nakiri Ayame (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ百鬼あやめ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21102004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 187,
+                        ["localize_EN"] = "Balloon T Yuzuki Choco (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ癒月ちょこ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21102005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 188,
+                        ["localize_EN"] = "Balloon T Oozora Subaru (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ大空スバル（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21103001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 190,
+                        ["localize_EN"] = "Balloon T Ookami Mio (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ大神ミオ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21103002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 192,
+                        ["localize_EN"] = "Balloon T Nekomata Okayu (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ猫又おかゆ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21103003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 193,
+                        ["localize_EN"] = "Balloon T Inugami Korone (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ戌神ころね（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21103004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 195,
+                        ["localize_EN"] = "Balloon T Usada Pekora (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ兎田ぺこら（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21103005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 196,
+                        ["localize_EN"] = "Balloon T Shiranui Flare (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ不知火フレア（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21103006,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 200,
+                        ["localize_EN"] = "Balloon T Shirogane Noel (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ白銀ノエル（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21103007,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 202,
+                        ["localize_EN"] = "Balloon T Houshou Marine (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ宝鐘マリン（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21104001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 434,
+                        ["localize_EN"] = "Balloon T Amane Kanata (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ天音かなた（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21104002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 157,
+                        ["localize_EN"] = "Balloon T Tsunomaki Watame (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ角巻わため（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21104003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 161,
+                        ["localize_EN"] = "Balloon T Tokoyami Towa (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ常闇トワ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21104004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 435,
+                        ["localize_EN"] = "Balloon T Himemori Luna (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ姫森ルーナ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21105001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 164,
+                        ["localize_EN"] = "Balloon T Yukihana Lamy (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ雪花ラミィ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21105002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 213,
+                        ["localize_EN"] = "Balloon T Momosuzu Nene (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ桃鈴ねね（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21105003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 214,
+                        ["localize_EN"] = "Balloon T Shishiro Botan (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ獅白ぼたん（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21105004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 159,
+                        ["localize_EN"] = "Balloon T Omaru Polka (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ尾丸ポルカ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21106001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 279,
+                        ["localize_EN"] = "Balloon T La+ Darknesss (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツラプラス・ダークネス（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21106002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 280,
+                        ["localize_EN"] = "Balloon T Takane Lui (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ鷹嶺ルイ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21106003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 158,
+                        ["localize_EN"] = "Balloon T Hakui Koyori (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ博衣こより（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21106004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 281,
+                        ["localize_EN"] = "Balloon T Sakamata Chloe (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ沙花叉クロヱ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21106005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 282,
+                        ["localize_EN"] = "Balloon T Kazama Iroha (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ風真いろは（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21107001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 303,
+                        ["localize_EN"] = "Balloon T Hiodoshi Ao (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ火威青（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21107002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 304,
+                        ["localize_EN"] = "Balloon T Otonose Kanade (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ音乃瀬奏（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21107003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 305,
+                        ["localize_EN"] = "Balloon T Ichijou Ririka (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ一条莉々華（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21107004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 306,
+                        ["localize_EN"] = "Balloon T Juufuutei Raden (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ儒烏風亭らでん（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21107005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 307,
+                        ["localize_EN"] = "Balloon T Todoroki Hajime (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ轟はじめ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21201001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 283,
+                        ["localize_EN"] = "Balloon T Ayunda Risu (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツアユンダ・リス（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21201002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 162,
+                        ["localize_EN"] = "Balloon T Moona Hoshinova (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツムーナ・ホシノヴァ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21201003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 284,
+                        ["localize_EN"] = "Balloon T Airani Iofifteen (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツアイラニ・イオフィフティーン（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21202001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 156,
+                        ["localize_EN"] = "Balloon T Kureiji Ollie (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツクレイジー・オリー（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21202002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 285,
+                        ["localize_EN"] = "Balloon T Anya Melfissa (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツアーニャ・メルフィッサ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21202003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 286,
+                        ["localize_EN"] = "Balloon T Pavolia Reine (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツパヴォリア・レイネ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21203001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 287,
+                        ["localize_EN"] = "Balloon T Vestia Zeta (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツベスティア・ゼータ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21203002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 288,
+                        ["localize_EN"] = "Balloon T Kaela Kovalskia (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツカエラ・コヴァルスキア（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21203003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 289,
+                        ["localize_EN"] = "Balloon T Kobo Kanaeru (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツこぼ・かなえる（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21301001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 290,
+                        ["localize_EN"] = "Balloon T Mori Calliope (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ森カリオペ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21301002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 291,
+                        ["localize_EN"] = "Balloon T Takanashi Kiara (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ小鳥遊キアラ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21301003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 292,
+                        ["localize_EN"] = "Balloon T Ninomae Ina'nis (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ一伊那尓栖（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21301005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 294,
+                        ["localize_EN"] = "Balloon T Watson Amelia (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツワトソン・アメリア（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21302001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 155,
+                        ["localize_EN"] = "Balloon T IRyS (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツIRyS（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21302003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 296,
+                        ["localize_EN"] = "Balloon T Ouro Kronii (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツオーロ・クロニー（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21302005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 154,
+                        ["localize_EN"] = "Balloon T Hakos Baelz (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツハコス・ベールズ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21303001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 298,
+                        ["localize_EN"] = "Balloon T Shiori Novella (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツシオリ・ノヴェラ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21303002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 299,
+                        ["localize_EN"] = "Balloon T Koseki Bijou (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ古石ビジュー（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21303003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 300,
+                        ["localize_EN"] = "Balloon T Nerissa Ravencroft (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツネリッサ・レイヴンクロフト（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21303004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 301,
+                        ["localize_EN"] = "Balloon T Fuwawa Abyssgard (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツフワワ・アビスガード（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 21303005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 302,
+                        ["localize_EN"] = "Balloon T Mococo Abyssgard (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツモココ・アビスガード（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22100001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 224,
+                        ["localize_EN"] = "Balloon T Tokino Sora (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツときのそら（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22100002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 249,
+                        ["localize_EN"] = "Balloon T Robocosan (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツロボ子さん（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22100003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 257,
+                        ["localize_EN"] = "Balloon T AZKi (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツAZKi（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22100004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 259,
+                        ["localize_EN"] = "Balloon T Sakura Miko (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツさくらみこ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22100005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 262,
+                        ["localize_EN"] = "Balloon T Hoshimachi Suisei (Wh)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ星街すいせい（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22101001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 250,
+                        ["localize_EN"] = "Balloon T Aki Rosenthal (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツアキ・ローゼンタール（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22101002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 251,
+                        ["localize_EN"] = "Balloon T Akai Haato (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ赤井はあと（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22101003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 221,
+                        ["localize_EN"] = "Balloon T Shirakami Fubuki (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ白上フブキ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22101004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 252,
+                        ["localize_EN"] = "Balloon T Natsuiro Matsuri (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ夏色まつり（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22102003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 254,
+                        ["localize_EN"] = "Balloon T Nakiri Ayame (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ百鬼あやめ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22102004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 255,
+                        ["localize_EN"] = "Balloon T Yuzuki Choco (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ癒月ちょこ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22102005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 256,
+                        ["localize_EN"] = "Balloon T Oozora Subaru (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ大空スバル（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22103001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 258,
+                        ["localize_EN"] = "Balloon T Ookami Mio (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ大神ミオ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22103002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 260,
+                        ["localize_EN"] = "Balloon T Nekomata Okayu (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ猫又おかゆ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22103003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 261,
+                        ["localize_EN"] = "Balloon T Inugami Korone (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ戌神ころね（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22103004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 263,
+                        ["localize_EN"] = "Balloon T Usada Pekora (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ兎田ぺこら（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22103005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 264,
+                        ["localize_EN"] = "Balloon T Shiranui Flare (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ不知火フレア（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22103006,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 265,
+                        ["localize_EN"] = "Balloon T Shirogane Noel (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ白銀ノエル（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22103007,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 266,
+                        ["localize_EN"] = "Balloon T Houshou Marine (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ宝鐘マリン（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22104001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 267,
+                        ["localize_EN"] = "Balloon T Amane Kanata (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ天音かなた（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22104002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 218,
+                        ["localize_EN"] = "Balloon T Tsunomaki Watame (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ角巻わため（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22104003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 222,
+                        ["localize_EN"] = "Balloon T Tokoyami Towa (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ常闇トワ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22104004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 268,
+                        ["localize_EN"] = "Balloon T Himemori Luna (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ姫森ルーナ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22105001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 225,
+                        ["localize_EN"] = "Balloon T Yukihana Lamy (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ雪花ラミィ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22105002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 269,
+                        ["localize_EN"] = "Balloon T Momosuzu Nene (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ桃鈴ねね（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22105003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 270,
+                        ["localize_EN"] = "Balloon T Shishiro Botan (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ獅白ぼたん（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22105004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 220,
+                        ["localize_EN"] = "Balloon T Omaru Polka (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ尾丸ポルカ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22106001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 271,
+                        ["localize_EN"] = "Balloon T La+ Darknesss (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツラプラス・ダークネス（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22106002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 272,
+                        ["localize_EN"] = "Balloon T Takane Lui (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ鷹嶺ルイ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22106003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 219,
+                        ["localize_EN"] = "Balloon T Hakui Koyori (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ博衣こより（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22106004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 273,
+                        ["localize_EN"] = "Balloon T Sakamata Chloe (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ沙花叉クロヱ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22106005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 274,
+                        ["localize_EN"] = "Balloon T Kazama Iroha (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ風真いろは（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22107001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 387,
+                        ["localize_EN"] = "Balloon T Hiodoshi Ao (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ火威青（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22107002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 388,
+                        ["localize_EN"] = "Balloon T Otonose Kanade (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ音乃瀬奏（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22107003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 389,
+                        ["localize_EN"] = "Balloon T Ichijou Ririka (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ一条莉々華（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22107004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 390,
+                        ["localize_EN"] = "Balloon T Juufuutei Raden (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ儒烏風亭らでん（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22107005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 391,
+                        ["localize_EN"] = "Balloon T Todoroki Hajime (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ轟はじめ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22201001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 275,
+                        ["localize_EN"] = "Balloon T Ayunda Risu (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツアユンダ・リス（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22201002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 223,
+                        ["localize_EN"] = "Balloon T Moona Hoshinova (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツムーナ・ホシノヴァ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22201003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 276,
+                        ["localize_EN"] = "Balloon T Airani Iofifteen (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツアイラニ・イオフィフティーン（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22202001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 217,
+                        ["localize_EN"] = "Balloon T Kureiji Ollie (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツクレイジー・オリー（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22202002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 277,
+                        ["localize_EN"] = "Balloon T Anya Melfissa (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツアーニャ・メルフィッサ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22202003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 278,
+                        ["localize_EN"] = "Balloon T Pavolia Reine (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツパヴォリア・レイネ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22203001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 371,
+                        ["localize_EN"] = "Balloon T Vestia Zeta (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツベスティア・ゼータ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22203002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 372,
+                        ["localize_EN"] = "Balloon T Kaela Kovalskia (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツカエラ・コヴァルスキア（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22203003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 373,
+                        ["localize_EN"] = "Balloon T Kobo Kanaeru (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツこぼ・かなえる（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22301001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 374,
+                        ["localize_EN"] = "Balloon T Mori Calliope (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ森カリオペ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22301002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 375,
+                        ["localize_EN"] = "Balloon T Takanashi Kiara (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ小鳥遊キアラ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22301003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 376,
+                        ["localize_EN"] = "Balloon T Ninomae Ina'nis (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ一伊那尓栖（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22301005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 378,
+                        ["localize_EN"] = "Balloon T Watson Amelia (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツワトソン・アメリア（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22302001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 216,
+                        ["localize_EN"] = "Balloon T IRyS (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツIRyS（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22302003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 380,
+                        ["localize_EN"] = "Balloon T Ouro Kronii (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツオーロ・クロニー（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22302005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 215,
+                        ["localize_EN"] = "Balloon T Hakos Baelz (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツハコス・ベールズ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22303001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 382,
+                        ["localize_EN"] = "Balloon T Shiori Novella (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツシオリ・ノヴェラ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22303002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 383,
+                        ["localize_EN"] = "Balloon T Koseki Bijou (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツ古石ビジュー（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22303003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 384,
+                        ["localize_EN"] = "Balloon T Nerissa Ravencroft (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツネリッサ・レイヴンクロフト（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22303004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 385,
+                        ["localize_EN"] = "Balloon T Fuwawa Abyssgard (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツフワワ・アビスガード（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 22303005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 386,
+                        ["localize_EN"] = "Balloon T Mococo Abyssgard (Blk)",
+                        ["localize_JA"] = "吹出しスタンプTシャツモココ・アビスガード（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23100001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 323,
+                        ["localize_EN"] = "Sticker T Tokino Sora (Wh)",
+                        ["localize_JA"] = "スタンプTシャツときのそら（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23100002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 326,
+                        ["localize_EN"] = "Sticker T Robocosan (Wh)",
+                        ["localize_JA"] = "スタンプTシャツロボ子さん（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23100003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 352,
+                        ["localize_EN"] = "Sticker T AZKi (Wh)",
+                        ["localize_JA"] = "スタンプTシャツAZKi（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23100004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 353,
+                        ["localize_EN"] = "Sticker T Sakura Miko (Wh)",
+                        ["localize_JA"] = "スタンプTシャツさくらみこ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23100005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 354,
+                        ["localize_EN"] = "Sticker T Hoshimachi Suisei (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ星街すいせい（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23101001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 355,
+                        ["localize_EN"] = "Sticker T Aki Rosenthal (Wh)",
+                        ["localize_JA"] = "スタンプTシャツアキ・ローゼンタール（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23101002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 356,
+                        ["localize_EN"] = "Sticker T Akai Haato (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ赤井はあと（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23101003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 357,
+                        ["localize_EN"] = "Sticker T Shirakami Fubuki (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ白上フブキ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23101004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 358,
+                        ["localize_EN"] = "Sticker T Natsuiro Matsuri (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ夏色まつり（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23102003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 360,
+                        ["localize_EN"] = "Sticker T Nakiri Ayame (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ百鬼あやめ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23102004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 361,
+                        ["localize_EN"] = "Sticker T Yuzuki Choco (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ癒月ちょこ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23102005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 362,
+                        ["localize_EN"] = "Sticker T Oozora Subaru (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ大空スバル（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23103001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 363,
+                        ["localize_EN"] = "Sticker T Ookami Mio (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ大神ミオ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23103002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 364,
+                        ["localize_EN"] = "Sticker T Nekomata Okayu (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ猫又おかゆ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23103003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 365,
+                        ["localize_EN"] = "Sticker T Inugami Korone (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ戌神ころね（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23103004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 366,
+                        ["localize_EN"] = "Sticker T Usada Pekora (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ兎田ぺこら（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23103005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 367,
+                        ["localize_EN"] = "Sticker T Shiranui Flare (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ不知火フレア（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23103006,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 368,
+                        ["localize_EN"] = "Sticker T Shirogane Noel (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ白銀ノエル（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23103007,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 369,
+                        ["localize_EN"] = "Sticker T Houshou Marine (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ宝鐘マリン（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23104001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 370,
+                        ["localize_EN"] = "Sticker T Amane Kanata (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ天音かなた（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23104002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 436,
+                        ["localize_EN"] = "Sticker T Tsunomaki Watame (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ角巻わため（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23104003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 437,
+                        ["localize_EN"] = "Sticker T Tokoyami Towa (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ常闇トワ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23104004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 438,
+                        ["localize_EN"] = "Sticker T Himemori Luna (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ姫森ルーナ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23105001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 439,
+                        ["localize_EN"] = "Sticker T Yukihana Lamy (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ雪花ラミィ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23105002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 440,
+                        ["localize_EN"] = "Sticker T Momosuzu Nene (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ桃鈴ねね（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23105003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 441,
+                        ["localize_EN"] = "Sticker T Shishiro Botan (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ獅白ぼたん（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23105004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 442,
+                        ["localize_EN"] = "Sticker T Omaru Polka (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ尾丸ポルカ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23106001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 443,
+                        ["localize_EN"] = "Sticker T La+ Darknesss (Wh)",
+                        ["localize_JA"] = "スタンプTシャツラプラス・ダークネス（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23106002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 444,
+                        ["localize_EN"] = "Sticker T Takane Lui (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ鷹嶺ルイ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23106003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 445,
+                        ["localize_EN"] = "Sticker T Hakui Koyori (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ博衣こより（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23106004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 446,
+                        ["localize_EN"] = "Sticker T Sakamata Chloe (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ沙花叉クロヱ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23106005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 447,
+                        ["localize_EN"] = "Sticker T Kazama Iroha (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ風真いろは（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23107001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 493,
+                        ["localize_EN"] = "Sticker T Hiodoshi Ao (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ火威青（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23107002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 494,
+                        ["localize_EN"] = "Sticker T Otonose Kanade (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ音乃瀬奏（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23107003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 495,
+                        ["localize_EN"] = "Sticker T Ichijou Ririka (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ一条莉々華（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23107004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 496,
+                        ["localize_EN"] = "Sticker T Juufuutei Raden (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ儒烏風亭らでん（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23107005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 497,
+                        ["localize_EN"] = "Sticker T Todoroki Hajime (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ轟はじめ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23201001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 448,
+                        ["localize_EN"] = "Sticker T Ayunda Risu (Wh)",
+                        ["localize_JA"] = "スタンプTシャツアユンダ・リス（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23201002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 449,
+                        ["localize_EN"] = "Sticker T Moona Hoshinova (Wh)",
+                        ["localize_JA"] = "スタンプTシャツムーナ・ホシノヴァ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23201003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 450,
+                        ["localize_EN"] = "Sticker T Airani Iofifteen (Wh)",
+                        ["localize_JA"] = "スタンプTシャツアイラニ・イオフィフティーン（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23202001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 451,
+                        ["localize_EN"] = "Sticker T Kureiji Ollie (Wh)",
+                        ["localize_JA"] = "スタンプTシャツクレイジー・オリー（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23202002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 452,
+                        ["localize_EN"] = "Sticker T Anya Melfissa (Wh)",
+                        ["localize_JA"] = "スタンプTシャツアーニャ・メルフィッサ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23202003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 453,
+                        ["localize_EN"] = "Sticker T Pavolia Reine (Wh)",
+                        ["localize_JA"] = "スタンプTシャツパヴォリア・レイネ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23203001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 455,
+                        ["localize_EN"] = "Sticker T Vestia Zeta (Wh)",
+                        ["localize_JA"] = "スタンプTシャツベスティア・ゼータ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23203002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 456,
+                        ["localize_EN"] = "Sticker T Kaela Kovalskia (Wh)",
+                        ["localize_JA"] = "スタンプTシャツカエラ・コヴァルスキア（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23203003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 477,
+                        ["localize_EN"] = "Sticker T Kobo Kanaeru (Wh)",
+                        ["localize_JA"] = "スタンプTシャツこぼ・かなえる（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23301001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 478,
+                        ["localize_EN"] = "Sticker T Mori Calliope (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ森カリオペ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23301002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 479,
+                        ["localize_EN"] = "Sticker T Takanashi Kiara (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ小鳥遊キアラ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23301003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 480,
+                        ["localize_EN"] = "Sticker T Ninomae Ina'nis (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ一伊那尓栖（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23301005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 482,
+                        ["localize_EN"] = "Sticker T Watson Amelia (Wh)",
+                        ["localize_JA"] = "スタンプTシャツワトソン・アメリア（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23302001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 483,
+                        ["localize_EN"] = "Sticker T IRyS (Wh)",
+                        ["localize_JA"] = "スタンプTシャツIRyS（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23302003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 485,
+                        ["localize_EN"] = "Sticker T Ouro Kronii (Wh)",
+                        ["localize_JA"] = "スタンプTシャツオーロ・クロニー（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23302005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 487,
+                        ["localize_EN"] = "Sticker T Hakos Baelz (Wh)",
+                        ["localize_JA"] = "スタンプTシャツハコス・ベールズ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23303001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 488,
+                        ["localize_EN"] = "Sticker T Shiori Novella (Wh)",
+                        ["localize_JA"] = "スタンプTシャツシオリ・ノヴェラ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23303002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 489,
+                        ["localize_EN"] = "Sticker T Koseki Bijou (Wh)",
+                        ["localize_JA"] = "スタンプTシャツ古石ビジュー（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23303003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 490,
+                        ["localize_EN"] = "Sticker T Nerissa Ravencroft (Wh)",
+                        ["localize_JA"] = "スタンプTシャツネリッサ・レイヴンクロフト（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23303004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 491,
+                        ["localize_EN"] = "Sticker T Fuwawa Abyssgard (Wh)",
+                        ["localize_JA"] = "スタンプTシャツフワワ・アビスガード（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23303005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 492,
+                        ["localize_EN"] = "Sticker T Mococo Abyssgard (Wh)",
+                        ["localize_JA"] = "スタンプTシャツモココ・アビスガード（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23304001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 625,
+                        ["localize_EN"] = "Sticker T Elizabeth Rose Bloodflame (Wh)",
+                        ["localize_JA"] = "スタンプTシャツエリザベス・ローズ・ブラッドフレイム（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23304002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 626,
+                        ["localize_EN"] = "Sticker T Gigi Murin (Wh)",
+                        ["localize_JA"] = "スタンプTシャツジジ・ムリン（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23304003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 627,
+                        ["localize_EN"] = "Sticker T Cecilia Immergreen (Wh)",
+                        ["localize_JA"] = "スタンプTシャツセシリア・イマーグリーン（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 23304004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 628,
+                        ["localize_EN"] = "Sticker T Raora Panthera (Wh)",
+                        ["localize_JA"] = "スタンプTシャツラオーラ・パンテーラ（白）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24100001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 243,
+                        ["localize_EN"] = "Sticker T Tokino Sora (Blk)",
+                        ["localize_JA"] = "スタンプTシャツときのそら（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24100002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 244,
+                        ["localize_EN"] = "Sticker T Robocosan (Blk)",
+                        ["localize_JA"] = "スタンプTシャツロボ子さん（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24100003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 245,
+                        ["localize_EN"] = "Sticker T AZKi (Blk)",
+                        ["localize_JA"] = "スタンプTシャツAZKi（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24100004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 246,
+                        ["localize_EN"] = "Sticker T Sakura Miko (Blk)",
+                        ["localize_JA"] = "スタンプTシャツさくらみこ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24100005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 392,
+                        ["localize_EN"] = "Sticker T Hoshimachi Suisei (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ星街すいせい（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24101001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 393,
+                        ["localize_EN"] = "Sticker T Aki Rosenthal (Blk)",
+                        ["localize_JA"] = "スタンプTシャツアキ・ローゼンタール（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24101002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 394,
+                        ["localize_EN"] = "Sticker T Akai Haato (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ赤井はあと（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24101003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 395,
+                        ["localize_EN"] = "Sticker T Shirakami Fubuki (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ白上フブキ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24101004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 396,
+                        ["localize_EN"] = "Sticker T Natsuiro Matsuri (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ夏色まつり（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24102003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 398,
+                        ["localize_EN"] = "Sticker T Nakiri Ayame (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ百鬼あやめ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24102004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 399,
+                        ["localize_EN"] = "Sticker T Yuzuki Choco (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ癒月ちょこ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24102005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 400,
+                        ["localize_EN"] = "Sticker T Oozora Subaru (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ大空スバル（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24103001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 401,
+                        ["localize_EN"] = "Sticker T Ookami Mio (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ大神ミオ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24103002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 402,
+                        ["localize_EN"] = "Sticker T Nekomata Okayu (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ猫又おかゆ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24103003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 403,
+                        ["localize_EN"] = "Sticker T Inugami Korone (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ戌神ころね（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24103004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 404,
+                        ["localize_EN"] = "Sticker T Usada Pekora (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ兎田ぺこら（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24103005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 405,
+                        ["localize_EN"] = "Sticker T Shiranui Flare (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ不知火フレア（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24103006,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 406,
+                        ["localize_EN"] = "Sticker T Shirogane Noel (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ白銀ノエル（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24103007,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 407,
+                        ["localize_EN"] = "Sticker T Houshou Marine (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ宝鐘マリン（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24104001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 408,
+                        ["localize_EN"] = "Sticker T Amane Kanata (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ天音かなた（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24104002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 409,
+                        ["localize_EN"] = "Sticker T Tsunomaki Watame (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ角巻わため（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24104003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 410,
+                        ["localize_EN"] = "Sticker T Tokoyami Towa (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ常闇トワ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24104004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 411,
+                        ["localize_EN"] = "Sticker T Himemori Luna (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ姫森ルーナ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24105001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 412,
+                        ["localize_EN"] = "Sticker T Yukihana Lamy (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ雪花ラミィ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24105002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 413,
+                        ["localize_EN"] = "Sticker T Momosuzu Nene (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ桃鈴ねね（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24105003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 414,
+                        ["localize_EN"] = "Sticker T Shishiro Botan (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ獅白ぼたん（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24105004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 415,
+                        ["localize_EN"] = "Sticker T Omaru Polka (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ尾丸ポルカ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24106001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 416,
+                        ["localize_EN"] = "Sticker T La+ Darknesss (Blk)",
+                        ["localize_JA"] = "スタンプTシャツラプラス・ダークネス（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24106002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 417,
+                        ["localize_EN"] = "Sticker T Takane Lui (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ鷹嶺ルイ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24106003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 418,
+                        ["localize_EN"] = "Sticker T Hakui Koyori (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ博衣こより（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24106004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 419,
+                        ["localize_EN"] = "Sticker T Sakamata Chloe (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ沙花叉クロヱ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24106005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 420,
+                        ["localize_EN"] = "Sticker T Kazama Iroha (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ風真いろは（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24107001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 548,
+                        ["localize_EN"] = "Sticker T Hiodoshi Ao (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ火威青（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24107002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 549,
+                        ["localize_EN"] = "Sticker T Otonose Kanade (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ音乃瀬奏（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24107003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 550,
+                        ["localize_EN"] = "Sticker T Ichijou Ririka (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ一条莉々華（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24107004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 551,
+                        ["localize_EN"] = "Sticker T Juufuutei Raden (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ儒烏風亭らでん（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24107005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 552,
+                        ["localize_EN"] = "Sticker T Todoroki Hajime (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ轟はじめ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24201001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 421,
+                        ["localize_EN"] = "Sticker T Ayunda Risu (Blk)",
+                        ["localize_JA"] = "スタンプTシャツアユンダ・リス（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24201002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 422,
+                        ["localize_EN"] = "Sticker T Moona Hoshinova (Blk)",
+                        ["localize_JA"] = "スタンプTシャツムーナ・ホシノヴァ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24201003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 423,
+                        ["localize_EN"] = "Sticker T Airani Iofifteen (Blk)",
+                        ["localize_JA"] = "スタンプTシャツアイラニ・イオフィフティーン（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24202001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 424,
+                        ["localize_EN"] = "Sticker T Kureiji Ollie (Blk)",
+                        ["localize_JA"] = "スタンプTシャツクレイジー・オリー（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24202002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 425,
+                        ["localize_EN"] = "Sticker T Anya Melfissa (Blk)",
+                        ["localize_JA"] = "スタンプTシャツアーニャ・メルフィッサ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24202003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 426,
+                        ["localize_EN"] = "Sticker T Pavolia Reine (Blk)",
+                        ["localize_JA"] = "スタンプTシャツパヴォリア・レイネ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24203001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 427,
+                        ["localize_EN"] = "Sticker T Vestia Zeta (Blk)",
+                        ["localize_JA"] = "スタンプTシャツベスティア・ゼータ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24203002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 428,
+                        ["localize_EN"] = "Sticker T Kaela Kovalskia (Blk)",
+                        ["localize_JA"] = "スタンプTシャツカエラ・コヴァルスキア（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24203003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 429,
+                        ["localize_EN"] = "Sticker T Kobo Kanaeru (Blk)",
+                        ["localize_JA"] = "スタンプTシャツこぼ・かなえる（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24301001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 430,
+                        ["localize_EN"] = "Sticker T Mori Calliope (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ森カリオペ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24301002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 431,
+                        ["localize_EN"] = "Sticker T Takanashi Kiara (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ小鳥遊キアラ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24301003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 432,
+                        ["localize_EN"] = "Sticker T Ninomae Ina'nis (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ一伊那尓栖（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24301005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 537,
+                        ["localize_EN"] = "Sticker T Watson Amelia  (Blk)",
+                        ["localize_JA"] = "スタンプTシャツワトソン・アメリア（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24302001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 538,
+                        ["localize_EN"] = "Sticker T IRyS (Blk)",
+                        ["localize_JA"] = "スタンプTシャツIRyS（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24302003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 540,
+                        ["localize_EN"] = "Sticker T Ouro Kronii (Blk)",
+                        ["localize_JA"] = "スタンプTシャツオーロ・クロニー（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24302005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 542,
+                        ["localize_EN"] = "Sticker T Hakos Baelz (Blk)",
+                        ["localize_JA"] = "スタンプTシャツハコス・ベールズ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24303001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 543,
+                        ["localize_EN"] = "Sticker T Shiori Novella (Blk)",
+                        ["localize_JA"] = "スタンプTシャツシオリ・ノヴェラ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24303002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 544,
+                        ["localize_EN"] = "Sticker T Koseki Bijou (Blk)",
+                        ["localize_JA"] = "スタンプTシャツ古石ビジュー（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24303003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 545,
+                        ["localize_EN"] = "Sticker T Nerissa Ravencroft (Blk)",
+                        ["localize_JA"] = "スタンプTシャツネリッサ・レイヴンクロフト（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24303004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 546,
+                        ["localize_EN"] = "Sticker T Fuwawa Abyssgard (Blk)",
+                        ["localize_JA"] = "スタンプTシャツフワワ・アビスガード（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24303005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 547,
+                        ["localize_EN"] = "Sticker T Mococo Abyssgard (Blk)",
+                        ["localize_JA"] = "スタンプTシャツモココ・アビスガード（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24304001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 667,
+                        ["localize_EN"] = "Sticker T Elizabeth Rose Bloodflame (Blk)",
+                        ["localize_JA"] = "スタンプTシャツエリザベス・ローズ・ブラッドフレイム（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24304002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 668,
+                        ["localize_EN"] = "Sticker T Gigi Murin (Blk)",
+                        ["localize_JA"] = "スタンプTシャツジジ・ムリン（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24304003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 669,
+                        ["localize_EN"] = "Sticker T Cecilia Immergreen (Blk)",
+                        ["localize_JA"] = "スタンプTシャツセシリア・イマーグリーン（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 24304004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 670,
+                        ["localize_EN"] = "Sticker T Raora Panthera (Blk)",
+                        ["localize_JA"] = "スタンプTシャツラオーラ・パンテーラ（黒）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51001165,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 165,
+                        ["localize_EN"] = "Character Icon T - Music (Wh)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・Music（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51001166,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 166,
+                        ["localize_EN"] = "Character Icon T - Mine (Wh)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・採掘（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51001167,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 167,
+                        ["localize_EN"] = "Character Icon T - Craft (Wh)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・クラフト（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51001168,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 168,
+                        ["localize_EN"] = "Character Icon T - Hungry (Wh)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・お腹空いた（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51001169,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 169,
+                        ["localize_EN"] = "Character Icon T - Angry (Wh)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・怒る（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51001170,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 170,
+                        ["localize_EN"] = "Character Icon T - Greet (Wh)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・挨拶（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51001171,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 171,
+                        ["localize_EN"] = "Character Icon T - OK (Wh)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・OK（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51001172,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 172,
+                        ["localize_EN"] = "Character Icon T - Go (Wh)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・移動（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51002173,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 173,
+                        ["localize_EN"] = "Mithra Icon T - Happy (Wh)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・ハッピー（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51002174,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 174,
+                        ["localize_EN"] = "Mithra Icon T - Inspect (Wh)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・チェック（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51002175,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 175,
+                        ["localize_EN"] = "Mithra Icon T - Ponder (Wh)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・考え中（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51002176,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 176,
+                        ["localize_EN"] = "Mithra Icon T - Sorry (Wh)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・ごめんなさい（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51002177,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 177,
+                        ["localize_EN"] = "Mithra Icon T - Doze (Wh)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・うとうと（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51002178,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 178,
+                        ["localize_EN"] = "Mithra Icon T - Greet (Wh)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・挨拶（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51002179,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 179,
+                        ["localize_EN"] = "Mithra Icon T - No (Wh)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・NG（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 51002180,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 180,
+                        ["localize_EN"] = "Mithra Icon T - Boast (Wh)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・自慢（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52001165,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 226,
+                        ["localize_EN"] = "Character Icon T - Music (Blk)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・Music（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52001166,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 227,
+                        ["localize_EN"] = "Character Icon T - Mine (Blk)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・採掘（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52001167,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 228,
+                        ["localize_EN"] = "Character Icon T - Craft (Blk)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・クラフト（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52001168,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 229,
+                        ["localize_EN"] = "Character Icon T - Hungry (Blk)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・お腹空いた（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52001169,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 230,
+                        ["localize_EN"] = "Character Icon T - Angry (Blk)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・怒る（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52001170,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 231,
+                        ["localize_EN"] = "Character Icon T - Greet (Blk)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・挨拶（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52001171,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 232,
+                        ["localize_EN"] = "Character Icon T - OK (Blk)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・OK（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52001172,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 233,
+                        ["localize_EN"] = "Character Icon T - Go (Blk)",
+                        ["localize_JA"] = "公式キャラデザインTシャツ・移動（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52002173,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 234,
+                        ["localize_EN"] = "Mithra Icon T - Happy (Blk)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・ハッピー（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52002174,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 235,
+                        ["localize_EN"] = "Mithra Icon T - Inspect (Blk)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・チェック（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52002175,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 236,
+                        ["localize_EN"] = "Mithra Icon T - Ponder (Blk)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・考え中（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52002176,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 237,
+                        ["localize_EN"] = "Mithra Icon T - Sorry (Blk)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・ごめんなさい（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52002177,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 238,
+                        ["localize_EN"] = "Mithra Icon T - Doze (Blk)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・うとうと（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52002178,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 239,
+                        ["localize_EN"] = "Mithra Icon T - Greet (Blk)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・挨拶（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52002179,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 240,
+                        ["localize_EN"] = "Mithra Icon T - No (Blk)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・NG（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 52002180,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 241,
+                        ["localize_EN"] = "Mithra Icon T - Boast (Blk)",
+                        ["localize_JA"] = "ミスラデザインTシャツ・自慢（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60000002,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60000002,
+                        ["localize_EN"] = "Arms (Robocosan)",
+                        ["localize_JA"] = "腕（ロボ子さん）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 60000002,
+                        ["localize_EN"] = "Legs (Robocosan)",
+                        ["localize_JA"] = "脚（ロボ子さん）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60000013,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60000013,
+                        ["localize_EN"] = "Nails (AZKi)",
+                        ["localize_JA"] = "ネイル（AZKi）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60000030,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60000030,
+                        ["localize_EN"] = "Nails (Yukihana Lamy)",
+                        ["localize_JA"] = "ネイル（雪花ラミィ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60000031,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60000031,
+                        ["localize_EN"] = "Nails (Momosuzu Nene)",
+                        ["localize_JA"] = "ネイル（桃鈴ねね）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60000032,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60000032,
+                        ["localize_EN"] = "Nails (Shishiro Botan)",
+                        ["localize_JA"] = "ネイル（獅白ぼたん）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60000034,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60000034,
+                        ["localize_EN"] = "Nails (Omaru Polka)",
+                        ["localize_JA"] = "ネイル（尾丸ポルカ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60004016,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60004016,
+                        ["localize_EN"] = "Nails (Fuwawa Abyssgard)",
+                        ["localize_JA"] = "ネイル（フワワ・アビスガード）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60004017,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60004017,
+                        ["localize_EN"] = "Nails (Mococo Abyssgard)",
+                        ["localize_JA"] = "ネイル（モココ・アビスガード）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60006001,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60006001,
+                        ["localize_EN"] = "Nails (Hiodoshi Ao)",
+                        ["localize_JA"] = "ネイル（火威青）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60006003,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccHands",
+                        ["id"] = 60006003,
+                        ["localize_EN"] = "Nails (Ichijou Ririka)",
+                        ["localize_JA"] = "ネイル（一条莉々華）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60081039,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 39,
+                        ["localize_EN"] = "hololive EXPO 2024 Shirt (Blu)",
+                        ["localize_JA"] = "hololive EXPO 2024シャツ（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60081040,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 40,
+                        ["localize_EN"] = "hololive EXPO 2024 Shirt (Red)",
+                        ["localize_JA"] = "hololive EXPO 2024シャツ（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60081041,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 41,
+                        ["localize_EN"] = "hololive EXPO 2024 Shirt (Pk)",
+                        ["localize_JA"] = "hololive EXPO 2024シャツ（ピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60081042,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 42,
+                        ["localize_EN"] = "hololive EXPO 2024 Shirt (Or)",
+                        ["localize_JA"] = "hololive EXPO 2024シャツ（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60081043,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 43,
+                        ["localize_EN"] = "hololive EXPO 2024 Shirt (Gn)",
+                        ["localize_JA"] = "hololive EXPO 2024シャツ（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60081044,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 44,
+                        ["localize_EN"] = "hololive EXPO 2024 Shirt (Yel)",
+                        ["localize_JA"] = "hololive EXPO 2024シャツ（イエロー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60081045,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 45,
+                        ["localize_EN"] = "hololive EXPO 2024 Shirt (Vlt)",
+                        ["localize_JA"] = "hololive EXPO 2024シャツ（バイオレット）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 60081046,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 46,
+                        ["localize_EN"] = "hololive EXPO 2024 Shirt (Wh)",
+                        ["localize_JA"] = "hololive EXPO 2024シャツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 61010185,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 185,
+                        ["localize_EN"] = "holonatsu Paradise T-Shirt (Wh)",
+                        ["localize_JA"] = "ホロナツパラダイス2025 Tシャツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 61010377,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 377,
+                        ["localize_EN"] = "holonatsu Paradise T-Shirt (Blk)",
+                        ["localize_JA"] = "ホロナツパラダイス2025 Tシャツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90050005,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 5,
+                        ["localize_EN"] = "Cloth Cap",
+                        ["localize_JA"] = "布の帽子"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 5,
+                        ["localize_EN"] = "Cloth Leggings",
+                        ["localize_JA"] = "布のズボン"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 5,
+                        ["localize_EN"] = "Cloth Tunic",
+                        ["localize_JA"] = "布の上着"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90070135,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccMasks",
+                        ["id"] = 135,
+                        ["localize_EN"] = "Iron Helm",
+                        ["localize_JA"] = "鉄の兜"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90080004,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 4,
+                        ["localize_EN"] = "Shabby Cap",
+                        ["localize_JA"] = "ボロの頭巾"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 4,
+                        ["localize_EN"] = "Shabby Leggings",
+                        ["localize_JA"] = "ボロのズボン"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 4,
+                        ["localize_EN"] = "Shabby Tunic",
+                        ["localize_JA"] = "ボロの上着"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90080006,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 6,
+                        ["localize_EN"] = "Explorer's Boots (Bn)",
+                        ["localize_JA"] = "冒険者のブーツ（ブラウン）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 6,
+                        ["localize_EN"] = "Explorer's Tunic (Blu)",
+                        ["localize_JA"] = "冒険者のチュニック（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90080007,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 6,
+                        ["localize_EN"] = "Explorer's Beret (Blu)",
+                        ["localize_JA"] = "冒険者のベレー帽（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90080059,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 59,
+                        ["localize_EN"] = "Explorer's Beret (Red)",
+                        ["localize_JA"] = "冒険者のベレー帽（レッド）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 59,
+                        ["localize_EN"] = "Explorer's Boots (Gry)",
+                        ["localize_JA"] = "冒険者のブーツ（グレー）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 59,
+                        ["localize_EN"] = "Explorer's Tunic (Red)",
+                        ["localize_JA"] = "冒険者のチュニック（レッド）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90080062,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 62,
+                        ["localize_EN"] = "Explorer's Beret (Gn)",
+                        ["localize_JA"] = "冒険者のベレー帽（グリーン）"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 62,
+                        ["localize_EN"] = "Explorer's Boots (Blk)",
+                        ["localize_JA"] = "冒険者のブーツ（ブラック）"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 62,
+                        ["localize_EN"] = "Explorer's Tunic (Gn)",
+                        ["localize_JA"] = "冒険者のチュニック（グリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90080135,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 135,
+                        ["localize_EN"] = nil,
+                        ["localize_JA"] = nil
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90100197,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 197,
+                        ["localize_EN"] = "Slime Hat",
+                        ["localize_JA"] = "スライムの帽子"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 197,
+                        ["localize_EN"] = "Slime Hoodie",
+                        ["localize_JA"] = "スライムフーディー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90100201,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccCaps",
+                        ["id"] = 201,
+                        ["localize_EN"] = "-",
+                        ["localize_JA"] = "キャンピーマスク"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90130197,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 197,
+                        ["localize_EN"] = "Slime Earrings",
+                        ["localize_JA"] = "スライムピアス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90130199,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 199,
+                        ["localize_EN"] = "Iron Ring",
+                        ["localize_JA"] = "鉄の指輪"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90130203,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 203,
+                        ["localize_EN"] = "Bone Ring",
+                        ["localize_JA"] = "骨の指輪"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90130204,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 204,
+                        ["localize_EN"] = "Stone Ring",
+                        ["localize_JA"] = "石の指輪"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90130205,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 205,
+                        ["localize_EN"] = "Wooden Ring",
+                        ["localize_JA"] = "木の指輪"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90130206,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 206,
+                        ["localize_EN"] = "Feral Earrings",
+                        ["localize_JA"] = "ワイルドイヤリング"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90130247,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 247,
+                        ["localize_EN"] = "Scarf",
+                        ["localize_JA"] = "スカーフ"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 90130248,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 248,
+                        ["localize_EN"] = "Leather Choker",
+                        ["localize_JA"] = "レザーチョーカー"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010207,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 207,
+                        ["localize_EN"] = "Ruby Earrings",
+                        ["localize_JA"] = "ルビーの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 207,
+                        ["localize_EN"] = "Ruby Ring",
+                        ["localize_JA"] = "ルビーの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 207,
+                        ["localize_EN"] = "Ruby Necklace",
+                        ["localize_JA"] = "ルビーのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010208,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 208,
+                        ["localize_EN"] = "Sapphire Earrings",
+                        ["localize_JA"] = "サファイアの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 208,
+                        ["localize_EN"] = "Sapphire Ring",
+                        ["localize_JA"] = "サファイアの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 208,
+                        ["localize_EN"] = "Sapphire Necklace",
+                        ["localize_JA"] = "サファイアのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010209,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 209,
+                        ["localize_EN"] = "Topaz Earrings",
+                        ["localize_JA"] = "トパーズの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 209,
+                        ["localize_EN"] = "Topaz Ring",
+                        ["localize_JA"] = "トパーズの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 209,
+                        ["localize_EN"] = "Topaz Necklace",
+                        ["localize_JA"] = "トパーズのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010210,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 210,
+                        ["localize_EN"] = "Emerald Earrings",
+                        ["localize_JA"] = "エメラルドの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 210,
+                        ["localize_EN"] = "Emerald Ring",
+                        ["localize_JA"] = "エメラルドの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 210,
+                        ["localize_EN"] = "Emerald Necklace",
+                        ["localize_JA"] = "エメラルドのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010211,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 211,
+                        ["localize_EN"] = "Amethyst Earrings",
+                        ["localize_JA"] = "アメジストの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 211,
+                        ["localize_EN"] = "Amethyst Ring",
+                        ["localize_JA"] = "アメジストの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 211,
+                        ["localize_EN"] = "Amethyst Necklace",
+                        ["localize_JA"] = "アメジストのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010720,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 720,
+                        ["localize_EN"] = "Radiant Ruby Earrings",
+                        ["localize_JA"] = "輝くルビーの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 720,
+                        ["localize_EN"] = "Radiant Ruby Ring",
+                        ["localize_JA"] = "輝くルビーの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 720,
+                        ["localize_EN"] = "Radiant Ruby Necklace",
+                        ["localize_JA"] = "輝くルビーのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010721,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 721,
+                        ["localize_EN"] = "Radiant Sapphire Earrings",
+                        ["localize_JA"] = "輝くサファイアの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 721,
+                        ["localize_EN"] = "Radiant Sapphire Ring",
+                        ["localize_JA"] = "輝くサファイアの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 721,
+                        ["localize_EN"] = "Radiant Sapphire Necklace",
+                        ["localize_JA"] = "輝くサファイアのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010722,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 722,
+                        ["localize_EN"] = "Radiant Topaz Earrings",
+                        ["localize_JA"] = "輝くトパーズの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 722,
+                        ["localize_EN"] = "Radiant Topaz Ring",
+                        ["localize_JA"] = "輝くトパーズの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 722,
+                        ["localize_EN"] = "Radiant Topaz Necklace",
+                        ["localize_JA"] = "輝くトパーズのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010723,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 723,
+                        ["localize_EN"] = "Radiant Emerald Earrings",
+                        ["localize_JA"] = "輝くエメラルドの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 723,
+                        ["localize_EN"] = "Radiant Emerald Ring",
+                        ["localize_JA"] = "輝くエメラルドの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 723,
+                        ["localize_EN"] = "Radiant Emerald Necklace",
+                        ["localize_JA"] = "輝くエメラルドのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91010724,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccEars",
+                        ["id"] = 724,
+                        ["localize_EN"] = "Radiant Amethyst Earrings",
+                        ["localize_JA"] = "輝くアメジストの耳飾り"
+                    },
+                    {
+                        ["source"] = "avatarAccFingers",
+                        ["id"] = 724,
+                        ["localize_EN"] = "Radiant Amethyst Ring",
+                        ["localize_JA"] = "輝くアメジストの指輪"
+                    },
+                    {
+                        ["source"] = "avatarAccNecks",
+                        ["id"] = 724,
+                        ["localize_EN"] = "Radiant Amethyst Earrings",
+                        ["localize_JA"] = "輝くアメジストのネックレス"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 91020198,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarAccMasks",
+                        ["id"] = 198,
+                        ["localize_EN"] = "Golem Helm",
+                        ["localize_JA"] = "ゴーレムヘルム"
+                    },
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 198,
+                        ["localize_EN"] = "Golem Greaves",
+                        ["localize_JA"] = "ゴーレムグリーヴ"
+                    },
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 198,
+                        ["localize_EN"] = "Golem Armor",
+                        ["localize_JA"] = "ゴーレムメイル"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 100001013,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 711,
+                        ["localize_EN"] = "Basic Pleated Skirt (Blu)",
+                        ["localize_JA"] = "ノーマルプリーツスカート（ブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 100001014,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 712,
+                        ["localize_EN"] = "Basic Pleated Skirt (Or)",
+                        ["localize_JA"] = "ノーマルプリーツスカート（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 100001015,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothBottoms",
+                        ["id"] = 713,
+                        ["localize_EN"] = "Basic Pleated Skirt (Bn)",
+                        ["localize_JA"] = "ノーマルプリーツスカート（ブラウン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000100,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 599,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマルクロップドTシャツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000101,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 600,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマルクロップドTシャツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000102,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 601,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマルクロップドTシャツ（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000103,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 602,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマルクロップドTシャツ（ミントグリーン）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000104,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 603,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマルクロップドTシャツ（パステルピンク）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000105,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 604,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマル半袖シャツ（ホワイト）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000106,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 605,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマル半袖シャツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000107,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 606,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマル半袖シャツ（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000108,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 607,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマル半袖シャツ（ライトブルー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110000109,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 608,
+                        ["localize_EN"] = "",
+                        ["localize_JA"] = "ノーマル半袖シャツ（ライラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110001012,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 714,
+                        ["localize_EN"] = "Basic Oversized T (Blk)",
+                        ["localize_JA"] = "ノーマルオーバーサイズTシャツ（ブラック）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110001013,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 715,
+                        ["localize_EN"] = "Basic Oversized T (Or)",
+                        ["localize_JA"] = "ノーマルオーバーサイズTシャツ（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110001014,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 716,
+                        ["localize_EN"] = "Basic Hoodie (Gry)",
+                        ["localize_JA"] = "ノーマルフーディー（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110001015,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 717,
+                        ["localize_EN"] = "Basic Hoodie (Or)",
+                        ["localize_JA"] = "ノーマルフーディー（オレンジ）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110001016,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 718,
+                        ["localize_EN"] = "Basic T-Shirt (Gry)",
+                        ["localize_JA"] = "ノーマルTシャツ（グレー）"
+                    }
+                }
+            },
+            {
+                ["sortKey"] = 110001017,
+                ["items"] = {
+                    {
+                        ["source"] = "avatarClothOuters",
+                        ["id"] = 719,
+                        ["localize_EN"] = "Basic T-Shirt (Or)",
+                        ["localize_JA"] = "ノーマルTシャツ（オレンジ）"
                     }
                 }
             }

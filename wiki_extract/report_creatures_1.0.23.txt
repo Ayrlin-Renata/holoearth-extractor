@@ -1,0 +1,19 @@
+Creature Change Report for version: 1.0.23
+
+
+* Creatures Updated: Skeleton (ID: 1)
+  - Element 104 resistance changed from -30 to 20
+  - Element 107 resistance changed from N/A to -30
+
+* Creatures Updated: Skeleton (ID: 18)
+  - Element 107 resistance changed from N/A to -30
+
+* Creatures Updated: Fox Fiend (ID: 20)
+  - Element 102 resistance changed from N/A to -10
+  - Element 103 resistance changed from -20 to -50
+  - Field 'spawners' has changed.
+
+* Creatures Updated: Fox Fiend (ID: 120)
+  - Element 103 resistance changed from N/A to -20
+  - Element 105 resistance changed from N/A to -30
+  - Field 'spawners' has changed.

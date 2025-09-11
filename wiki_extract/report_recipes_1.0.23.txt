@@ -1,0 +1,15 @@
+Recipe Change Report for version: 1.0.23
+
+
+* Crafting Updated: Nora Garlic Seed (ID: 712)
+  - Field 'resultItemName_EN' changed from '
+Nora Garlic Seed' to 'Nora Garlic Seed'
+* Crafting Added: Hiodoshi Ao 'Daybreak' Outfit Acrylic Stand S (ID: 962)
+* Crafting Added: Ichijou Ririka 'Daybreak' Outfit Acrylic Stand S (ID: 963)
+* Crafting Added: Todoroki Hajime 'Daybreak' Outfit Acrylic Stand S (ID: 964)
+* Crafting Added: Otonose Kanade 'Daybreak' Outfit Acrylic Stand S (ID: 965)
+* Crafting Added: Juufuutei Raden 'Daybreak' Outfit Acrylic Stand S (ID: 966)
+
+* Cultivation Updated: Nora Garlic Seed (ID: 10404004)
+  - Field 'seedItemName_EN' changed from '
+Nora Garlic Seed' to 'Nora Garlic Seed'

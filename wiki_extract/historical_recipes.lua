@@ -20000,6 +20000,67 @@ return {
                         ["itemCategoryName_JA"] = "クラフト用ナイフ"
                     }
                 }
+            },
+            ["1.0.23"] = {
+                ["craftRecipeId"] = 712,
+                ["resultItemId"] = 10404004,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["conditionalRecipeSkillId"] = 229,
+                ["exp"] = 10,
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 10,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Workbench",
+                ["facilityName_JA"] = "作業台",
+                ["conditionalRecipeSkillName_EN"] = "craft_recipe_skill_229",
+                ["conditionalRecipeSkillName_JA"] = "craft_recipe_skill_229",
+                ["resultItemName_EN"] = "Nora Garlic Seed",
+                ["resultItemName_JA"] = "ノラニンニクの種",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 71201,
+                        ["recipeId"] = 712,
+                        ["itemId"] = 10102008,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 5,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Nora Garlic",
+                        ["itemName_JA"] = "ノラニンニク"
+                    },
+                    {
+                        ["craftMaterialId"] = 71202,
+                        ["recipeId"] = 712,
+                        ["itemId"] = 30300001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 5,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Paper",
+                        ["itemName_JA"] = "紙"
+                    },
+                    {
+                        ["craftMaterialId"] = 71203,
+                        ["recipeId"] = 712,
+                        ["itemId"] = 0,
+                        ["itemCategory"] = 20191,
+                        ["amount"] = 0,
+                        ["reduceDurability"] = 1,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Name not found for item 0",
+                        ["itemName_JA"] = "Name not found for item 0",
+                        ["itemCategoryName_EN"] = "Crafting Knives",
+                        ["itemCategoryName_JA"] = "クラフト用ナイフ"
+                    }
+                }
             }
         },
         ["713"] = {
@@ -40875,6 +40936,191 @@ return {
                     }
                 }
             }
+        },
+        ["962"] = {
+            ["1.0.23"] = {
+                ["craftRecipeId"] = 962,
+                ["resultItemId"] = 42052000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Hiodoshi Ao 'Daybreak' Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "火威青 Daybreak衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 96201,
+                        ["recipeId"] = 962,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["963"] = {
+            ["1.0.23"] = {
+                ["craftRecipeId"] = 963,
+                ["resultItemId"] = 42053000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Ichijou Ririka 'Daybreak' Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "一条莉々華 Daybreak衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 96301,
+                        ["recipeId"] = 963,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["964"] = {
+            ["1.0.23"] = {
+                ["craftRecipeId"] = 964,
+                ["resultItemId"] = 42054000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Todoroki Hajime 'Daybreak' Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "轟はじめ Daybreak衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 96401,
+                        ["recipeId"] = 964,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["965"] = {
+            ["1.0.23"] = {
+                ["craftRecipeId"] = 965,
+                ["resultItemId"] = 42055000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Otonose Kanade 'Daybreak' Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "音乃瀬奏 Daybreak衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 96501,
+                        ["recipeId"] = 965,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["966"] = {
+            ["1.0.23"] = {
+                ["craftRecipeId"] = 966,
+                ["resultItemId"] = 42056000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Juufuutei Raden 'Daybreak' Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "儒烏風亭らでん Daybreak衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 96601,
+                        ["recipeId"] = 966,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
         }
     },
     ["smelting"] = {
@@ -43208,6 +43454,221 @@ return {
                 ["pickCastingId"] = 401,
                 ["pickVfx"] = "",
                 ["seedItemName_EN"] = "\nNora Garlic Seed",
+                ["seedItemName_JA"] = "ノラニンニクの種",
+                ["resolved_drop_scores"] = {
+                    {
+                        ["id"] = "504_0",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50400,
+                        ["qualityScore"] = 0,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50400_10102008",
+                                ["groupId"] = 50400,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 1,
+                                ["maxDropAmount"] = 1,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_10",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50401,
+                        ["qualityScore"] = 10,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50401_10102008",
+                                ["groupId"] = 50401,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 1,
+                                ["maxDropAmount"] = 1,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_100",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50410,
+                        ["qualityScore"] = 100,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50410_10102008",
+                                ["groupId"] = 50410,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 4,
+                                ["maxDropAmount"] = 5,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_20",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50402,
+                        ["qualityScore"] = 20,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50402_10102008",
+                                ["groupId"] = 50402,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 1,
+                                ["maxDropAmount"] = 1,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_30",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50403,
+                        ["qualityScore"] = 30,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50403_10102008",
+                                ["groupId"] = 50403,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 1,
+                                ["maxDropAmount"] = 2,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_40",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50404,
+                        ["qualityScore"] = 40,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50404_10102008",
+                                ["groupId"] = 50404,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 1,
+                                ["maxDropAmount"] = 2,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_50",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50405,
+                        ["qualityScore"] = 50,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50405_10102008",
+                                ["groupId"] = 50405,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 2,
+                                ["maxDropAmount"] = 2,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_60",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50406,
+                        ["qualityScore"] = 60,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50406_10102008",
+                                ["groupId"] = 50406,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 2,
+                                ["maxDropAmount"] = 3,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_70",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50407,
+                        ["qualityScore"] = 70,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50407_10102008",
+                                ["groupId"] = 50407,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 2,
+                                ["maxDropAmount"] = 3,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_80",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50408,
+                        ["qualityScore"] = 80,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50408_10102008",
+                                ["groupId"] = 50408,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 2,
+                                ["maxDropAmount"] = 3,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    },
+                    {
+                        ["id"] = "504_90",
+                        ["groupId"] = 504,
+                        ["dropLotteryGroupId"] = 50409,
+                        ["qualityScore"] = 90,
+                        ["resolved_lotteries"] = {
+                            {
+                                ["id"] = "50409_10102008",
+                                ["groupId"] = 50409,
+                                ["dropItemId"] = 10102008,
+                                ["minDropAmount"] = 2,
+                                ["maxDropAmount"] = 4,
+                                ["lottery"] = 100,
+                                ["dropItemName_EN"] = "Nora Garlic",
+                                ["dropItemName_JA"] = "ノラニンニク"
+                            }
+                        }
+                    }
+                }
+            },
+            ["1.0.23"] = {
+                ["id"] = "10404004",
+                ["seedItemId"] = 10404004,
+                ["dropScoreGroupId"] = 504,
+                ["scroreGraphGroupId"] = 1,
+                ["consumeDurability"] = 1,
+                ["growthTime"] = 600,
+                ["modelResource"] = "Models/Harvestables/MashimashiGarlic_F",
+                ["minModelScale"] = 0.4,
+                ["maxModelScale"] = 1,
+                ["pickCastingId"] = 401,
+                ["pickVfx"] = "",
+                ["seedItemName_EN"] = "Nora Garlic Seed",
                 ["seedItemName_JA"] = "ノラニンニクの種",
                 ["resolved_drop_scores"] = {
                     {

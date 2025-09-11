@@ -1,0 +1,21 @@
+Item Change Report for version: 1.0.23
+
+
+* Items Updated: Nora Garlic Seed (ID: 10404004)
+  - Field 'itemName_EN' changed from '
+Nora Garlic Seed' to 'Nora Garlic Seed'
+* Items Added: Unknown (ID: 42002000)
+* Items Added: Unknown (ID: 42002001)
+* Items Added: Unknown (ID: 42002002)
+* Items Added: Unknown (ID: 42024000)
+* Items Added: Unknown (ID: 42024001)
+* Items Added: Unknown (ID: 42024002)
+* Items Added: Unknown (ID: 42025000)
+* Items Added: Unknown (ID: 42025001)
+* Items Added: Unknown (ID: 42025002)
+* Items Added: Unknown (ID: 42026000)
+* Items Added: Unknown (ID: 42026001)
+* Items Added: Unknown (ID: 42026002)
+* Items Added: Unknown (ID: 42027000)
+* Items Added: Unknown (ID: 42027001)
+* Items Added: Unknown (ID: 42027002)
