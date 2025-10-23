@@ -1,0 +1,1700 @@
+Item Change Report for version: 1.1.0
+
+
+* Items Updated: Dragon Scale (ID: 30107001)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Fire Slime Gel (ID: 30200030)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Shoddy Door (ID: 40101008)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Double Door (ID: 40101009)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Square Window (ID: 40101015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Rectangular Window (ID: 40101016)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Stairs (ID: 40101017)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Ladder (ID: 40101018)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Skylight (ID: 40101053)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Straw Roof Bay Window (ID: 40101054)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Door (ID: 40102008)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Double Door (ID: 40102009)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Square Window (ID: 40102015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Rectangular Window (ID: 40102016)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Stairs (ID: 40102017)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Ladder (ID: 40102018)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Skylight (ID: 40102053)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Roof Bay Window (ID: 40102054)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Door (ID: 40103008)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Double Door (ID: 40103009)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Square Window (ID: 40103015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Rectangular Window (ID: 40103016)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Stairs (ID: 40103017)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Ladder (ID: 40103018)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Skylight (ID: 40103053)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Roof Bay Window (ID: 40103054)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Chimney (ID: 40103055)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxDoor (ID: 40199008)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxDoorDouble (ID: 40199009)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxWindowSquare (ID: 40199015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxWindowRectangle (ID: 40199016)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxStairs (ID: 40199017)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxLadder (ID: 40199018)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxWindowSkylight (ID: 40199053)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxBayWindow (ID: 40199054)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: xxChimney (ID: 40199055)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Workbench (ID: 40201011)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Mixing Cauldron (ID: 40201018)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40201029 (ID: 40201029)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Campfire (ID: 40201301)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Cooking Pot (ID: 40201311)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Cooking Pot (ID: 40201312)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Cooking Station (ID: 40201321)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Cooking Station (ID: 40201322)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Planter (ID: 40201324)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40201325 (ID: 40201325)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Smelting Furnace (ID: 40201401)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Blast Furnace (ID: 40201402)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Mortar (ID: 40201411)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spinning Wheel (ID: 40201412)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Loom (ID: 40201413)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Tanning Rack (ID: 40201414)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Crafting Stump (ID: 40299999)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Chest (ID: 40301001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Chest (ID: 40301002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Cabinet (ID: 40301003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Large Chest (ID: 40301004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Chest (ID: 40301005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Cabinet (ID: 40301006)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Wardrobe (ID: 40301007)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40301013 (ID: 40301013)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Pantry (ID: 40301101)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Pantry (ID: 40301102)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Water Cask (ID: 40301201)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Well (ID: 40301202)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40302003 (ID: 40302003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Straw Bed (ID: 40302201)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Bed (ID: 40302203)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Double Bed (ID: 40302204)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Bed (ID: 40302205)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Double Bed (ID: 40302206)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Straw Chair (ID: 40303001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Straw Bench (ID: 40303002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Log Seat (ID: 40303003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Log Bench (ID: 40303004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Stool (ID: 40303005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Round Wooden Stool (ID: 40303006)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Chair (ID: 40303007)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Bench (ID: 40303008)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Stool (ID: 40303009)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Chair (ID: 40303010)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Armchair (ID: 40303011)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Sofa (ID: 40303012)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Opulent Throne (ID: 40303015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Log Table (ID: 40303501)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Table (ID: 40303502)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Round Wooden Table (ID: 40303503)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Counter (ID: 40303504)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden L-Shaped Counter (ID: 40303505)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Table (ID: 40303507)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Side Table (ID: 40303508)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Golden Table (ID: 40303517)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Fireplace (ID: 40304001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Fireplace (ID: 40304002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Straw Wall Torch (ID: 40304101)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Hanging Brazier (ID: 40304102)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Wall Torch (ID: 40304103)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Iron Wall Torch (ID: 40304104)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Candles (ID: 40304107)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Pendant Light (ID: 40304108)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Floor Light (ID: 40304109)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Table Lamp (ID: 40304110)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Lamp (ID: 40304111)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Wall Light (ID: 40304112)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Chandelier (ID: 40304113)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Torch (ID: 40304120)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Bounty Board (ID: 40305001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Signboard (ID: 40305101)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Signboard (ID: 40305102)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Hanging Signboard (ID: 40305103)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spike Trap (ID: 40307001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Training Dummy (ID: 40307101)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40307108 (ID: 40307108)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Piano (ID: 40308003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Violin (Decoration) (ID: 40308004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Fence (ID: 40351001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shoddy Flag (ID: 40351002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Grave (ID: 40351003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Fur Rug (ID: 40351004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Mounted Deer Trophy (ID: 40351005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Deer Taxidermy Mount (ID: 40351006)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Fence (ID: 40351008)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Doormat (Wh) (ID: 40351009)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wooden Cupboard (ID: 40351015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Small Wooden Sideboard (ID: 40351016)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Large Wooden Sideboard (ID: 40351017)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: 3-Level Bookcase (ID: 40351018)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: 2-Level Bookcase (ID: 40351019)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Book Pile A (ID: 40351020)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Book Pile B (ID: 40351021)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Book Pile C (ID: 40351022)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Book Pile D (ID: 40351023)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Book Pile E (ID: 40351024)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Bathtub (ID: 40351025)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Barrel (ID: 40351026)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Pot (ID: 40351027)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Houseplant A (ID: 40351028)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Houseplant B (ID: 40351029)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Houseplant C (ID: 40351030)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Louver Shutter (ID: 40351031)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40351032 (ID: 40351032)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Ivy (ID: 40351033)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Overgrown Ivy (ID: 40351034)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40351035 (ID: 40351035)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Brick Wall A (ID: 40351037)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Brick Wall B (ID: 40351038)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flag (ID: 40351039)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Imp Plush (ID: 40351042)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Mandragora Plush (ID: 40351043)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wild Boar Plush (ID: 40351044)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Bumble Bee Plush (ID: 40351045)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Slime Plush (ID: 40351046)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Garland (ID: 40351047)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Pile of Presents (ID: 40351048)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Deer Taxidermy Mount (Christmas) (ID: 40351049)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Round Plate (ID: 40351055)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Placemat (ID: 40351056)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Carrot Salad (Sample) (ID: 40351062)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Veggie Salad (Sample) (ID: 40351063)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rolled Leaf (Sample) (ID: 40351064)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Seared Meat (Sample) (ID: 40351065)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Roasted Mushrooms (Sample) (ID: 40351066)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Fried Egg (Sample) (ID: 40351067)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spicy Steak (Sample) (ID: 40351068)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Splendid Steak Set (Sample) (ID: 40351069)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Meat & Fruit Stew (Sample) (ID: 40351070)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Meat Stew (Sample) (ID: 40351071)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Veggie Stew (Sample) (ID: 40351072)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spicy Curry (Sample) (ID: 40351073)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Super Spicy Curry (Sample) (ID: 40351074)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Smoothie (Sample) (ID: 40351075)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Lemon Squash (Sample) (ID: 40351076)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Honeyed Lemon (Sample) (ID: 40351077)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Apple Cider (Sample) (ID: 40351078)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Meat & Veggie Soup (Sample) (ID: 40351079)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Meat & Veggie Garlic Soup (Sample) (ID: 40351080)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Fruit Jam (Sample) (ID: 40351081)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Cherry Parfait (Sample) (ID: 40351083)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Fancy Cherry Parfait (Sample) (ID: 40351084)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Golden Deer Statue (ID: 40351089)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Gramophone (Decoration) (ID: 40352001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Radio (Decoration) (ID: 40352002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Clock (ID: 40352003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Partition (ID: 40352004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Rug (ID: 40352005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Bookshelf (ID: 40352006)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Dresser (ID: 40352012)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Bathtub (ID: 40352013)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Pillar (ID: 40352014)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Artistic Vase (ID: 40352015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Telescope (Decoration) (ID: 40352016)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Tapestry (Blu) (ID: 40352017)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Tapestry (Red) (ID: 40352018)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Tapestry (Gn) (ID: 40352019)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: White Fence (ID: 40352026)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Stone Fence (ID: 40352027)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Garden Archway (ID: 40352028)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Iron Fence (ID: 40352029)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Fountain (ID: 40352030)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Hedge (ID: 40352031)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spherical Hedge (ID: 40352032)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Tent (ID: 40352033)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Drying Rack (ID: 40352035)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Antique Bar Cart (ID: 40352037)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Golden Fence (ID: 40352038)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Golden Garden Archway (ID: 40352039)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Slime Sofa (ID: 40352040)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Slime Trampoline (ID: 40352041)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Kadomatsu (ID: 40352042)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Kadomatsu (Small) (ID: 40352043)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Festive Mochi (ID: 40352044)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Ceiling Fan (ID: 40390011)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Observation Beacon (ID: 40399015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: C2 Spawner (H Slime) (ID: 40401001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: C2 Spawner (H Toxic Slime) (ID: 40401002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999901 (ID: 40999901)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999902 (ID: 40999902)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999903 (ID: 40999903)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999904 (ID: 40999904)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999905 (ID: 40999905)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999906 (ID: 40999906)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999907 (ID: 40999907)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999908 (ID: 40999908)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999909 (ID: 40999909)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999910 (ID: 40999910)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999911 (ID: 40999911)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: item_housing_40999912 (ID: 40999912)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: AL-Tec Terminal (ID: 41000001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Hologram Stand (ID: 41000002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Full Mannequin A (Blk) (ID: 41000003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Full Mannequin B (Blk) (ID: 41000004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Full Mannequin C (Blk) (ID: 41000005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Full Mannequin D (Blk) (ID: 41000006)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Full Mannequin E (Blk) (ID: 41000007)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Full Mannequin F (Blk) (ID: 41000008)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Torso Mannequin A (Blk) (ID: 41000009)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Torso Mannequin B (Blk) (ID: 41000010)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Trunk Mannequin A (Blk) (ID: 41000011)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Trunk Mannequin B (Blk) (ID: 41000012)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Wh) (ID: 41010001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Blk) (ID: 41010002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Gry) (ID: 41010003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Red) (ID: 41010004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Blu) (ID: 41010005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Gn) (ID: 41010006)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Yel) (ID: 41010007)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Or) (ID: 41010008)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Wd) (ID: 41010009)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block A (Concr) (ID: 41010010)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Wh) (ID: 41010011)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Blk) (ID: 41010012)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Gry) (ID: 41010013)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Red) (ID: 41010014)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Blu) (ID: 41010015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Gn) (ID: 41010016)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Yel) (ID: 41010017)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Or) (ID: 41010018)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Wd) (ID: 41010019)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block B (Concr) (ID: 41010020)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Wh) (ID: 41010021)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Blk) (ID: 41010022)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Gry) (ID: 41010023)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Red) (ID: 41010024)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Blu) (ID: 41010025)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Gn) (ID: 41010026)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Yel) (ID: 41010027)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Or) (ID: 41010028)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Wd) (ID: 41010029)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Block C (Concr) (ID: 41010030)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Wh) (ID: 41010031)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Blk) (ID: 41010032)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Gry) (ID: 41010033)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Red) (ID: 41010034)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Blu) (ID: 41010035)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Gn) (ID: 41010036)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Yel) (ID: 41010037)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Or) (ID: 41010038)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Wd) (ID: 41010039)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block A (Concr) (ID: 41010040)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Wh) (ID: 41010041)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Blk) (ID: 41010042)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Gry) (ID: 41010043)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Red) (ID: 41010044)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Blu) (ID: 41010045)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Gn) (ID: 41010046)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Yel) (ID: 41010047)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Or) (ID: 41010048)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Wd) (ID: 41010049)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Flat Colored Block B (Concr) (ID: 41010050)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Wh) (ID: 41010051)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Blk) (ID: 41010052)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Gry) (ID: 41010053)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Red) (ID: 41010054)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Blu) (ID: 41010055)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Gn) (ID: 41010056)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Yel) (ID: 41010057)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Or) (ID: 41010058)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Wd) (ID: 41010059)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder A (Concr) (ID: 41010060)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Wh) (ID: 41010061)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Blk) (ID: 41010062)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Gry) (ID: 41010063)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Red) (ID: 41010064)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Blu) (ID: 41010065)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Gn) (ID: 41010066)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Yel) (ID: 41010067)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Or) (ID: 41010068)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Wd) (ID: 41010069)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder B (Concr) (ID: 41010070)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Wh) (ID: 41010071)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Blk) (ID: 41010072)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Gry) (ID: 41010073)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Red) (ID: 41010074)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Blu) (ID: 41010075)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Gn) (ID: 41010076)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Yel) (ID: 41010077)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Or) (ID: 41010078)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Wd) (ID: 41010079)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Colored Cylinder C (Concr) (ID: 41010080)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table A (Wh) (ID: 41010081)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table A (Wd) (ID: 41010082)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table A (Stl) (ID: 41010083)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table B (Wh) (ID: 41010084)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table B (Wd/Wh) (ID: 41010085)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table B (Wh/Blk) (ID: 41010086)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table B (Wd/Blk) (ID: 41010087)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table B (Wh/Stl) (ID: 41010088)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table B (Wd/Stl) (ID: 41010089)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Table B (Stl) (ID: 41010090)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table A (Wh) (ID: 41010091)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table A (Wd/Wh) (ID: 41010092)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table A (Wh/Blk) (ID: 41010093)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table A (Wd/Blk) (ID: 41010094)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table A (Wh/Stl) (ID: 41010095)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table A (Wd/Stl) (ID: 41010096)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table A (Stl) (ID: 41010097)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table B (Wh) (ID: 41010098)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table B (Wd/Wh) (ID: 41010099)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table B (Wh/Blk) (ID: 41010100)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table B (Wd/Blk) (ID: 41010101)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table B (Wh/Stl) (ID: 41010102)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table B (Wd/Stl) (ID: 41010103)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table B (Stl) (ID: 41010104)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table C (Wh) (ID: 41010105)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table C (Wd/Wh) (ID: 41010106)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table C (Wd) (ID: 41010107)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Table C (Stl) (ID: 41010108)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shelf Table (Wh) (ID: 41010109)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shelf Table (Wd) (ID: 41010110)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Shelf Table (Stl) (ID: 41010111)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Square Sofa (ID: 41010112)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rectangular Sofa (ID: 41010113)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Round Sofa (ID: 41010114)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wall Shelf (Wh) (ID: 41010115)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wall Shelf (Blk) (ID: 41010116)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wall Shelf (Gry) (ID: 41010117)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wall Shelf (Wd) (ID: 41010118)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Long Wall Shelf (Wh) (ID: 41010119)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Long Wall Shelf (Blk) (ID: 41010120)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Long Wall Shelf (Gry) (ID: 41010121)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Long Wall Shelf (Wd) (ID: 41010122)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Shirts (Wh) (ID: 41010123)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Shirts (Blk) (ID: 41010124)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Hanger Rack (Stl) (ID: 41010125)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Hanger Rack (Blk) (ID: 41010126)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Hanger Rail (Stl) (ID: 41010127)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Hanger Rail (Blk) (ID: 41010128)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spotlight x3 (Down, Wh) (ID: 41010129)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spotlight (Down, Wh) (ID: 41010130)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spotlight (Angle, Wh) (ID: 41010131)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Light Bar (ID: 41010132)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Horizontal Wall Light (Long) (ID: 41010133)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Horizontal Wall Light (ID: 41010134)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Downlight (ID: 41010135)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Round Light (ID: 41010136)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Houseplant D (ID: 41010137)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Houseplant E (ID: 41010138)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Houseplant F (ID: 41010139)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Houseplant G (ID: 41010140)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Display Case Pillar (Wh) (ID: 41010141)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Display Case Pillar (Gry) (ID: 41010142)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Display Case Pillar (Blk) (ID: 41010143)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Display Pillar (Wh) (ID: 41010144)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Display Pillar (Gry) (ID: 41010145)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Display Pillar (Blk) (ID: 41010146)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Display Pillar (Wd) (ID: 41010147)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Display Pillar (Concr) (ID: 41010148)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Floor Mat (Gry) (ID: 41010149)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Counter (Wh) (ID: 41010150)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Counter (Blk) (ID: 41010151)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Counter (Wd) (ID: 41010152)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Counter (Stl) (ID: 41010153)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spotlight x3 (Angle, Wh) (ID: 41010154)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spotlight x3 (Down, Blk) (ID: 41010155)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spotlight x3 (Angle, Blk) (ID: 41010156)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spotlight (Down, Blk) (ID: 41010157)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Spotlight (Angle, Blk) (ID: 41010158)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Ceiling Light (ID: 41010159)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Ceiling Light (Large) (ID: 41010160)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wall Spotlight (Angle, Wh) (ID: 41010161)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Wall Spotlight (Angle, Blk) (ID: 41010162)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Shirts (Emld) (ID: 41010163)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Shirts (Pk) (ID: 41010164)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Shirts (LtBlu) (ID: 41010165)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Hoodies (Wh) (ID: 41010166)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Hoodies (Blk) (ID: 41010167)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Hoodies (Lm) (ID: 41010168)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Hoodies (Pk) (ID: 41010169)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Folded Hoodies (LtBlu) (ID: 41010170)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Vertical Wall Light (ID: 41010171)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Vertical Wall Light (Long) (ID: 41010172)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: HoloIncentive (ID: 30106099)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Golem Core (ID: 30200005)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Golem Stone (ID: 30200006)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Element (ID: 30200032)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Rock Slime Core (ID: 30200034)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Wind Slime Core (ID: 30200036)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Electric Slime Core (ID: 30200038)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Ice Slime Core (ID: 30200040)
+  - Extra data from 'master_material.json' has changed.
+
+* Items Updated: Enchanting Station (ID: 40201415)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Obstacle Course Start (ID: 40307201)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Obstacle Course Goal (ID: 40307202)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Obstacle Base Platform (ID: 40307204)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Obstacle Wall (ID: 40307205)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Obstacle Ceiling/Floor (ID: 40307206)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Obstacle Pillar (ID: 40307207)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Obstacle Short Pillar (ID: 40307208)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Dual Rotating Bars (ID: 40307301)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Quad Rotating Bars (ID: 40307302)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: 6m Horizontal Sliding Platform (ID: 40307303)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: 9m Horizontal Sliding Platform (ID: 40307304)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: 6m Vertical Moving Platform (ID: 40307305)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: 9m Vertical Moving Platform (ID: 40307306)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Rotating Arm Platform (ID: 40307307)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Huge Slime Trampoline (ID: 40352045)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Area Portal (ID: 40399021)
+  - Category changed from 'Direct Placement' to 'Area Portal'
+  - Field 'categoryId' changed from '40301' to '406'
+  - Extra data from 'master_housing_piece.json' has changed.
+  - Field 'iconResourceName' changed from 'BedSingle_R_128' to 'PortableEntrance_128'
+  - Field 'itemDescription_EN' changed from 'item_housing_d_40399021' to 'A portal that connects to other areas.
+First-time visitors will appear at the location of this portal.
+Only one can be placed in a room.'
+  - Field 'itemDescription_JA' changed from 'item_housing_d_40399021' to '他のエリアとつなぐことができるポータル
+初めてこのルームに来る人はこのポータルの位置に出現するようになる。ルームに1個しか置けない
+'
+  - Field 'itemName_EN' changed from 'item_housing_40399021' to 'Area Portal'
+  - Field 'itemName_JA' changed from 'item_housing_40399021' to 'エリアポータル'
+
+* Items Updated: C2 Spawner (Golem) (ID: 40401003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Floor Mat (Blk) (ID: 41010173)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Floor Mat (Red) (ID: 41010174)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Floor Mat (Blu) (ID: 41010175)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Floor Mat (Gn) (ID: 41010176)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Floor Mat (Yel) (ID: 41010177)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Wh) (ID: 41010178)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Blk) (ID: 41010179)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Gry) (ID: 41010180)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Red) (ID: 41010181)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Blu) (ID: 41010182)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Gn) (ID: 41010183)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Yel) (ID: 41010184)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Or) (ID: 41010185)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Wd) (ID: 41010186)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Concr) (ID: 41010187)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Bn) (ID: 41010188)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Pk) (ID: 41010189)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Bg) (ID: 41010190)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (YelGn) (ID: 41010191)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (DpBlu) (ID: 41010192)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (DpBlk) (ID: 41010193)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (LtPk) (ID: 41010194)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Cyn) (ID: 41010195)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (LtBlu) (ID: 41010196)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Gld) (ID: 41010197)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (Pr) (ID: 41010198)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Snap Block (PBn) (ID: 41010199)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42001000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42001001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42001002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42002000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42002001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42002002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42005000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42005001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42005002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42006000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42006001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42006002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42007000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42007001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42007002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42009000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42009001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42009002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42013003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42013004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42013005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42020003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42020004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42020005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42024000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42024001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42024002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42025000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42025001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42025002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42026000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42026001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42026002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42027000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42027001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42027002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42050000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42050001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42050002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42051000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42051001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42051002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42052000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42052001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42052002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42053000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42053001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42053002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42054000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42054001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42054002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42055000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42055001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42055002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42056000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42056001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 42056002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001000)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001002)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001003)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001004)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001005)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001006)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001007)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001010)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001011)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001012)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001013)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001014)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001015)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001016)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001017)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001020)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001021)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001022)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001023)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001024)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001025)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43001026)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43002001)
+  - Extra data from 'master_housing_piece.json' has changed.
+
+* Items Updated: Unknown (ID: 43002002)
+  - Extra data from 'master_housing_piece.json' has changed.
+* Items Added: Unknown (ID: 42005101)
+* Items Added: Unknown (ID: 42021101)
+* Items Added: Unknown (ID: 42028000)
+* Items Added: Unknown (ID: 42028001)
+* Items Added: Unknown (ID: 42028002)
+* Items Added: Unknown (ID: 42029000)
+* Items Added: Unknown (ID: 42029001)
+* Items Added: Unknown (ID: 42029002)
+* Items Added: Unknown (ID: 42030000)
+* Items Added: Unknown (ID: 42030001)
+* Items Added: Unknown (ID: 42030002)
+* Items Added: Unknown (ID: 42031000)
+* Items Added: Unknown (ID: 42031001)
+* Items Added: Unknown (ID: 42031002)
+* Items Added: Unknown (ID: 42035000)
+* Items Added: Unknown (ID: 42035001)
+* Items Added: Unknown (ID: 42035002)
+* Items Added: Unknown (ID: 42047000)
+* Items Added: Unknown (ID: 42047001)
+* Items Added: Unknown (ID: 42047002)
+* Items Added: Unknown (ID: 42048000)
+* Items Added: Unknown (ID: 42048001)
+* Items Added: Unknown (ID: 42048002)
+* Items Added: Unknown (ID: 42049000)
+* Items Added: Unknown (ID: 42049001)
+* Items Added: Unknown (ID: 42049002)
+* Items Added: Unknown (ID: 43002003)
+* Items Added: Unknown (ID: 43002004)
+* Items Added: Unknown (ID: 43002005)
+* Items Added: Unknown (ID: 43002006)
+* Items Added: Unknown (ID: 43003001)
+* Items Added: Unknown (ID: 43003002)
+* Items Added: Unknown (ID: 43003003)
+* Items Added: Unknown (ID: 43003004)
+* Items Added: Unknown (ID: 43004001)
+* Items Added: Unknown (ID: 43004002)
+* Items Added: Unknown (ID: 43004003)
+* Items Added: Unknown (ID: 43004004)
+* Items Added: Unknown (ID: 43004005)
+* Items Added: Unknown (ID: 43004006)
+* Items Added: Unknown (ID: 43900002)
+* Items Added: Unknown (ID: 49000013)
+* Items Added: Unknown (ID: 49000014)
+* Items Added: Unknown (ID: 49000015)
+* Items Added: Unknown (ID: 49000016)
+* Items Added: Unknown (ID: 49000017)
+* Items Added: Unknown (ID: 49000018)
+* Items Added: Unknown (ID: 49000019)
+* Items Added: Unknown (ID: 49000020)

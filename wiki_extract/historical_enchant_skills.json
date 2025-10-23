@@ -6400,6 +6400,52 @@
                         "catalystItemName_JA": "エレメント"
                     }
                 ]
+            },
+            "1.1.0": {
+                "id": 31801,
+                "nameKey": "battle_passive_skill_31801",
+                "descriptionKey": "battle_passive_skill_d_31801",
+                "iconAddress": "Mace_128",
+                "group": 31801,
+                "rarity": 1,
+                "enableOff": 0,
+                "name_EN": "Special Def. Up",
+                "name_JA": "特殊防御力アップ",
+                "description_EN": "Increases special defense power",
+                "description_JA": "特殊防御力が上がる",
+                "effects": [
+                    {
+                        "id": 31801,
+                        "passiveSkillId": 31801,
+                        "description": "[Enc] 特殊防御力 XS",
+                        "conditionType1": 1,
+                        "conditionValue1": "0",
+                        "conditionType2": 0,
+                        "conditionValue2": "0",
+                        "effetType": 1108,
+                        "effectVal": 3,
+                        "calcType": "Mul",
+                        "additionalVal1": "０",
+                        "additionalVal2": "０",
+                        "additionalVal3": "０"
+                    }
+                ],
+                "source_items": [
+                    {
+                        "id": 65,
+                        "itemId": 30104002,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 30501,
+                        "enchant2SkillId": 31801,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Fiber",
+                        "itemName_JA": "繊維",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    }
+                ]
             }
         },
         "31802": {
@@ -6414,6 +6460,178 @@
                 "name_EN": "Magic Def. Up",
                 "name_JA": "特殊防御力アップ",
                 "description_EN": "Increases magic defense power",
+                "description_JA": "特殊防御力が上がる",
+                "effects": [
+                    {
+                        "id": 31802,
+                        "passiveSkillId": 31802,
+                        "description": "[Enc] 特殊防御力 S",
+                        "conditionType1": 1,
+                        "conditionValue1": "0",
+                        "conditionType2": 0,
+                        "conditionValue2": "0",
+                        "effetType": 1108,
+                        "effectVal": 5,
+                        "calcType": "Mul",
+                        "additionalVal1": "０",
+                        "additionalVal2": "０",
+                        "additionalVal3": "０"
+                    }
+                ],
+                "source_items": [
+                    {
+                        "id": 75,
+                        "itemId": 30200002,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31802,
+                        "enchant2SkillId": 30001,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Beast Bone",
+                        "itemName_JA": "獣の骨",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 77,
+                        "itemId": 30200004,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 30202,
+                        "enchant2SkillId": 31802,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Wool",
+                        "itemName_JA": "羊毛",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 80,
+                        "itemId": 30200007,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31303,
+                        "enchant2SkillId": 31802,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Slime Gel",
+                        "itemName_JA": "スライムジェル",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 93,
+                        "itemId": 30200033,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31403,
+                        "enchant2SkillId": 31802,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Rock Slime Gel",
+                        "itemName_JA": "ロックスライムジェル",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 95,
+                        "itemId": 30200035,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31503,
+                        "enchant2SkillId": 31802,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Wind Slime Gel",
+                        "itemName_JA": "ウィンドスライムジェル",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 97,
+                        "itemId": 30200037,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31603,
+                        "enchant2SkillId": 31802,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Electric Slime Gel",
+                        "itemName_JA": "エレキスライムジェル",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 99,
+                        "itemId": 30200039,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31703,
+                        "enchant2SkillId": 31802,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Ice Slime Gel",
+                        "itemName_JA": "アイススライムジェル",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 102,
+                        "itemId": 30300001,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31802,
+                        "enchant2SkillId": 30001,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Paper",
+                        "itemName_JA": "紙",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 104,
+                        "itemId": 30300003,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31802,
+                        "enchant2SkillId": 30501,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Thread",
+                        "itemName_JA": "糸",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 107,
+                        "itemId": 30300009,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 30502,
+                        "enchant2SkillId": 31802,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Oil",
+                        "itemName_JA": "油",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    }
+                ]
+            },
+            "1.1.0": {
+                "id": 31802,
+                "nameKey": "battle_passive_skill_31802",
+                "descriptionKey": "battle_passive_skill_d_31802",
+                "iconAddress": "Mace_128",
+                "group": 31802,
+                "rarity": 1,
+                "enableOff": 0,
+                "name_EN": "Special Def. Up",
+                "name_JA": "特殊防御力アップ",
+                "description_EN": "Increases special defense power",
                 "description_JA": "特殊防御力が上がる",
                 "effects": [
                     {
@@ -6650,6 +6868,80 @@
                         "catalystItemName_JA": "エレメント"
                     }
                 ]
+            },
+            "1.1.0": {
+                "id": 31803,
+                "nameKey": "battle_passive_skill_31803",
+                "descriptionKey": "battle_passive_skill_d_31803",
+                "iconAddress": "Mace_128",
+                "group": 31803,
+                "rarity": 1,
+                "enableOff": 0,
+                "name_EN": "Special Def. Up",
+                "name_JA": "特殊防御力アップ",
+                "description_EN": "Increases special defense power",
+                "description_JA": "特殊防御力が上がる",
+                "effects": [
+                    {
+                        "id": 31803,
+                        "passiveSkillId": 31803,
+                        "description": "[Enc] 特殊防御力 M",
+                        "conditionType1": 1,
+                        "conditionValue1": "0",
+                        "conditionType2": 0,
+                        "conditionValue2": "0",
+                        "effetType": 1108,
+                        "effectVal": 10,
+                        "calcType": "Mul",
+                        "additionalVal1": "０",
+                        "additionalVal2": "０",
+                        "additionalVal3": "０"
+                    }
+                ],
+                "source_items": [
+                    {
+                        "id": 66,
+                        "itemId": 30104003,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31803,
+                        "enchant2SkillId": 30301,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Cotton",
+                        "itemName_JA": "綿花",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 113,
+                        "itemId": 30302001,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31803,
+                        "enchant2SkillId": 30201,
+                        "cost": 100,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 1,
+                        "itemName_EN": "Cloth",
+                        "itemName_JA": "布",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    },
+                    {
+                        "id": 115,
+                        "itemId": 30304001,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 30002,
+                        "enchant2SkillId": 31803,
+                        "cost": 500,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 2,
+                        "itemName_EN": "Glass",
+                        "itemName_JA": "ガラス",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    }
+                ]
             }
         },
         "31805": {
@@ -6664,6 +6956,52 @@
                 "name_EN": "Magic Def. Up",
                 "name_JA": "特殊防御力アップ",
                 "description_EN": "Increases magic defense power",
+                "description_JA": "特殊防御力が上がる",
+                "effects": [
+                    {
+                        "id": 31805,
+                        "passiveSkillId": 31805,
+                        "description": "[Enc] 特殊防御力 XL",
+                        "conditionType1": 1,
+                        "conditionValue1": "0",
+                        "conditionType2": 0,
+                        "conditionValue2": "0",
+                        "effetType": 1108,
+                        "effectVal": 20,
+                        "calcType": "Mul",
+                        "additionalVal1": "０",
+                        "additionalVal2": "０",
+                        "additionalVal3": "０"
+                    }
+                ],
+                "source_items": [
+                    {
+                        "id": 53,
+                        "itemId": 30103002,
+                        "actionSkillId": 0,
+                        "enchant1SkillId": 31805,
+                        "enchant2SkillId": 30104,
+                        "cost": 10000,
+                        "catalystItemId": 30200032,
+                        "catalystItemNum": 5,
+                        "itemName_EN": "Diamond",
+                        "itemName_JA": "ダイヤモンド",
+                        "catalystItemName_EN": "Element",
+                        "catalystItemName_JA": "エレメント"
+                    }
+                ]
+            },
+            "1.1.0": {
+                "id": 31805,
+                "nameKey": "battle_passive_skill_31805",
+                "descriptionKey": "battle_passive_skill_d_31805",
+                "iconAddress": "Mace_128",
+                "group": 31805,
+                "rarity": 1,
+                "enableOff": 0,
+                "name_EN": "Special Def. Up",
+                "name_JA": "特殊防御力アップ",
+                "description_EN": "Increases special defense power",
                 "description_JA": "特殊防御力が上がる",
                 "effects": [
                     {

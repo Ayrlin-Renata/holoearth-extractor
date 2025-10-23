@@ -3646,6 +3646,80 @@
                         }
                     ]
                 }
+            },
+            "1.1.0": {
+                "id": 53,
+                "itemId": 30103002,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31805,
+                "enchant2SkillId": 30104,
+                "cost": 10000,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 5,
+                "itemName_EN": "Diamond",
+                "itemName_JA": "ダイヤモンド",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31805,
+                    "nameKey": "battle_passive_skill_31805",
+                    "descriptionKey": "battle_passive_skill_d_31805",
+                    "iconAddress": "Mace_128",
+                    "group": 31805,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31805,
+                            "passiveSkillId": 31805,
+                            "description": "[Enc] 特殊防御力 XL",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 20,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 30104,
+                    "nameKey": "battle_passive_skill_30104",
+                    "descriptionKey": "battle_passive_skill_d_30104",
+                    "iconAddress": "Mace_128",
+                    "group": 30104,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Action Skill Attack\nPower Up",
+                    "name_JA": "攻撃力アップ（アクションスキル）",
+                    "description_EN": "Increases attack power when using action skills",
+                    "description_JA": "アクションスキルによる攻撃時の攻撃力が上がる",
+                    "effects": [
+                        {
+                            "id": 30104,
+                            "passiveSkillId": 30104,
+                            "description": "[Enc] スキル攻撃力 L",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1109,
+                            "effectVal": 30,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
             }
         },
         "54": {
@@ -4558,6 +4632,80 @@
                         }
                     ]
                 }
+            },
+            "1.1.0": {
+                "id": 65,
+                "itemId": 30104002,
+                "actionSkillId": 0,
+                "enchant1SkillId": 30501,
+                "enchant2SkillId": 31801,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Fiber",
+                "itemName_JA": "繊維",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 30501,
+                    "nameKey": "battle_passive_skill_30501",
+                    "descriptionKey": "battle_passive_skill_d_30501",
+                    "iconAddress": "Mace_128",
+                    "group": 30501,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Action Skill Durability\nDrain Down",
+                    "name_JA": "耐久値消費軽減（アクションスキル）",
+                    "description_EN": "Reduces durability consumption from action skills",
+                    "description_JA": "アクションスキルによる耐久値の消費量を軽減する",
+                    "effects": [
+                        {
+                            "id": 30501,
+                            "passiveSkillId": 30501,
+                            "description": "[Enc] スキル耐久値消費軽減 XS",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1508,
+                            "effectVal": -20,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31801,
+                    "nameKey": "battle_passive_skill_31801",
+                    "descriptionKey": "battle_passive_skill_d_31801",
+                    "iconAddress": "Mace_128",
+                    "group": 31801,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31801,
+                            "passiveSkillId": 31801,
+                            "description": "[Enc] 特殊防御力 XS",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 3,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
             }
         },
         "66": {
@@ -4585,6 +4733,80 @@
                     "name_EN": "Magic Def. Up",
                     "name_JA": "特殊防御力アップ",
                     "description_EN": "Increases magic defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31803,
+                            "passiveSkillId": 31803,
+                            "description": "[Enc] 特殊防御力 M",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 10,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 30301,
+                    "nameKey": "battle_passive_skill_30301",
+                    "descriptionKey": "battle_passive_skill_d_30301",
+                    "iconAddress": "Mace_128",
+                    "group": 30301,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Action Skill Stamina \nCost Down",
+                    "name_JA": "スタミナ消費軽減（アクションスキル）",
+                    "description_EN": "Reduces the stamina drain of action skills",
+                    "description_JA": "アクションスキルによるスタミナ消費量を少なくする",
+                    "effects": [
+                        {
+                            "id": 30301,
+                            "passiveSkillId": 30301,
+                            "description": "[Enc] スキルスタミナ消費軽減 XS",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1510,
+                            "effectVal": -10,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
+            },
+            "1.1.0": {
+                "id": 66,
+                "itemId": 30104003,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31803,
+                "enchant2SkillId": 30301,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Cotton",
+                "itemName_JA": "綿花",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31803,
+                    "nameKey": "battle_passive_skill_31803",
+                    "descriptionKey": "battle_passive_skill_d_31803",
+                    "iconAddress": "Mace_128",
+                    "group": 31803,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
                     "description_JA": "特殊防御力が上がる",
                     "effects": [
                         {
@@ -5318,6 +5540,80 @@
                         }
                     ]
                 }
+            },
+            "1.1.0": {
+                "id": 75,
+                "itemId": 30200002,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31802,
+                "enchant2SkillId": 30001,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Beast Bone",
+                "itemName_JA": "獣の骨",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 30001,
+                    "nameKey": "battle_passive_skill_30001",
+                    "descriptionKey": "battle_passive_skill_d_30001",
+                    "iconAddress": "Mace_128",
+                    "group": 30001,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Normal Attack \nPower Up",
+                    "name_JA": "攻撃力アップ（通常攻撃）",
+                    "description_EN": "Increases attack power when using normal attacks",
+                    "description_JA": "通常攻撃時の攻撃力が上がる",
+                    "effects": [
+                        {
+                            "id": 30001,
+                            "passiveSkillId": 30001,
+                            "description": "[Enc] 通常攻撃力 XS",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1105,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
             }
         },
         "76": {
@@ -5451,6 +5747,80 @@
                     "name_EN": "Magic Def. Up",
                     "name_JA": "特殊防御力アップ",
                     "description_EN": "Increases magic defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
+            },
+            "1.1.0": {
+                "id": 77,
+                "itemId": 30200004,
+                "actionSkillId": 0,
+                "enchant1SkillId": 30202,
+                "enchant2SkillId": 31802,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Wool",
+                "itemName_JA": "羊毛",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 30202,
+                    "nameKey": "battle_passive_skill_30202",
+                    "descriptionKey": "battle_passive_skill_d_30202",
+                    "iconAddress": "Mace_128",
+                    "group": 30202,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Defense Up",
+                    "name_JA": "防御力アップ",
+                    "description_EN": "Increases defense power",
+                    "description_JA": "防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 30202,
+                            "passiveSkillId": 30202,
+                            "description": "[Enc] 防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1106,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
                     "description_JA": "特殊防御力が上がる",
                     "effects": [
                         {
@@ -5679,6 +6049,80 @@
                     "name_EN": "Magic Def. Up",
                     "name_JA": "特殊防御力アップ",
                     "description_EN": "Increases magic defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
+            },
+            "1.1.0": {
+                "id": 80,
+                "itemId": 30200007,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31303,
+                "enchant2SkillId": 31802,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Slime Gel",
+                "itemName_JA": "スライムジェル",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31303,
+                    "nameKey": "battle_passive_skill_31303",
+                    "descriptionKey": "battle_passive_skill_d_31303",
+                    "iconAddress": "Mace_128",
+                    "group": 31303,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Hydro Damage",
+                    "name_JA": "水属性追加",
+                    "description_EN": "Applies water damage to your attacks",
+                    "description_JA": "攻撃に水属性ダメージを追加する",
+                    "effects": [
+                        {
+                            "id": 31303,
+                            "passiveSkillId": 31303,
+                            "description": "[Enc] 水属性 M",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 2102,
+                            "effectVal": 100,
+                            "calcType": "Add",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
                     "description_JA": "特殊防御力が上がる",
                     "effects": [
                         {
@@ -6686,6 +7130,80 @@
                         }
                     ]
                 }
+            },
+            "1.1.0": {
+                "id": 93,
+                "itemId": 30200033,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31403,
+                "enchant2SkillId": 31802,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Rock Slime Gel",
+                "itemName_JA": "ロックスライムジェル",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31403,
+                    "nameKey": "battle_passive_skill_31403",
+                    "descriptionKey": "battle_passive_skill_d_31403",
+                    "iconAddress": "Mace_128",
+                    "group": 31403,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Terra Damage",
+                    "name_JA": "地属性追加",
+                    "description_EN": "Applies earth damage to your attacks",
+                    "description_JA": "攻撃に地属性ダメージを追加する",
+                    "effects": [
+                        {
+                            "id": 31403,
+                            "passiveSkillId": 31403,
+                            "description": "[Enc] 地属性 M",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 2105,
+                            "effectVal": 100,
+                            "calcType": "Add",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
             }
         },
         "94": {
@@ -6819,6 +7337,80 @@
                     "name_EN": "Magic Def. Up",
                     "name_JA": "特殊防御力アップ",
                     "description_EN": "Increases magic defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
+            },
+            "1.1.0": {
+                "id": 95,
+                "itemId": 30200035,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31503,
+                "enchant2SkillId": 31802,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Wind Slime Gel",
+                "itemName_JA": "ウィンドスライムジェル",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31503,
+                    "nameKey": "battle_passive_skill_31503",
+                    "descriptionKey": "battle_passive_skill_d_31503",
+                    "iconAddress": "Mace_128",
+                    "group": 31503,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Wind Damage",
+                    "name_JA": "風属性追加",
+                    "description_EN": "Applies wind damage to your attacks",
+                    "description_JA": "攻撃に風属性ダメージを追加する",
+                    "effects": [
+                        {
+                            "id": 31503,
+                            "passiveSkillId": 31503,
+                            "description": "[Enc] 風属性 M",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 2103,
+                            "effectVal": 100,
+                            "calcType": "Add",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
                     "description_JA": "特殊防御力が上がる",
                     "effects": [
                         {
@@ -6990,6 +7582,80 @@
                         }
                     ]
                 }
+            },
+            "1.1.0": {
+                "id": 97,
+                "itemId": 30200037,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31603,
+                "enchant2SkillId": 31802,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Electric Slime Gel",
+                "itemName_JA": "エレキスライムジェル",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31603,
+                    "nameKey": "battle_passive_skill_31603",
+                    "descriptionKey": "battle_passive_skill_d_31603",
+                    "iconAddress": "Mace_128",
+                    "group": 31603,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Electric Damage",
+                    "name_JA": "雷属性追加",
+                    "description_EN": "Applies electric damage to your attacks",
+                    "description_JA": "攻撃に雷属性ダメージを追加する",
+                    "effects": [
+                        {
+                            "id": 31603,
+                            "passiveSkillId": 31603,
+                            "description": "[Enc] 雷属性 M",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 2104,
+                            "effectVal": 100,
+                            "calcType": "Add",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
             }
         },
         "98": {
@@ -7123,6 +7789,80 @@
                     "name_EN": "Magic Def. Up",
                     "name_JA": "特殊防御力アップ",
                     "description_EN": "Increases magic defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
+            },
+            "1.1.0": {
+                "id": 99,
+                "itemId": 30200039,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31703,
+                "enchant2SkillId": 31802,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Ice Slime Gel",
+                "itemName_JA": "アイススライムジェル",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31703,
+                    "nameKey": "battle_passive_skill_31703",
+                    "descriptionKey": "battle_passive_skill_d_31703",
+                    "iconAddress": "Mace_128",
+                    "group": 31703,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Ice Damage",
+                    "name_JA": "氷属性追加",
+                    "description_EN": "Applies ice damage to your attacks",
+                    "description_JA": "攻撃に氷属性ダメージを追加する",
+                    "effects": [
+                        {
+                            "id": 31703,
+                            "passiveSkillId": 31703,
+                            "description": "[Enc] 氷属性 M",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 2106,
+                            "effectVal": 100,
+                            "calcType": "Add",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
                     "description_JA": "特殊防御力が上がる",
                     "effects": [
                         {
@@ -7370,6 +8110,80 @@
                         }
                     ]
                 }
+            },
+            "1.1.0": {
+                "id": 102,
+                "itemId": 30300001,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31802,
+                "enchant2SkillId": 30001,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Paper",
+                "itemName_JA": "紙",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 30001,
+                    "nameKey": "battle_passive_skill_30001",
+                    "descriptionKey": "battle_passive_skill_d_30001",
+                    "iconAddress": "Mace_128",
+                    "group": 30001,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Normal Attack \nPower Up",
+                    "name_JA": "攻撃力アップ（通常攻撃）",
+                    "description_EN": "Increases attack power when using normal attacks",
+                    "description_JA": "通常攻撃時の攻撃力が上がる",
+                    "effects": [
+                        {
+                            "id": 30001,
+                            "passiveSkillId": 30001,
+                            "description": "[Enc] 通常攻撃力 XS",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1105,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
             }
         },
         "103": {
@@ -7473,6 +8287,80 @@
                     "name_EN": "Magic Def. Up",
                     "name_JA": "特殊防御力アップ",
                     "description_EN": "Increases magic defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 30501,
+                    "nameKey": "battle_passive_skill_30501",
+                    "descriptionKey": "battle_passive_skill_d_30501",
+                    "iconAddress": "Mace_128",
+                    "group": 30501,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Action Skill Durability\nDrain Down",
+                    "name_JA": "耐久値消費軽減（アクションスキル）",
+                    "description_EN": "Reduces durability consumption from action skills",
+                    "description_JA": "アクションスキルによる耐久値の消費量を軽減する",
+                    "effects": [
+                        {
+                            "id": 30501,
+                            "passiveSkillId": 30501,
+                            "description": "[Enc] スキル耐久値消費軽減 XS",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1508,
+                            "effectVal": -20,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
+            },
+            "1.1.0": {
+                "id": 104,
+                "itemId": 30300003,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31802,
+                "enchant2SkillId": 30501,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Thread",
+                "itemName_JA": "糸",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
                     "description_JA": "特殊防御力が上がる",
                     "effects": [
                         {
@@ -7731,6 +8619,80 @@
                     "name_EN": "Magic Def. Up",
                     "name_JA": "特殊防御力アップ",
                     "description_EN": "Increases magic defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31802,
+                            "passiveSkillId": 31802,
+                            "description": "[Enc] 特殊防御力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 5,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
+            },
+            "1.1.0": {
+                "id": 107,
+                "itemId": 30300009,
+                "actionSkillId": 0,
+                "enchant1SkillId": 30502,
+                "enchant2SkillId": 31802,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Oil",
+                "itemName_JA": "油",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 30502,
+                    "nameKey": "battle_passive_skill_30502",
+                    "descriptionKey": "battle_passive_skill_d_30502",
+                    "iconAddress": "Mace_128",
+                    "group": 30502,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Action Skill Durability\nDrain Down",
+                    "name_JA": "耐久値消費軽減（アクションスキル）",
+                    "description_EN": "Reduces durability consumption from action skills",
+                    "description_JA": "アクションスキルによる耐久値の消費量を軽減する",
+                    "effects": [
+                        {
+                            "id": 30502,
+                            "passiveSkillId": 30502,
+                            "description": "[Enc] スキル耐久値消費軽減 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1508,
+                            "effectVal": -30,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31802,
+                    "nameKey": "battle_passive_skill_31802",
+                    "descriptionKey": "battle_passive_skill_d_31802",
+                    "iconAddress": "Mace_128",
+                    "group": 31802,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
                     "description_JA": "特殊防御力が上がる",
                     "effects": [
                         {
@@ -8206,6 +9168,80 @@
                         }
                     ]
                 }
+            },
+            "1.1.0": {
+                "id": 113,
+                "itemId": 30302001,
+                "actionSkillId": 0,
+                "enchant1SkillId": 31803,
+                "enchant2SkillId": 30201,
+                "cost": 100,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 1,
+                "itemName_EN": "Cloth",
+                "itemName_JA": "布",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 31803,
+                    "nameKey": "battle_passive_skill_31803",
+                    "descriptionKey": "battle_passive_skill_d_31803",
+                    "iconAddress": "Mace_128",
+                    "group": 31803,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31803,
+                            "passiveSkillId": 31803,
+                            "description": "[Enc] 特殊防御力 M",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 10,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 30201,
+                    "nameKey": "battle_passive_skill_30201",
+                    "descriptionKey": "battle_passive_skill_d_30201",
+                    "iconAddress": "Mace_128",
+                    "group": 30201,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Defense Up",
+                    "name_JA": "防御力アップ",
+                    "description_EN": "Increases defense power",
+                    "description_JA": "防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 30201,
+                            "passiveSkillId": 30201,
+                            "description": "[Enc] 防御力 XS",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1106,
+                            "effectVal": 3,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
             }
         },
         "114": {
@@ -8339,6 +9375,80 @@
                     "name_EN": "Magic Def. Up",
                     "name_JA": "特殊防御力アップ",
                     "description_EN": "Increases magic defense power",
+                    "description_JA": "特殊防御力が上がる",
+                    "effects": [
+                        {
+                            "id": 31803,
+                            "passiveSkillId": 31803,
+                            "description": "[Enc] 特殊防御力 M",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1108,
+                            "effectVal": 10,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                }
+            },
+            "1.1.0": {
+                "id": 115,
+                "itemId": 30304001,
+                "actionSkillId": 0,
+                "enchant1SkillId": 30002,
+                "enchant2SkillId": 31803,
+                "cost": 500,
+                "catalystItemId": 30200032,
+                "catalystItemNum": 2,
+                "itemName_EN": "Glass",
+                "itemName_JA": "ガラス",
+                "catalystItemName_EN": "Element",
+                "catalystItemName_JA": "エレメント",
+                "resolved_enchant1Skill": {
+                    "id": 30002,
+                    "nameKey": "battle_passive_skill_30002",
+                    "descriptionKey": "battle_passive_skill_d_30002",
+                    "iconAddress": "Mace_128",
+                    "group": 30002,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Normal Attack \nPower Up",
+                    "name_JA": "攻撃力アップ（通常攻撃）",
+                    "description_EN": "Increases attack power when using normal attacks",
+                    "description_JA": "通常攻撃時の攻撃力が上がる",
+                    "effects": [
+                        {
+                            "id": 30002,
+                            "passiveSkillId": 30002,
+                            "description": "[Enc] 通常攻撃力 S",
+                            "conditionType1": 1,
+                            "conditionValue1": "0",
+                            "conditionType2": 0,
+                            "conditionValue2": "0",
+                            "effetType": 1105,
+                            "effectVal": 10,
+                            "calcType": "Mul",
+                            "additionalVal1": "０",
+                            "additionalVal2": "０",
+                            "additionalVal3": "０"
+                        }
+                    ]
+                },
+                "resolved_enchant2Skill": {
+                    "id": 31803,
+                    "nameKey": "battle_passive_skill_31803",
+                    "descriptionKey": "battle_passive_skill_d_31803",
+                    "iconAddress": "Mace_128",
+                    "group": 31803,
+                    "rarity": 1,
+                    "enableOff": 0,
+                    "name_EN": "Special Def. Up",
+                    "name_JA": "特殊防御力アップ",
+                    "description_EN": "Increases special defense power",
                     "description_JA": "特殊防御力が上がる",
                     "effects": [
                         {

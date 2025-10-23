@@ -1,0 +1,269 @@
+Drop Table Change Report for version: 1.1.0
+
+
+* Breakable Objects Updated: Pine Tree A (ID: 501)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Pine Tree B (ID: 502)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Pine Tree A Colored (ID: 503)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Pine Tree B Colored (ID: 504)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Oak Tree (ID: 509)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Oak Tree Colored (ID: 510)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Oak Tree Forest A (ID: 511)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Oak Tree Forest B (ID: 512)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Oak Tree Forest C (ID: 513)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Beech Tree A (ID: 514)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Beech Tree B (ID: 515)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Beech Tree A Colored (ID: 516)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Beech Tree B Colored (ID: 517)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Tree with Beehive (ID: 552)
+  - Field 'objectName' changed from 'None' to 'Tree with Honeycombs, if destroyed, the Honeycombs will be lost'
+
+* Breakable Objects Updated: Apple Tree (ID: 553)
+  - Field 'objectName' changed from 'None' to 'Apple Tree, if destroyed, the Apples will be lost'
+
+* Breakable Objects Updated: Kirito Lemon Tree (ID: 554)
+  - Field 'objectName' changed from 'None' to 'Lemon Tree, if destroyed, the Lemons will be lost'
+
+* Breakable Objects Updated: Transparent Marks for Fallen Trees (Tentative) (ID: 599)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Cracked Rock M (ID: 601)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Cracked Rock L (ID: 602)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Destroyed Rock M (ID: 604)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Destroyed Rock L (ID: 605)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Destroyed Rock S (ID: 606)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Sandstone (ID: 652)
+  - Field 'objectName' changed from 'None' to 'Sandy Rock, provides sandstone and clay'
+
+* Breakable Objects Updated: Copper Ore Rock (ID: 653)
+  - Field 'objectName' changed from 'None' to 'Copper Rock, provides copper ore and more'
+
+* Breakable Objects Updated: Iron Ore Rock (ID: 654)
+  - Field 'objectName' changed from 'None' to 'Iron Rock, provides iron ore and more'
+
+* Breakable Objects Updated: Gold Ore Rock (ID: 656)
+  - Field 'objectName' changed from 'None' to 'Gold Rock, provides gold ore, limestone, and more'
+
+* Breakable Objects Updated: Miel Berry Bushes (ID: 703)
+  - Field 'objectName' changed from 'None' to 'Berry Bush, if destroyed, the berries will be lost'
+
+* Breakable Objects Updated: Bushes (ID: 751)
+  - Field 'objectName' changed from 'None' to 'Bush, provides branch and fiber'
+
+* Breakable Objects Updated: Bushes 404 (ID: 752)
+  - Field 'objectName' changed from 'None' to 'Bush, provides branch and fiber'
+
+* Breakable Objects Updated: Destructible Rock 404-1 (ID: 1001)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Destructible Rock 404-2 (ID: 1002)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Beech Tree A_pla (ID: 520)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Beech Tree B_pla (ID: 521)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Oak Tree A_pla (ID: 522)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Oak Tree B_pla (ID: 523)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Pine Tree A_pla (ID: 524)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Pine Tree B_pla (ID: 525)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Be Tree_pla (ID: 526)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Pi Tree_pla (ID: 527)
+  - Field 'objectName' changed from 'None' to 'Tree, provides lumber and branch'
+
+* Breakable Objects Updated: Tree with Beehive_pla (ID: 555)
+  - Field 'objectName' changed from 'None' to 'Tree with Honeycombs, if destroyed, the honeycombs will be lost'
+
+* Breakable Objects Updated: Apple Tree_pla (ID: 556)
+  - Field 'objectName' changed from 'None' to 'Apple Tree, if destroyed, the fruits will be lost'
+
+* Breakable Objects Updated: Kiritto Lemon Tree_pla (ID: 557)
+  - Field 'objectName' changed from 'None' to 'Lemon Tree, if destroyed, the fruits will be lost'
+
+* Breakable Objects Updated: Destructible Rock S_b (ID: 607)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Destructible Rock M_b (ID: 608)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Destructible Rock L_b (ID: 609)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Destructible Rock L_c (ID: 610)
+  - Field 'objectName' changed from 'None' to 'Rock, provides stone and flint'
+
+* Breakable Objects Updated: Bush_pla (ID: 753)
+  - Field 'objectName' changed from 'None' to 'Bush, provides branch and fiber'
+
+* Breakable Objects Updated: pla_dhb_ bonfirebf_a01 (ID: 851)
+  - Field 'objectName' changed from 'None' to 'Imp's bonfire'
+
+* Breakable Objects Updated: pla_dhb_basebf_b01 (ID: 852)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_barricadebf_a01 (ID: 853)
+  - Field 'objectName' changed from 'None' to 'Imp's barricade'
+
+* Breakable Objects Updated: pla_dhb_barrelbf_a01 (ID: 854)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_branchbf_a01 (ID: 855)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_cedarbf_a01 (ID: 856)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_ivybf_a01 (ID: 857)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_objbf_a01 (ID: 858)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_roastingstandbf_a01 (ID: 859)
+  - Field 'objectName' changed from 'None' to 'Imp's roasting stand'
+
+* Breakable Objects Updated: pla_dhb_basebf_a01 (ID: 860)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_roastingstandbf_b01 (ID: 861)
+  - Field 'objectName' changed from 'None' to 'Imp's roasting stand'
+
+* Breakable Objects Updated: pla_dhb_rockbf_a01 (ID: 862)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_strawbf_a01 (ID: 863)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_tarp bf_l_a01 (ID: 864)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_tarpbf_l_b01 (ID: 865)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_tarpbf_s_a01 (ID: 866)
+  - Field 'objectName' changed from 'None' to 'Imp's structure'
+
+* Breakable Objects Updated: pla_dhb_tentbf_l_a01 (ID: 867)
+  - Field 'objectName' changed from 'None' to 'Imp's tent'
+
+* Breakable Objects Updated: pla_dhb_tentbf_s_a01 (ID: 868)
+  - Field 'objectName' changed from 'None' to 'Imp's tent'
+
+* Breakable Objects Updated: pla_dhb_watchtowerbf_a01 (ID: 869)
+  - Field 'objectName' changed from 'None' to 'Imp's tiny watch tower'
+
+* Breakable Objects Updated: Copper Ore Rock 404 (ID: 1653)
+  - Field 'objectName' changed from 'None' to 'Copper Rock, provides copper ore and more'
+
+* Breakable Objects Updated: Iron Ore Rock 404 (ID: 1654)
+  - Field 'objectName' changed from 'None' to 'Iron Rock, provides iron ore and more'
+
+* Breakable Objects Updated: Gold Mine Stone Rock 404 (ID: 1656)
+  - Field 'objectName' changed from 'None' to 'Gold Rock, provides gold ore, limestone, and more'
+
+* Harvestable Objects Updated: ノラニンニク (ID: ノラニンニク)
+  - Field 'objectName' changed from 'None' to 'ノラニンニク(Nora Garlic)'
+
+* Harvestable Objects Updated: シャッキリオニオン (ID: シャッキリオニオン)
+  - Field 'objectName' changed from 'None' to 'レッドオニオン(Red Onion)'
+
+* Harvestable Objects Updated: 綿花 (ID: 綿花)
+  - Field 'objectName' changed from 'None' to '綿花(Cotton)'
+
+* Harvestable Objects Updated: メディカルリーフ (ID: メディカルリーフ)
+  - Field 'objectName' changed from 'None' to 'メディカルリーフ(Medicinal Leaf)'
+
+* Harvestable Objects Updated: ホタルブクロ (ID: ホタルブクロ)
+  - Field 'objectName' changed from 'None' to 'ホタルブクロ(Bellflower)'
+
+* Harvestable Objects Updated: キノコ (ID: キノコ)
+  - Field 'objectName' changed from 'None' to 'キノコ(Mushroom)'
+
+* Harvestable Objects Updated: ドクタケ (ID: ドクタケ)
+  - Field 'objectName' changed from 'None' to 'ドクタケ(Poison Shroom)'
+
+* Harvestable Objects Updated: ハッカペッパー (ID: ハッカペッパー)
+  - Field 'objectName' changed from 'None' to 'ハッカペッパー(Hakka Pepper)'
+
+* Harvestable Objects Updated: フレイムペッパー (ID: フレイムペッパー)
+  - Field 'objectName' changed from 'None' to 'フレイムペッパー(Flame Pepper)'
+
+* Harvestable Objects Updated: シビレタケ (ID: シビレタケ)
+  - Field 'objectName' changed from 'None' to 'シビレタケ(Numbing Shroom)'
+
+* Harvestable Objects Updated: アブラナ (ID: アブラナ)
+  - Field 'objectName' changed from 'None' to 'アブラナ(Oily Seed Plant)'
+
+* Harvestable Objects Updated: ヒエアロエ (ID: ヒエアロエ)
+  - Field 'objectName' changed from 'None' to 'ヒエアロエ(Cooling Aloe)'
+
+* Harvestable Objects Updated: リンゴ (ID: リンゴ)
+  - Field 'objectName' changed from 'None' to 'リンゴ(Apple)'
+
+* Harvestable Objects Updated: キリットレモン (ID: キリットレモン)
+  - Field 'objectName' changed from 'None' to 'レモン(Lemon)'
+
+* Harvestable Objects Updated: はちみつ (ID: はちみつ)
+  - Field 'objectName' changed from 'None' to 'はちみつ(Honey)'
+
+* Harvestable Objects Updated: ミエルベリー (ID: ミエルベリー)
+  - Field 'objectName' changed from 'None' to 'ブルーベリー(Blueberry)'
+
+* Harvestable Objects Updated: クズ石 (ID: クズ石)
+  - Field 'objectName' changed from 'None' to 'クズ石(Rubble)'
+
+* Harvestable Objects Updated: ヒメニチソウ (ID: ヒメニチソウ)
+  - Field 'objectName' changed from 'None' to 'ヒメニチソウ(Myrtle)'
+
+* Harvestable Objects Updated: ドラゴンの鱗 (ID: ドラゴンの鱗)
+  - Field 'objectName' changed from 'None' to 'ドラゴンの鱗(Dragon Scale)'
+
+* Harvestable Objects Updated: Bomb Rock (ID: 爆弾石)
+  - Field 'objectName' changed from 'None' to '爆弾石(Bombrock)'

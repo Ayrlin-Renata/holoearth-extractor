@@ -1,0 +1,47 @@
+Enchant Ingredient Change Report for version: 1.1.0
+
+
+* Enchant Ingredients Updated: Diamond (ID: 53)
+  - Enchant Skill 1 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Fiber (ID: 65)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Cotton (ID: 66)
+  - Enchant Skill 1 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Beast Bone (ID: 75)
+  - Enchant Skill 1 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Wool (ID: 77)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Slime Gel (ID: 80)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Rock Slime Gel (ID: 93)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Wind Slime Gel (ID: 95)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Electric Slime Gel (ID: 97)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Ice Slime Gel (ID: 99)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Paper (ID: 102)
+  - Enchant Skill 1 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Thread (ID: 104)
+  - Enchant Skill 1 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Oil (ID: 107)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Cloth (ID: 113)
+  - Enchant Skill 1 changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Ingredients Updated: Glass (ID: 115)
+  - Enchant Skill 2 changed from 'Magic Def. Up' to 'Special Def. Up'

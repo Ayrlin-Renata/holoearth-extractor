@@ -1,0 +1,81 @@
+Recipe Change Report for version: 1.1.0
+
+
+* Crafting Updated: Obstacle Course Start (ID: 551)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Obstacle Course Goal (ID: 552)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Obstacle Base Platform (ID: 554)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Obstacle Wall (ID: 555)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Obstacle Ceiling/Floor (ID: 556)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Obstacle Pillar (ID: 563)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Obstacle Short Pillar (ID: 564)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Dual Rotating Bars (ID: 557)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Quad Rotating Bars (ID: 558)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: 6m Horizontal Sliding Platform (ID: 559)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: 9m Horizontal Sliding Platform (ID: 560)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: 6m Vertical Moving Platform (ID: 561)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: 9m Vertical Moving Platform (ID: 562)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+
+* Crafting Updated: Rotating Arm Platform (ID: 577)
+  - Field 'facilityName_EN' changed from 'Projection (ID 905)' to 'Observation Data Exchange (ID 904)'
+  - Field 'facilityName_JA' changed from 'プロジェクション (ID 905)' to '観測データ交換所 (ID 904)'
+  - Field 'recipeGroupId' changed from '905' to '904'
+* Crafting Added: Buddy Spawner (NTH-α) (ID: 968)
+* Crafting Added: Area Portal (ID: 967)
+* Crafting Added: Robocosan Default Outfit Acrylic Stand S (ID: 969)
+* Crafting Added: Kureiji Ollie Default Outfit Acrylic Stand S (ID: 972)
+* Crafting Added: Shiori Novella Default Outfit Acrylic Stand S (ID: 973)
+* Crafting Added: Koseki Bijou Default Outfit Acrylic Stand S (ID: 974)
+* Crafting Added: Nerissa Ravencroft Default Outfit Acrylic Stand S (ID: 975)
+* Crafting Added: Fuwawa Abyssgard Default Outfit Acrylic Stand S (ID: 970)
+* Crafting Added: Mococo Abyssgard Default Outfit Acrylic Stand S (ID: 971)

@@ -1,0 +1,18 @@
+Enchant Skill Change Report for version: 1.1.0
+
+
+* Enchant Skills Updated: Special Def. Up (ID: 31801)
+  - Field 'description_EN' changed from 'Increases magic defense power' to 'Increases special defense power'
+  - Field 'name_EN' changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Skills Updated: Special Def. Up (ID: 31802)
+  - Field 'description_EN' changed from 'Increases magic defense power' to 'Increases special defense power'
+  - Field 'name_EN' changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Skills Updated: Special Def. Up (ID: 31803)
+  - Field 'description_EN' changed from 'Increases magic defense power' to 'Increases special defense power'
+  - Field 'name_EN' changed from 'Magic Def. Up' to 'Special Def. Up'
+
+* Enchant Skills Updated: Special Def. Up (ID: 31805)
+  - Field 'description_EN' changed from 'Increases magic defense power' to 'Increases special defense power'
+  - Field 'name_EN' changed from 'Magic Def. Up' to 'Special Def. Up'

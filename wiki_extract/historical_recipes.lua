@@ -39988,6 +39988,53 @@ return {
                         ["itemName_JA"] = "銅のインゴット"
                     }
                 }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 551,
+                ["resultItemId"] = 40307201,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
+                ["resultItemName_EN"] = "Obstacle Course Start",
+                ["resultItemName_JA"] = "アスレチックのスタート地点",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 55101,
+                        ["recipeId"] = 551,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 100,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 55102,
+                        ["recipeId"] = 551,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 4,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
             }
         },
         ["552"] = {
@@ -40009,6 +40056,53 @@ return {
                 ["systemType"] = "All",
                 ["facilityName_EN"] = "Projection (ID 905)",
                 ["facilityName_JA"] = "プロジェクション (ID 905)",
+                ["resultItemName_EN"] = "Obstacle Course Goal",
+                ["resultItemName_JA"] = "アスレチックのゴール地点",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 55201,
+                        ["recipeId"] = 552,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 100,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 55202,
+                        ["recipeId"] = 552,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 4,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 552,
+                ["resultItemId"] = 40307202,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
                 ["resultItemName_EN"] = "Obstacle Course Goal",
                 ["resultItemName_JA"] = "アスレチックのゴール地点",
                 ["materials"] = {
@@ -40074,6 +40168,41 @@ return {
                         ["itemName_JA"] = "メタマテリアルのかけら"
                     }
                 }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 554,
+                ["resultItemId"] = 40307204,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
+                ["resultItemName_EN"] = "Obstacle Base Platform",
+                ["resultItemName_JA"] = "アスレチック用の土台",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 55401,
+                        ["recipeId"] = 554,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 20,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    }
+                }
             }
         },
         ["555"] = {
@@ -40095,6 +40224,41 @@ return {
                 ["systemType"] = "All",
                 ["facilityName_EN"] = "Projection (ID 905)",
                 ["facilityName_JA"] = "プロジェクション (ID 905)",
+                ["resultItemName_EN"] = "Obstacle Wall",
+                ["resultItemName_JA"] = "アスレチック用の壁",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 55501,
+                        ["recipeId"] = 555,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 5,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    }
+                }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 555,
+                ["resultItemId"] = 40307205,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
                 ["resultItemName_EN"] = "Obstacle Wall",
                 ["resultItemName_JA"] = "アスレチック用の壁",
                 ["materials"] = {
@@ -40148,6 +40312,41 @@ return {
                         ["itemName_JA"] = "メタマテリアルのかけら"
                     }
                 }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 556,
+                ["resultItemId"] = 40307206,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
+                ["resultItemName_EN"] = "Obstacle Ceiling/Floor",
+                ["resultItemName_JA"] = "アスレチック用の天井床",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 55601,
+                        ["recipeId"] = 556,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 5,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    }
+                }
             }
         },
         ["563"] = {
@@ -40169,6 +40368,41 @@ return {
                 ["systemType"] = "All",
                 ["facilityName_EN"] = "Projection (ID 905)",
                 ["facilityName_JA"] = "プロジェクション (ID 905)",
+                ["resultItemName_EN"] = "Obstacle Pillar",
+                ["resultItemName_JA"] = "アスレチック用の柱",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 56301,
+                        ["recipeId"] = 563,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 6,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    }
+                }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 563,
+                ["resultItemId"] = 40307207,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
                 ["resultItemName_EN"] = "Obstacle Pillar",
                 ["resultItemName_JA"] = "アスレチック用の柱",
                 ["materials"] = {
@@ -40222,6 +40456,41 @@ return {
                         ["itemName_JA"] = "メタマテリアルのかけら"
                     }
                 }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 564,
+                ["resultItemId"] = 40307208,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
+                ["resultItemName_EN"] = "Obstacle Short Pillar",
+                ["resultItemName_JA"] = "アスレチック用の短い柱",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 56401,
+                        ["recipeId"] = 564,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    }
+                }
             }
         },
         ["557"] = {
@@ -40243,6 +40512,53 @@ return {
                 ["systemType"] = "All",
                 ["facilityName_EN"] = "Projection (ID 905)",
                 ["facilityName_JA"] = "プロジェクション (ID 905)",
+                ["resultItemName_EN"] = "Dual Rotating Bars",
+                ["resultItemName_JA"] = "2本の回転バー",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 55701,
+                        ["recipeId"] = 557,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 50,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 55702,
+                        ["recipeId"] = 557,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 557,
+                ["resultItemId"] = 40307301,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
                 ["resultItemName_EN"] = "Dual Rotating Bars",
                 ["resultItemName_JA"] = "2本の回転バー",
                 ["materials"] = {
@@ -40320,6 +40636,53 @@ return {
                         ["itemName_JA"] = "銅のインゴット"
                     }
                 }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 558,
+                ["resultItemId"] = 40307302,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
+                ["resultItemName_EN"] = "Quad Rotating Bars",
+                ["resultItemName_JA"] = "4本の回転バー",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 55801,
+                        ["recipeId"] = 558,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 80,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 55802,
+                        ["recipeId"] = 558,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
             }
         },
         ["559"] = {
@@ -40341,6 +40704,53 @@ return {
                 ["systemType"] = "All",
                 ["facilityName_EN"] = "Projection (ID 905)",
                 ["facilityName_JA"] = "プロジェクション (ID 905)",
+                ["resultItemName_EN"] = "6m Horizontal Sliding Platform",
+                ["resultItemName_JA"] = "スライド床横6m",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 55901,
+                        ["recipeId"] = 559,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 50,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 55902,
+                        ["recipeId"] = 559,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 559,
+                ["resultItemId"] = 40307303,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
                 ["resultItemName_EN"] = "6m Horizontal Sliding Platform",
                 ["resultItemName_JA"] = "スライド床横6m",
                 ["materials"] = {
@@ -40418,6 +40828,53 @@ return {
                         ["itemName_JA"] = "銅のインゴット"
                     }
                 }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 560,
+                ["resultItemId"] = 40307304,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
+                ["resultItemName_EN"] = "9m Horizontal Sliding Platform",
+                ["resultItemName_JA"] = "スライド床横9m",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 56001,
+                        ["recipeId"] = 560,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 60,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 56002,
+                        ["recipeId"] = 560,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
             }
         },
         ["561"] = {
@@ -40439,6 +40896,53 @@ return {
                 ["systemType"] = "All",
                 ["facilityName_EN"] = "Projection (ID 905)",
                 ["facilityName_JA"] = "プロジェクション (ID 905)",
+                ["resultItemName_EN"] = "6m Vertical Moving Platform",
+                ["resultItemName_JA"] = "スライド床縦6m",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 56101,
+                        ["recipeId"] = 561,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 50,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 56102,
+                        ["recipeId"] = 561,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 561,
+                ["resultItemId"] = 40307305,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
                 ["resultItemName_EN"] = "6m Vertical Moving Platform",
                 ["resultItemName_JA"] = "スライド床縦6m",
                 ["materials"] = {
@@ -40516,6 +41020,53 @@ return {
                         ["itemName_JA"] = "銅のインゴット"
                     }
                 }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 562,
+                ["resultItemId"] = 40307306,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
+                ["resultItemName_EN"] = "9m Vertical Moving Platform",
+                ["resultItemName_JA"] = "スライド床縦9ｍ",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 56201,
+                        ["recipeId"] = 562,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 60,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 56202,
+                        ["recipeId"] = 562,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
             }
         },
         ["577"] = {
@@ -40537,6 +41088,53 @@ return {
                 ["systemType"] = "All",
                 ["facilityName_EN"] = "Projection (ID 905)",
                 ["facilityName_JA"] = "プロジェクション (ID 905)",
+                ["resultItemName_EN"] = "Rotating Arm Platform",
+                ["resultItemName_JA"] = "回転アーム床",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 57701,
+                        ["recipeId"] = 577,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 60,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    },
+                    {
+                        ["craftMaterialId"] = 57702,
+                        ["recipeId"] = 577,
+                        ["itemId"] = 30301002,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "Copper Ingot",
+                        ["itemName_JA"] = "銅のインゴット"
+                    }
+                }
+            },
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 577,
+                ["resultItemId"] = 40307307,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
                 ["resultItemName_EN"] = "Rotating Arm Platform",
                 ["resultItemName_JA"] = "回転アーム床",
                 ["materials"] = {
@@ -41110,6 +41708,339 @@ return {
                     {
                         ["craftMaterialId"] = 96601,
                         ["recipeId"] = 966,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["968"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 968,
+                ["resultItemId"] = 20600001,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Buddy Spawner (NTH-α)",
+                ["resultItemName_JA"] = "バディ召喚：NTH-α",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 96801,
+                        ["recipeId"] = 968,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    }
+                }
+            }
+        },
+        ["967"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 967,
+                ["resultItemId"] = 40399021,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 904,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "Observation Data Exchange (ID 904)",
+                ["facilityName_JA"] = "観測データ交換所 (ID 904)",
+                ["resultItemName_EN"] = "Area Portal",
+                ["resultItemName_JA"] = "エリアポータル",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 96701,
+                        ["recipeId"] = 967,
+                        ["itemId"] = 30106001,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 30,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "MetaMaterial Fragment",
+                        ["itemName_JA"] = "メタマテリアルのかけら"
+                    }
+                }
+            }
+        },
+        ["969"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 969,
+                ["resultItemId"] = 42002000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Robocosan Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "ロボ子さん 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 96901,
+                        ["recipeId"] = 969,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["972"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 972,
+                ["resultItemId"] = 42035000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Kureiji Ollie Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "クレイジー・オリー 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 97201,
+                        ["recipeId"] = 972,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["973"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 973,
+                ["resultItemId"] = 42047000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Shiori Novella Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "シオリ・ノヴェラ 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 97301,
+                        ["recipeId"] = 973,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["974"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 974,
+                ["resultItemId"] = 42048000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Koseki Bijou Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "古石ビジュー 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 97401,
+                        ["recipeId"] = 974,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["975"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 975,
+                ["resultItemId"] = 42049000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Nerissa Ravencroft Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "ネリッサ・レイヴンクロフト 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 97501,
+                        ["recipeId"] = 975,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["970"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 970,
+                ["resultItemId"] = 42050000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Fuwawa Abyssgard Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "フワワ・アビスガード 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 97001,
+                        ["recipeId"] = 970,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["971"] = {
+            ["1.1.0"] = {
+                ["craftRecipeId"] = 971,
+                ["resultItemId"] = 42051000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 1000,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Mococo Abyssgard Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "モココ・アビスガード 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 97101,
+                        ["recipeId"] = 971,
                         ["itemId"] = 30106099,
                         ["itemCategory"] = 0,
                         ["amount"] = 1,
