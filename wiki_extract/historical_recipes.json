@@ -41922,6 +41922,442 @@
                     }
                 ]
             }
+        },
+        "976": {
+            "1.1.10": {
+                "craftRecipeId": 976,
+                "resultItemId": 20301019,
+                "resultAmount": 1,
+                "observationPoint": 0,
+                "requiredToken": 0,
+                "byproductDropId": 0,
+                "dropCountMin": 0,
+                "dropCountMax": 0,
+                "rewardAvatarItemId": "ACC_MASK_00000872",
+                "rewardRightId": "AVATAR_ACC_MASK_00000872",
+                "conditionalRecipeSkillId": 0,
+                "exp": 100,
+                "rewardQuestId": "",
+                "conditionalFacilityUpgradeId": 0,
+                "recipeGroupId": 396,
+                "systemType": "SandBox",
+                "facilityName_EN": "Projection (ID 396)",
+                "facilityName_JA": "プロジェクション (ID 396)",
+                "resultItemName_EN": "holoXer Mask (Blk)",
+                "resultItemName_JA": "holoXerマスク（黒）",
+                "materials": [
+                    {
+                        "craftMaterialId": 97601,
+                        "recipeId": 976,
+                        "itemId": 30306001,
+                        "itemCategory": 0,
+                        "amount": 100,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Straw Building Material",
+                        "itemName_JA": "わらの建築資材"
+                    },
+                    {
+                        "craftMaterialId": 97602,
+                        "recipeId": 976,
+                        "itemId": 10105010,
+                        "itemCategory": 0,
+                        "amount": 3,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Apple",
+                        "itemName_JA": "リンゴ"
+                    },
+                    {
+                        "craftMaterialId": 97603,
+                        "recipeId": 976,
+                        "itemId": 30105004,
+                        "itemCategory": 0,
+                        "amount": 20,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Branch",
+                        "itemName_JA": "木の枝"
+                    }
+                ]
+            }
+        },
+        "977": {
+            "1.1.10": {
+                "craftRecipeId": 977,
+                "resultItemId": 20301020,
+                "resultAmount": 1,
+                "observationPoint": 0,
+                "requiredToken": 0,
+                "byproductDropId": 0,
+                "dropCountMin": 0,
+                "dropCountMax": 0,
+                "rewardAvatarItemId": "ACC_MASK_00000874",
+                "rewardRightId": "AVATAR_ACC_MASK_00000874",
+                "conditionalRecipeSkillId": 0,
+                "exp": 500,
+                "rewardQuestId": "",
+                "conditionalFacilityUpgradeId": 0,
+                "recipeGroupId": 396,
+                "systemType": "SandBox",
+                "facilityName_EN": "Projection (ID 396)",
+                "facilityName_JA": "プロジェクション (ID 396)",
+                "resultItemName_EN": "holoXer Mask (Red)",
+                "resultItemName_JA": "holoXerマスク（赤）",
+                "materials": [
+                    {
+                        "craftMaterialId": 97701,
+                        "recipeId": 977,
+                        "itemId": 30101001,
+                        "itemCategory": 0,
+                        "amount": 50,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Stone",
+                        "itemName_JA": "石"
+                    },
+                    {
+                        "craftMaterialId": 97702,
+                        "recipeId": 977,
+                        "itemId": 30102001,
+                        "itemCategory": 0,
+                        "amount": 1,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Copper Ore",
+                        "itemName_JA": "銅鉱石"
+                    },
+                    {
+                        "craftMaterialId": 97703,
+                        "recipeId": 977,
+                        "itemId": 41010181,
+                        "itemCategory": 0,
+                        "amount": 20,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Snap Block (Red)",
+                        "itemName_JA": "ジョイントブロック（赤）"
+                    },
+                    {
+                        "craftMaterialId": 97704,
+                        "recipeId": 977,
+                        "itemId": 30300003,
+                        "itemCategory": 0,
+                        "amount": 5,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Thread",
+                        "itemName_JA": "糸"
+                    }
+                ]
+            }
+        },
+        "978": {
+            "1.1.10": {
+                "craftRecipeId": 978,
+                "resultItemId": 20301021,
+                "resultAmount": 1,
+                "observationPoint": 0,
+                "requiredToken": 0,
+                "byproductDropId": 0,
+                "dropCountMin": 0,
+                "dropCountMax": 0,
+                "rewardAvatarItemId": "ACC_MASK_00000873",
+                "rewardRightId": "AVATAR_ACC_MASK_00000873",
+                "conditionalRecipeSkillId": 0,
+                "exp": 5000,
+                "rewardQuestId": "",
+                "conditionalFacilityUpgradeId": 0,
+                "recipeGroupId": 396,
+                "systemType": "SandBox",
+                "facilityName_EN": "Projection (ID 396)",
+                "facilityName_JA": "プロジェクション (ID 396)",
+                "resultItemName_EN": "holoXer Mask (Gld)",
+                "resultItemName_JA": "holoXerマスク（金）",
+                "materials": [
+                    {
+                        "craftMaterialId": 97801,
+                        "recipeId": 978,
+                        "itemId": 30300004,
+                        "itemCategory": 0,
+                        "amount": 10,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Leather Cord",
+                        "itemName_JA": "革紐"
+                    },
+                    {
+                        "craftMaterialId": 97802,
+                        "recipeId": 978,
+                        "itemId": 30301006,
+                        "itemCategory": 0,
+                        "amount": 10,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Gold Ingot",
+                        "itemName_JA": "金のインゴット"
+                    },
+                    {
+                        "craftMaterialId": 97803,
+                        "recipeId": 978,
+                        "itemId": 30102005,
+                        "itemCategory": 0,
+                        "amount": 10,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Obsidian",
+                        "itemName_JA": "黒曜石"
+                    },
+                    {
+                        "craftMaterialId": 97804,
+                        "recipeId": 978,
+                        "itemId": 30200037,
+                        "itemCategory": 0,
+                        "amount": 1,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Electric Slime Gel",
+                        "itemName_JA": "エレキスライムジェル"
+                    }
+                ]
+            }
+        },
+        "979": {
+            "1.1.10": {
+                "craftRecipeId": 979,
+                "resultItemId": 40401004,
+                "resultAmount": 1,
+                "observationPoint": 5000,
+                "requiredToken": 0,
+                "byproductDropId": 0,
+                "dropCountMin": 0,
+                "dropCountMax": 0,
+                "rewardAvatarItemId": "",
+                "rewardRightId": "",
+                "conditionalRecipeSkillId": 0,
+                "exp": 500,
+                "rewardQuestId": "",
+                "conditionalFacilityUpgradeId": 0,
+                "recipeGroupId": 396,
+                "systemType": "SandBox",
+                "facilityName_EN": "Projection (ID 396)",
+                "facilityName_JA": "プロジェクション (ID 396)",
+                "resultItemName_EN": "C2 Spawner (X Golem)",
+                "resultItemName_JA": "C2リプロデューサー（Xゴーレム）",
+                "materials": [
+                    {
+                        "craftMaterialId": 97901,
+                        "recipeId": 979,
+                        "itemId": 30106001,
+                        "itemCategory": 0,
+                        "amount": 50,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "MetaMaterial Fragment",
+                        "itemName_JA": "メタマテリアルのかけら"
+                    },
+                    {
+                        "craftMaterialId": 97902,
+                        "recipeId": 979,
+                        "itemId": 30101001,
+                        "itemCategory": 0,
+                        "amount": 50,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Stone",
+                        "itemName_JA": "石"
+                    },
+                    {
+                        "craftMaterialId": 97903,
+                        "recipeId": 979,
+                        "itemId": 30200008,
+                        "itemCategory": 0,
+                        "amount": 1,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Slime Core",
+                        "itemName_JA": "スライムコア"
+                    },
+                    {
+                        "craftMaterialId": 97904,
+                        "recipeId": 979,
+                        "itemId": 30105001,
+                        "itemCategory": 0,
+                        "amount": 50,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "Lumber",
+                        "itemName_JA": "木材"
+                    }
+                ]
+            }
+        },
+        "980": {
+            "1.1.10": {
+                "craftRecipeId": 980,
+                "resultItemId": 42028000,
+                "resultAmount": 1,
+                "observationPoint": 10000,
+                "requiredToken": 0,
+                "byproductDropId": 0,
+                "dropCountMin": 0,
+                "dropCountMax": 0,
+                "rewardAvatarItemId": "",
+                "rewardRightId": "",
+                "conditionalRecipeSkillId": 0,
+                "exp": 0,
+                "rewardQuestId": "",
+                "conditionalFacilityUpgradeId": 0,
+                "recipeGroupId": 396,
+                "systemType": "SandBox",
+                "facilityName_EN": "Projection (ID 396)",
+                "facilityName_JA": "プロジェクション (ID 396)",
+                "resultItemName_EN": "La+ Darknesss Default Outfit Acrylic Stand S",
+                "resultItemName_JA": "ラプラス・ダークネス 通常衣装 アクリルスタンドS",
+                "materials": [
+                    {
+                        "craftMaterialId": 98001,
+                        "recipeId": 980,
+                        "itemId": 30106099,
+                        "itemCategory": 0,
+                        "amount": 1,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "HoloIncentive",
+                        "itemName_JA": "ホロインセンティブ"
+                    }
+                ]
+            }
+        },
+        "981": {
+            "1.1.10": {
+                "craftRecipeId": 981,
+                "resultItemId": 42029000,
+                "resultAmount": 1,
+                "observationPoint": 10000,
+                "requiredToken": 0,
+                "byproductDropId": 0,
+                "dropCountMin": 0,
+                "dropCountMax": 0,
+                "rewardAvatarItemId": "",
+                "rewardRightId": "",
+                "conditionalRecipeSkillId": 0,
+                "exp": 0,
+                "rewardQuestId": "",
+                "conditionalFacilityUpgradeId": 0,
+                "recipeGroupId": 396,
+                "systemType": "SandBox",
+                "facilityName_EN": "Projection (ID 396)",
+                "facilityName_JA": "プロジェクション (ID 396)",
+                "resultItemName_EN": "Takane Lui Default Outfit Acrylic Stand S",
+                "resultItemName_JA": "鷹嶺ルイ 通常衣装 アクリルスタンドS",
+                "materials": [
+                    {
+                        "craftMaterialId": 98101,
+                        "recipeId": 981,
+                        "itemId": 30106099,
+                        "itemCategory": 0,
+                        "amount": 1,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "HoloIncentive",
+                        "itemName_JA": "ホロインセンティブ"
+                    }
+                ]
+            }
+        },
+        "982": {
+            "1.1.10": {
+                "craftRecipeId": 982,
+                "resultItemId": 42030000,
+                "resultAmount": 1,
+                "observationPoint": 10000,
+                "requiredToken": 0,
+                "byproductDropId": 0,
+                "dropCountMin": 0,
+                "dropCountMax": 0,
+                "rewardAvatarItemId": "",
+                "rewardRightId": "",
+                "conditionalRecipeSkillId": 0,
+                "exp": 0,
+                "rewardQuestId": "",
+                "conditionalFacilityUpgradeId": 0,
+                "recipeGroupId": 396,
+                "systemType": "SandBox",
+                "facilityName_EN": "Projection (ID 396)",
+                "facilityName_JA": "プロジェクション (ID 396)",
+                "resultItemName_EN": "Hakui Koyori Default Outfit Acrylic Stand S",
+                "resultItemName_JA": "博衣こより 通常衣装 アクリルスタンドS",
+                "materials": [
+                    {
+                        "craftMaterialId": 98201,
+                        "recipeId": 982,
+                        "itemId": 30106099,
+                        "itemCategory": 0,
+                        "amount": 1,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "HoloIncentive",
+                        "itemName_JA": "ホロインセンティブ"
+                    }
+                ]
+            }
+        },
+        "983": {
+            "1.1.10": {
+                "craftRecipeId": 983,
+                "resultItemId": 42031000,
+                "resultAmount": 1,
+                "observationPoint": 10000,
+                "requiredToken": 0,
+                "byproductDropId": 0,
+                "dropCountMin": 0,
+                "dropCountMax": 0,
+                "rewardAvatarItemId": "",
+                "rewardRightId": "",
+                "conditionalRecipeSkillId": 0,
+                "exp": 0,
+                "rewardQuestId": "",
+                "conditionalFacilityUpgradeId": 0,
+                "recipeGroupId": 396,
+                "systemType": "SandBox",
+                "facilityName_EN": "Projection (ID 396)",
+                "facilityName_JA": "プロジェクション (ID 396)",
+                "resultItemName_EN": "Kazama Iroha Default Outfit Acrylic Stand S",
+                "resultItemName_JA": "風真いろは 通常衣装 アクリルスタンドS",
+                "materials": [
+                    {
+                        "craftMaterialId": 98301,
+                        "recipeId": 983,
+                        "itemId": 30106099,
+                        "itemCategory": 0,
+                        "amount": 1,
+                        "reduceDurability": 0,
+                        "reduceInclusion": 0,
+                        "deleteFlg": 0,
+                        "itemName_EN": "HoloIncentive",
+                        "itemName_JA": "ホロインセンティブ"
+                    }
+                ]
+            }
         }
     },
     "smelting": {

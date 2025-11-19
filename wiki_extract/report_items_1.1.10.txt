@@ -1,0 +1,95 @@
+Item Change Report for version: 1.1.10
+
+
+* Items Updated: Repair Kit Lv 1 (ID: 10400001)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: Repair Kit Lv 2 (ID: 10400002)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: Repair Kit Lv 3 (ID: 10400003)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: Repair Kit Lv 4 (ID: 10400004)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: item_armor_20301017 (ID: 20301017)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Shabby Tunic (ID: 20302001)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Cloth Tunic (ID: 20302002)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Iron Armor (ID: 20302007)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Explorer's Tunic (Blu) (ID: 20302012)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Explorer's Tunic (Red) (ID: 20302013)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Explorer's Tunic (Gn) (ID: 20302014)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Shabby Leggings (ID: 20303001)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Cloth Leggings (ID: 20303002)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Iron Greaves (ID: 20303007)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Explorer's Boots (Bn) (ID: 20303012)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Explorer's Boots (Gry) (ID: 20303013)
+  - Extra data from 'master_armor.json' has changed.
+
+* Items Updated: Explorer's Boots (Blk) (ID: 20303014)
+  - Extra data from 'master_armor.json' has changed.
+* Items Added: C2 Spawner (X Golem) (ID: 40401004)
+* Items Added: Unknown (ID: 42003010)
+* Items Added: Unknown (ID: 42003011)
+* Items Added: Unknown (ID: 42003012)
+* Items Added: Unknown (ID: 42006010)
+* Items Added: Unknown (ID: 42006011)
+* Items Added: Unknown (ID: 42006012)
+* Items Added: Unknown (ID: 42019010)
+* Items Added: Unknown (ID: 42019011)
+* Items Added: Unknown (ID: 42019012)
+* Items Added: Unknown (ID: 42020010)
+* Items Added: Unknown (ID: 42020011)
+* Items Added: Unknown (ID: 42020012)
+* Items Added: Unknown (ID: 42023010)
+* Items Added: Unknown (ID: 42023011)
+* Items Added: Unknown (ID: 42023012)
+* Items Added: Unknown (ID: 42024010)
+* Items Added: Unknown (ID: 42024011)
+* Items Added: Unknown (ID: 42024012)
+* Items Added: Unknown (ID: 43005001)
+* Items Added: Unknown (ID: 43005002)
+* Items Added: Unknown (ID: 43005003)
+* Items Added: Unknown (ID: 43005004)
+* Items Added: Unknown (ID: 43005005)
+* Items Added: Unknown (ID: 43005006)
+* Items Added: Unknown (ID: 43005007)
+* Items Added: Unknown (ID: 43005008)
+* Items Added: Unknown (ID: 43006001)
+* Items Added: Unknown (ID: 43006002)
+* Items Added: Unknown (ID: 43900001)
+* Items Added: Unknown (ID: 43900003)
+
+* Items Updated: Golem Armor (ID: 20302016)
+  - Extra data from 'master_armor.json' has changed.
+  - Field 'sortId' changed from '16' to '107'
+
+* Items Updated: Golem Greaves (ID: 20303016)
+  - Extra data from 'master_armor.json' has changed.
+  - Field 'sortId' changed from '23' to '207'
+* Items Added: holoXer Mask (Blk) (ID: 20301019)
+* Items Added: holoXer Mask (Red) (ID: 20301020)
+* Items Added: holoXer Mask (Gld) (ID: 20301021)

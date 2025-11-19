@@ -1,0 +1,10 @@
+Recipe Change Report for version: 1.1.10
+
+* Crafting Added: holoXer Mask (Blk) (ID: 976)
+* Crafting Added: holoXer Mask (Red) (ID: 977)
+* Crafting Added: holoXer Mask (Gld) (ID: 978)
+* Crafting Added: C2 Spawner (X Golem) (ID: 979)
+* Crafting Added: La+ Darknesss Default Outfit Acrylic Stand S (ID: 980)
+* Crafting Added: Takane Lui Default Outfit Acrylic Stand S (ID: 981)
+* Crafting Added: Hakui Koyori Default Outfit Acrylic Stand S (ID: 982)
+* Crafting Added: Kazama Iroha Default Outfit Acrylic Stand S (ID: 983)

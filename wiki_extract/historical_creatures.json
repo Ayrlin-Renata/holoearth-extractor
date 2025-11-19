@@ -14274,6 +14274,190 @@
                     }
                 ]
             }
+        },
+        "211": {
+            "1.1.10": {
+                "creatureId": 211,
+                "nameKey": "creature_211",
+                "speciesId": 4,
+                "minHealth": 12000,
+                "maxHealth": 12000,
+                "minAttackPower": 700,
+                "maxAttackPower": 700,
+                "minDefencePower": 50,
+                "maxDefencePower": 50,
+                "minMagicDefence": 35,
+                "maxMagicDefence": 35,
+                "natureType": 0,
+                "minRobustness": 1000,
+                "maxRobustness": 1000,
+                "minDownResistance": 500,
+                "maxDownResistance": 500,
+                "downDuration": 5,
+                "minExperience": 1500,
+                "maxExperience": 1500,
+                "minObservationPoint": 15000,
+                "maxObservationPoint": 15000,
+                "sightDistance": 80,
+                "sightAngle": 270,
+                "visibleTime": 30,
+                "hateDistanceLow": 100,
+                "hateDistanceMiddle": 60,
+                "hateDistanceStrong": 40,
+                "vigilanceRatioOut": 0.3,
+                "vigilanceRatioLow": 0.5,
+                "vigilanceRatioMiddle": 1,
+                "vigilanceRatioStrong": 10,
+                "weight": 500,
+                "knockbackTimeS": 0,
+                "knockbackTimeM": 0,
+                "knockbackTimeL": 0,
+                "ignoreKnockbackS": 0,
+                "ignoreKnockbackM": 0,
+                "ignoreKnockbackL": 0,
+                "presetPath": "Golem_X_C_LocomotorPreset",
+                "behaviourGraphPath": "Golem_C_Behaviour",
+                "bgmAddress": "BGM_common_battle_1",
+                "creatureName_EN": "X Golem",
+                "creatureName_JA": "Xゴーレム",
+                "element_resistances": [
+                    {
+                        "primaryId": 106,
+                        "creatureId": 211,
+                        "element": 3,
+                        "resistance": -50,
+                        "elementName_EN": "Element 3",
+                        "elementName_JA": "3"
+                    },
+                    {
+                        "primaryId": 107,
+                        "creatureId": 211,
+                        "element": 105,
+                        "resistance": -70,
+                        "elementName_EN": "Terra",
+                        "elementName_JA": "土"
+                    },
+                    {
+                        "primaryId": 108,
+                        "creatureId": 211,
+                        "element": 1,
+                        "resistance": 50,
+                        "elementName_EN": "Element 1",
+                        "elementName_JA": "1"
+                    },
+                    {
+                        "primaryId": 109,
+                        "creatureId": 211,
+                        "element": 102,
+                        "resistance": -100,
+                        "elementName_EN": "Water",
+                        "elementName_JA": "水"
+                    },
+                    {
+                        "primaryId": 110,
+                        "creatureId": 211,
+                        "element": 104,
+                        "resistance": 80,
+                        "elementName_EN": "Electric",
+                        "elementName_JA": "雷"
+                    },
+                    {
+                        "primaryId": 111,
+                        "creatureId": 211,
+                        "element": 101,
+                        "resistance": 100,
+                        "elementName_EN": "Fire",
+                        "elementName_JA": "火"
+                    },
+                    {
+                        "primaryId": 112,
+                        "creatureId": 211,
+                        "element": 103,
+                        "resistance": 50,
+                        "elementName_EN": "Wind",
+                        "elementName_JA": "風"
+                    },
+                    {
+                        "primaryId": 113,
+                        "creatureId": 211,
+                        "element": 201,
+                        "resistance": 100,
+                        "elementName_EN": "Element 201",
+                        "elementName_JA": "201"
+                    },
+                    {
+                        "primaryId": 114,
+                        "creatureId": 211,
+                        "element": 4,
+                        "resistance": -50,
+                        "elementName_EN": "Element 4",
+                        "elementName_JA": "4"
+                    },
+                    {
+                        "primaryId": 115,
+                        "creatureId": 211,
+                        "element": 2,
+                        "resistance": 50,
+                        "elementName_EN": "Element 2",
+                        "elementName_JA": "2"
+                    },
+                    {
+                        "primaryId": 116,
+                        "creatureId": 211,
+                        "element": 107,
+                        "resistance": 0,
+                        "elementName_EN": "Element 107",
+                        "elementName_JA": "107"
+                    }
+                ],
+                "reaction_items": [],
+                "spawners": [
+                    {
+                        "pid": "600004_0",
+                        "spawnerId": 600004,
+                        "deleteFlg": 0,
+                        "creatureId": 211,
+                        "creatureType": 1,
+                        "groupId": 0,
+                        "fixedCount": 0,
+                        "maxCount": 0,
+                        "creatureMinLevel": 25,
+                        "creatureMaxLevel": 25,
+                        "weight": 1,
+                        "dropId": 0,
+                        "mixDropCount": 0,
+                        "maxDropCount": 0,
+                        "spawnPositionIds": [
+                            0
+                        ],
+                        "spawner_details": {
+                            "id": 600004,
+                            "deleteFlg": 0,
+                            "groupId": 0,
+                            "maxSpawnCount": 1,
+                            "spawnableCount": 0,
+                            "spawnInterval": 0,
+                            "isRealTime": 0,
+                            "isFixTime": 0,
+                            "isSpawnedAnySkip": 0,
+                            "spawnStartTime": 0,
+                            "spawnEndTime": 0,
+                            "reactiveItemId": 0,
+                            "isReactivePlayer": 0,
+                            "isReactiveHousing": 0,
+                            "isAllowedSafeAreaSpawn": 0,
+                            "isAllowedDungeonSpawn": 0,
+                            "isAllowedHouseSpawn": 0,
+                            "isBoss": 1,
+                            "isQuest": 0,
+                            "reactiveWeatherIds": [
+                                0
+                            ],
+                            "spawn_positions": []
+                        }
+                    }
+                ]
+            }
         }
     }
 }
