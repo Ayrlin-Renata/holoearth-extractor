@@ -1,0 +1,3016 @@
+Avatar Change Report for version: 1.1.11
+
+
+* Avataraccnecks Updated: NePoLaBo Live re:VISION ID Holder (ID: 904)
+  - Field 'description_EN' changed from 'An ID card holder designed for "NePoLaBo Live -re:VISION-"' to 'An ID card holder designed for "NePoLaBo Live re:VISION"'
+  - Field 'description_JA' changed from '『ねぽらぼライブ-re:VISION-』デザインのIDカードホルダー' to '『ねぽらぼライブ re:VISION』デザインのIDカードホルダー'
+  - Field 'localize_EN' changed from 'NePoLaBo Live -re:VISION- ID Holder' to 'NePoLaBo Live re:VISION ID Holder'
+  - Field 'localize_JA' changed from 'ねぽらぼライブ-re:VISION-IDカードホルダー' to 'ねぽらぼライブ re:VISION IDカードホルダー'
+
+* Mannequinobjects Updated: m (ID: 1013)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'motion' changed from 'UserAvatar_pose_F_cool_001' to 'UserAvatar_pose_F_sit_001'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: m (ID: 1014)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'motion' changed from 'UserAvatar_pose_M_cool_001' to 'UserAvatar_pose_M_sit_001'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: m (ID: 1015)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: f (ID: 1016)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'motion' changed from 'UserAvatar_pose_M_cute_001' to 'UserAvatar_pose_F_elegant_001'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: f (ID: 1017)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: f (ID: 1018)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: m (ID: 1019)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: f (ID: 1020)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: f (ID: 1021)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: f (ID: 1022)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: m (ID: 1023)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Mannequinobjects Updated: m (ID: 1024)
+  - Field 'closeAt' changed from '1898262000' to '4133862000'
+  - Field 'openAt' changed from '1723615200' to '1708873200'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 3)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 5)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 6)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 7)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 8)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 9)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 10)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 11)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 14)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 3)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 5)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 6)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 7)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 8)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 9)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 10)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 11)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 38)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 39)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 40)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 14)
+  - Field 'mode' changed from '5' to '2'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 5)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 6)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 7)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 8)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 9)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 10)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 11)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 38)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 39)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 40)
+  - Field 'mode' changed from '5' to '3'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 3)
+  - Field 'mode' changed from '5' to '4'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 5)
+  - Field 'mode' changed from '5' to '4'
+
+* Avatarcreatemenucategorys Updated: Unknown (ID: 6)
+  - Field 'mode' changed from '5' to '4'
+
+* Avatarcreatemodeenvironments Updated: AVA_CREATE_MODESUBTITLE (ID: AVA_CREATE_MODESUBTITLE)
+  - Field 'backgroundId' changed from '1001' to '1002'
+  - Field 'mode' changed from '5' to '0'
+
+* Avatarcreatemodeenvironments Updated: AVA_CREATE_MODESUBTITLE (ID: AVA_CREATE_MODESUBTITLE)
+  - Field 'mode' changed from '5' to '1'
+
+* Avatarinits Updated: FACE_00000000 (ID: 0)
+  - Field 'category' changed from 'cloth_shoe' to 'face'
+  - Field 'k' changed from 'CLOTH_SHOE_00000000' to 'FACE_00000000'
+
+* Avatarinits Updated: FACE_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'face'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'FACE_00000001'
+
+* Avatarinits Updated: EYE_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'eye'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'EYE_00000001'
+
+* Avatarinits Updated: EYE_00000002 (ID: 2)
+  - Field 'category' changed from 'cloth_underwear' to 'eye'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000002' to 'EYE_00000002'
+
+* Avatarinits Updated: EYE_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'eye'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'EYE_00000003'
+
+* Avatarinits Updated: EYE_00000004 (ID: 4)
+  - Field 'category' changed from 'hair_back' to 'eye'
+  - Field 'k' changed from 'HAIR_BACK_00000004' to 'EYE_00000004'
+
+* Avatarinits Updated: EYE_00000005 (ID: 5)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000005' to 'EYE_00000005'
+
+* Avatarinits Updated: EYE_00000006 (ID: 6)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000006' to 'EYE_00000006'
+
+* Avatarinits Updated: EYE_00000007 (ID: 7)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000007' to 'EYE_00000007'
+
+* Avatarinits Updated: EYE_00000008 (ID: 8)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000008' to 'EYE_00000008'
+
+* Avatarinits Updated: EYE_00000009 (ID: 9)
+  - Field 'category' changed from 'cloth_shoe' to 'eye'
+  - Field 'k' changed from 'CLOTH_SHOE_00000009' to 'EYE_00000009'
+
+* Avatarinits Updated: EYE_00000010 (ID: 10)
+  - Field 'category' changed from 'cloth_bottom' to 'eye'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000010' to 'EYE_00000010'
+
+* Avatarinits Updated: EYE_00000011 (ID: 11)
+  - Field 'category' changed from 'cloth_bottom' to 'eye'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000011' to 'EYE_00000011'
+
+* Avatarinits Updated: EYE_00000012 (ID: 12)
+  - Field 'category' changed from 'cloth_bottom' to 'eye'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000012' to 'EYE_00000012'
+
+* Avatarinits Updated: EYE_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'eye'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'EYE_00000013'
+
+* Avatarinits Updated: EYE_00000014 (ID: 14)
+  - Field 'category' changed from 'cloth_bottom' to 'eye'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000014' to 'EYE_00000014'
+
+* Avatarinits Updated: EYE_00000015 (ID: 15)
+  - Field 'category' changed from 'cloth_bottom' to 'eye'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000015' to 'EYE_00000015'
+
+* Avatarinits Updated: EYE_00000016 (ID: 16)
+  - Field 'category' changed from 'cloth_bottom' to 'eye'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000016' to 'EYE_00000016'
+
+* Avatarinits Updated: EYE_00000017 (ID: 17)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000017' to 'EYE_00000017'
+
+* Avatarinits Updated: EYE_00000018 (ID: 18)
+  - Field 'category' changed from 'hair_front' to 'eye'
+  - Field 'k' changed from 'HAIR_FRONT_00000018' to 'EYE_00000018'
+
+* Avatarinits Updated: EYE_00000019 (ID: 19)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000019' to 'EYE_00000019'
+
+* Avatarinits Updated: EYE_00000020 (ID: 20)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000020' to 'EYE_00000020'
+
+* Avatarinits Updated: EYE_00000021 (ID: 21)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000021' to 'EYE_00000021'
+
+* Avatarinits Updated: EYE_00000022 (ID: 22)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000022' to 'EYE_00000022'
+
+* Avatarinits Updated: EYE_00000023 (ID: 23)
+  - Field 'category' changed from 'hair_front' to 'eye'
+  - Field 'k' changed from 'HAIR_FRONT_00000023' to 'EYE_00000023'
+
+* Avatarinits Updated: EYE_00000024 (ID: 24)
+  - Field 'category' changed from 'hair_front' to 'eye'
+  - Field 'k' changed from 'HAIR_FRONT_00000024' to 'EYE_00000024'
+
+* Avatarinits Updated: EYE_00000025 (ID: 25)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000025' to 'EYE_00000025'
+
+* Avatarinits Updated: EYE_00000026 (ID: 26)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000026' to 'EYE_00000026'
+
+* Avatarinits Updated: EYE_00000027 (ID: 27)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000027' to 'EYE_00000027'
+
+* Avatarinits Updated: EYE_00000028 (ID: 28)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000028' to 'EYE_00000028'
+
+* Avatarinits Updated: EYE_00000029 (ID: 29)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000029' to 'EYE_00000029'
+
+* Avatarinits Updated: EYE_00000030 (ID: 30)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000030' to 'EYE_00000030'
+
+* Avatarinits Updated: EYE_00000031 (ID: 31)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000031' to 'EYE_00000031'
+
+* Avatarinits Updated: EYE_00000032 (ID: 32)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000032' to 'EYE_00000032'
+
+* Avatarinits Updated: EYE_00000033 (ID: 33)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000033' to 'EYE_00000033'
+
+* Avatarinits Updated: EYE_00000034 (ID: 34)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000034' to 'EYE_00000034'
+
+* Avatarinits Updated: EYE_00000035 (ID: 35)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000035' to 'EYE_00000035'
+
+* Avatarinits Updated: EYE_00000036 (ID: 36)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000036' to 'EYE_00000036'
+
+* Avatarinits Updated: EYE_00000037 (ID: 37)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000037' to 'EYE_00000037'
+
+* Avatarinits Updated: EYE_00000038 (ID: 38)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000038' to 'EYE_00000038'
+
+* Avatarinits Updated: EYE_00000039 (ID: 39)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000039' to 'EYE_00000039'
+
+* Avatarinits Updated: EYE_00000040 (ID: 40)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000040' to 'EYE_00000040'
+
+* Avatarinits Updated: EYE_00000041 (ID: 41)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000041' to 'EYE_00000041'
+
+* Avatarinits Updated: EYE_00000042 (ID: 42)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000042' to 'EYE_00000042'
+
+* Avatarinits Updated: EYE_00000043 (ID: 43)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000043' to 'EYE_00000043'
+
+* Avatarinits Updated: EYE_00000044 (ID: 44)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000044' to 'EYE_00000044'
+
+* Avatarinits Updated: EYE_00000045 (ID: 45)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000045' to 'EYE_00000045'
+
+* Avatarinits Updated: EYE_00000046 (ID: 46)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000046' to 'EYE_00000046'
+
+* Avatarinits Updated: EYE_00000047 (ID: 47)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000047' to 'EYE_00000047'
+
+* Avatarinits Updated: EYE_00000048 (ID: 48)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000048' to 'EYE_00000048'
+
+* Avatarinits Updated: EYE_00000049 (ID: 49)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000049' to 'EYE_00000049'
+
+* Avatarinits Updated: EYE_00000050 (ID: 50)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000050' to 'EYE_00000050'
+
+* Avatarinits Updated: EYE_00000051 (ID: 51)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000051' to 'EYE_00000051'
+
+* Avatarinits Updated: EYE_00000052 (ID: 52)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000052' to 'EYE_00000052'
+
+* Avatarinits Updated: EYE_00000053 (ID: 53)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000053' to 'EYE_00000053'
+
+* Avatarinits Updated: EYE_00000054 (ID: 54)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000054' to 'EYE_00000054'
+
+* Avatarinits Updated: EYE_00000055 (ID: 55)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000055' to 'EYE_00000055'
+
+* Avatarinits Updated: EYE_00000056 (ID: 56)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000056' to 'EYE_00000056'
+
+* Avatarinits Updated: EYE_00000057 (ID: 57)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000057' to 'EYE_00000057'
+
+* Avatarinits Updated: EYE_00000058 (ID: 58)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000058' to 'EYE_00000058'
+
+* Avatarinits Updated: EYE_00000059 (ID: 59)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000059' to 'EYE_00000059'
+
+* Avatarinits Updated: EYE_00000060 (ID: 60)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000060' to 'EYE_00000060'
+
+* Avatarinits Updated: EYE_00000061 (ID: 61)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000061' to 'EYE_00000061'
+
+* Avatarinits Updated: EYE_00000062 (ID: 62)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000062' to 'EYE_00000062'
+
+* Avatarinits Updated: EYE_00000063 (ID: 63)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000063' to 'EYE_00000063'
+
+* Avatarinits Updated: EYE_00000064 (ID: 64)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000064' to 'EYE_00000064'
+
+* Avatarinits Updated: EYE_00000065 (ID: 65)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000065' to 'EYE_00000065'
+
+* Avatarinits Updated: EYE_00000066 (ID: 66)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000066' to 'EYE_00000066'
+
+* Avatarinits Updated: EYE_00000067 (ID: 67)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000067' to 'EYE_00000067'
+
+* Avatarinits Updated: EYE_00000068 (ID: 68)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000068' to 'EYE_00000068'
+
+* Avatarinits Updated: EYE_00000069 (ID: 69)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000069' to 'EYE_00000069'
+
+* Avatarinits Updated: EYE_00000070 (ID: 70)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000070' to 'EYE_00000070'
+
+* Avatarinits Updated: EYE_00000071 (ID: 71)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000071' to 'EYE_00000071'
+
+* Avatarinits Updated: EYE_00000072 (ID: 72)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000072' to 'EYE_00000072'
+
+* Avatarinits Updated: EYE_00000073 (ID: 73)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000073' to 'EYE_00000073'
+
+* Avatarinits Updated: EYE_00000074 (ID: 74)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000074' to 'EYE_00000074'
+
+* Avatarinits Updated: EYE_00000075 (ID: 75)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000075' to 'EYE_00000075'
+
+* Avatarinits Updated: EYE_00000076 (ID: 76)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000076' to 'EYE_00000076'
+
+* Avatarinits Updated: EYE_00000077 (ID: 77)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000077' to 'EYE_00000077'
+
+* Avatarinits Updated: EYE_00000078 (ID: 78)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000078' to 'EYE_00000078'
+
+* Avatarinits Updated: EYE_00000079 (ID: 79)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000079' to 'EYE_00000079'
+
+* Avatarinits Updated: EYE_00000080 (ID: 80)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000080' to 'EYE_00000080'
+
+* Avatarinits Updated: EYE_00000081 (ID: 81)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000081' to 'EYE_00000081'
+
+* Avatarinits Updated: EYE_00000082 (ID: 82)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000082' to 'EYE_00000082'
+
+* Avatarinits Updated: EYE_00000083 (ID: 83)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000083' to 'EYE_00000083'
+
+* Avatarinits Updated: EYE_00000084 (ID: 84)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000084' to 'EYE_00000084'
+
+* Avatarinits Updated: EYE_00000085 (ID: 85)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000085' to 'EYE_00000085'
+
+* Avatarinits Updated: EYE_00000086 (ID: 86)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000086' to 'EYE_00000086'
+
+* Avatarinits Updated: EYE_00000087 (ID: 87)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000087' to 'EYE_00000087'
+
+* Avatarinits Updated: EYE_00000088 (ID: 88)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000088' to 'EYE_00000088'
+
+* Avatarinits Updated: EYE_00000089 (ID: 89)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000089' to 'EYE_00000089'
+
+* Avatarinits Updated: EYE_00000090 (ID: 90)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000090' to 'EYE_00000090'
+
+* Avatarinits Updated: EYE_00000091 (ID: 91)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000091' to 'EYE_00000091'
+
+* Avatarinits Updated: EYE_00000092 (ID: 92)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000092' to 'EYE_00000092'
+
+* Avatarinits Updated: EYE_00000093 (ID: 93)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000093' to 'EYE_00000093'
+
+* Avatarinits Updated: EYE_00000094 (ID: 94)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000094' to 'EYE_00000094'
+
+* Avatarinits Updated: EYE_00000095 (ID: 95)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000095' to 'EYE_00000095'
+
+* Avatarinits Updated: EYE_00000096 (ID: 96)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000096' to 'EYE_00000096'
+
+* Avatarinits Updated: EYE_00000097 (ID: 97)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000097' to 'EYE_00000097'
+
+* Avatarinits Updated: EYE_00000098 (ID: 98)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000098' to 'EYE_00000098'
+
+* Avatarinits Updated: EYE_00000099 (ID: 99)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000099' to 'EYE_00000099'
+
+* Avatarinits Updated: EYE_00000100 (ID: 100)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000100' to 'EYE_00000100'
+
+* Avatarinits Updated: EYE_00000101 (ID: 101)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000101' to 'EYE_00000101'
+
+* Avatarinits Updated: EYE_00000102 (ID: 102)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000102' to 'EYE_00000102'
+
+* Avatarinits Updated: EYE_00000103 (ID: 103)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000103' to 'EYE_00000103'
+
+* Avatarinits Updated: EYE_00000104 (ID: 104)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000104' to 'EYE_00000104'
+
+* Avatarinits Updated: EYE_00000105 (ID: 105)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000105' to 'EYE_00000105'
+
+* Avatarinits Updated: EYE_00000106 (ID: 106)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000106' to 'EYE_00000106'
+
+* Avatarinits Updated: EYE_00000107 (ID: 107)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000107' to 'EYE_00000107'
+
+* Avatarinits Updated: EYE_00000108 (ID: 108)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000108' to 'EYE_00000108'
+
+* Avatarinits Updated: EYE_00000109 (ID: 109)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000109' to 'EYE_00000109'
+
+* Avatarinits Updated: EYE_00000110 (ID: 110)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000110' to 'EYE_00000110'
+
+* Avatarinits Updated: EYE_00000111 (ID: 111)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000111' to 'EYE_00000111'
+
+* Avatarinits Updated: EYE_00000112 (ID: 112)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000112' to 'EYE_00000112'
+
+* Avatarinits Updated: EYE_00000113 (ID: 113)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000113' to 'EYE_00000113'
+
+* Avatarinits Updated: EYE_00000114 (ID: 114)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000114' to 'EYE_00000114'
+
+* Avatarinits Updated: EYE_00000115 (ID: 115)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000115' to 'EYE_00000115'
+
+* Avatarinits Updated: EYE_00000116 (ID: 116)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000116' to 'EYE_00000116'
+
+* Avatarinits Updated: EYE_00000117 (ID: 117)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000117' to 'EYE_00000117'
+
+* Avatarinits Updated: EYE_00000118 (ID: 118)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000118' to 'EYE_00000118'
+
+* Avatarinits Updated: EYE_00000119 (ID: 119)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000119' to 'EYE_00000119'
+
+* Avatarinits Updated: EYE_00000120 (ID: 120)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000120' to 'EYE_00000120'
+
+* Avatarinits Updated: EYE_00000121 (ID: 121)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000121' to 'EYE_00000121'
+
+* Avatarinits Updated: EYE_00000122 (ID: 122)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000122' to 'EYE_00000122'
+
+* Avatarinits Updated: EYE_00000123 (ID: 123)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000123' to 'EYE_00000123'
+
+* Avatarinits Updated: EYE_00000124 (ID: 124)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000124' to 'EYE_00000124'
+
+* Avatarinits Updated: EYE_00000125 (ID: 125)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000125' to 'EYE_00000125'
+
+* Avatarinits Updated: EYE_00000126 (ID: 126)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000126' to 'EYE_00000126'
+
+* Avatarinits Updated: EYE_00000127 (ID: 127)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000127' to 'EYE_00000127'
+
+* Avatarinits Updated: EYE_00000128 (ID: 128)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000128' to 'EYE_00000128'
+
+* Avatarinits Updated: EYE_00000129 (ID: 129)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000129' to 'EYE_00000129'
+
+* Avatarinits Updated: EYE_00000130 (ID: 130)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000130' to 'EYE_00000130'
+
+* Avatarinits Updated: EYE_00000131 (ID: 131)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000131' to 'EYE_00000131'
+
+* Avatarinits Updated: EYE_00000132 (ID: 132)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000132' to 'EYE_00000132'
+
+* Avatarinits Updated: EYE_00000133 (ID: 133)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000133' to 'EYE_00000133'
+
+* Avatarinits Updated: EYE_00000134 (ID: 134)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000134' to 'EYE_00000134'
+
+* Avatarinits Updated: EYE_00000135 (ID: 135)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000135' to 'EYE_00000135'
+
+* Avatarinits Updated: EYE_00000136 (ID: 136)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000136' to 'EYE_00000136'
+
+* Avatarinits Updated: EYE_00000137 (ID: 137)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000137' to 'EYE_00000137'
+
+* Avatarinits Updated: EYE_00000138 (ID: 138)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000138' to 'EYE_00000138'
+
+* Avatarinits Updated: EYE_00000139 (ID: 139)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000139' to 'EYE_00000139'
+
+* Avatarinits Updated: EYE_00000140 (ID: 140)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000140' to 'EYE_00000140'
+
+* Avatarinits Updated: EYE_00000141 (ID: 141)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000141' to 'EYE_00000141'
+
+* Avatarinits Updated: EYE_00000142 (ID: 142)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000142' to 'EYE_00000142'
+
+* Avatarinits Updated: EYE_00000143 (ID: 143)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000143' to 'EYE_00000143'
+
+* Avatarinits Updated: EYE_00000144 (ID: 144)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000144' to 'EYE_00000144'
+
+* Avatarinits Updated: EYE_00000145 (ID: 145)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000145' to 'EYE_00000145'
+
+* Avatarinits Updated: EYE_00000146 (ID: 146)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000146' to 'EYE_00000146'
+
+* Avatarinits Updated: EYE_00000147 (ID: 147)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000147' to 'EYE_00000147'
+
+* Avatarinits Updated: EYE_00000148 (ID: 148)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000148' to 'EYE_00000148'
+
+* Avatarinits Updated: EYE_00000149 (ID: 149)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000149' to 'EYE_00000149'
+
+* Avatarinits Updated: EYE_00000150 (ID: 150)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000150' to 'EYE_00000150'
+
+* Avatarinits Updated: EYE_00000151 (ID: 151)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000151' to 'EYE_00000151'
+
+* Avatarinits Updated: EYE_00000152 (ID: 152)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000152' to 'EYE_00000152'
+
+* Avatarinits Updated: EYE_00000153 (ID: 153)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000153' to 'EYE_00000153'
+
+* Avatarinits Updated: EYE_00000154 (ID: 154)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000154' to 'EYE_00000154'
+
+* Avatarinits Updated: EYE_00000155 (ID: 155)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000155' to 'EYE_00000155'
+
+* Avatarinits Updated: EYE_00000156 (ID: 156)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000156' to 'EYE_00000156'
+
+* Avatarinits Updated: EYE_00000157 (ID: 157)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000157' to 'EYE_00000157'
+
+* Avatarinits Updated: EYE_00000158 (ID: 158)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000158' to 'EYE_00000158'
+
+* Avatarinits Updated: EYE_00000159 (ID: 159)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000159' to 'EYE_00000159'
+
+* Avatarinits Updated: EYE_00000160 (ID: 160)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000160' to 'EYE_00000160'
+
+* Avatarinits Updated: EYE_00000161 (ID: 161)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000161' to 'EYE_00000161'
+
+* Avatarinits Updated: EYE_00000162 (ID: 162)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000162' to 'EYE_00000162'
+
+* Avatarinits Updated: EYE_00000163 (ID: 163)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000163' to 'EYE_00000163'
+
+* Avatarinits Updated: EYE_00000164 (ID: 164)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000164' to 'EYE_00000164'
+
+* Avatarinits Updated: EYE_00000165 (ID: 165)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000165' to 'EYE_00000165'
+
+* Avatarinits Updated: EYE_00000166 (ID: 166)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000166' to 'EYE_00000166'
+
+* Avatarinits Updated: EYE_00000167 (ID: 167)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000167' to 'EYE_00000167'
+
+* Avatarinits Updated: EYE_00000168 (ID: 168)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000168' to 'EYE_00000168'
+
+* Avatarinits Updated: EYE_00000169 (ID: 169)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000169' to 'EYE_00000169'
+
+* Avatarinits Updated: EYE_00000170 (ID: 170)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000170' to 'EYE_00000170'
+
+* Avatarinits Updated: EYE_00000171 (ID: 171)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000171' to 'EYE_00000171'
+
+* Avatarinits Updated: EYE_00000172 (ID: 172)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000172' to 'EYE_00000172'
+
+* Avatarinits Updated: EYE_00000173 (ID: 173)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000173' to 'EYE_00000173'
+
+* Avatarinits Updated: EYE_00000174 (ID: 174)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000174' to 'EYE_00000174'
+
+* Avatarinits Updated: EYE_00000175 (ID: 175)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000175' to 'EYE_00000175'
+
+* Avatarinits Updated: EYE_00000176 (ID: 176)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000176' to 'EYE_00000176'
+
+* Avatarinits Updated: EYE_00000177 (ID: 177)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000177' to 'EYE_00000177'
+
+* Avatarinits Updated: EYE_00000178 (ID: 178)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000178' to 'EYE_00000178'
+
+* Avatarinits Updated: EYE_00000179 (ID: 179)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000179' to 'EYE_00000179'
+
+* Avatarinits Updated: EYE_00000180 (ID: 180)
+  - Field 'category' changed from 'lip' to 'eye'
+  - Field 'k' changed from 'LIP_00000180' to 'EYE_00000180'
+
+* Avatarinits Updated: PUPIL_00000002 (ID: 2)
+  - Field 'category' changed from 'cloth_underwear' to 'pupil'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000002' to 'PUPIL_00000002'
+
+* Avatarinits Updated: PUPIL_00000005 (ID: 5)
+  - Field 'category' changed from 'lip' to 'pupil'
+  - Field 'k' changed from 'LIP_00000005' to 'PUPIL_00000005'
+
+* Avatarinits Updated: PUPIL_00000007 (ID: 7)
+  - Field 'category' changed from 'lip' to 'pupil'
+  - Field 'k' changed from 'LIP_00000007' to 'PUPIL_00000007'
+
+* Avatarinits Updated: PUPIL_00000008 (ID: 8)
+  - Field 'category' changed from 'lip' to 'pupil'
+  - Field 'k' changed from 'LIP_00000008' to 'PUPIL_00000008'
+
+* Avatarinits Updated: PUPIL_00000010 (ID: 10)
+  - Field 'category' changed from 'cloth_bottom' to 'pupil'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000010' to 'PUPIL_00000010'
+
+* Avatarinits Updated: PUPIL_00000011 (ID: 11)
+  - Field 'category' changed from 'cloth_bottom' to 'pupil'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000011' to 'PUPIL_00000011'
+
+* Avatarinits Updated: PUPIL_00000016 (ID: 16)
+  - Field 'category' changed from 'cloth_bottom' to 'pupil'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000016' to 'PUPIL_00000016'
+
+* Avatarinits Updated: PUPIL_00000019 (ID: 19)
+  - Field 'category' changed from 'lip' to 'pupil'
+  - Field 'k' changed from 'LIP_00000019' to 'PUPIL_00000019'
+
+* Avatarinits Updated: PUPIL_00000020 (ID: 20)
+  - Field 'category' changed from 'lip' to 'pupil'
+  - Field 'k' changed from 'LIP_00000020' to 'PUPIL_00000020'
+
+* Avatarinits Updated: PUPIL_00000021 (ID: 21)
+  - Field 'category' changed from 'lip' to 'pupil'
+  - Field 'k' changed from 'LIP_00000021' to 'PUPIL_00000021'
+
+* Avatarinits Updated: PUPIL_00000024 (ID: 24)
+  - Field 'category' changed from 'hair_front' to 'pupil'
+  - Field 'k' changed from 'HAIR_FRONT_00000024' to 'PUPIL_00000024'
+
+* Avatarinits Updated: EYEBROW_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'EYEBROW_00000001'
+
+* Avatarinits Updated: EYEBROW_00000002 (ID: 2)
+  - Field 'category' changed from 'cloth_underwear' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000002' to 'EYEBROW_00000002'
+
+* Avatarinits Updated: EYEBROW_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'EYEBROW_00000003'
+
+* Avatarinits Updated: EYEBROW_00000004 (ID: 4)
+  - Field 'category' changed from 'hair_back' to 'eyebrow'
+  - Field 'k' changed from 'HAIR_BACK_00000004' to 'EYEBROW_00000004'
+
+* Avatarinits Updated: EYEBROW_00000005 (ID: 5)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000005' to 'EYEBROW_00000005'
+
+* Avatarinits Updated: EYEBROW_00000006 (ID: 6)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000006' to 'EYEBROW_00000006'
+
+* Avatarinits Updated: EYEBROW_00000007 (ID: 7)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000007' to 'EYEBROW_00000007'
+
+* Avatarinits Updated: EYEBROW_00000008 (ID: 8)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000008' to 'EYEBROW_00000008'
+
+* Avatarinits Updated: EYEBROW_00000009 (ID: 9)
+  - Field 'category' changed from 'cloth_shoe' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_SHOE_00000009' to 'EYEBROW_00000009'
+
+* Avatarinits Updated: EYEBROW_00000010 (ID: 10)
+  - Field 'category' changed from 'cloth_bottom' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000010' to 'EYEBROW_00000010'
+
+* Avatarinits Updated: EYEBROW_00000011 (ID: 11)
+  - Field 'category' changed from 'cloth_bottom' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000011' to 'EYEBROW_00000011'
+
+* Avatarinits Updated: EYEBROW_00000012 (ID: 12)
+  - Field 'category' changed from 'cloth_bottom' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000012' to 'EYEBROW_00000012'
+
+* Avatarinits Updated: EYEBROW_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'EYEBROW_00000013'
+
+* Avatarinits Updated: EYEBROW_00000014 (ID: 14)
+  - Field 'category' changed from 'cloth_bottom' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000014' to 'EYEBROW_00000014'
+
+* Avatarinits Updated: EYEBROW_00000015 (ID: 15)
+  - Field 'category' changed from 'cloth_bottom' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000015' to 'EYEBROW_00000015'
+
+* Avatarinits Updated: EYEBROW_00000016 (ID: 16)
+  - Field 'category' changed from 'cloth_bottom' to 'eyebrow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000016' to 'EYEBROW_00000016'
+
+* Avatarinits Updated: EYEBROW_00000017 (ID: 17)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000017' to 'EYEBROW_00000017'
+
+* Avatarinits Updated: EYEBROW_00000018 (ID: 18)
+  - Field 'category' changed from 'hair_front' to 'eyebrow'
+  - Field 'k' changed from 'HAIR_FRONT_00000018' to 'EYEBROW_00000018'
+
+* Avatarinits Updated: EYEBROW_00000019 (ID: 19)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000019' to 'EYEBROW_00000019'
+
+* Avatarinits Updated: EYEBROW_00000020 (ID: 20)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000020' to 'EYEBROW_00000020'
+
+* Avatarinits Updated: EYEBROW_00000021 (ID: 21)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000021' to 'EYEBROW_00000021'
+
+* Avatarinits Updated: EYEBROW_00000022 (ID: 22)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000022' to 'EYEBROW_00000022'
+
+* Avatarinits Updated: EYEBROW_00000023 (ID: 23)
+  - Field 'category' changed from 'hair_front' to 'eyebrow'
+  - Field 'k' changed from 'HAIR_FRONT_00000023' to 'EYEBROW_00000023'
+
+* Avatarinits Updated: EYEBROW_00000024 (ID: 24)
+  - Field 'category' changed from 'hair_front' to 'eyebrow'
+  - Field 'k' changed from 'HAIR_FRONT_00000024' to 'EYEBROW_00000024'
+
+* Avatarinits Updated: EYEBROW_00000025 (ID: 25)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000025' to 'EYEBROW_00000025'
+
+* Avatarinits Updated: EYEBROW_00000026 (ID: 26)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000026' to 'EYEBROW_00000026'
+
+* Avatarinits Updated: EYEBROW_00000027 (ID: 27)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000027' to 'EYEBROW_00000027'
+
+* Avatarinits Updated: EYEBROW_00000028 (ID: 28)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000028' to 'EYEBROW_00000028'
+
+* Avatarinits Updated: EYEBROW_00000029 (ID: 29)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000029' to 'EYEBROW_00000029'
+
+* Avatarinits Updated: EYEBROW_00000030 (ID: 30)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000030' to 'EYEBROW_00000030'
+
+* Avatarinits Updated: EYEBROW_00000031 (ID: 31)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000031' to 'EYEBROW_00000031'
+
+* Avatarinits Updated: EYEBROW_00000032 (ID: 32)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000032' to 'EYEBROW_00000032'
+
+* Avatarinits Updated: EYEBROW_00000033 (ID: 33)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000033' to 'EYEBROW_00000033'
+
+* Avatarinits Updated: EYEBROW_00000034 (ID: 34)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000034' to 'EYEBROW_00000034'
+
+* Avatarinits Updated: EYEBROW_00000035 (ID: 35)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000035' to 'EYEBROW_00000035'
+
+* Avatarinits Updated: EYEBROW_00000036 (ID: 36)
+  - Field 'category' changed from 'lip' to 'eyebrow'
+  - Field 'k' changed from 'LIP_00000036' to 'EYEBROW_00000036'
+
+* Avatarinits Updated: CONTACT_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'contact'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'CONTACT_00000001'
+
+* Avatarinits Updated: CONTACT_00000007 (ID: 7)
+  - Field 'category' changed from 'lip' to 'contact'
+  - Field 'k' changed from 'LIP_00000007' to 'CONTACT_00000007'
+
+* Avatarinits Updated: EYESHADOW_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'EYESHADOW_00000001'
+
+* Avatarinits Updated: EYESHADOW_00000002 (ID: 2)
+  - Field 'category' changed from 'cloth_underwear' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000002' to 'EYESHADOW_00000002'
+
+* Avatarinits Updated: EYESHADOW_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'EYESHADOW_00000003'
+
+* Avatarinits Updated: EYESHADOW_00000004 (ID: 4)
+  - Field 'category' changed from 'hair_back' to 'eyeshadow'
+  - Field 'k' changed from 'HAIR_BACK_00000004' to 'EYESHADOW_00000004'
+
+* Avatarinits Updated: EYESHADOW_00000005 (ID: 5)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000005' to 'EYESHADOW_00000005'
+
+* Avatarinits Updated: EYESHADOW_00000006 (ID: 6)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000006' to 'EYESHADOW_00000006'
+
+* Avatarinits Updated: EYESHADOW_00000007 (ID: 7)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000007' to 'EYESHADOW_00000007'
+
+* Avatarinits Updated: EYESHADOW_00000008 (ID: 8)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000008' to 'EYESHADOW_00000008'
+
+* Avatarinits Updated: EYESHADOW_00000009 (ID: 9)
+  - Field 'category' changed from 'cloth_shoe' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_SHOE_00000009' to 'EYESHADOW_00000009'
+
+* Avatarinits Updated: EYESHADOW_00000010 (ID: 10)
+  - Field 'category' changed from 'cloth_bottom' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000010' to 'EYESHADOW_00000010'
+
+* Avatarinits Updated: EYESHADOW_00000011 (ID: 11)
+  - Field 'category' changed from 'cloth_bottom' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000011' to 'EYESHADOW_00000011'
+
+* Avatarinits Updated: EYESHADOW_00000012 (ID: 12)
+  - Field 'category' changed from 'cloth_bottom' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000012' to 'EYESHADOW_00000012'
+
+* Avatarinits Updated: EYESHADOW_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'EYESHADOW_00000013'
+
+* Avatarinits Updated: EYESHADOW_00000014 (ID: 14)
+  - Field 'category' changed from 'cloth_bottom' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000014' to 'EYESHADOW_00000014'
+
+* Avatarinits Updated: EYESHADOW_00000015 (ID: 15)
+  - Field 'category' changed from 'cloth_bottom' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000015' to 'EYESHADOW_00000015'
+
+* Avatarinits Updated: EYESHADOW_00000016 (ID: 16)
+  - Field 'category' changed from 'cloth_bottom' to 'eyeshadow'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000016' to 'EYESHADOW_00000016'
+
+* Avatarinits Updated: EYESHADOW_00000017 (ID: 17)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000017' to 'EYESHADOW_00000017'
+
+* Avatarinits Updated: EYESHADOW_00000018 (ID: 18)
+  - Field 'category' changed from 'hair_front' to 'eyeshadow'
+  - Field 'k' changed from 'HAIR_FRONT_00000018' to 'EYESHADOW_00000018'
+
+* Avatarinits Updated: EYESHADOW_00000019 (ID: 19)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000019' to 'EYESHADOW_00000019'
+
+* Avatarinits Updated: EYESHADOW_00000020 (ID: 20)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000020' to 'EYESHADOW_00000020'
+
+* Avatarinits Updated: EYESHADOW_00000021 (ID: 21)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000021' to 'EYESHADOW_00000021'
+
+* Avatarinits Updated: EYESHADOW_00000022 (ID: 22)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000022' to 'EYESHADOW_00000022'
+
+* Avatarinits Updated: EYESHADOW_00000023 (ID: 23)
+  - Field 'category' changed from 'hair_front' to 'eyeshadow'
+  - Field 'k' changed from 'HAIR_FRONT_00000023' to 'EYESHADOW_00000023'
+
+* Avatarinits Updated: EYESHADOW_00000024 (ID: 24)
+  - Field 'category' changed from 'hair_front' to 'eyeshadow'
+  - Field 'k' changed from 'HAIR_FRONT_00000024' to 'EYESHADOW_00000024'
+
+* Avatarinits Updated: EYESHADOW_00000025 (ID: 25)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000025' to 'EYESHADOW_00000025'
+
+* Avatarinits Updated: EYESHADOW_00000026 (ID: 26)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000026' to 'EYESHADOW_00000026'
+
+* Avatarinits Updated: EYESHADOW_00000027 (ID: 27)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000027' to 'EYESHADOW_00000027'
+
+* Avatarinits Updated: EYESHADOW_00000028 (ID: 28)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000028' to 'EYESHADOW_00000028'
+
+* Avatarinits Updated: EYESHADOW_00000029 (ID: 29)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000029' to 'EYESHADOW_00000029'
+
+* Avatarinits Updated: EYESHADOW_00000030 (ID: 30)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000030' to 'EYESHADOW_00000030'
+
+* Avatarinits Updated: EYESHADOW_00000031 (ID: 31)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000031' to 'EYESHADOW_00000031'
+
+* Avatarinits Updated: EYESHADOW_00000032 (ID: 32)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000032' to 'EYESHADOW_00000032'
+
+* Avatarinits Updated: EYESHADOW_00000033 (ID: 33)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000033' to 'EYESHADOW_00000033'
+
+* Avatarinits Updated: EYESHADOW_00000034 (ID: 34)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000034' to 'EYESHADOW_00000034'
+
+* Avatarinits Updated: EYESHADOW_00000035 (ID: 35)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000035' to 'EYESHADOW_00000035'
+
+* Avatarinits Updated: EYESHADOW_00000036 (ID: 36)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000036' to 'EYESHADOW_00000036'
+
+* Avatarinits Updated: EYESHADOW_00000037 (ID: 37)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000037' to 'EYESHADOW_00000037'
+
+* Avatarinits Updated: EYESHADOW_00000038 (ID: 38)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000038' to 'EYESHADOW_00000038'
+
+* Avatarinits Updated: EYESHADOW_00000039 (ID: 39)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000039' to 'EYESHADOW_00000039'
+
+* Avatarinits Updated: EYESHADOW_00000040 (ID: 40)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000040' to 'EYESHADOW_00000040'
+
+* Avatarinits Updated: EYESHADOW_00000041 (ID: 41)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000041' to 'EYESHADOW_00000041'
+
+* Avatarinits Updated: EYESHADOW_00000042 (ID: 42)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000042' to 'EYESHADOW_00000042'
+
+* Avatarinits Updated: EYESHADOW_00000043 (ID: 43)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000043' to 'EYESHADOW_00000043'
+
+* Avatarinits Updated: EYESHADOW_00000044 (ID: 44)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000044' to 'EYESHADOW_00000044'
+
+* Avatarinits Updated: EYESHADOW_00000045 (ID: 45)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000045' to 'EYESHADOW_00000045'
+
+* Avatarinits Updated: EYESHADOW_00000046 (ID: 46)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000046' to 'EYESHADOW_00000046'
+
+* Avatarinits Updated: EYESHADOW_00000047 (ID: 47)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000047' to 'EYESHADOW_00000047'
+
+* Avatarinits Updated: EYESHADOW_00000048 (ID: 48)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000048' to 'EYESHADOW_00000048'
+
+* Avatarinits Updated: EYESHADOW_00000049 (ID: 49)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000049' to 'EYESHADOW_00000049'
+
+* Avatarinits Updated: EYESHADOW_00000050 (ID: 50)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000050' to 'EYESHADOW_00000050'
+
+* Avatarinits Updated: EYESHADOW_00000051 (ID: 51)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000051' to 'EYESHADOW_00000051'
+
+* Avatarinits Updated: EYESHADOW_00000052 (ID: 52)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000052' to 'EYESHADOW_00000052'
+
+* Avatarinits Updated: EYESHADOW_00000053 (ID: 53)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000053' to 'EYESHADOW_00000053'
+
+* Avatarinits Updated: EYESHADOW_00000054 (ID: 54)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000054' to 'EYESHADOW_00000054'
+
+* Avatarinits Updated: EYESHADOW_00000055 (ID: 55)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000055' to 'EYESHADOW_00000055'
+
+* Avatarinits Updated: EYESHADOW_00000056 (ID: 56)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000056' to 'EYESHADOW_00000056'
+
+* Avatarinits Updated: EYESHADOW_00000057 (ID: 57)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000057' to 'EYESHADOW_00000057'
+
+* Avatarinits Updated: EYESHADOW_00000058 (ID: 58)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000058' to 'EYESHADOW_00000058'
+
+* Avatarinits Updated: EYESHADOW_00000059 (ID: 59)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000059' to 'EYESHADOW_00000059'
+
+* Avatarinits Updated: EYESHADOW_00000060 (ID: 60)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000060' to 'EYESHADOW_00000060'
+
+* Avatarinits Updated: EYESHADOW_00000061 (ID: 61)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000061' to 'EYESHADOW_00000061'
+
+* Avatarinits Updated: EYESHADOW_00000062 (ID: 62)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000062' to 'EYESHADOW_00000062'
+
+* Avatarinits Updated: EYESHADOW_00000063 (ID: 63)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000063' to 'EYESHADOW_00000063'
+
+* Avatarinits Updated: EYESHADOW_00000064 (ID: 64)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000064' to 'EYESHADOW_00000064'
+
+* Avatarinits Updated: EYESHADOW_00000065 (ID: 65)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000065' to 'EYESHADOW_00000065'
+
+* Avatarinits Updated: EYESHADOW_00000066 (ID: 66)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000066' to 'EYESHADOW_00000066'
+
+* Avatarinits Updated: EYESHADOW_00000067 (ID: 67)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000067' to 'EYESHADOW_00000067'
+
+* Avatarinits Updated: EYESHADOW_00000068 (ID: 68)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000068' to 'EYESHADOW_00000068'
+
+* Avatarinits Updated: EYESHADOW_00000069 (ID: 69)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000069' to 'EYESHADOW_00000069'
+
+* Avatarinits Updated: EYESHADOW_00000070 (ID: 70)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000070' to 'EYESHADOW_00000070'
+
+* Avatarinits Updated: EYESHADOW_00000071 (ID: 71)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000071' to 'EYESHADOW_00000071'
+
+* Avatarinits Updated: EYESHADOW_00000072 (ID: 72)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000072' to 'EYESHADOW_00000072'
+
+* Avatarinits Updated: EYESHADOW_00000073 (ID: 73)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000073' to 'EYESHADOW_00000073'
+
+* Avatarinits Updated: EYESHADOW_00000074 (ID: 74)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000074' to 'EYESHADOW_00000074'
+
+* Avatarinits Updated: EYESHADOW_00000075 (ID: 75)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000075' to 'EYESHADOW_00000075'
+
+* Avatarinits Updated: EYESHADOW_00000076 (ID: 76)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000076' to 'EYESHADOW_00000076'
+
+* Avatarinits Updated: EYESHADOW_00000077 (ID: 77)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000077' to 'EYESHADOW_00000077'
+
+* Avatarinits Updated: EYESHADOW_00000078 (ID: 78)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000078' to 'EYESHADOW_00000078'
+
+* Avatarinits Updated: EYESHADOW_00000079 (ID: 79)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000079' to 'EYESHADOW_00000079'
+
+* Avatarinits Updated: EYESHADOW_00000080 (ID: 80)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000080' to 'EYESHADOW_00000080'
+
+* Avatarinits Updated: EYESHADOW_00000081 (ID: 81)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000081' to 'EYESHADOW_00000081'
+
+* Avatarinits Updated: EYESHADOW_00000082 (ID: 82)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000082' to 'EYESHADOW_00000082'
+
+* Avatarinits Updated: EYESHADOW_00000083 (ID: 83)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000083' to 'EYESHADOW_00000083'
+
+* Avatarinits Updated: EYESHADOW_00000084 (ID: 84)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000084' to 'EYESHADOW_00000084'
+
+* Avatarinits Updated: EYESHADOW_00000085 (ID: 85)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000085' to 'EYESHADOW_00000085'
+
+* Avatarinits Updated: EYESHADOW_00000086 (ID: 86)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000086' to 'EYESHADOW_00000086'
+
+* Avatarinits Updated: EYESHADOW_00000087 (ID: 87)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000087' to 'EYESHADOW_00000087'
+
+* Avatarinits Updated: EYESHADOW_00000088 (ID: 88)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000088' to 'EYESHADOW_00000088'
+
+* Avatarinits Updated: EYESHADOW_00000089 (ID: 89)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000089' to 'EYESHADOW_00000089'
+
+* Avatarinits Updated: EYESHADOW_00000090 (ID: 90)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000090' to 'EYESHADOW_00000090'
+
+* Avatarinits Updated: EYESHADOW_00000091 (ID: 91)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000091' to 'EYESHADOW_00000091'
+
+* Avatarinits Updated: EYESHADOW_00000092 (ID: 92)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000092' to 'EYESHADOW_00000092'
+
+* Avatarinits Updated: EYESHADOW_00000093 (ID: 93)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000093' to 'EYESHADOW_00000093'
+
+* Avatarinits Updated: EYESHADOW_00000094 (ID: 94)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000094' to 'EYESHADOW_00000094'
+
+* Avatarinits Updated: EYESHADOW_00000095 (ID: 95)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000095' to 'EYESHADOW_00000095'
+
+* Avatarinits Updated: EYESHADOW_00000096 (ID: 96)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000096' to 'EYESHADOW_00000096'
+
+* Avatarinits Updated: EYESHADOW_00000097 (ID: 97)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000097' to 'EYESHADOW_00000097'
+
+* Avatarinits Updated: EYESHADOW_00000098 (ID: 98)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000098' to 'EYESHADOW_00000098'
+
+* Avatarinits Updated: EYESHADOW_00000099 (ID: 99)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000099' to 'EYESHADOW_00000099'
+
+* Avatarinits Updated: EYESHADOW_00000100 (ID: 100)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000100' to 'EYESHADOW_00000100'
+
+* Avatarinits Updated: EYESHADOW_00000101 (ID: 101)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000101' to 'EYESHADOW_00000101'
+
+* Avatarinits Updated: EYESHADOW_00000102 (ID: 102)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000102' to 'EYESHADOW_00000102'
+
+* Avatarinits Updated: EYESHADOW_00000103 (ID: 103)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000103' to 'EYESHADOW_00000103'
+
+* Avatarinits Updated: EYESHADOW_00000104 (ID: 104)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000104' to 'EYESHADOW_00000104'
+
+* Avatarinits Updated: EYESHADOW_00000105 (ID: 105)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000105' to 'EYESHADOW_00000105'
+
+* Avatarinits Updated: EYESHADOW_00000106 (ID: 106)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000106' to 'EYESHADOW_00000106'
+
+* Avatarinits Updated: EYESHADOW_00000107 (ID: 107)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000107' to 'EYESHADOW_00000107'
+
+* Avatarinits Updated: EYESHADOW_00000108 (ID: 108)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000108' to 'EYESHADOW_00000108'
+
+* Avatarinits Updated: EYESHADOW_00000109 (ID: 109)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000109' to 'EYESHADOW_00000109'
+
+* Avatarinits Updated: EYESHADOW_00000110 (ID: 110)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000110' to 'EYESHADOW_00000110'
+
+* Avatarinits Updated: EYESHADOW_00000111 (ID: 111)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000111' to 'EYESHADOW_00000111'
+
+* Avatarinits Updated: EYESHADOW_00000112 (ID: 112)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000112' to 'EYESHADOW_00000112'
+
+* Avatarinits Updated: EYESHADOW_00000113 (ID: 113)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000113' to 'EYESHADOW_00000113'
+
+* Avatarinits Updated: EYESHADOW_00000114 (ID: 114)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000114' to 'EYESHADOW_00000114'
+
+* Avatarinits Updated: EYESHADOW_00000115 (ID: 115)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000115' to 'EYESHADOW_00000115'
+
+* Avatarinits Updated: EYESHADOW_00000116 (ID: 116)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000116' to 'EYESHADOW_00000116'
+
+* Avatarinits Updated: EYESHADOW_00000117 (ID: 117)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000117' to 'EYESHADOW_00000117'
+
+* Avatarinits Updated: EYESHADOW_00000118 (ID: 118)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000118' to 'EYESHADOW_00000118'
+
+* Avatarinits Updated: EYESHADOW_00000119 (ID: 119)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000119' to 'EYESHADOW_00000119'
+
+* Avatarinits Updated: EYESHADOW_00000120 (ID: 120)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000120' to 'EYESHADOW_00000120'
+
+* Avatarinits Updated: EYESHADOW_00000121 (ID: 121)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000121' to 'EYESHADOW_00000121'
+
+* Avatarinits Updated: EYESHADOW_00000122 (ID: 122)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000122' to 'EYESHADOW_00000122'
+
+* Avatarinits Updated: EYESHADOW_00000123 (ID: 123)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000123' to 'EYESHADOW_00000123'
+
+* Avatarinits Updated: EYESHADOW_00000124 (ID: 124)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000124' to 'EYESHADOW_00000124'
+
+* Avatarinits Updated: EYESHADOW_00000125 (ID: 125)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000125' to 'EYESHADOW_00000125'
+
+* Avatarinits Updated: EYESHADOW_00000126 (ID: 126)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000126' to 'EYESHADOW_00000126'
+
+* Avatarinits Updated: EYESHADOW_00000127 (ID: 127)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000127' to 'EYESHADOW_00000127'
+
+* Avatarinits Updated: EYESHADOW_00000128 (ID: 128)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000128' to 'EYESHADOW_00000128'
+
+* Avatarinits Updated: EYESHADOW_00000129 (ID: 129)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000129' to 'EYESHADOW_00000129'
+
+* Avatarinits Updated: EYESHADOW_00000130 (ID: 130)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000130' to 'EYESHADOW_00000130'
+
+* Avatarinits Updated: EYESHADOW_00000131 (ID: 131)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000131' to 'EYESHADOW_00000131'
+
+* Avatarinits Updated: EYESHADOW_00000132 (ID: 132)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000132' to 'EYESHADOW_00000132'
+
+* Avatarinits Updated: EYESHADOW_00000133 (ID: 133)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000133' to 'EYESHADOW_00000133'
+
+* Avatarinits Updated: EYESHADOW_00000134 (ID: 134)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000134' to 'EYESHADOW_00000134'
+
+* Avatarinits Updated: EYESHADOW_00000135 (ID: 135)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000135' to 'EYESHADOW_00000135'
+
+* Avatarinits Updated: EYESHADOW_00000136 (ID: 136)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000136' to 'EYESHADOW_00000136'
+
+* Avatarinits Updated: EYESHADOW_00000137 (ID: 137)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000137' to 'EYESHADOW_00000137'
+
+* Avatarinits Updated: EYESHADOW_00000138 (ID: 138)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000138' to 'EYESHADOW_00000138'
+
+* Avatarinits Updated: EYESHADOW_00000139 (ID: 139)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000139' to 'EYESHADOW_00000139'
+
+* Avatarinits Updated: EYESHADOW_00000140 (ID: 140)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000140' to 'EYESHADOW_00000140'
+
+* Avatarinits Updated: EYESHADOW_00000141 (ID: 141)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000141' to 'EYESHADOW_00000141'
+
+* Avatarinits Updated: EYESHADOW_00000142 (ID: 142)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000142' to 'EYESHADOW_00000142'
+
+* Avatarinits Updated: EYESHADOW_00000143 (ID: 143)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000143' to 'EYESHADOW_00000143'
+
+* Avatarinits Updated: EYESHADOW_00000144 (ID: 144)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000144' to 'EYESHADOW_00000144'
+
+* Avatarinits Updated: EYESHADOW_00000145 (ID: 145)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000145' to 'EYESHADOW_00000145'
+
+* Avatarinits Updated: EYESHADOW_00000146 (ID: 146)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000146' to 'EYESHADOW_00000146'
+
+* Avatarinits Updated: EYESHADOW_00000147 (ID: 147)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000147' to 'EYESHADOW_00000147'
+
+* Avatarinits Updated: EYESHADOW_00000148 (ID: 148)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000148' to 'EYESHADOW_00000148'
+
+* Avatarinits Updated: EYESHADOW_00000149 (ID: 149)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000149' to 'EYESHADOW_00000149'
+
+* Avatarinits Updated: EYESHADOW_00000150 (ID: 150)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000150' to 'EYESHADOW_00000150'
+
+* Avatarinits Updated: EYESHADOW_00000151 (ID: 151)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000151' to 'EYESHADOW_00000151'
+
+* Avatarinits Updated: EYESHADOW_00000152 (ID: 152)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000152' to 'EYESHADOW_00000152'
+
+* Avatarinits Updated: EYESHADOW_00000153 (ID: 153)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000153' to 'EYESHADOW_00000153'
+
+* Avatarinits Updated: EYESHADOW_00000154 (ID: 154)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000154' to 'EYESHADOW_00000154'
+
+* Avatarinits Updated: EYESHADOW_00000155 (ID: 155)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000155' to 'EYESHADOW_00000155'
+
+* Avatarinits Updated: EYESHADOW_00000156 (ID: 156)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000156' to 'EYESHADOW_00000156'
+
+* Avatarinits Updated: EYESHADOW_00000157 (ID: 157)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000157' to 'EYESHADOW_00000157'
+
+* Avatarinits Updated: EYESHADOW_00000158 (ID: 158)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000158' to 'EYESHADOW_00000158'
+
+* Avatarinits Updated: EYESHADOW_00000159 (ID: 159)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000159' to 'EYESHADOW_00000159'
+
+* Avatarinits Updated: EYESHADOW_00000160 (ID: 160)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000160' to 'EYESHADOW_00000160'
+
+* Avatarinits Updated: EYESHADOW_00000161 (ID: 161)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000161' to 'EYESHADOW_00000161'
+
+* Avatarinits Updated: EYESHADOW_00000162 (ID: 162)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000162' to 'EYESHADOW_00000162'
+
+* Avatarinits Updated: EYESHADOW_00000163 (ID: 163)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000163' to 'EYESHADOW_00000163'
+
+* Avatarinits Updated: EYESHADOW_00000164 (ID: 164)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000164' to 'EYESHADOW_00000164'
+
+* Avatarinits Updated: EYESHADOW_00000165 (ID: 165)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000165' to 'EYESHADOW_00000165'
+
+* Avatarinits Updated: EYESHADOW_00000166 (ID: 166)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000166' to 'EYESHADOW_00000166'
+
+* Avatarinits Updated: EYESHADOW_00000167 (ID: 167)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000167' to 'EYESHADOW_00000167'
+
+* Avatarinits Updated: EYESHADOW_00000168 (ID: 168)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000168' to 'EYESHADOW_00000168'
+
+* Avatarinits Updated: EYESHADOW_00000169 (ID: 169)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000169' to 'EYESHADOW_00000169'
+
+* Avatarinits Updated: EYESHADOW_00000170 (ID: 170)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000170' to 'EYESHADOW_00000170'
+
+* Avatarinits Updated: EYESHADOW_00000171 (ID: 171)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000171' to 'EYESHADOW_00000171'
+
+* Avatarinits Updated: EYESHADOW_00000172 (ID: 172)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000172' to 'EYESHADOW_00000172'
+
+* Avatarinits Updated: EYESHADOW_00000173 (ID: 173)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000173' to 'EYESHADOW_00000173'
+
+* Avatarinits Updated: EYESHADOW_00000174 (ID: 174)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000174' to 'EYESHADOW_00000174'
+
+* Avatarinits Updated: EYESHADOW_00000175 (ID: 175)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000175' to 'EYESHADOW_00000175'
+
+* Avatarinits Updated: EYESHADOW_00000176 (ID: 176)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000176' to 'EYESHADOW_00000176'
+
+* Avatarinits Updated: EYESHADOW_00000177 (ID: 177)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000177' to 'EYESHADOW_00000177'
+
+* Avatarinits Updated: EYESHADOW_00000178 (ID: 178)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000178' to 'EYESHADOW_00000178'
+
+* Avatarinits Updated: EYESHADOW_00000179 (ID: 179)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000179' to 'EYESHADOW_00000179'
+
+* Avatarinits Updated: EYESHADOW_00000180 (ID: 180)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000180' to 'EYESHADOW_00000180'
+
+* Avatarinits Updated: EYESHADOW_00000181 (ID: 181)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000181' to 'EYESHADOW_00000181'
+
+* Avatarinits Updated: EYESHADOW_00000182 (ID: 182)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000182' to 'EYESHADOW_00000182'
+
+* Avatarinits Updated: EYESHADOW_00000183 (ID: 183)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000183' to 'EYESHADOW_00000183'
+
+* Avatarinits Updated: EYESHADOW_00000184 (ID: 184)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000184' to 'EYESHADOW_00000184'
+
+* Avatarinits Updated: EYESHADOW_00000185 (ID: 185)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000185' to 'EYESHADOW_00000185'
+
+* Avatarinits Updated: EYESHADOW_00000186 (ID: 186)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000186' to 'EYESHADOW_00000186'
+
+* Avatarinits Updated: EYESHADOW_00000187 (ID: 187)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000187' to 'EYESHADOW_00000187'
+
+* Avatarinits Updated: EYESHADOW_00000188 (ID: 188)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000188' to 'EYESHADOW_00000188'
+
+* Avatarinits Updated: EYESHADOW_00000189 (ID: 189)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000189' to 'EYESHADOW_00000189'
+
+* Avatarinits Updated: EYESHADOW_00000190 (ID: 190)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000190' to 'EYESHADOW_00000190'
+
+* Avatarinits Updated: EYESHADOW_00000191 (ID: 191)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000191' to 'EYESHADOW_00000191'
+
+* Avatarinits Updated: EYESHADOW_00000192 (ID: 192)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000192' to 'EYESHADOW_00000192'
+
+* Avatarinits Updated: EYESHADOW_00000193 (ID: 193)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000193' to 'EYESHADOW_00000193'
+
+* Avatarinits Updated: EYESHADOW_00000194 (ID: 194)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000194' to 'EYESHADOW_00000194'
+
+* Avatarinits Updated: EYESHADOW_00000195 (ID: 195)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000195' to 'EYESHADOW_00000195'
+
+* Avatarinits Updated: EYESHADOW_00000196 (ID: 196)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000196' to 'EYESHADOW_00000196'
+
+* Avatarinits Updated: EYESHADOW_00000197 (ID: 197)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000197' to 'EYESHADOW_00000197'
+
+* Avatarinits Updated: EYESHADOW_00000198 (ID: 198)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000198' to 'EYESHADOW_00000198'
+
+* Avatarinits Updated: EYESHADOW_00000199 (ID: 199)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000199' to 'EYESHADOW_00000199'
+
+* Avatarinits Updated: EYESHADOW_00000200 (ID: 200)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000200' to 'EYESHADOW_00000200'
+
+* Avatarinits Updated: EYESHADOW_00000201 (ID: 201)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000201' to 'EYESHADOW_00000201'
+
+* Avatarinits Updated: EYESHADOW_00000202 (ID: 202)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000202' to 'EYESHADOW_00000202'
+
+* Avatarinits Updated: EYESHADOW_00000203 (ID: 203)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000203' to 'EYESHADOW_00000203'
+
+* Avatarinits Updated: EYESHADOW_00000204 (ID: 204)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000204' to 'EYESHADOW_00000204'
+
+* Avatarinits Updated: EYESHADOW_00000205 (ID: 205)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000205' to 'EYESHADOW_00000205'
+
+* Avatarinits Updated: EYESHADOW_00000206 (ID: 206)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000206' to 'EYESHADOW_00000206'
+
+* Avatarinits Updated: EYESHADOW_00000207 (ID: 207)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000207' to 'EYESHADOW_00000207'
+
+* Avatarinits Updated: EYESHADOW_00000208 (ID: 208)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000208' to 'EYESHADOW_00000208'
+
+* Avatarinits Updated: EYESHADOW_00000209 (ID: 209)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000209' to 'EYESHADOW_00000209'
+
+* Avatarinits Updated: EYESHADOW_00000210 (ID: 210)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000210' to 'EYESHADOW_00000210'
+
+* Avatarinits Updated: EYESHADOW_00000211 (ID: 211)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000211' to 'EYESHADOW_00000211'
+
+* Avatarinits Updated: EYESHADOW_00000212 (ID: 212)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000212' to 'EYESHADOW_00000212'
+
+* Avatarinits Updated: EYESHADOW_00000213 (ID: 213)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000213' to 'EYESHADOW_00000213'
+
+* Avatarinits Updated: EYESHADOW_00000214 (ID: 214)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000214' to 'EYESHADOW_00000214'
+
+* Avatarinits Updated: EYESHADOW_00000215 (ID: 215)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000215' to 'EYESHADOW_00000215'
+
+* Avatarinits Updated: EYESHADOW_00000216 (ID: 216)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000216' to 'EYESHADOW_00000216'
+
+* Avatarinits Updated: EYESHADOW_00000217 (ID: 217)
+  - Field 'category' changed from 'lip' to 'eyeshadow'
+  - Field 'k' changed from 'LIP_00000217' to 'EYESHADOW_00000217'
+
+* Avatarinits Updated: CHEEK_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'cheek'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'CHEEK_00000001'
+
+* Avatarinits Updated: CHEEK_00000002 (ID: 2)
+  - Field 'category' changed from 'cloth_underwear' to 'cheek'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000002' to 'CHEEK_00000002'
+
+* Avatarinits Updated: CHEEK_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'cheek'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'CHEEK_00000003'
+
+* Avatarinits Updated: CHEEK_00000004 (ID: 4)
+  - Field 'category' changed from 'hair_back' to 'cheek'
+  - Field 'k' changed from 'HAIR_BACK_00000004' to 'CHEEK_00000004'
+
+* Avatarinits Updated: CHEEK_00000005 (ID: 5)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000005' to 'CHEEK_00000005'
+
+* Avatarinits Updated: CHEEK_00000006 (ID: 6)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000006' to 'CHEEK_00000006'
+
+* Avatarinits Updated: CHEEK_00000007 (ID: 7)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000007' to 'CHEEK_00000007'
+
+* Avatarinits Updated: CHEEK_00000008 (ID: 8)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000008' to 'CHEEK_00000008'
+
+* Avatarinits Updated: CHEEK_00000009 (ID: 9)
+  - Field 'category' changed from 'cloth_shoe' to 'cheek'
+  - Field 'k' changed from 'CLOTH_SHOE_00000009' to 'CHEEK_00000009'
+
+* Avatarinits Updated: CHEEK_00000010 (ID: 10)
+  - Field 'category' changed from 'cloth_bottom' to 'cheek'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000010' to 'CHEEK_00000010'
+
+* Avatarinits Updated: CHEEK_00000011 (ID: 11)
+  - Field 'category' changed from 'cloth_bottom' to 'cheek'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000011' to 'CHEEK_00000011'
+
+* Avatarinits Updated: CHEEK_00000012 (ID: 12)
+  - Field 'category' changed from 'cloth_bottom' to 'cheek'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000012' to 'CHEEK_00000012'
+
+* Avatarinits Updated: CHEEK_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'cheek'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'CHEEK_00000013'
+
+* Avatarinits Updated: CHEEK_00000014 (ID: 14)
+  - Field 'category' changed from 'cloth_bottom' to 'cheek'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000014' to 'CHEEK_00000014'
+
+* Avatarinits Updated: CHEEK_00000015 (ID: 15)
+  - Field 'category' changed from 'cloth_bottom' to 'cheek'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000015' to 'CHEEK_00000015'
+
+* Avatarinits Updated: CHEEK_00000016 (ID: 16)
+  - Field 'category' changed from 'cloth_bottom' to 'cheek'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000016' to 'CHEEK_00000016'
+
+* Avatarinits Updated: CHEEK_00000017 (ID: 17)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000017' to 'CHEEK_00000017'
+
+* Avatarinits Updated: CHEEK_00000018 (ID: 18)
+  - Field 'category' changed from 'hair_front' to 'cheek'
+  - Field 'k' changed from 'HAIR_FRONT_00000018' to 'CHEEK_00000018'
+
+* Avatarinits Updated: CHEEK_00000019 (ID: 19)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000019' to 'CHEEK_00000019'
+
+* Avatarinits Updated: CHEEK_00000020 (ID: 20)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000020' to 'CHEEK_00000020'
+
+* Avatarinits Updated: CHEEK_00000021 (ID: 21)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000021' to 'CHEEK_00000021'
+
+* Avatarinits Updated: CHEEK_00000022 (ID: 22)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000022' to 'CHEEK_00000022'
+
+* Avatarinits Updated: CHEEK_00000023 (ID: 23)
+  - Field 'category' changed from 'hair_front' to 'cheek'
+  - Field 'k' changed from 'HAIR_FRONT_00000023' to 'CHEEK_00000023'
+
+* Avatarinits Updated: CHEEK_00000024 (ID: 24)
+  - Field 'category' changed from 'hair_front' to 'cheek'
+  - Field 'k' changed from 'HAIR_FRONT_00000024' to 'CHEEK_00000024'
+
+* Avatarinits Updated: CHEEK_00000025 (ID: 25)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000025' to 'CHEEK_00000025'
+
+* Avatarinits Updated: CHEEK_00000026 (ID: 26)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000026' to 'CHEEK_00000026'
+
+* Avatarinits Updated: CHEEK_00000027 (ID: 27)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000027' to 'CHEEK_00000027'
+
+* Avatarinits Updated: CHEEK_00000028 (ID: 28)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000028' to 'CHEEK_00000028'
+
+* Avatarinits Updated: CHEEK_00000029 (ID: 29)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000029' to 'CHEEK_00000029'
+
+* Avatarinits Updated: CHEEK_00000030 (ID: 30)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000030' to 'CHEEK_00000030'
+
+* Avatarinits Updated: CHEEK_00000031 (ID: 31)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000031' to 'CHEEK_00000031'
+
+* Avatarinits Updated: CHEEK_00000032 (ID: 32)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000032' to 'CHEEK_00000032'
+
+* Avatarinits Updated: CHEEK_00000033 (ID: 33)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000033' to 'CHEEK_00000033'
+
+* Avatarinits Updated: CHEEK_00000034 (ID: 34)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000034' to 'CHEEK_00000034'
+
+* Avatarinits Updated: CHEEK_00000035 (ID: 35)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000035' to 'CHEEK_00000035'
+
+* Avatarinits Updated: CHEEK_00000036 (ID: 36)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000036' to 'CHEEK_00000036'
+
+* Avatarinits Updated: CHEEK_00000037 (ID: 37)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000037' to 'CHEEK_00000037'
+
+* Avatarinits Updated: CHEEK_00000038 (ID: 38)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000038' to 'CHEEK_00000038'
+
+* Avatarinits Updated: CHEEK_00000039 (ID: 39)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000039' to 'CHEEK_00000039'
+
+* Avatarinits Updated: CHEEK_00000040 (ID: 40)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000040' to 'CHEEK_00000040'
+
+* Avatarinits Updated: CHEEK_00000041 (ID: 41)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000041' to 'CHEEK_00000041'
+
+* Avatarinits Updated: CHEEK_00000042 (ID: 42)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000042' to 'CHEEK_00000042'
+
+* Avatarinits Updated: CHEEK_00000043 (ID: 43)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000043' to 'CHEEK_00000043'
+
+* Avatarinits Updated: CHEEK_00000044 (ID: 44)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000044' to 'CHEEK_00000044'
+
+* Avatarinits Updated: CHEEK_00000045 (ID: 45)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000045' to 'CHEEK_00000045'
+
+* Avatarinits Updated: CHEEK_00000046 (ID: 46)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000046' to 'CHEEK_00000046'
+
+* Avatarinits Updated: CHEEK_00000047 (ID: 47)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000047' to 'CHEEK_00000047'
+
+* Avatarinits Updated: CHEEK_00000048 (ID: 48)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000048' to 'CHEEK_00000048'
+
+* Avatarinits Updated: CHEEK_00000049 (ID: 49)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000049' to 'CHEEK_00000049'
+
+* Avatarinits Updated: CHEEK_00000050 (ID: 50)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000050' to 'CHEEK_00000050'
+
+* Avatarinits Updated: CHEEK_00000051 (ID: 51)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000051' to 'CHEEK_00000051'
+
+* Avatarinits Updated: CHEEK_00000052 (ID: 52)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000052' to 'CHEEK_00000052'
+
+* Avatarinits Updated: CHEEK_00000053 (ID: 53)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000053' to 'CHEEK_00000053'
+
+* Avatarinits Updated: CHEEK_00000054 (ID: 54)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000054' to 'CHEEK_00000054'
+
+* Avatarinits Updated: CHEEK_00000055 (ID: 55)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000055' to 'CHEEK_00000055'
+
+* Avatarinits Updated: CHEEK_00000056 (ID: 56)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000056' to 'CHEEK_00000056'
+
+* Avatarinits Updated: CHEEK_00000057 (ID: 57)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000057' to 'CHEEK_00000057'
+
+* Avatarinits Updated: CHEEK_00000058 (ID: 58)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000058' to 'CHEEK_00000058'
+
+* Avatarinits Updated: CHEEK_00000059 (ID: 59)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000059' to 'CHEEK_00000059'
+
+* Avatarinits Updated: CHEEK_00000060 (ID: 60)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000060' to 'CHEEK_00000060'
+
+* Avatarinits Updated: CHEEK_00000061 (ID: 61)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000061' to 'CHEEK_00000061'
+
+* Avatarinits Updated: CHEEK_00000062 (ID: 62)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000062' to 'CHEEK_00000062'
+
+* Avatarinits Updated: CHEEK_00000063 (ID: 63)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000063' to 'CHEEK_00000063'
+
+* Avatarinits Updated: CHEEK_00000064 (ID: 64)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000064' to 'CHEEK_00000064'
+
+* Avatarinits Updated: CHEEK_00000065 (ID: 65)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000065' to 'CHEEK_00000065'
+
+* Avatarinits Updated: CHEEK_00000066 (ID: 66)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000066' to 'CHEEK_00000066'
+
+* Avatarinits Updated: CHEEK_00000067 (ID: 67)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000067' to 'CHEEK_00000067'
+
+* Avatarinits Updated: CHEEK_00000068 (ID: 68)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000068' to 'CHEEK_00000068'
+
+* Avatarinits Updated: CHEEK_00000069 (ID: 69)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000069' to 'CHEEK_00000069'
+
+* Avatarinits Updated: CHEEK_00000070 (ID: 70)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000070' to 'CHEEK_00000070'
+
+* Avatarinits Updated: CHEEK_00000071 (ID: 71)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000071' to 'CHEEK_00000071'
+
+* Avatarinits Updated: CHEEK_00000072 (ID: 72)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000072' to 'CHEEK_00000072'
+
+* Avatarinits Updated: CHEEK_00000073 (ID: 73)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000073' to 'CHEEK_00000073'
+
+* Avatarinits Updated: CHEEK_00000074 (ID: 74)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000074' to 'CHEEK_00000074'
+
+* Avatarinits Updated: CHEEK_00000075 (ID: 75)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000075' to 'CHEEK_00000075'
+
+* Avatarinits Updated: CHEEK_00000076 (ID: 76)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000076' to 'CHEEK_00000076'
+
+* Avatarinits Updated: CHEEK_00000077 (ID: 77)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000077' to 'CHEEK_00000077'
+
+* Avatarinits Updated: CHEEK_00000078 (ID: 78)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000078' to 'CHEEK_00000078'
+
+* Avatarinits Updated: CHEEK_00000079 (ID: 79)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000079' to 'CHEEK_00000079'
+
+* Avatarinits Updated: CHEEK_00000080 (ID: 80)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000080' to 'CHEEK_00000080'
+
+* Avatarinits Updated: CHEEK_00000081 (ID: 81)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000081' to 'CHEEK_00000081'
+
+* Avatarinits Updated: CHEEK_00000082 (ID: 82)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000082' to 'CHEEK_00000082'
+
+* Avatarinits Updated: CHEEK_00000083 (ID: 83)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000083' to 'CHEEK_00000083'
+
+* Avatarinits Updated: CHEEK_00000084 (ID: 84)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000084' to 'CHEEK_00000084'
+
+* Avatarinits Updated: CHEEK_00000085 (ID: 85)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000085' to 'CHEEK_00000085'
+
+* Avatarinits Updated: CHEEK_00000086 (ID: 86)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000086' to 'CHEEK_00000086'
+
+* Avatarinits Updated: CHEEK_00000087 (ID: 87)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000087' to 'CHEEK_00000087'
+
+* Avatarinits Updated: CHEEK_00000088 (ID: 88)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000088' to 'CHEEK_00000088'
+
+* Avatarinits Updated: CHEEK_00000089 (ID: 89)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000089' to 'CHEEK_00000089'
+
+* Avatarinits Updated: CHEEK_00000090 (ID: 90)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000090' to 'CHEEK_00000090'
+
+* Avatarinits Updated: CHEEK_00000091 (ID: 91)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000091' to 'CHEEK_00000091'
+
+* Avatarinits Updated: CHEEK_00000092 (ID: 92)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000092' to 'CHEEK_00000092'
+
+* Avatarinits Updated: CHEEK_00000093 (ID: 93)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000093' to 'CHEEK_00000093'
+
+* Avatarinits Updated: CHEEK_00000094 (ID: 94)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000094' to 'CHEEK_00000094'
+
+* Avatarinits Updated: CHEEK_00000095 (ID: 95)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000095' to 'CHEEK_00000095'
+
+* Avatarinits Updated: CHEEK_00000096 (ID: 96)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000096' to 'CHEEK_00000096'
+
+* Avatarinits Updated: CHEEK_00000097 (ID: 97)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000097' to 'CHEEK_00000097'
+
+* Avatarinits Updated: CHEEK_00000098 (ID: 98)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000098' to 'CHEEK_00000098'
+
+* Avatarinits Updated: CHEEK_00000099 (ID: 99)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000099' to 'CHEEK_00000099'
+
+* Avatarinits Updated: CHEEK_00000100 (ID: 100)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000100' to 'CHEEK_00000100'
+
+* Avatarinits Updated: CHEEK_00000101 (ID: 101)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000101' to 'CHEEK_00000101'
+
+* Avatarinits Updated: CHEEK_00000102 (ID: 102)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000102' to 'CHEEK_00000102'
+
+* Avatarinits Updated: CHEEK_00000103 (ID: 103)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000103' to 'CHEEK_00000103'
+
+* Avatarinits Updated: CHEEK_00000104 (ID: 104)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000104' to 'CHEEK_00000104'
+
+* Avatarinits Updated: CHEEK_00000105 (ID: 105)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000105' to 'CHEEK_00000105'
+
+* Avatarinits Updated: CHEEK_00000106 (ID: 106)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000106' to 'CHEEK_00000106'
+
+* Avatarinits Updated: CHEEK_00000107 (ID: 107)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000107' to 'CHEEK_00000107'
+
+* Avatarinits Updated: CHEEK_00000108 (ID: 108)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000108' to 'CHEEK_00000108'
+
+* Avatarinits Updated: CHEEK_00000109 (ID: 109)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000109' to 'CHEEK_00000109'
+
+* Avatarinits Updated: CHEEK_00000110 (ID: 110)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000110' to 'CHEEK_00000110'
+
+* Avatarinits Updated: CHEEK_00000111 (ID: 111)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000111' to 'CHEEK_00000111'
+
+* Avatarinits Updated: CHEEK_00000112 (ID: 112)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000112' to 'CHEEK_00000112'
+
+* Avatarinits Updated: CHEEK_00000113 (ID: 113)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000113' to 'CHEEK_00000113'
+
+* Avatarinits Updated: CHEEK_00000114 (ID: 114)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000114' to 'CHEEK_00000114'
+
+* Avatarinits Updated: CHEEK_00000115 (ID: 115)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000115' to 'CHEEK_00000115'
+
+* Avatarinits Updated: CHEEK_00000116 (ID: 116)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000116' to 'CHEEK_00000116'
+
+* Avatarinits Updated: CHEEK_00000117 (ID: 117)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000117' to 'CHEEK_00000117'
+
+* Avatarinits Updated: CHEEK_00000118 (ID: 118)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000118' to 'CHEEK_00000118'
+
+* Avatarinits Updated: CHEEK_00000119 (ID: 119)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000119' to 'CHEEK_00000119'
+
+* Avatarinits Updated: CHEEK_00000120 (ID: 120)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000120' to 'CHEEK_00000120'
+
+* Avatarinits Updated: CHEEK_00000121 (ID: 121)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000121' to 'CHEEK_00000121'
+
+* Avatarinits Updated: CHEEK_00000122 (ID: 122)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000122' to 'CHEEK_00000122'
+
+* Avatarinits Updated: CHEEK_00000123 (ID: 123)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000123' to 'CHEEK_00000123'
+
+* Avatarinits Updated: CHEEK_00000124 (ID: 124)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000124' to 'CHEEK_00000124'
+
+* Avatarinits Updated: CHEEK_00000125 (ID: 125)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000125' to 'CHEEK_00000125'
+
+* Avatarinits Updated: CHEEK_00000126 (ID: 126)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000126' to 'CHEEK_00000126'
+
+* Avatarinits Updated: CHEEK_00000127 (ID: 127)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000127' to 'CHEEK_00000127'
+
+* Avatarinits Updated: CHEEK_00000128 (ID: 128)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000128' to 'CHEEK_00000128'
+
+* Avatarinits Updated: CHEEK_00000129 (ID: 129)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000129' to 'CHEEK_00000129'
+
+* Avatarinits Updated: CHEEK_00000130 (ID: 130)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000130' to 'CHEEK_00000130'
+
+* Avatarinits Updated: CHEEK_00000131 (ID: 131)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000131' to 'CHEEK_00000131'
+
+* Avatarinits Updated: CHEEK_00000132 (ID: 132)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000132' to 'CHEEK_00000132'
+
+* Avatarinits Updated: CHEEK_00000133 (ID: 133)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000133' to 'CHEEK_00000133'
+
+* Avatarinits Updated: CHEEK_00000134 (ID: 134)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000134' to 'CHEEK_00000134'
+
+* Avatarinits Updated: CHEEK_00000135 (ID: 135)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000135' to 'CHEEK_00000135'
+
+* Avatarinits Updated: CHEEK_00000136 (ID: 136)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000136' to 'CHEEK_00000136'
+
+* Avatarinits Updated: CHEEK_00000137 (ID: 137)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000137' to 'CHEEK_00000137'
+
+* Avatarinits Updated: CHEEK_00000138 (ID: 138)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000138' to 'CHEEK_00000138'
+
+* Avatarinits Updated: CHEEK_00000139 (ID: 139)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000139' to 'CHEEK_00000139'
+
+* Avatarinits Updated: CHEEK_00000140 (ID: 140)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000140' to 'CHEEK_00000140'
+
+* Avatarinits Updated: CHEEK_00000141 (ID: 141)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000141' to 'CHEEK_00000141'
+
+* Avatarinits Updated: CHEEK_00000142 (ID: 142)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000142' to 'CHEEK_00000142'
+
+* Avatarinits Updated: CHEEK_00000143 (ID: 143)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000143' to 'CHEEK_00000143'
+
+* Avatarinits Updated: CHEEK_00000144 (ID: 144)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000144' to 'CHEEK_00000144'
+
+* Avatarinits Updated: CHEEK_00000145 (ID: 145)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000145' to 'CHEEK_00000145'
+
+* Avatarinits Updated: CHEEK_00000146 (ID: 146)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000146' to 'CHEEK_00000146'
+
+* Avatarinits Updated: CHEEK_00000147 (ID: 147)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000147' to 'CHEEK_00000147'
+
+* Avatarinits Updated: CHEEK_00000148 (ID: 148)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000148' to 'CHEEK_00000148'
+
+* Avatarinits Updated: CHEEK_00000149 (ID: 149)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000149' to 'CHEEK_00000149'
+
+* Avatarinits Updated: CHEEK_00000150 (ID: 150)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000150' to 'CHEEK_00000150'
+
+* Avatarinits Updated: CHEEK_00000151 (ID: 151)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000151' to 'CHEEK_00000151'
+
+* Avatarinits Updated: CHEEK_00000152 (ID: 152)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000152' to 'CHEEK_00000152'
+
+* Avatarinits Updated: CHEEK_00000153 (ID: 153)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000153' to 'CHEEK_00000153'
+
+* Avatarinits Updated: CHEEK_00000154 (ID: 154)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000154' to 'CHEEK_00000154'
+
+* Avatarinits Updated: CHEEK_00000155 (ID: 155)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000155' to 'CHEEK_00000155'
+
+* Avatarinits Updated: CHEEK_00000156 (ID: 156)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000156' to 'CHEEK_00000156'
+
+* Avatarinits Updated: CHEEK_00000157 (ID: 157)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000157' to 'CHEEK_00000157'
+
+* Avatarinits Updated: CHEEK_00000158 (ID: 158)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000158' to 'CHEEK_00000158'
+
+* Avatarinits Updated: CHEEK_00000159 (ID: 159)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000159' to 'CHEEK_00000159'
+
+* Avatarinits Updated: CHEEK_00000160 (ID: 160)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000160' to 'CHEEK_00000160'
+
+* Avatarinits Updated: CHEEK_00000161 (ID: 161)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000161' to 'CHEEK_00000161'
+
+* Avatarinits Updated: CHEEK_00000162 (ID: 162)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000162' to 'CHEEK_00000162'
+
+* Avatarinits Updated: CHEEK_00000163 (ID: 163)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000163' to 'CHEEK_00000163'
+
+* Avatarinits Updated: CHEEK_00000164 (ID: 164)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000164' to 'CHEEK_00000164'
+
+* Avatarinits Updated: CHEEK_00000165 (ID: 165)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000165' to 'CHEEK_00000165'
+
+* Avatarinits Updated: CHEEK_00000166 (ID: 166)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000166' to 'CHEEK_00000166'
+
+* Avatarinits Updated: CHEEK_00000167 (ID: 167)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000167' to 'CHEEK_00000167'
+
+* Avatarinits Updated: CHEEK_00000168 (ID: 168)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000168' to 'CHEEK_00000168'
+
+* Avatarinits Updated: CHEEK_00000169 (ID: 169)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000169' to 'CHEEK_00000169'
+
+* Avatarinits Updated: CHEEK_00000170 (ID: 170)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000170' to 'CHEEK_00000170'
+
+* Avatarinits Updated: CHEEK_00000171 (ID: 171)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000171' to 'CHEEK_00000171'
+
+* Avatarinits Updated: CHEEK_00000172 (ID: 172)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000172' to 'CHEEK_00000172'
+
+* Avatarinits Updated: CHEEK_00000173 (ID: 173)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000173' to 'CHEEK_00000173'
+
+* Avatarinits Updated: CHEEK_00000174 (ID: 174)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000174' to 'CHEEK_00000174'
+
+* Avatarinits Updated: CHEEK_00000175 (ID: 175)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000175' to 'CHEEK_00000175'
+
+* Avatarinits Updated: CHEEK_00000176 (ID: 176)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000176' to 'CHEEK_00000176'
+
+* Avatarinits Updated: CHEEK_00000177 (ID: 177)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000177' to 'CHEEK_00000177'
+
+* Avatarinits Updated: CHEEK_00000178 (ID: 178)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000178' to 'CHEEK_00000178'
+
+* Avatarinits Updated: CHEEK_00000179 (ID: 179)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000179' to 'CHEEK_00000179'
+
+* Avatarinits Updated: CHEEK_00000180 (ID: 180)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000180' to 'CHEEK_00000180'
+
+* Avatarinits Updated: CHEEK_00000181 (ID: 181)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000181' to 'CHEEK_00000181'
+
+* Avatarinits Updated: CHEEK_00000182 (ID: 182)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000182' to 'CHEEK_00000182'
+
+* Avatarinits Updated: CHEEK_00000183 (ID: 183)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000183' to 'CHEEK_00000183'
+
+* Avatarinits Updated: CHEEK_00000184 (ID: 184)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000184' to 'CHEEK_00000184'
+
+* Avatarinits Updated: CHEEK_00000185 (ID: 185)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000185' to 'CHEEK_00000185'
+
+* Avatarinits Updated: CHEEK_00000186 (ID: 186)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000186' to 'CHEEK_00000186'
+
+* Avatarinits Updated: CHEEK_00000187 (ID: 187)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000187' to 'CHEEK_00000187'
+
+* Avatarinits Updated: CHEEK_00000188 (ID: 188)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000188' to 'CHEEK_00000188'
+
+* Avatarinits Updated: CHEEK_00000189 (ID: 189)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000189' to 'CHEEK_00000189'
+
+* Avatarinits Updated: CHEEK_00000190 (ID: 190)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000190' to 'CHEEK_00000190'
+
+* Avatarinits Updated: CHEEK_00000191 (ID: 191)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000191' to 'CHEEK_00000191'
+
+* Avatarinits Updated: CHEEK_00000192 (ID: 192)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000192' to 'CHEEK_00000192'
+
+* Avatarinits Updated: CHEEK_00000193 (ID: 193)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000193' to 'CHEEK_00000193'
+
+* Avatarinits Updated: CHEEK_00000194 (ID: 194)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000194' to 'CHEEK_00000194'
+
+* Avatarinits Updated: CHEEK_00000195 (ID: 195)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000195' to 'CHEEK_00000195'
+
+* Avatarinits Updated: CHEEK_00000196 (ID: 196)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000196' to 'CHEEK_00000196'
+
+* Avatarinits Updated: CHEEK_00000197 (ID: 197)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000197' to 'CHEEK_00000197'
+
+* Avatarinits Updated: CHEEK_00000198 (ID: 198)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000198' to 'CHEEK_00000198'
+
+* Avatarinits Updated: CHEEK_00000199 (ID: 199)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000199' to 'CHEEK_00000199'
+
+* Avatarinits Updated: CHEEK_00000200 (ID: 200)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000200' to 'CHEEK_00000200'
+
+* Avatarinits Updated: CHEEK_00000201 (ID: 201)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000201' to 'CHEEK_00000201'
+
+* Avatarinits Updated: CHEEK_00000202 (ID: 202)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000202' to 'CHEEK_00000202'
+
+* Avatarinits Updated: CHEEK_00000203 (ID: 203)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000203' to 'CHEEK_00000203'
+
+* Avatarinits Updated: CHEEK_00000204 (ID: 204)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000204' to 'CHEEK_00000204'
+
+* Avatarinits Updated: CHEEK_00000205 (ID: 205)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000205' to 'CHEEK_00000205'
+
+* Avatarinits Updated: CHEEK_00000206 (ID: 206)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000206' to 'CHEEK_00000206'
+
+* Avatarinits Updated: CHEEK_00000207 (ID: 207)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000207' to 'CHEEK_00000207'
+
+* Avatarinits Updated: CHEEK_00000208 (ID: 208)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000208' to 'CHEEK_00000208'
+
+* Avatarinits Updated: CHEEK_00000209 (ID: 209)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000209' to 'CHEEK_00000209'
+
+* Avatarinits Updated: CHEEK_00000210 (ID: 210)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000210' to 'CHEEK_00000210'
+
+* Avatarinits Updated: CHEEK_00000211 (ID: 211)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000211' to 'CHEEK_00000211'
+
+* Avatarinits Updated: CHEEK_00000212 (ID: 212)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000212' to 'CHEEK_00000212'
+
+* Avatarinits Updated: CHEEK_00000213 (ID: 213)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000213' to 'CHEEK_00000213'
+
+* Avatarinits Updated: CHEEK_00000214 (ID: 214)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000214' to 'CHEEK_00000214'
+
+* Avatarinits Updated: CHEEK_00000215 (ID: 215)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000215' to 'CHEEK_00000215'
+
+* Avatarinits Updated: CHEEK_00000216 (ID: 216)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000216' to 'CHEEK_00000216'
+
+* Avatarinits Updated: CHEEK_00000217 (ID: 217)
+  - Field 'category' changed from 'lip' to 'cheek'
+  - Field 'k' changed from 'LIP_00000217' to 'CHEEK_00000217'
+
+* Avatarinits Updated: LIP_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'lip'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'LIP_00000001'
+
+* Avatarinits Updated: LIP_00000002 (ID: 2)
+  - Field 'category' changed from 'cloth_underwear' to 'lip'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000002' to 'LIP_00000002'
+
+* Avatarinits Updated: LIP_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'lip'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'LIP_00000003'
+
+* Avatarinits Updated: LIP_00000004 (ID: 4)
+  - Field 'category' changed from 'hair_back' to 'lip'
+  - Field 'k' changed from 'HAIR_BACK_00000004' to 'LIP_00000004'
+
+* Avatarinits Updated: LIP_00000009 (ID: 9)
+  - Field 'category' changed from 'cloth_shoe' to 'lip'
+  - Field 'k' changed from 'CLOTH_SHOE_00000009' to 'LIP_00000009'
+
+* Avatarinits Updated: LIP_00000010 (ID: 10)
+  - Field 'category' changed from 'cloth_bottom' to 'lip'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000010' to 'LIP_00000010'
+
+* Avatarinits Updated: LIP_00000011 (ID: 11)
+  - Field 'category' changed from 'cloth_bottom' to 'lip'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000011' to 'LIP_00000011'
+
+* Avatarinits Updated: LIP_00000012 (ID: 12)
+  - Field 'category' changed from 'cloth_bottom' to 'lip'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000012' to 'LIP_00000012'
+
+* Avatarinits Updated: LIP_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'lip'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'LIP_00000013'
+
+* Avatarinits Updated: LIP_00000014 (ID: 14)
+  - Field 'category' changed from 'cloth_bottom' to 'lip'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000014' to 'LIP_00000014'
+
+* Avatarinits Updated: LIP_00000015 (ID: 15)
+  - Field 'category' changed from 'cloth_bottom' to 'lip'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000015' to 'LIP_00000015'
+
+* Avatarinits Updated: LIP_00000016 (ID: 16)
+  - Field 'category' changed from 'cloth_bottom' to 'lip'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000016' to 'LIP_00000016'
+
+* Avatarinits Updated: LIP_00000018 (ID: 18)
+  - Field 'category' changed from 'hair_front' to 'lip'
+  - Field 'k' changed from 'HAIR_FRONT_00000018' to 'LIP_00000018'
+
+* Avatarinits Updated: LIP_00000023 (ID: 23)
+  - Field 'category' changed from 'hair_front' to 'lip'
+  - Field 'k' changed from 'HAIR_FRONT_00000023' to 'LIP_00000023'
+
+* Avatarinits Updated: LIP_00000024 (ID: 24)
+  - Field 'category' changed from 'hair_front' to 'lip'
+  - Field 'k' changed from 'HAIR_FRONT_00000024' to 'LIP_00000024'
+
+* Avatarinits Updated: PAINT_00000011 (ID: 11)
+  - Field 'category' changed from 'cloth_bottom' to 'paint'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000011' to 'PAINT_00000011'
+
+* Avatarinits Updated: PAINT_00000012 (ID: 12)
+  - Field 'category' changed from 'cloth_bottom' to 'paint'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000012' to 'PAINT_00000012'
+
+* Avatarinits Updated: HAIR_FRONT_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'hair_front'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'HAIR_FRONT_00000001'
+
+* Avatarinits Updated: HAIR_FRONT_00000002 (ID: 2)
+  - Field 'category' changed from 'cloth_underwear' to 'hair_front'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000002' to 'HAIR_FRONT_00000002'
+
+* Avatarinits Updated: HAIR_FRONT_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_front'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'HAIR_FRONT_00000003'
+
+* Avatarinits Updated: HAIR_FRONT_00000004 (ID: 4)
+  - Field 'category' changed from 'hair_back' to 'hair_front'
+  - Field 'k' changed from 'HAIR_BACK_00000004' to 'HAIR_FRONT_00000004'
+
+* Avatarinits Updated: HAIR_FRONT_00000012 (ID: 12)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_front'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000012' to 'HAIR_FRONT_00000012'
+
+* Avatarinits Updated: HAIR_FRONT_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_front'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'HAIR_FRONT_00000013'
+
+* Avatarinits Updated: HAIR_FRONT_00000014 (ID: 14)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_front'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000014' to 'HAIR_FRONT_00000014'
+
+* Avatarinits Updated: HAIR_MIDDLE_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_middle'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'HAIR_MIDDLE_00000003'
+
+* Avatarinits Updated: HAIR_MIDDLE_00000004 (ID: 4)
+  - Field 'category' changed from 'hair_back' to 'hair_middle'
+  - Field 'k' changed from 'HAIR_BACK_00000004' to 'HAIR_MIDDLE_00000004'
+
+* Avatarinits Updated: HAIR_MIDDLE_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_middle'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'HAIR_MIDDLE_00000013'
+
+* Avatarinits Updated: HAIR_BACK_00000002 (ID: 2)
+  - Field 'category' changed from 'cloth_underwear' to 'hair_back'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000002' to 'HAIR_BACK_00000002'
+
+* Avatarinits Updated: HAIR_BACK_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_back'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'HAIR_BACK_00000003'
+
+* Avatarinits Updated: HAIR_BACK_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_back'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'HAIR_BACK_00000013'
+
+* Avatarinits Updated: HAIR_BACK_00000014 (ID: 14)
+  - Field 'category' changed from 'cloth_bottom' to 'hair_back'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000014' to 'HAIR_BACK_00000014'
+
+* Avatarinits Updated: CLOTH_OUTER_00000000 (ID: 0)
+  - Field 'category' changed from 'cloth_shoe' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_SHOE_00000000' to 'CLOTH_OUTER_00000000'
+
+* Avatarinits Updated: CLOTH_OUTER_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'CLOTH_OUTER_00000001'
+
+* Avatarinits Updated: CLOTH_OUTER_00000003 (ID: 3)
+  - Field 'category' changed from 'cloth_bottom' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000003' to 'CLOTH_OUTER_00000003'
+
+* Avatarinits Updated: CLOTH_OUTER_00000009 (ID: 9)
+  - Field 'category' changed from 'cloth_shoe' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_SHOE_00000009' to 'CLOTH_OUTER_00000009'
+
+* Avatarinits Updated: CLOTH_OUTER_00000010 (ID: 10)
+  - Field 'category' changed from 'cloth_bottom' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000010' to 'CLOTH_OUTER_00000010'
+
+* Avatarinits Updated: CLOTH_OUTER_00000011 (ID: 11)
+  - Field 'category' changed from 'cloth_bottom' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000011' to 'CLOTH_OUTER_00000011'
+
+* Avatarinits Updated: CLOTH_OUTER_00000012 (ID: 12)
+  - Field 'category' changed from 'cloth_bottom' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000012' to 'CLOTH_OUTER_00000012'
+
+* Avatarinits Updated: CLOTH_OUTER_00000013 (ID: 13)
+  - Field 'category' changed from 'cloth_bottom' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000013' to 'CLOTH_OUTER_00000013'
+
+* Avatarinits Updated: CLOTH_OUTER_00000014 (ID: 14)
+  - Field 'category' changed from 'cloth_bottom' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000014' to 'CLOTH_OUTER_00000014'
+
+* Avatarinits Updated: CLOTH_OUTER_00000015 (ID: 15)
+  - Field 'category' changed from 'cloth_bottom' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000015' to 'CLOTH_OUTER_00000015'
+
+* Avatarinits Updated: CLOTH_OUTER_00000016 (ID: 16)
+  - Field 'category' changed from 'cloth_bottom' to 'cloth_outer'
+  - Field 'k' changed from 'CLOTH_BOTTOM_00000016' to 'CLOTH_OUTER_00000016'
+
+* Avatarinits Updated: CLOTH_BOTTOM_00000000 (ID: 0)
+  - Field 'category' changed from 'cloth_shoe' to 'cloth_bottom'
+  - Field 'k' changed from 'CLOTH_SHOE_00000000' to 'CLOTH_BOTTOM_00000000'
+
+* Avatarinits Updated: CLOTH_BOTTOM_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'cloth_bottom'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'CLOTH_BOTTOM_00000001'
+
+* Avatarinits Updated: CLOTH_BOTTOM_00000009 (ID: 9)
+  - Field 'category' changed from 'cloth_shoe' to 'cloth_bottom'
+  - Field 'k' changed from 'CLOTH_SHOE_00000009' to 'CLOTH_BOTTOM_00000009'
+
+* Avatarinits Updated: CLOTH_SOCK_00000009 (ID: 9)
+  - Field 'category' changed from 'cloth_shoe' to 'cloth_sock'
+  - Field 'k' changed from 'CLOTH_SHOE_00000009' to 'CLOTH_SOCK_00000009'
+
+* Avatarinits Updated: CLOTH_SHOE_00000001 (ID: 1)
+  - Field 'category' changed from 'cloth_underwear' to 'cloth_shoe'
+  - Field 'k' changed from 'CLOTH_UNDERWEAR_00000001' to 'CLOTH_SHOE_00000001'
