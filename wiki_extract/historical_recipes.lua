@@ -42488,6 +42488,180 @@ return {
                     }
                 }
             }
+        },
+        ["984"] = {
+            ["1.2.0.0"] = {
+                ["craftRecipeId"] = 984,
+                ["resultItemId"] = 42024000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Yukihana Lamy Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "雪花ラミィ 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 98401,
+                        ["recipeId"] = 984,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["985"] = {
+            ["1.2.0.0"] = {
+                ["craftRecipeId"] = 985,
+                ["resultItemId"] = 42025000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Shishiro Botan Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "獅白ぼたん 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 98501,
+                        ["recipeId"] = 985,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["986"] = {
+            ["1.2.0.0"] = {
+                ["craftRecipeId"] = 986,
+                ["resultItemId"] = 42026000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Momosuzu Nene Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "桃鈴ねね 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 98601,
+                        ["recipeId"] = 986,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["987"] = {
+            ["1.2.0.0"] = {
+                ["craftRecipeId"] = 987,
+                ["resultItemId"] = 42027000,
+                ["resultAmount"] = 1,
+                ["observationPoint"] = 10000,
+                ["requiredToken"] = 0,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 396,
+                ["systemType"] = "SandBox",
+                ["facilityName_EN"] = "Projection (ID 396)",
+                ["facilityName_JA"] = "プロジェクション (ID 396)",
+                ["resultItemName_EN"] = "Omaru Polka Default Outfit Acrylic Stand S",
+                ["resultItemName_JA"] = "尾丸ポルカ 通常衣装 アクリルスタンドS",
+                ["materials"] = {
+                    {
+                        ["craftMaterialId"] = 98701,
+                        ["recipeId"] = 987,
+                        ["itemId"] = 30106099,
+                        ["itemCategory"] = 0,
+                        ["amount"] = 1,
+                        ["reduceDurability"] = 0,
+                        ["reduceInclusion"] = 0,
+                        ["deleteFlg"] = 0,
+                        ["itemName_EN"] = "HoloIncentive",
+                        ["itemName_JA"] = "ホロインセンティブ"
+                    }
+                }
+            }
+        },
+        ["745"] = {
+            ["1.2.0.0"] = {
+                ["craftRecipeId"] = 745,
+                ["resultItemId"] = 30101008,
+                ["resultAmount"] = 5,
+                ["observationPoint"] = 0,
+                ["requiredToken"] = 5,
+                ["byproductDropId"] = 0,
+                ["dropCountMin"] = 0,
+                ["dropCountMax"] = 0,
+                ["rewardAvatarItemId"] = "",
+                ["conditionalRecipeSkillId"] = 0,
+                ["exp"] = 0,
+                ["rewardQuestId"] = "",
+                ["conditionalFacilityUpgradeId"] = 0,
+                ["recipeGroupId"] = 501,
+                ["systemType"] = "All",
+                ["facilityName_EN"] = "My Room Instance Exchange",
+                ["facilityName_JA"] = "マイルーム・インスタンス交換所",
+                ["resultItemName_EN"] = "Limestone",
+                ["resultItemName_JA"] = "石灰石",
+                ["materials"] = {
+
+                }
+            }
         }
     },
     ["smelting"] = {

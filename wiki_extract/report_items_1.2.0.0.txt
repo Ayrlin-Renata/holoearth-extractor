@@ -1,0 +1,21 @@
+Item Change Report for version: 1.2.0.0
+
+
+* Items Updated: C2 Spawner (X Golem) (ID: 40401004)
+  - Field 'itemDescription_EN' changed from 'A device for spawning a X golem. Requires a large area to use
+(Projection period: Until 2025/12/16 at 17:59 (JST))' to 'A device for spawning an X golem. Requires a large area to use
+(Projection period: Until 2025/12/21 at 17:59 (JST))'
+  - Field 'itemDescription_JA' changed from 'Xゴーレムを出現させることができる装置。広い空間が必要になってくる
+（プロジェクション期間：2025/12/16 17:59まで）' to 'Xゴーレムを出現させることができる装置。広い空間が必要になってくる
+（プロジェクション期間：2025/12/21 17:59まで）'
+
+* Items Updated: Unknown (ID: 43005002)
+  - Category changed from 'Direct Placement' to 'Wall-Mounted'
+  - Field 'categoryId' changed from '40301' to '40302'
+  - Extra data from 'master_housing_piece.json' has changed.
+* Items Added: Unknown (ID: 42024003)
+* Items Added: Unknown (ID: 42025003)
+* Items Added: Unknown (ID: 42026003)
+* Items Added: Unknown (ID: 42027003)
+* Items Added: Unknown (ID: 43900004)
+* Items Added: Unknown (ID: 49999999)

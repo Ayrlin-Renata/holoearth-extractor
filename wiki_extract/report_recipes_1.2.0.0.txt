@@ -1,0 +1,7 @@
+Recipe Change Report for version: 1.2.0.0
+
+* Crafting Added: Yukihana Lamy Default Outfit Acrylic Stand S (ID: 984)
+* Crafting Added: Shishiro Botan Default Outfit Acrylic Stand S (ID: 985)
+* Crafting Added: Momosuzu Nene Default Outfit Acrylic Stand S (ID: 986)
+* Crafting Added: Omaru Polka Default Outfit Acrylic Stand S (ID: 987)
+* Crafting Added: Limestone (ID: 745)
