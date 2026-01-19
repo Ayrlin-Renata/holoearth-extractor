@@ -224,7 +224,7 @@ def get_version_from_user(historical_files):
 
     while True:
         version_string = input(
-            "\nEnter a version identifier for this data set (e.g., 'v1.2.3'): ")
+            "\nEnter a version identifier for this data set (e.g., '1.2.3'): ")
         if not version_string:
             print("Version identifier cannot be empty.")
         elif version_string in existing_versions:
