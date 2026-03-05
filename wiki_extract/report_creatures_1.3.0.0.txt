@@ -1,0 +1,11 @@
+Creature Change Report for version: 1.3.0.0
+
+
+* Creatures Updated: Bumble Bee (ID: 12)
+  - Field 'speciesId' changed from '6' to '7'
+
+* Creatures Updated: Horned Bull (ID: 15)
+  - Field 'creatureName_JA' changed from 'creature_15' to 'ホーンブル'
+
+* Creatures Updated: Big Skeleton (ID: 19)
+  - Field 'creatureName_JA' changed from 'creature_19' to 'ビッグスケルトン'

@@ -44353,6 +44353,221 @@
                         ]
                     }
                 ]
+            },
+            "1.3.0.0": {
+                "id": "10404001",
+                "seedItemId": 10404001,
+                "dropScoreGroupId": 501,
+                "scroreGraphGroupId": 1,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/MedicinalHerbs_F",
+                "minModelScale": 0.4,
+                "maxModelScale": 1,
+                "pickCastingId": 100401,
+                "pickVfx": "",
+                "seedItemName_EN": "Medicinal Leaf Seed",
+                "seedItemName_JA": "メディカルリーフの種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "501_0",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50100,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50100_10102004",
+                                "groupId": 50100,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_10",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50101,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50101_10102004",
+                                "groupId": 50101,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_100",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50110,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50110_10102004",
+                                "groupId": 50110,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 5,
+                                "maxDropAmount": 8,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_20",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50102,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50102_10102004",
+                                "groupId": 50102,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_30",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50103,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50103_10102004",
+                                "groupId": 50103,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_40",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50104,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50104_10102004",
+                                "groupId": 50104,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_50",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50105,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50105_10102004",
+                                "groupId": 50105,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_60",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50106,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50106_10102004",
+                                "groupId": 50106,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_70",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50107,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50107_10102004",
+                                "groupId": 50107,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_80",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50108,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50108_10102004",
+                                "groupId": 50108,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 6,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "501_90",
+                        "groupId": 501,
+                        "dropLotteryGroupId": 50109,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50109_10102004",
+                                "groupId": 50109,
+                                "dropItemId": 10102004,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 6,
+                                "lottery": 100,
+                                "dropItemName_EN": "Medicinal Leaf",
+                                "dropItemName_JA": "メディカルリーフ"
+                            }
+                        ]
+                    }
+                ]
             }
         },
         "10404002": {
@@ -44570,6 +44785,221 @@
                         ]
                     }
                 ]
+            },
+            "1.3.0.0": {
+                "id": "10404002",
+                "seedItemId": 10404002,
+                "dropScoreGroupId": 502,
+                "scroreGraphGroupId": 1,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/SyakkiriOnion_F",
+                "minModelScale": 0.35,
+                "maxModelScale": 1,
+                "pickCastingId": 100401,
+                "pickVfx": "",
+                "seedItemName_EN": "Red Onion Seed",
+                "seedItemName_JA": "レッドオニオンの種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "502_0",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50200,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50200_10102006",
+                                "groupId": 50200,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_10",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50201,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50201_10102006",
+                                "groupId": 50201,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_100",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50210,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50210_10102006",
+                                "groupId": 50210,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_20",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50202,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50202_10102006",
+                                "groupId": 50202,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_30",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50203,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50203_10102006",
+                                "groupId": 50203,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_40",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50204,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50204_10102006",
+                                "groupId": 50204,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_50",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50205,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50205_10102006",
+                                "groupId": 50205,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_60",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50206,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50206_10102006",
+                                "groupId": 50206,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_70",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50207,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50207_10102006",
+                                "groupId": 50207,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_80",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50208,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50208_10102006",
+                                "groupId": 50208,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "502_90",
+                        "groupId": 502,
+                        "dropLotteryGroupId": 50209,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50209_10102006",
+                                "groupId": 50209,
+                                "dropItemId": 10102006,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Red Onion",
+                                "dropItemName_JA": "レッドオニオン"
+                            }
+                        ]
+                    }
+                ]
             }
         },
         "10404003": {
@@ -44584,6 +45014,281 @@
                 "minModelScale": 0.4,
                 "maxModelScale": 1,
                 "pickCastingId": 401,
+                "pickVfx": "",
+                "seedItemName_EN": "Hakka Pepper Seed",
+                "seedItemName_JA": "ハッカペッパーの種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "503_0",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50300,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50300_10102007",
+                                "groupId": 50300,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_10",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50301,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50301_10102007",
+                                "groupId": 50301,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_100",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50310,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50310_10102007",
+                                "groupId": 50310,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 6,
+                                "maxDropAmount": 10,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            },
+                            {
+                                "id": "50310_10102016",
+                                "groupId": 50310,
+                                "dropItemId": 10102016,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 3,
+                                "lottery": 10,
+                                "dropItemName_EN": "Flame Pepper",
+                                "dropItemName_JA": "フレイムペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_20",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50302,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50302_10102007",
+                                "groupId": 50302,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_30",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50303,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50303_10102007",
+                                "groupId": 50303,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_40",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50304,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50304_10102007",
+                                "groupId": 50304,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 6,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_50",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50305,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50305_10102007",
+                                "groupId": 50305,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 6,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            },
+                            {
+                                "id": "50305_10102016",
+                                "groupId": 50305,
+                                "dropItemId": 10102016,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 1,
+                                "dropItemName_EN": "Flame Pepper",
+                                "dropItemName_JA": "フレイムペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_60",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50306,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50306_10102007",
+                                "groupId": 50306,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 7,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            },
+                            {
+                                "id": "50306_10102016",
+                                "groupId": 50306,
+                                "dropItemId": 10102016,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 1,
+                                "dropItemName_EN": "Flame Pepper",
+                                "dropItemName_JA": "フレイムペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_70",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50307,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50307_10102007",
+                                "groupId": 50307,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 7,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            },
+                            {
+                                "id": "50307_10102016",
+                                "groupId": 50307,
+                                "dropItemId": 10102016,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 1,
+                                "dropItemName_EN": "Flame Pepper",
+                                "dropItemName_JA": "フレイムペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_80",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50308,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50308_10102007",
+                                "groupId": 50308,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 8,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            },
+                            {
+                                "id": "50308_10102016",
+                                "groupId": 50308,
+                                "dropItemId": 10102016,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 1,
+                                "dropItemName_EN": "Flame Pepper",
+                                "dropItemName_JA": "フレイムペッパー"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "503_90",
+                        "groupId": 503,
+                        "dropLotteryGroupId": 50309,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50309_10102007",
+                                "groupId": 50309,
+                                "dropItemId": 10102007,
+                                "minDropAmount": 5,
+                                "maxDropAmount": 8,
+                                "lottery": 100,
+                                "dropItemName_EN": "Hakka Pepper",
+                                "dropItemName_JA": "ハッカペッパー"
+                            },
+                            {
+                                "id": "50309_10102016",
+                                "groupId": 50309,
+                                "dropItemId": 10102016,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 1,
+                                "dropItemName_EN": "Flame Pepper",
+                                "dropItemName_JA": "フレイムペッパー"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "1.3.0.0": {
+                "id": "10404003",
+                "seedItemId": 10404003,
+                "dropScoreGroupId": 503,
+                "scroreGraphGroupId": 2,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/HakkaPepper_F",
+                "minModelScale": 0.4,
+                "maxModelScale": 1,
+                "pickCastingId": 100401,
                 "pickVfx": "",
                 "seedItemName_EN": "Hakka Pepper Seed",
                 "seedItemName_JA": "ハッカペッパーの種",
@@ -45279,6 +45984,221 @@
                         ]
                     }
                 ]
+            },
+            "1.3.0.0": {
+                "id": "10404004",
+                "seedItemId": 10404004,
+                "dropScoreGroupId": 504,
+                "scroreGraphGroupId": 1,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/MashimashiGarlic_F",
+                "minModelScale": 0.4,
+                "maxModelScale": 1,
+                "pickCastingId": 100401,
+                "pickVfx": "",
+                "seedItemName_EN": "Nora Garlic Seed",
+                "seedItemName_JA": "ノラニンニクの種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "504_0",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50400,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50400_10102008",
+                                "groupId": 50400,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_10",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50401,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50401_10102008",
+                                "groupId": 50401,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_100",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50410,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50410_10102008",
+                                "groupId": 50410,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_20",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50402,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50402_10102008",
+                                "groupId": 50402,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_30",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50403,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50403_10102008",
+                                "groupId": 50403,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_40",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50404,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50404_10102008",
+                                "groupId": 50404,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_50",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50405,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50405_10102008",
+                                "groupId": 50405,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_60",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50406,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50406_10102008",
+                                "groupId": 50406,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_70",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50407,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50407_10102008",
+                                "groupId": 50407,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_80",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50408,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50408_10102008",
+                                "groupId": 50408,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "504_90",
+                        "groupId": 504,
+                        "dropLotteryGroupId": 50409,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50409_10102008",
+                                "groupId": 50409,
+                                "dropItemId": 10102008,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Nora Garlic",
+                                "dropItemName_JA": "ノラニンニク"
+                            }
+                        ]
+                    }
+                ]
             }
         },
         "10404005": {
@@ -45293,6 +46213,221 @@
                 "minModelScale": 0.4,
                 "maxModelScale": 1,
                 "pickCastingId": 401,
+                "pickVfx": "",
+                "seedItemName_EN": "Oily Seed Plant Seed",
+                "seedItemName_JA": "アブラナの種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "505_0",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50500,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50500_10102011",
+                                "groupId": 50500,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_10",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50501,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50501_10102011",
+                                "groupId": 50501,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_100",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50510,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50510_10102011",
+                                "groupId": 50510,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 6,
+                                "maxDropAmount": 10,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_20",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50502,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50502_10102011",
+                                "groupId": 50502,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_30",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50503,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50503_10102011",
+                                "groupId": 50503,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_40",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50504,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50504_10102011",
+                                "groupId": 50504,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 6,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_50",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50505,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50505_10102011",
+                                "groupId": 50505,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 6,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_60",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50506,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50506_10102011",
+                                "groupId": 50506,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 7,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_70",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50507,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50507_10102011",
+                                "groupId": 50507,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 7,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_80",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50508,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50508_10102011",
+                                "groupId": 50508,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 8,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "505_90",
+                        "groupId": 505,
+                        "dropLotteryGroupId": 50509,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50509_10102011",
+                                "groupId": 50509,
+                                "dropItemId": 10102011,
+                                "minDropAmount": 5,
+                                "maxDropAmount": 8,
+                                "lottery": 100,
+                                "dropItemName_EN": "Oily Seed Plant",
+                                "dropItemName_JA": "アブラナ"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "1.3.0.0": {
+                "id": "10404005",
+                "seedItemId": 10404005,
+                "dropScoreGroupId": 505,
+                "scroreGraphGroupId": 1,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/Brassica_F",
+                "minModelScale": 0.4,
+                "maxModelScale": 1,
+                "pickCastingId": 100401,
                 "pickVfx": "",
                 "seedItemName_EN": "Oily Seed Plant Seed",
                 "seedItemName_JA": "アブラナの種",
@@ -45713,6 +46848,221 @@
                         ]
                     }
                 ]
+            },
+            "1.3.0.0": {
+                "id": "10404006",
+                "seedItemId": 10404006,
+                "dropScoreGroupId": 506,
+                "scroreGraphGroupId": 1,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/MoonGlowGrass_F",
+                "minModelScale": 0.4,
+                "maxModelScale": 1,
+                "pickCastingId": 100401,
+                "pickVfx": "",
+                "seedItemName_EN": "Bellflower Seed",
+                "seedItemName_JA": "ホタルブクロの種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "506_0",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50600,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50600_10102015",
+                                "groupId": 50600,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_10",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50601,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50601_10102015",
+                                "groupId": 50601,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_100",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50610,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50610_10102015",
+                                "groupId": 50610,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_20",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50602,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50602_10102015",
+                                "groupId": 50602,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_30",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50603,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50603_10102015",
+                                "groupId": 50603,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_40",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50604,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50604_10102015",
+                                "groupId": 50604,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_50",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50605,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50605_10102015",
+                                "groupId": 50605,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_60",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50606,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50606_10102015",
+                                "groupId": 50606,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_70",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50607,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50607_10102015",
+                                "groupId": 50607,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_80",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50608,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50608_10102015",
+                                "groupId": 50608,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "506_90",
+                        "groupId": 506,
+                        "dropLotteryGroupId": 50609,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50609_10102015",
+                                "groupId": 50609,
+                                "dropItemId": 10102015,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Bellflower",
+                                "dropItemName_JA": "ホタルブクロ"
+                            }
+                        ]
+                    }
+                ]
             }
         },
         "10404007": {
@@ -45727,6 +47077,221 @@
                 "minModelScale": 0.35,
                 "maxModelScale": 0.9,
                 "pickCastingId": 401,
+                "pickVfx": "",
+                "seedItemName_EN": "Cooling Aloe Seed",
+                "seedItemName_JA": "ヒエアロエの種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "507_0",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50700,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50700_10102017",
+                                "groupId": 50700,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_10",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50701,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50701_10102017",
+                                "groupId": 50701,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_100",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50710,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50710_10102017",
+                                "groupId": 50710,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_20",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50702,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50702_10102017",
+                                "groupId": 50702,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_30",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50703,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50703_10102017",
+                                "groupId": 50703,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_40",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50704,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50704_10102017",
+                                "groupId": 50704,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_50",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50705,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50705_10102017",
+                                "groupId": 50705,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_60",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50706,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50706_10102017",
+                                "groupId": 50706,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_70",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50707,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50707_10102017",
+                                "groupId": 50707,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_80",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50708,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50708_10102017",
+                                "groupId": 50708,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "507_90",
+                        "groupId": 507,
+                        "dropLotteryGroupId": 50709,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50709_10102017",
+                                "groupId": 50709,
+                                "dropItemId": 10102017,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cooling Aloe",
+                                "dropItemName_JA": "ヒエアロエ"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "1.3.0.0": {
+                "id": "10404007",
+                "seedItemId": 10404007,
+                "dropScoreGroupId": 507,
+                "scroreGraphGroupId": 3,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/HieAloe_F",
+                "minModelScale": 0.35,
+                "maxModelScale": 0.9,
+                "pickCastingId": 100401,
                 "pickVfx": "",
                 "seedItemName_EN": "Cooling Aloe Seed",
                 "seedItemName_JA": "ヒエアロエの種",
@@ -46147,6 +47712,221 @@
                         ]
                     }
                 ]
+            },
+            "1.3.0.0": {
+                "id": "10404008",
+                "seedItemId": 10404008,
+                "dropScoreGroupId": 508,
+                "scroreGraphGroupId": 1,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/CottonFlower_F",
+                "minModelScale": 0.5,
+                "maxModelScale": 1,
+                "pickCastingId": 100401,
+                "pickVfx": "",
+                "seedItemName_EN": "Cotton Seed",
+                "seedItemName_JA": "綿花の種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "508_0",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50800,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50800_30104003",
+                                "groupId": 50800,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_10",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50801,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50801_30104003",
+                                "groupId": 50801,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_100",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50810,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50810_30104003",
+                                "groupId": 50810,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 6,
+                                "maxDropAmount": 10,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_20",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50802,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50802_30104003",
+                                "groupId": 50802,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_30",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50803,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50803_30104003",
+                                "groupId": 50803,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_40",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50804,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50804_30104003",
+                                "groupId": 50804,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 6,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_50",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50805,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50805_30104003",
+                                "groupId": 50805,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 3,
+                                "maxDropAmount": 6,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_60",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50806,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50806_30104003",
+                                "groupId": 50806,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 7,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_70",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50807,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50807_30104003",
+                                "groupId": 50807,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 7,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_80",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50808,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50808_30104003",
+                                "groupId": 50808,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 8,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "508_90",
+                        "groupId": 508,
+                        "dropLotteryGroupId": 50809,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50809_30104003",
+                                "groupId": 50809,
+                                "dropItemId": 30104003,
+                                "minDropAmount": 5,
+                                "maxDropAmount": 8,
+                                "lottery": 100,
+                                "dropItemName_EN": "Cotton",
+                                "dropItemName_JA": "綿花"
+                            }
+                        ]
+                    }
+                ]
             }
         },
         "10404009": {
@@ -46161,6 +47941,221 @@
                 "minModelScale": 0.3,
                 "maxModelScale": 0.85,
                 "pickCastingId": 401,
+                "pickVfx": "",
+                "seedItemName_EN": "Myrtle Seed",
+                "seedItemName_JA": "ヒメニチソウの種",
+                "resolved_drop_scores": [
+                    {
+                        "id": "509_0",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50900,
+                        "qualityScore": 0,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50900_10102003",
+                                "groupId": 50900,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_10",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50901,
+                        "qualityScore": 10,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50901_10102003",
+                                "groupId": 50901,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_100",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50910,
+                        "qualityScore": 100,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50910_10102003",
+                                "groupId": 50910,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 4,
+                                "maxDropAmount": 5,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_20",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50902,
+                        "qualityScore": 20,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50902_10102003",
+                                "groupId": 50902,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 1,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_30",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50903,
+                        "qualityScore": 30,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50903_10102003",
+                                "groupId": 50903,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_40",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50904,
+                        "qualityScore": 40,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50904_10102003",
+                                "groupId": 50904,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 1,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_50",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50905,
+                        "qualityScore": 50,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50905_10102003",
+                                "groupId": 50905,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 2,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_60",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50906,
+                        "qualityScore": 60,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50906_10102003",
+                                "groupId": 50906,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_70",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50907,
+                        "qualityScore": 70,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50907_10102003",
+                                "groupId": 50907,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_80",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50908,
+                        "qualityScore": 80,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50908_10102003",
+                                "groupId": 50908,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 3,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "509_90",
+                        "groupId": 509,
+                        "dropLotteryGroupId": 50909,
+                        "qualityScore": 90,
+                        "resolved_lotteries": [
+                            {
+                                "id": "50909_10102003",
+                                "groupId": 50909,
+                                "dropItemId": 10102003,
+                                "minDropAmount": 2,
+                                "maxDropAmount": 4,
+                                "lottery": 100,
+                                "dropItemName_EN": "Myrtle",
+                                "dropItemName_JA": "ヒメニチソウ"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "1.3.0.0": {
+                "id": "10404009",
+                "seedItemId": 10404009,
+                "dropScoreGroupId": 509,
+                "scroreGraphGroupId": 1,
+                "consumeDurability": 1,
+                "growthTime": 600,
+                "modelResource": "Models/Harvestables/Himenichisou_F",
+                "minModelScale": 0.3,
+                "maxModelScale": 0.85,
+                "pickCastingId": 100401,
                 "pickVfx": "",
                 "seedItemName_EN": "Myrtle Seed",
                 "seedItemName_JA": "ヒメニチソウの種",

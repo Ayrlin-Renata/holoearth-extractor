@@ -1,0 +1,814 @@
+Item Change Report for version: 1.3.0.0
+
+
+* Items Updated: Raw Meat (ID: 10101001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Spoiled Meat (ID: 10101004)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Myrtle (ID: 10102003)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Medicinal Leaf (ID: 10102004)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Red Onion (ID: 10102006)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Hakka Pepper (ID: 10102007)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Nora Garlic (ID: 10102008)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Oily Seed Plant (ID: 10102011)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Mandragora Root (ID: 10102014)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Bellflower (ID: 10102015)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Flame Pepper (ID: 10102016)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Cooling Aloe (ID: 10102017)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Egg (ID: 10104001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Lemon (ID: 10105005)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Blueberry (ID: 10105007)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Apple (ID: 10105010)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Mushroom (ID: 10107001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Poison Shroom (ID: 10107002)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Numbing Shroom (ID: 10107003)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Sleepy Shroom (ID: 10107004)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Food Scraps (ID: 10199001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Honey (ID: 10199002)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Ener Jelly (ID: 10199003)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Veggie Salad (ID: 10200002)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Rolled Leaf (ID: 10200003)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Seared Meat (ID: 10201001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Roasted Mushrooms (ID: 10201004)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Fried Egg (ID: 10201005)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Spicy Steak (ID: 10201006)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Splendid Steak Set (ID: 10201007)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Meat & Fruit Stew (ID: 10202002)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Meat Stew (ID: 10202004)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Veggie Stew (ID: 10202005)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Spicy Curry (ID: 10202007)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Super Spicy Curry (ID: 10202008)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Smoothie (ID: 10203001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Lemon Squash (ID: 10203002)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Honeyed Lemon (ID: 10203003)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Apple Cider (ID: 10203004)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Meat & Veggie Soup (ID: 10204001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Meat & Veggie Garlic Soup (ID: 10204004)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Fruit Jam (ID: 10205001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Decoction (ID: 10300001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Basic Recovery Potion (ID: 10300002)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Poisonous Brew (ID: 10300015)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Paralyzing Brew (ID: 10300016)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Hypnagogic Brew (ID: 10300017)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Miel Berry Potion (ID: 10300902)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Stamina Potion (ID: 10300904)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Moonlight Potion (ID: 10300905)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Speed Potion (ID: 10300906)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Wild Potion (ID: 10300907)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Bottle of Freezing (ID: 10300908)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Repair Kit Lv 1 (ID: 10400001)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: Repair Kit Lv 2 (ID: 10400002)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: Repair Kit Lv 3 (ID: 10400003)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: Repair Kit Lv 4 (ID: 10400004)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: item_implement_10400005 (ID: 10400005)
+  - Extra data from 'master_implement.json' has changed.
+
+* Items Updated: Unknown (ID: 10701001)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Unknown (ID: 10701002)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Unknown (ID: 10701004)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Unknown (ID: 11199003)
+  - Extra data from 'master_food.json' has changed.
+
+* Items Updated: Throw Net (ID: 18000001)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Mixing Cauldron (ID: 18000002)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Straw Chair (ID: 18000003)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Straw Bench (ID: 18000004)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Shoddy Fence (ID: 18000005)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Shoddy Flag (ID: 18000006)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Shoddy Signboard (ID: 18000007)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Log Table (ID: 18000008)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Log Seat (ID: 18000009)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Log Bench (ID: 18000010)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Drying Rack (ID: 18000011)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Hanging Brazier (ID: 18000012)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Grave (ID: 18000013)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Training Dummy (ID: 18000014)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Ivy (ID: 18000015)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Overgrown Ivy (ID: 18000016)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Spherical Hedge (ID: 18000017)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Rectangular Hedge (ID: 18000018)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Placemat (ID: 18000019)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Round Plate (ID: 18000020)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Doormat (Wh) (ID: 18000021)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Fence (ID: 18000022)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Stool (ID: 18000023)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Round Wooden Stool (ID: 18000024)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Chair (ID: 18000025)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Bench (ID: 18000026)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Table (ID: 18000027)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Round Wooden Table (ID: 18000028)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: 2-Level Bookcase (ID: 18000029)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: 3-Level Bookcase (ID: 18000030)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Cabinet (ID: 18000031)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Water Cask (ID: 18000032)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Small Wooden Sideboard (ID: 18000033)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Large Wooden Sideboard (ID: 18000034)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Cupboard (ID: 18000035)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Counter (ID: 18000036)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden L-Shaped Counter (ID: 18000037)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Wall Torch (ID: 18000038)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Signboard (ID: 18000039)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Hanging Signboard (ID: 18000040)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Bounty Board (ID: 18000041)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: White Fence (ID: 18000042)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Tent (ID: 18000043)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Book Pile A (ID: 18000044)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Book Pile B (ID: 18000045)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Book Pile C (ID: 18000046)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Book Pile D (ID: 18000047)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Book Pile E (ID: 18000048)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Barrel (ID: 18000049)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Pot (ID: 18000050)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Houseplant A (ID: 18000051)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Houseplant B (ID: 18000052)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Houseplant C (ID: 18000053)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Fur Rug (ID: 18000054)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Brick Wall A (ID: 18000055)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Brick Wall B (ID: 18000056)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Stone Fence (ID: 18000057)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Stone Fireplace (ID: 18000058)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Fountain (ID: 18000059)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Stone Bathtub (ID: 18000060)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Iron Wall Torch (ID: 18000061)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Candles (ID: 18000062)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Pendant Light (ID: 18000063)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Garland (ID: 18000064)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Pile of Presents (ID: 18000065)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Flag (ID: 18000066)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Chair (ID: 18000067)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Sofa (ID: 18000068)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Bed (ID: 18000069)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Table (ID: 18000070)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Floor Light (ID: 18000071)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Lamp (ID: 18000072)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Chandelier (ID: 18000073)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Partition (ID: 18000074)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Clock (ID: 18000075)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Rug (ID: 18000076)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Tapestry (Blu) (ID: 18000077)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Radio (Decoration) (ID: 18000078)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Gramophone (Decoration) (ID: 18000079)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Wall Light (ID: 18000080)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Side Table (ID: 18000081)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Wardrobe (ID: 18000082)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Stool (ID: 18000083)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Cabinet (ID: 18000084)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Bar Cart (ID: 18000085)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Bathtub (ID: 18000086)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Iron Fence (ID: 18000087)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Garden Archway (ID: 18000088)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Telescope (Decoration) (ID: 18000089)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Table Lamp (ID: 18000090)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Ceiling Fan (ID: 18000091)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Mounted Deer Trophy (ID: 18000092)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Deer Taxidermy Mount (ID: 18000093)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Deer Taxidermy Mount (Christmas) (ID: 18000094)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Violin (Decoration) (ID: 18000095)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Piano (ID: 18000096)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wild Boar Plush (ID: 18000097)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Mandragora Plush (ID: 18000098)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Bumble Bee Plush (ID: 18000099)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Slime Plush (ID: 18000100)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Veggie Salad (Sample) (ID: 18000101)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Rolled Leaf (Sample) (ID: 18000102)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Seared Meat (Sample) (ID: 18000103)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Roasted Mushrooms (Sample) (ID: 18000104)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Fried Egg (Sample) (ID: 18000105)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Spicy Steak (Sample) (ID: 18000106)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Splendid Steak Set (Sample) (ID: 18000107)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Meat & Fruit Stew (Sample) (ID: 18000108)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Meat Stew (Sample) (ID: 18000109)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Veggie Stew (Sample) (ID: 18000110)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Spicy Curry (Sample) (ID: 18000111)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Super Spicy Curry (Sample) (ID: 18000112)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Smoothie (Sample) (ID: 18000113)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Lemon Squash (Sample) (ID: 18000114)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Meat & Veggie Soup (Sample) (ID: 18000115)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Meat & Veggie Garlic Soup (Sample) (ID: 18000116)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Fruit Jam (Sample) (ID: 18000117)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Obsidian Sword (ID: 18000118)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Opulent Throne (ID: 18000119)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Double Bed (ID: 18000120)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Wooden Double Bed (ID: 18000121)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Large Chest (ID: 18000122)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Golden Table (ID: 18000123)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Golden Deer Statue (ID: 18000124)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Golden Fence (ID: 18000125)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Golden Garden Archway (ID: 18000126)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Artistic Vase (ID: 18000146)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: item_skill_book_18000147 (ID: 18000147)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: item_skill_book_18000148 (ID: 18000148)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Armchair (ID: 18000150)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Fireplace (ID: 18000151)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Dresser (ID: 18000152)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Bookshelf (ID: 18000153)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Imp Plush (ID: 18000164)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: item_skill_book_18000166 (ID: 18000166)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: item_skill_book_18000167 (ID: 18000167)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Honeyed Lemon (Sample) (ID: 18000168)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Apple Cider (Sample) (ID: 18000169)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Pillar (ID: 18000172)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Tapestry (Red) (ID: 18000173)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Tapestry (Gn) (ID: 18000174)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Chest (ID: 18000175)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Antique Cooking Station (ID: 18000176)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Slime Earrings (ID: 18000177)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Slime Sofa (ID: 18000210)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Slime Trampoline (ID: 18000211)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Slime Hat (ID: 18000212)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Ruby Ring (ID: 18000213)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Sapphire Ring (ID: 18000214)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Topaz Ring (ID: 18000215)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Emerald Ring (ID: 18000216)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Amethyst Ring (ID: 18000217)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Ruby Necklace (ID: 18000218)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Sapphire Necklace (ID: 18000219)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Topaz Necklace (ID: 18000220)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Emerald Necklace (ID: 18000221)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Amethyst Necklace (ID: 18000222)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Ruby Earrings (ID: 18000223)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Sapphire Earrings (ID: 18000224)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Topaz Earrings (ID: 18000225)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Emerald Earrings (ID: 18000226)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Amethyst Earrings (ID: 18000227)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Golem Armor Set (ID: 18000200)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchanting Station (ID: 18000201)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Rolling (ID: 18000228)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Soaring Slash (ID: 18000229)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Heat Slash (ID: 18000230)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Mizuchi (ID: 18000231)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Soaring Slash (Terra) (ID: 18000232)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Wind Slash (ID: 18000233)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Soaring Slash (Electric) (ID: 18000234)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Frost Edge (ID: 18000235)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Soaring Slash (Light) (ID: 18000236)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Soaring Slash (Dark) (ID: 18000237)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Cross Slash (ID: 18000238)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Impact (ID: 18000239)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Impact (Fire) (ID: 18000240)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Impact (Hydro) (ID: 18000241)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Terra Shatter (ID: 18000242)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Wind Burst (ID: 18000243)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Impact (Electric) (ID: 18000244)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Impact (Ice) (ID: 18000245)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Impact (Light) (ID: 18000246)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Impact (Dark) (ID: 18000247)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Inferno Flash (ID: 18000248)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Wavebreaker Surge (ID: 18000249)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Wave (Terra) (ID: 18000250)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Wave (Wind) (ID: 18000251)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Thunder Clap (ID: 18000252)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Frostshard Dance (ID: 18000253)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Wave (Light) (ID: 18000254)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Wave (Dark) (ID: 18000255)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Scorching Thrust (ID: 18000256)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Hydro Shot (ID: 18000257)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Beam (Terra) (ID: 18000258)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Beam (Wind) (ID: 18000259)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Plasma Ray (ID: 18000260)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Glacial Thrust (ID: 18000261)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Beam (Light) (ID: 18000262)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Beam (Dark) (ID: 18000263)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Raijin Slash (ID: 18000264)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Dash (ID: 18000265)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Enchant Tome: Battle Spirit (ID: 18000266)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: item_skill_book_18000267 (ID: 18000267)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: Huge Slime Trampoline (ID: 18000268)
+  - Extra data from 'master_skill_book.json' has changed.
+
+* Items Updated: C2 Spawner (X Golem) (ID: 40401004)
+  - Field 'itemDescription_EN' changed from 'A device for spawning an X golem. Requires a large area to use
+(Projection period: Until 2025/12/21 at 17:59 (JST))' to 'A device for spawning an X golem. Requires a large area to use
+(Projection period: Until 2025/12/16 at 17:59 (JST))'
+  - Field 'itemDescription_JA' changed from 'Xゴーレムを出現させることができる装置。広い空間が必要になってくる
+（プロジェクション期間：2025/12/21 17:59まで）' to 'Xゴーレムを出現させることができる装置。広い空間が必要になってくる
+（プロジェクション期間：2025/12/16 17:59まで）'
+* Items Added: Unknown (ID: 42007003)
+* Items Added: Unknown (ID: 42007004)
+* Items Added: Unknown (ID: 43900006)

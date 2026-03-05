@@ -1,0 +1,29 @@
+Recipe Change Report for version: 1.3.0.0
+
+
+* Cultivation Updated: Medicinal Leaf Seed (ID: 10404001)
+  - Field 'pickCastingId' changed from '401' to '100401'
+
+* Cultivation Updated: Red Onion Seed (ID: 10404002)
+  - Field 'pickCastingId' changed from '401' to '100401'
+
+* Cultivation Updated: Hakka Pepper Seed (ID: 10404003)
+  - Field 'pickCastingId' changed from '401' to '100401'
+
+* Cultivation Updated: Nora Garlic Seed (ID: 10404004)
+  - Field 'pickCastingId' changed from '401' to '100401'
+
+* Cultivation Updated: Oily Seed Plant Seed (ID: 10404005)
+  - Field 'pickCastingId' changed from '401' to '100401'
+
+* Cultivation Updated: Bellflower Seed (ID: 10404006)
+  - Field 'pickCastingId' changed from '401' to '100401'
+
+* Cultivation Updated: Cooling Aloe Seed (ID: 10404007)
+  - Field 'pickCastingId' changed from '401' to '100401'
+
+* Cultivation Updated: Cotton Seed (ID: 10404008)
+  - Field 'pickCastingId' changed from '401' to '100401'
+
+* Cultivation Updated: Myrtle Seed (ID: 10404009)
+  - Field 'pickCastingId' changed from '401' to '100401'
